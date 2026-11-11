@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Frontend Library FL minimal blue logo">
+  <defs>
+    <linearGradient id="fl-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EFF6FF"/>
+    </linearGradient>
+    <linearGradient id="fl-f-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="fl-l-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="224" height="224" rx="52" fill="url(#fl-bg)" stroke="#BFDBFE" stroke-width="4"/>
+  <!-- Architectural F with rounded outer elbow and crisp angled terminals -->
+  <path d="M 68 56 H 158 L 148 82 H 80 V 107 H 124 L 115 131 H 80 V 184 H 54 V 70 A 14 14 0 0 1 68 56 Z" fill="url(#fl-f-grad)"/>
+  <!-- Complementary L nestled beneath F's top arm with matching rounded elbow -->
+  <path d="M 128 92 H 154 V 158 H 186 L 176 184 H 142 A 14 14 0 0 1 128 170 V 92 Z" fill="url(#fl-l-grad)"/>
+</svg>
