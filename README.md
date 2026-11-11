@@ -15,8 +15,13 @@ Frontend-Library/
 └── templates/    # Starter layouts and boilerplate pages
 ```
 
-## Contributing Assets
+## Contributing
+
+Contributions are welcome! Anyone can fork this repository and open a Pull Request.
 
 1. Place each asset in the appropriate category directory above.
 2. Group multi-file assets (e.g., a component with its stylesheet and preview) in a descriptive kebab-case subfolder.
 3. Include attribution or license notes when adding third-party fonts, icons, or media.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full asset guidelines and Pull Request workflow.
+
