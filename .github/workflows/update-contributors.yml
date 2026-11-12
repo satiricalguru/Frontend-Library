@@ -1,0 +1,62 @@
+name: Update Contributors
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-contributors
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Refresh README contributors
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild contributor SVGs and README block
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build-contributors.py
+
+      - name: Open or update contributors PR if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet -- README.md .github/assets/generated/contributors-humans.svg .github/assets/generated/contributors-bots.svg; then
+            echo "Contributors already up to date."
+            exit 0
+          fi
+
+          BRANCH="docs/update-contributors"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH"
+          git add README.md .github/assets/generated/contributors-humans.svg .github/assets/generated/contributors-bots.svg
+          git commit -m "docs: update README contributors"
+          git push --force origin "$BRANCH"
+
+          EXISTING=$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')
+          if [ -z "$EXISTING" ]; then
+            PR_URL=$(gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "docs: update README contributors" \
+              --body "Automatically updates \`.github/assets/generated/contributors-*.svg\` and the Contributors section in \`README.md\` from GitHub contributors and commit trailers.")
+            gh pr merge "$PR_URL" --auto --squash || true
+          else
+            echo "Updated existing PR #$EXISTING"
+          fi

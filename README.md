@@ -220,9 +220,23 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 
 ## 👥 Contributors
 
+<!-- CONTRIBUTORS:START -->
+**Humans (2)**
+
 <a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=satiricalguru/Frontend-Library&max=100&columns=12" alt="Frontend Library contributors">
+  <img src=".github/assets/generated/contributors-humans.svg" alt="Human contributors to Frontend Library">
 </a>
+
+<sub><a href="https://github.com/satiricalguru">@satiricalguru</a> · <a href="https://github.com/Mxhi-04">@Mxhi-04</a></sub>
+
+**AI & Bots (6)**
+
+<a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
+  <img src=".github/assets/generated/contributors-bots.svg" alt="AI and bot contributors to Frontend Library">
+</a>
+
+<sub><a href="https://github.com/apps/dependabot">@dependabot[bot]</a> · <a href="https://github.com/claude">@claude</a> · <a href="https://github.com/codex">@codex</a> · <a href="https://github.com/apps/copilot-swe-agent">@Copilot</a> · <a href="https://github.com/cursoragent">@cursoragent</a> · <a href="https://github.com/apps/github-actions">@github-actions[bot]</a></sub>
+<!-- CONTRIBUTORS:END -->
 
 ## ⚖️ Credits & licensing
 
