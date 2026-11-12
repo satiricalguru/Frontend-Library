@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sliding tabs</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.tabs { position: relative; display: inline-flex; gap: 4px; padding: 5px; border-radius: 14px; background: var(--panel, #121a30); border: 1px solid var(--line, #24304f); }
+.tabs button { position: relative; z-index: 1; border: 0; background: none; color: var(--muted, #8a97b8); font: 600 15px/1 var(--font, system-ui, sans-serif); padding: 11px 18px; border-radius: 10px; cursor: pointer; transition: color .25s; }
+.tabs button[aria-selected="true"] { color: #fff; }
+.tabs__pill {
+  position: absolute; top: 5px; bottom: 5px; left: 0; border-radius: 10px;
+  background: linear-gradient(135deg, var(--accent, #2563eb), var(--accent-2, #38bdf8));
+  box-shadow: 0 6px 20px -6px rgba(37, 99, 235, .8);
+  transition: transform .45s cubic-bezier(.3, 1.4, .5, 1), width .45s cubic-bezier(.3, 1.4, .5, 1);
+}
+@media (prefers-reduced-motion: reduce) { .tabs__pill { transition: none; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="tabs" role="tablist" id="tabs">
+    <span class="tabs__pill" aria-hidden="true"></span>
+    <button role="tab" aria-selected="true">Components</button>
+    <button role="tab" aria-selected="false">Styles</button>
+    <button role="tab" aria-selected="false">Fonts</button>
+    <button role="tab" aria-selected="false">Motion</button>
+  </div>
+  <div class="caption">sliding tabs</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function slidingTabs(root) {
+  const pill = root.querySelector('.tabs__pill');
+  const tabs = [...root.querySelectorAll('[role="tab"]')];
+  const move = (tab) => {
+    tabs.forEach((t) => t.setAttribute('aria-selected', t === tab));
+    pill.style.width = tab.offsetWidth + 'px';
+    pill.style.transform = `translateX(${tab.offsetLeft}px)`;
+  };
+  tabs.forEach((t) => t.addEventListener('click', () => move(t)));
+  move(tabs.find((t) => t.getAttribute('aria-selected') === 'true') || tabs[0]);
+  return move;
+}
+// demo loop
+const tabsEl = document.getElementById('tabs');
+const move = slidingTabs(tabsEl);
+const all = [...tabsEl.querySelectorAll('[role="tab"]')];
+let i = 0;
+setInterval(() => move(all[i = (i + 1) % all.length]), 1100);
+</script>
+</body>
+</html>

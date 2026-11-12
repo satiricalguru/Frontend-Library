@@ -11,6 +11,8 @@ Thanks for your interest in contributing to **Frontend Library**! Contributions 
 - **Images (`images/`)**: Textures, gradients, backgrounds, illustrations, and placeholder media.
 - **Styles (`styles/`)**: CSS/SCSS utilities, design tokens, themes, and reset/base sheets.
 - **Templates (`templates/`)**: Starter layouts and boilerplate pages.
+- **Inspiration (`inspiration/`)**: Curated links to standout websites and creative-tech work.
+- **Catalog entries (`data/*.json`)**: Linked resources from third-party sites. Every entry **must** include the item `url` and the exact `source` page you found it on. Run `python3 scripts/build-catalog.py` afterwards so the Markdown catalogs, `SOURCES.md` and `data/sources.csv` stay in sync. Never commit third-party files (fonts, paid assets, copied code); link to them instead.
 
 ## Asset Guidelines
 

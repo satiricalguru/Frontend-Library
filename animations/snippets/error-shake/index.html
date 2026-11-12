@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Error shake</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.field { display: grid; gap: 8px; width: 300px; }
+.field input { width: 100%; padding: 14px 16px; border-radius: 12px; border: 1.5px solid var(--line, #24304f); background: var(--panel, #121a30); color: inherit; font: inherit; outline: none; transition: border-color .2s, box-shadow .2s; }
+.field.is-error input { border-color: var(--bad, #ef4444); box-shadow: 0 0 0 4px rgba(239, 68, 68, .18); animation: shake .42s cubic-bezier(.36, .07, .19, .97); }
+.field .msg { color: var(--bad, #ef4444); font-size: 13px; height: 1em; opacity: 0; transform: translateY(-4px); transition: .25s; }
+.field.is-error .msg { opacity: 1; transform: none; }
+@keyframes shake { 15%, 85% { transform: translateX(-2px); } 30%, 70% { transform: translateX(5px); } 45%, 55% { transform: translateX(-7px); } }
+@media (prefers-reduced-motion: reduce) { .field.is-error input { animation: none; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <label class="field" id="field">
+    <input value="hello@frontend" aria-describedby="msg" aria-invalid="false">
+    <span class="msg" id="msg">Enter a valid email address</span>
+  </label>
+  <div class="caption">error shake</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function flagError(field, on = true) {
+  field.classList.remove('is-error');
+  void field.offsetWidth; // restart the animation
+  field.classList.toggle('is-error', on);
+  field.querySelector('input').setAttribute('aria-invalid', on);
+}
+// demo loop
+const f = document.getElementById('field');
+let on = false;
+setInterval(() => flagError(f, on = !on), 1200);
+</script>
+</body>
+</html>

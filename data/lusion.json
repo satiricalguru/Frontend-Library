@@ -1,0 +1,438 @@
+{
+  "source": "https://lusion.co/",
+  "collected": "2026-11-12",
+  "count": 36,
+  "items": [
+    {
+      "name": "Oryzo AI",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Web",
+        "Design",
+        "Development",
+        "3D",
+        "Animation"
+      ],
+      "url": "https://lusion.co/projects/oryzo_ai",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Atlas Motion",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Web",
+        "Design",
+        "Development",
+        "3D",
+        "Animation"
+      ],
+      "url": "https://lusion.co/projects/atlas_motion",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Devin AI",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/devin_ai",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Of The Oak",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D",
+        "Animation"
+      ],
+      "url": "https://lusion.co/projects/of_the_oak",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Everswap",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Web",
+        "Design",
+        "Development",
+        "3D",
+        "Animation"
+      ],
+      "url": "https://lusion.co/projects/everswap",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Porsche: Dream Machine",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "3D Illustration",
+        "Mograph",
+        "Video"
+      ],
+      "url": "https://lusion.co/projects/porsche_dream_machine",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Synthetic Human",
+      "type": "project",
+      "tags": [
+        "Web"
+      ],
+      "url": "https://lusion.co/projects/synthetic_human",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "DDD 2024",
+      "type": "project",
+      "tags": [
+        "Web"
+      ],
+      "url": "https://lusion.co/projects/ddd_2024",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Spaace - NFT Marketplace",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D",
+        "WEB3"
+      ],
+      "url": "https://lusion.co/projects/spaace",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Choo Choo World",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Web",
+        "Game Design",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/choo_choo_world",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Zero Tech",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/zero_tech",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Meta: Spatial Fusion",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/spatial_fusion",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Worldcoin Globe",
+      "type": "project",
+      "tags": [
+        "API DESIGN",
+        "WEBGL",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/worldcoin",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Lusion Labs",
+      "type": "project",
+      "tags": [
+        "Web",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/lusion_labs",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "My Little Storybook",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/my_little_story_book",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Soda Experience",
+      "type": "project",
+      "tags": [
+        "AR",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/soda_experience",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Infinite Passerella",
+      "type": "project",
+      "tags": [
+        "Concept",
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/infinite_passerella",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "The Turn Of The Screw",
+      "type": "project",
+      "tags": [
+        "Design",
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/the_turn_of_the_screw",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Max Mara: Bearing Gifts",
+      "type": "project",
+      "tags": [
+        "Development",
+        "3D"
+      ],
+      "url": "https://lusion.co/projects/maxmara_bearings_gifts",
+      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "source": "https://lusion.co/projects"
+    },
+    {
+      "name": "Choochoo",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/choochoo",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Ion Speaker",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/ion-speaker",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "My Little Story Book",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/my-little-story-book",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Infinite Passerella",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/infinite-passerella",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Gemini Car",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/gemini-car",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Mind Flayer",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/mind-flayer",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Abduction",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/abduction",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Cineshader",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/cineshader",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Digital City",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/digital-city",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Particle Love",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/particle-love",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Small World",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/small-world",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Lazy Plot",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/lazy-plot",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Webxr Sneakers",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/webxr-sneakers",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Hair Simulation",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/hair-simulation",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Surface Floater",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/surface-floater",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Covid Spike",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/covid-spike",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    },
+    {
+      "name": "Trappist 1D",
+      "type": "labs",
+      "tags": [
+        "R&D",
+        "WebGL"
+      ],
+      "url": "https://labs.lusion.co/exp/trappist-1d",
+      "preview": "",
+      "source": "https://labs.lusion.co/"
+    }
+  ]
+}

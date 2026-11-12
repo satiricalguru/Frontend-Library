@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Like burst</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.like { position: relative; display: inline-flex; align-items: center; gap: 10px; border: 1px solid var(--line, #24304f); background: var(--panel, #121a30); color: var(--text, #e8eeff); padding: 12px 18px; border-radius: 999px; font: 600 16px/1 var(--font, system-ui, sans-serif); cursor: pointer; }
+.like svg { width: 26px; height: 26px; overflow: visible; }
+.like .heart { fill: none; stroke: currentColor; stroke-width: 2; transition: fill .2s, stroke .2s; transform-origin: center; }
+.like[aria-pressed="true"] .heart { fill: #f43f5e; stroke: #f43f5e; animation: beat .5s cubic-bezier(.34, 1.8, .64, 1); }
+.like .spark { fill: #f43f5e; opacity: 0; }
+.like[aria-pressed="true"] .spark { animation: spark .6s ease-out; }
+.like .count { font-variant-numeric: tabular-nums; min-width: 2ch; }
+@keyframes beat { 0% { transform: scale(.2); } 60% { transform: scale(1.25); } 100% { transform: scale(1); } }
+@keyframes spark { 0% { opacity: 1; transform: translate(0, 0) scale(1); } 100% { opacity: 0; transform: translate(var(--x), var(--y)) scale(.2); } }
+@media (prefers-reduced-motion: reduce) { .like * { animation: none !important; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <button class="like" id="like" aria-pressed="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <g id="sparks"></g>
+      <path class="heart" d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.7 4.5c2.1 0 3.6 1.2 4.3 2.4.7-1.2 2.2-2.4 4.3-2.4 3.7 0 5.8 3.9 4.3 7.3C19.5 16.4 12 21 12 21z"/>
+    </svg>
+    <span class="count">41</span>
+  </button>
+  <div class="caption">like burst</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function likeButton(btn, count = 41) {
+  const sparks = btn.querySelector('#sparks');
+  sparks.innerHTML = Array.from({ length: 8 }, (_, i) => {
+    const a = (i / 8) * Math.PI * 2;
+    return `<circle class="spark" cx="12" cy="12" r="1.6" style="--x:${Math.cos(a) * 16}px;--y:${Math.sin(a) * 16}px"/>`;
+  }).join('');
+  const out = btn.querySelector('.count');
+  btn.addEventListener('click', () => {
+    const on = btn.getAttribute('aria-pressed') !== 'true';
+    btn.setAttribute('aria-pressed', on);
+    out.textContent = count += on ? 1 : -1;
+  });
+}
+likeButton(document.getElementById('like'));
+// demo loop
+setInterval(() => document.getElementById('like').click(), 1300);
+</script>
+</body>
+</html>

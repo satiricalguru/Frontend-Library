@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shimmer text</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.shimmer {
+  --base: #6b7aa1;
+  --shine: #ffffff;
+  background: linear-gradient(100deg, var(--base) 40%, var(--shine) 50%, var(--base) 60%) 0 0 / 250% 100%;
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent;
+  animation: shimmer 2.2s linear infinite;
+}
+@keyframes shimmer { from { background-position: 125% 0; } to { background-position: -125% 0; } }
+@media (prefers-reduced-motion: reduce) { .shimmer { animation: none; color: var(--shine); } }
+
+/* demo only */
+.big { font: 700 44px/1.1 var(--font, system-ui, sans-serif); letter-spacing: -.02em; }
+.pill { display: inline-flex; gap: 10px; align-items: center; padding: 10px 16px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); font-size: 15px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent-2); box-shadow: 0 0 12px var(--accent-2); }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="big shimmer">Thinking…</div>
+  <div class="pill"><span class="dot"></span><span class="shimmer">Generating your component</span></div>
+  <div class="caption">shimmer text</div>
+</div>
+</body>
+</html>

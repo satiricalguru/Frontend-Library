@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spring toggle</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.toggle { position: relative; width: 72px; height: 40px; border: 0; padding: 0; border-radius: 999px; background: #27324f; cursor: pointer; transition: background .35s; }
+.toggle::after { content: ""; position: absolute; top: 4px; left: 4px; width: 32px; height: 32px; border-radius: 50%; background: #fff; box-shadow: 0 2px 8px rgba(0, 0, 0, .35);
+  transition: transform .5s cubic-bezier(.3, 1.6, .5, 1), width .2s ease; }
+.toggle:active::after { width: 40px; }
+.toggle[aria-checked="true"] { background: linear-gradient(135deg, var(--accent, #2563eb), var(--accent-2, #38bdf8)); }
+.toggle[aria-checked="true"]::after { transform: translateX(32px); }
+.toggle[aria-checked="true"]:active::after { transform: translateX(24px); }
+@media (prefers-reduced-motion: reduce) { .toggle, .toggle::after { transition: none; } }
+
+.row { display: flex; align-items: center; justify-content: space-between; gap: 40px; width: 300px; padding: 14px 18px; border-radius: 16px; background: var(--panel); border: 1px solid var(--line); }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="row"><span>Reduce motion</span><button class="toggle" role="switch" aria-checked="false" aria-label="Reduce motion"></button></div>
+  <div class="row"><span>Dark mode</span><button class="toggle" role="switch" aria-checked="true" aria-label="Dark mode"></button></div>
+  <div class="caption">spring toggle</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+document.querySelectorAll('.toggle').forEach((t) =>
+  t.addEventListener('click', () => t.setAttribute('aria-checked', t.getAttribute('aria-checked') !== 'true')));
+// demo loop
+const ts = [...document.querySelectorAll('.toggle')];
+let k = 0;
+setInterval(() => ts[k++ % ts.length].click(), 800);
+</script>
+</body>
+</html>

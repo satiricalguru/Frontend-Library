@@ -1,0 +1,359 @@
+{
+  "source": "https://transitions.dev/",
+  "collected": "2026-11-12",
+  "count": 44,
+  "items": [
+    {
+      "name": "Card resize",
+      "slug": "card-resize",
+      "description": "Smooth card resize transition.",
+      "url": "https://transitions.dev/transitions/card-resize/",
+      "remix": "https://transitions.dev/studio.html?lib=card-resize",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Number pop-in",
+      "slug": "number-pop-in",
+      "description": "Digits swap on a 3D drum with a bounce.",
+      "url": "https://transitions.dev/transitions/number-pop-in/",
+      "remix": "https://transitions.dev/studio.html?lib=number-pop-in",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Notification badge",
+      "slug": "notification-badge",
+      "description": "Diagonal slide with spring pop-in.",
+      "url": "https://transitions.dev/transitions/notification-badge/",
+      "remix": "https://transitions.dev/studio.html?lib=notification-badge",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Text states swap",
+      "slug": "text-states-swap",
+      "description": "Text swap transition with blur.",
+      "url": "https://transitions.dev/transitions/text-states-swap/",
+      "remix": "https://transitions.dev/studio.html?lib=text-states-swap",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Confetti burst",
+      "slug": "confetti-burst",
+      "description": "Physics confetti that lands on the button. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/confetti-burst/",
+      "remix": "https://transitions.dev/studio.html?lib=confetti-burst",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Menu dropdown",
+      "slug": "menu-dropdown",
+      "description": "Origin-aware open / close transition.",
+      "url": "https://transitions.dev/transitions/menu-dropdown/",
+      "remix": "https://transitions.dev/studio.html?lib=menu-dropdown",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Modal open/close",
+      "slug": "modal-open-close",
+      "description": "Modal transition with scale.",
+      "url": "https://transitions.dev/transitions/modal-open-close/",
+      "remix": "https://transitions.dev/studio.html?lib=modal-open-close",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Panel reveal",
+      "slug": "panel-reveal",
+      "description": "Panel open / close transition.",
+      "url": "https://transitions.dev/transitions/panel-reveal/",
+      "remix": "https://transitions.dev/studio.html?lib=panel-reveal",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Gooey plus menu",
+      "slug": "gooey-plus-menu",
+      "description": "Liquid split into a fan of actions. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/gooey-plus-menu/",
+      "remix": "https://transitions.dev/studio.html?lib=gooey-plus-menu",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Page side-by-side",
+      "slug": "page-side-by-side",
+      "description": "Forward / back page transition.",
+      "url": "https://transitions.dev/transitions/page-side-by-side/",
+      "remix": "https://transitions.dev/studio.html?lib=page-side-by-side",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Card stack hover",
+      "slug": "card-stack-hover",
+      "description": "Stack fans out with a spring on hover. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/card-stack-hover/",
+      "remix": "https://transitions.dev/studio.html?lib=card-stack-hover",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Icon swap",
+      "slug": "icon-swap",
+      "description": "Scale and blur icon swap.",
+      "url": "https://transitions.dev/transitions/icon-swap/",
+      "remix": "https://transitions.dev/studio.html?lib=icon-swap",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Success check",
+      "slug": "success-check",
+      "description": "Succes check with blur and rotate.",
+      "url": "https://transitions.dev/transitions/success-check/",
+      "remix": "https://transitions.dev/studio.html?lib=success-check",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Avatar group hover",
+      "slug": "avatar-group-hover",
+      "description": "Distance-falloff lift with bouncy return.",
+      "url": "https://transitions.dev/transitions/avatar-group-hover/",
+      "remix": "https://transitions.dev/studio.html?lib=avatar-group-hover",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Error state shake",
+      "slug": "error-state-shake",
+      "description": "Cubic-bezier shake on error.",
+      "url": "https://transitions.dev/transitions/error-state-shake/",
+      "remix": "https://transitions.dev/studio.html?lib=error-state-shake",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Organic shimmer",
+      "slug": "organic-shimmer",
+      "description": "Wavy shimmer with phase-locked edge glow. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/organic-shimmer/",
+      "remix": "https://transitions.dev/studio.html?lib=organic-shimmer",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Input clear with dissolve",
+      "slug": "input-clear-with-dissolve",
+      "description": "Clear with per-word dissolve.",
+      "url": "https://transitions.dev/transitions/input-clear-with-dissolve/",
+      "remix": "https://transitions.dev/studio.html?lib=input-clear-with-dissolve",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Skeleton loader and reveal",
+      "slug": "skeleton-loader-and-reveal",
+      "description": "Pulse to content cross-fade.",
+      "url": "https://transitions.dev/transitions/skeleton-loader-and-reveal/",
+      "remix": "https://transitions.dev/studio.html?lib=skeleton-loader-and-reveal",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Texts reveal",
+      "slug": "texts-reveal",
+      "description": "Two lines rise with offset stagger.",
+      "url": "https://transitions.dev/transitions/texts-reveal/",
+      "remix": "https://transitions.dev/studio.html?lib=texts-reveal",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Tabs sliding",
+      "slug": "tabs-sliding",
+      "description": "Pill indicator follows the active tab.",
+      "url": "https://transitions.dev/transitions/tabs-sliding/",
+      "remix": "https://transitions.dev/studio.html?lib=tabs-sliding",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Drag & drop with physics",
+      "slug": "drag-drop-with-physics",
+      "description": "Zone morphs into the image. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/drag-drop-with-physics/",
+      "remix": "https://transitions.dev/studio.html?lib=drag-drop-with-physics",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Image open tilt",
+      "slug": "image-open-tilt",
+      "description": "iPadOS-style zoom with 3D tilt and bend. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/image-open-tilt/",
+      "remix": "https://transitions.dev/studio.html?lib=image-open-tilt",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Shimmer text",
+      "slug": "shimmer-text",
+      "description": "Masked gradient sweep across text.",
+      "url": "https://transitions.dev/transitions/shimmer-text/",
+      "remix": "https://transitions.dev/studio.html?lib=shimmer-text",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Tooltip open/close",
+      "slug": "tooltip-open-close",
+      "description": "Delayed in, travels, instant out.",
+      "url": "https://transitions.dev/transitions/tooltip-open-close/",
+      "remix": "https://transitions.dev/studio.html?lib=tooltip-open-close",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "3D tilt",
+      "slug": "3d-tilt",
+      "description": "3D pointer tilt with cursor glare.",
+      "url": "https://transitions.dev/transitions/3d-tilt/",
+      "remix": "https://transitions.dev/studio.html?lib=3d-tilt",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Dropdown menu morph",
+      "slug": "dropdown-menu-morph",
+      "description": "Button morphs into a menu surface.",
+      "url": "https://transitions.dev/transitions/dropdown-menu-morph/",
+      "remix": "https://transitions.dev/studio.html?lib=dropdown-menu-morph",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Accordion",
+      "slug": "accordion",
+      "description": "Grid-rows height with chevron morph.",
+      "url": "https://transitions.dev/transitions/accordion/",
+      "remix": "https://transitions.dev/studio.html?lib=accordion",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Toast open/close",
+      "slug": "toast-open-close",
+      "description": "Rises in with fade, blur and scale.",
+      "url": "https://transitions.dev/transitions/toast-open-close/",
+      "remix": "https://transitions.dev/studio.html?lib=toast-open-close",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Like button",
+      "slug": "like-button",
+      "description": "Heart fills and bursts particles.",
+      "url": "https://transitions.dev/transitions/like-button/",
+      "remix": "https://transitions.dev/studio.html?lib=like-button",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Learn more hover",
+      "slug": "learn-more-hover",
+      "description": "Chevron shifts and opens on hover.",
+      "url": "https://transitions.dev/transitions/learn-more-hover/",
+      "remix": "https://transitions.dev/studio.html?lib=learn-more-hover",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Checkbox check",
+      "slug": "checkbox-check",
+      "description": "Check draws on with a stroke path.",
+      "url": "https://transitions.dev/transitions/checkbox-check/",
+      "remix": "https://transitions.dev/studio.html?lib=checkbox-check",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Spinner to check morph",
+      "slug": "spinner-to-check-morph",
+      "description": "Spinner pops into a drawn check. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/spinner-to-check-morph/",
+      "remix": "https://transitions.dev/studio.html?lib=spinner-to-check-morph",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Spinning counter",
+      "slug": "spinning-counter",
+      "description": "Digits roll on a 3D drum to the value.",
+      "url": "https://transitions.dev/transitions/spinning-counter/",
+      "remix": "https://transitions.dev/studio.html?lib=spinning-counter",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Number subtle change",
+      "slug": "number-subtle-change",
+      "description": "Changed digits cross-fade in place.",
+      "url": "https://transitions.dev/transitions/number-subtle-change/",
+      "remix": "https://transitions.dev/studio.html?lib=number-subtle-change",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Toggle",
+      "slug": "toggle",
+      "description": "Thumb slides with a double bounce.",
+      "url": "https://transitions.dev/transitions/toggle/",
+      "remix": "https://transitions.dev/studio.html?lib=toggle",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Pro gradient text",
+      "slug": "pro-gradient-text",
+      "description": "Colour washes orbit the letters on a loop. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/pro-gradient-text/",
+      "remix": "https://transitions.dev/studio.html?lib=pro-gradient-text",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Delete with smoky dissolve",
+      "slug": "delete-with-smoky-dissolve",
+      "description": "Image shreds and falls into smoke. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/delete-with-smoky-dissolve/",
+      "remix": "https://transitions.dev/studio.html?lib=delete-with-smoky-dissolve",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Thinking states",
+      "slug": "thinking-states",
+      "description": "Status line shimmers, then swaps to the next.",
+      "url": "https://transitions.dev/transitions/thinking-states/",
+      "remix": "https://transitions.dev/studio.html?lib=thinking-states",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Reasoning stream",
+      "slug": "reasoning-stream",
+      "description": "Agent reasoning scrolls by two lines.",
+      "url": "https://transitions.dev/transitions/reasoning-stream/",
+      "remix": "https://transitions.dev/studio.html?lib=reasoning-stream",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Streaming text",
+      "slug": "streaming-text",
+      "description": "Words resolve through a soft cross-blur.",
+      "url": "https://transitions.dev/transitions/streaming-text/",
+      "remix": "https://transitions.dev/studio.html?lib=streaming-text",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Matrix dot loader",
+      "slug": "matrix-dot-loader",
+      "description": "16-dot matrix pulses in four patterns.",
+      "url": "https://transitions.dev/transitions/matrix-dot-loader/",
+      "remix": "https://transitions.dev/studio.html?lib=matrix-dot-loader",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Banner stacking",
+      "slug": "banner-stacking",
+      "description": "Banners stack like toasts, three deep.",
+      "url": "https://transitions.dev/transitions/banner-stacking/",
+      "remix": "https://transitions.dev/studio.html?lib=banner-stacking",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Image generation placeholder",
+      "slug": "image-generation-placeholder",
+      "description": "Dot noise wakes, then resolves into the image. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/image-generation-placeholder/",
+      "remix": "https://transitions.dev/studio.html?lib=image-generation-placeholder",
+      "source": "https://transitions.dev/sitemap.xml"
+    },
+    {
+      "name": "Get Pro button",
+      "slug": "get-pro-button",
+      "description": "Pro gradient glows in from the pill’s rim. A Transitions Pro recipe with CSS, React and TypeScript variants.",
+      "url": "https://transitions.dev/transitions/get-pro-button/",
+      "remix": "https://transitions.dev/studio.html?lib=get-pro-button",
+      "source": "https://transitions.dev/sitemap.xml"
+    }
+  ]
+}

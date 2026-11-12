@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skeleton reveal</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.card { position: relative; width: 340px; padding: 18px; border-radius: 18px; background: var(--panel, #121a30); border: 1px solid var(--line, #24304f); display: grid; grid-template-columns: 52px 1fr; gap: 14px; align-items: center; }
+.card > * { transition: opacity .45s ease, filter .45s ease, transform .45s ease; }
+.sk { border-radius: 8px; background: linear-gradient(90deg, #1b2542 25%, #2a3760 37%, #1b2542 63%) 0 0 / 400% 100%; animation: sk 1.3s ease infinite; }
+@keyframes sk { from { background-position: 100% 0; } to { background-position: 0 0; } }
+.card .real { grid-area: 1 / 1 / 2 / 3; display: grid; grid-template-columns: 52px 1fr; gap: 14px; align-items: center; opacity: 0; filter: blur(6px); transform: translateY(4px); }
+.card.is-loaded .sk { opacity: 0; }
+.card.is-loaded .real { opacity: 1; filter: none; transform: none; }
+.avatar { width: 52px; height: 52px; border-radius: 50%; }
+.real .avatar { background: linear-gradient(135deg, #2563eb, #38bdf8); display: grid; place-items: center; font-weight: 800; }
+.lines { display: grid; gap: 8px; }
+.real b { font-size: 16px; } .real small { color: var(--muted, #8a97b8); }
+@media (prefers-reduced-motion: reduce) { .sk { animation: none; } .card > * { transition: opacity .2s; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="card" id="card" aria-busy="true">
+    <div class="sk avatar"></div>
+    <div class="lines"><div class="sk" style="height:14px;width:70%"></div><div class="sk" style="height:12px;width:90%"></div></div>
+    <div class="real">
+      <div class="avatar">FL</div>
+      <div class="lines"><b>Frontend Library</b><small>3,860 curated assets · updated today</small></div>
+    </div>
+  </div>
+  <div class="caption">skeleton → content</div>
+</div>
+<script>
+// demo loop: toggle loaded state
+const card = document.getElementById('card');
+const cycle = () => {
+  card.classList.toggle('is-loaded');
+  card.setAttribute('aria-busy', !card.classList.contains('is-loaded'));
+};
+setInterval(cycle, 1800);
+</script>
+</body>
+</html>

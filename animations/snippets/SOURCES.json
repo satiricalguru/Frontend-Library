@@ -1,0 +1,12 @@
+[
+  {"folder": "number-pop-in", "name": "Number pop-in", "tech": "CSS + 30 lines JS", "inspired_by": "https://transitions.dev/transitions/number-pop-in/", "collected": "2026-11-12"},
+  {"folder": "shimmer-text", "name": "Shimmer text", "tech": "Pure CSS", "inspired_by": "https://transitions.dev/transitions/shimmer-text/", "collected": "2026-11-12"},
+  {"folder": "sliding-tabs", "name": "Sliding tabs", "tech": "CSS + 15 lines JS", "inspired_by": "https://transitions.dev/transitions/tabs-sliding/", "collected": "2026-11-12"},
+  {"folder": "success-check", "name": "Success check", "tech": "SVG + CSS", "inspired_by": "https://transitions.dev/transitions/success-check/", "collected": "2026-11-12"},
+  {"folder": "like-burst", "name": "Like burst", "tech": "SVG + CSS + JS", "inspired_by": "https://transitions.dev/transitions/like-button/", "collected": "2026-11-12"},
+  {"folder": "split-text-reveal", "name": "Split text reveal", "tech": "CSS + JS word splitter", "inspired_by": "https://motion.dev/examples/js-split-text", "collected": "2026-11-12"},
+  {"folder": "magnetic-button", "name": "Magnetic button", "tech": "CSS variables + pointer JS", "inspired_by": "https://motion.dev/examples/react-cursor-magnetic", "collected": "2026-11-12"},
+  {"folder": "skeleton-reveal", "name": "Skeleton → content", "tech": "Pure CSS (class toggle)", "inspired_by": "https://transitions.dev/transitions/skeleton-loader-and-reveal/", "collected": "2026-11-12"},
+  {"folder": "error-shake", "name": "Error shake", "tech": "CSS keyframes", "inspired_by": "https://transitions.dev/transitions/error-state-shake/", "collected": "2026-11-12"},
+  {"folder": "spring-toggle", "name": "Spring toggle", "tech": "Pure CSS + ARIA switch", "inspired_by": "https://transitions.dev/transitions/toggle/", "collected": "2026-11-12"}
+]

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Number pop-in</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.ticker { display: inline-flex; font: 700 64px/1 ui-monospace, "SF Mono", Menlo, monospace; font-variant-numeric: tabular-nums; }
+.ticker__digit { position: relative; height: 1em; width: .62em; overflow: hidden; perspective: 400px; }
+.ticker__digit span {
+  position: absolute; inset: 0; display: grid; place-items: center;
+  transition: transform .55s cubic-bezier(.34, 1.56, .64, 1), opacity .35s ease, filter .35s ease;
+}
+.ticker__digit .out { transform: translateY(-100%) rotateX(70deg); opacity: 0; filter: blur(4px); }
+.ticker__digit .in  { transform: translateY(100%)  rotateX(-70deg); opacity: 0; filter: blur(4px); }
+@media (prefers-reduced-motion: reduce) { .ticker__digit span { transition: opacity .2s; transform: none !important; filter: none !important; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="ticker" id="ticker" aria-live="polite"></div>
+  <div class="caption">number pop-in</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function createTicker(el, digits = 4) {
+  el.innerHTML = Array.from({ length: digits }, () => '<span class="ticker__digit"><span>0</span></span>').join('');
+  const cells = [...el.children];
+  return function set(value) {
+    const s = String(value).padStart(digits, '0').slice(-digits);
+    cells.forEach((cell, i) => {
+      const current = cell.lastElementChild;
+      if (current.textContent === s[i]) return;
+      const next = document.createElement('span');
+      next.textContent = s[i];
+      next.className = 'in';
+      cell.append(next);
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        next.className = '';
+        current.className = 'out';
+        setTimeout(() => current.remove(), 600);
+      }));
+    });
+    el.setAttribute('aria-label', value);
+  };
+}
+// demo loop
+const set = createTicker(document.getElementById('ticker'));
+let n = 1280;
+set(n);
+setInterval(() => set(n += Math.ceil(Math.random() * 37)), 900);
+</script>
+</body>
+</html>

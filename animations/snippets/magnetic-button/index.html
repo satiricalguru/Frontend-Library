@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Magnetic button</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.magnetic { --x: 0px; --y: 0px; border: 0; padding: 18px 30px; border-radius: 999px; color: #fff; font: 700 17px/1 var(--font, system-ui, sans-serif); cursor: pointer;
+  background: linear-gradient(135deg, var(--accent, #2563eb), var(--accent-2, #38bdf8));
+  box-shadow: 0 14px 40px -12px rgba(56, 189, 248, .7);
+  transform: translate(var(--x), var(--y));
+  transition: transform .5s cubic-bezier(.2, 1.4, .4, 1);
+}
+.magnetic span { display: inline-block; transform: translate(calc(var(--x) * .4), calc(var(--y) * .4)); transition: inherit; }
+@media (prefers-reduced-motion: reduce) { .magnetic, .magnetic span { transform: none; } }
+
+/* demo only: fake cursor so the GIF shows the effect */
+.zone { position: relative; width: 360px; height: 220px; display: grid; place-items: center; }
+.cursor { position: absolute; left: 0; top: 0; width: 18px; height: 18px; border-radius: 50%; border: 2px solid #fff; pointer-events: none; transform: translate(-50%, -50%); mix-blend-mode: difference; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="zone" id="zone">
+    <button class="magnetic" id="mag"><span>Get started →</span></button>
+    <div class="cursor" id="cursor" hidden></div>
+  </div>
+  <div class="caption">magnetic button</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function magnetic(el, { radius = 120, strength = .35 } = {}) {
+  const update = (cx, cy) => {
+    const r = el.getBoundingClientRect();
+    const dx = cx - (r.left + r.width / 2), dy = cy - (r.top + r.height / 2);
+    const inside = Math.hypot(dx, dy) < radius + r.width / 2;
+    el.style.setProperty('--x', inside ? dx * strength + 'px' : '0px');
+    el.style.setProperty('--y', inside ? dy * strength + 'px' : '0px');
+  };
+  window.addEventListener('pointermove', (e) => update(e.clientX, e.clientY));
+  return update;
+}
+const update = magnetic(document.getElementById('mag'));
+
+// demo: drive a fake cursor on a loop (remove in production)
+const zone = document.getElementById('zone'), cursor = document.getElementById('cursor');
+cursor.hidden = false;
+let t = 0;
+(function loop() {
+  t += 0.018;
+  const z = zone.getBoundingClientRect();
+  const x = 180 + Math.cos(t) * 150, y = 110 + Math.sin(t * 2) * 70;
+  cursor.style.left = x + 'px'; cursor.style.top = y + 'px';
+  update(z.left + x, z.top + y);
+  requestAnimationFrame(loop);
+})();
+</script>
+</body>
+</html>

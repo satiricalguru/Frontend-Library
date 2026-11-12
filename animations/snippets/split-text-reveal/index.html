@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Split text reveal</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.split { font: 800 46px/1.08 var(--font, system-ui, sans-serif); letter-spacing: -.03em; text-align: center; max-width: 12ch; }
+.split .w { display: inline-block; overflow: hidden; vertical-align: top; padding-bottom: .08em; }
+.split .w > span { display: inline-block; transform: translateY(110%) rotate(6deg); opacity: 0; transition: transform .8s cubic-bezier(.2, .9, .2, 1), opacity .5s; transition-delay: calc(var(--i) * 70ms); }
+.split.is-in .w > span { transform: none; opacity: 1; }
+.split .accent { background: linear-gradient(90deg, var(--accent, #2563eb), var(--accent-2, #38bdf8)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+@media (prefers-reduced-motion: reduce) { .split .w > span { transition: opacity .3s; transform: none; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <h1 class="split" id="split">Build interfaces that feel <em class="accent">alive</em></h1>
+  <div class="caption">split text reveal</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+function splitWords(el) {
+  let i = 0;
+  const wrap = (node) => {
+    [...node.childNodes].forEach((child) => {
+      if (child.nodeType === 3) {
+        const frag = document.createDocumentFragment();
+        child.textContent.split(/(\s+)/).forEach((part) => {
+          if (!part) return;
+          if (/^\s+$/.test(part)) return frag.append(part);
+          const w = document.createElement('span');
+          w.className = 'w';
+          w.innerHTML = `<span style="--i:${i++}"></span>`;
+          w.firstChild.textContent = part;
+          frag.append(w);
+        });
+        child.replaceWith(frag);
+      } else wrap(child);
+    });
+  };
+  el.setAttribute('aria-label', el.textContent);
+  wrap(el);
+  return () => el.classList.add('is-in');
+}
+// demo loop
+const el = document.getElementById('split');
+const reveal = splitWords(el);
+const play = () => { el.classList.remove('is-in'); setTimeout(reveal, 400); };
+setTimeout(reveal, 200);
+setInterval(play, 3000);
+</script>
+</body>
+</html>

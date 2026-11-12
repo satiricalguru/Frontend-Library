@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Success check</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.check { width: 96px; height: 96px; }
+.check circle { fill: none; stroke: var(--ok, #22c55e); stroke-width: 4; stroke-dasharray: 251; stroke-dashoffset: 251; transform: rotate(-90deg); transform-origin: center; }
+.check path { fill: none; stroke: var(--ok, #22c55e); stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 60; stroke-dashoffset: 60; }
+.check .halo { fill: var(--ok, #22c55e); opacity: 0; transform-origin: center; }
+.check.is-done circle { animation: draw .55s cubic-bezier(.65, 0, .35, 1) forwards; }
+.check.is-done path { animation: draw .35s .45s cubic-bezier(.65, 0, .35, 1) forwards; }
+.check.is-done .halo { animation: halo .7s .55s ease-out; }
+.check.is-done { animation: pop .4s .7s cubic-bezier(.34, 1.56, .64, 1); }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes halo { from { opacity: .35; transform: scale(.6); } to { opacity: 0; transform: scale(1.5); } }
+@keyframes pop { 50% { transform: scale(1.08); } }
+@media (prefers-reduced-motion: reduce) { .check * { animation-duration: 1ms !important; animation-delay: 0s !important; } }
+
+.label { font-weight: 600; opacity: 0; transform: translateY(6px); transition: .4s .8s; }
+.is-done + .label { opacity: 1; transform: none; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <svg class="check" id="check" viewBox="0 0 96 96" role="img" aria-label="Success">
+    <circle class="halo" cx="48" cy="48" r="40" />
+    <circle cx="48" cy="48" r="40" />
+    <path d="M30 50 l12 12 l24 -26" />
+  </svg>
+  <div class="label">Payment received</div>
+  <div class="caption">success check</div>
+</div>
+<script>
+// demo loop: restart the animation by toggling the class
+const el = document.getElementById('check');
+const play = () => { el.classList.remove('is-done'); void el.getBoundingClientRect(); el.classList.add('is-done'); };
+play();
+setInterval(play, 2600);
+</script>
+</body>
+</html>
