@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Segmented Control</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.segmented-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  width: min(440px, 90vw);
+}
+
+.segmented-control {
+  position: relative;
+  display: inline-flex;
+  padding: 4px;
+  background: var(--panel, #121a30);
+  border: 1px solid var(--line, #24304f);
+  border-radius: 12px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.4);
+  width: 100%;
+}
+
+.segmented-control__glider {
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  left: 0;
+  background: var(--line, #24304f);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  pointer-events: none;
+  transition: transform 0.22s cubic-bezier(0.2, 0.8, 0.25, 1),
+              width 0.22s cubic-bezier(0.2, 0.8, 0.25, 1);
+}
+
+.segmented-control__item {
+  position: relative;
+  flex: 1;
+  border: 0;
+  background: none;
+  color: var(--muted, #8a97b8);
+  font: 600 13px/1 var(--font, system-ui, sans-serif);
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 1;
+  text-align: center;
+  transition: color 0.15s ease;
+  user-select: none;
+}
+
+.segmented-control__item:hover {
+  color: var(--text, #e8eeff);
+}
+
+.segmented-control__item[aria-selected="true"] {
+  color: var(--text, #e8eeff);
+}
+
+.segmented-control__item:focus-visible {
+  outline: 2px solid var(--accent-2, #38bdf8);
+  outline-offset: -2px;
+}
+
+.panel-container {
+  width: 100%;
+  background: var(--panel, #121a30);
+  border: 1px solid var(--line, #24304f);
+  border-radius: 14px;
+  padding: 20px;
+  min-height: 110px;
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.is-active {
+  display: block;
+}
+
+.tab-panel h3 {
+  margin: 0 0 6px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text, #e8eeff);
+}
+
+.tab-panel p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--muted, #8a97b8);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .segmented-control__glider {
+    transition: none;
+  }
+}
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="segmented-wrapper">
+    <div class="segmented-control" role="tablist" aria-label="Views" id="segmented-tabs">
+      <div class="segmented-control__glider" id="glider" aria-hidden="true"></div>
+      <button class="segmented-control__item" role="tab" aria-selected="true" aria-controls="panel-all" id="tab-all">All Assets</button>
+      <button class="segmented-control__item" role="tab" aria-selected="false" aria-controls="panel-snippets" id="tab-snippets" tabindex="-1">Snippets</button>
+      <button class="segmented-control__item" role="tab" aria-selected="false" aria-controls="panel-components" id="tab-components" tabindex="-1">Components</button>
+      <button class="segmented-control__item" role="tab" aria-selected="false" aria-controls="panel-systems" id="tab-systems" tabindex="-1">Design Systems</button>
+    </div>
+
+    <div class="panel-container">
+      <div class="tab-panel is-active" id="panel-all" role="tabpanel" aria-labelledby="tab-all">
+        <h3>All Assets</h3>
+        <p>Browse our complete catalog of curated brand systems, typography, and motion presets.</p>
+      </div>
+      <div class="tab-panel" id="panel-snippets" role="tabpanel" aria-labelledby="tab-snippets">
+        <h3>Animation Snippets</h3>
+        <p>Dependency-free micro-interactions with reduced-motion support and live demo viewports.</p>
+      </div>
+      <div class="tab-panel" id="panel-components" role="tabpanel" aria-labelledby="tab-components">
+        <h3>UI Components</h3>
+        <p>Accessible navigation bars, command palettes, modals, and interactive controls.</p>
+      </div>
+      <div class="tab-panel" id="panel-systems" role="tabpanel" aria-labelledby="tab-systems">
+        <h3>Design Systems</h3>
+        <p>Analyzed color palettes and typography rules from leading digital products.</p>
+      </div>
+    </div>
+  </div>
+  <div class="caption">segmented control</div>
+</div>
+
+<script>
+// ── snippet ───────────────────────────────────────────
+function initSegmentedControl(root) {
+  const tabs = [...root.querySelectorAll('[role="tab"]')];
+  const glider = root.querySelector('#glider');
+
+  function updateGlider(activeTab) {
+    const rootRect = root.getBoundingClientRect();
+    const tabRect = activeTab.getBoundingClientRect();
+    const left = tabRect.left - rootRect.left;
+    glider.style.width = `${tabRect.width}px`;
+    glider.style.transform = `translateX(${left}px)`;
+  }
+
+  function selectTab(newTab) {
+    tabs.forEach(tab => {
+      const isSelected = tab === newTab;
+      tab.setAttribute('aria-selected', String(isSelected));
+      tab.tabIndex = isSelected ? 0 : -1;
+      const panelId = tab.getAttribute('aria-controls');
+      const panel = document.getElementById(panelId);
+      if (panel) panel.classList.toggle('is-active', isSelected);
+    });
+
+    updateGlider(newTab);
+    newTab.focus();
+  }
+
+  tabs.forEach((tab, index) => {
+    tab.addEventListener('click', () => selectTab(tab));
+    tab.addEventListener('keydown', (e) => {
+      let targetIndex = null;
+      if (e.key === 'ArrowRight') {
+        targetIndex = (index + 1) % tabs.length;
+      } else if (e.key === 'ArrowLeft') {
+        targetIndex = (index - 1 + tabs.length) % tabs.length;
+      } else if (e.key === 'Home') {
+        targetIndex = 0;
+      } else if (e.key === 'End') {
+        targetIndex = tabs.length - 1;
+      }
+      if (targetIndex !== null) {
+        e.preventDefault();
+        selectTab(tabs[targetIndex]);
+      }
+    });
+  });
+
+  const activeTab = tabs.find(t => t.getAttribute('aria-selected') === 'true') || tabs[0];
+  requestAnimationFrame(() => updateGlider(activeTab));
+  window.addEventListener('resize', () => {
+    const cur = tabs.find(t => t.getAttribute('aria-selected') === 'true') || tabs[0];
+    updateGlider(cur);
+  });
+}
+
+initSegmentedControl(document.getElementById('segmented-tabs'));
+</script>
+</body>
+</html>
