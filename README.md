@@ -25,6 +25,7 @@
   <a href="#-motion--transitions">Motion</a> ·
   <a href="#-fonts">Fonts</a> ·
   <a href="#-inspiration">Inspiration</a> ·
+  <a href="#-contributors">Contributors</a> ·
   <a href="SOURCES.md">Source tracker</a>
 </p>
 
@@ -208,14 +209,19 @@ python3 scripts/build-catalog.py && python3 scripts/build-visuals.py
 
 ## 🤝 Contributing
 
+Visit our [contributing guide](CONTRIBUTING.md) to learn how to contribute, and use the [PR template](.github/PULL_REQUEST_TEMPLATE.md). It only takes ~5 minutes to add your own!
+
 > [!TIP]
 > Adding a catalog entry? Put it in the matching `data/*.json` file with a `source` URL, then run `python3 scripts/build-catalog.py`. Adding original code? Give it its own kebab-case folder with a demo `index.html`.
 
-- Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [PR template](.github/PULL_REQUEST_TEMPLATE.md)
-- Request assets or report broken links through [issues](https://github.com/satiricalguru/Frontend-Library/issues/new/choose)
+## 💬 Community
+
+Have questions, comments, or feedback? Start a [GitHub Discussion](https://github.com/satiricalguru/Frontend-Library/discussions) or open an [issue](https://github.com/satiricalguru/Frontend-Library/issues/new/choose).
+
+## 👥 Contributors
 
 <a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=satiricalguru/Frontend-Library" alt="Frontend Library contributors">
+  <img src="https://contrib.rocks/image?repo=satiricalguru/Frontend-Library&max=100&columns=12" alt="Frontend Library contributors">
 </a>
 
 ## ⚖️ Credits & licensing
