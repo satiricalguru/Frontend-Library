@@ -4,10 +4,6 @@
 
 <a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/fl-logo.svg" width="96" alt="Frontend Library logo: a white F and a blue L"></a>
 
-<br><br>
-
-<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
-
 <h3>The reference shelf for people who build interfaces.</h3>
 
 <p>Design systems, captured landing pages, Three.js &amp; WebGL demos, motion, open-source fonts and icons — <b>14,518 entries</b>, each linked to the exact page it came from. Built for developers, designers and the AI agents working alongside them.</p>
@@ -29,6 +25,8 @@
   <a href="#-contributing">Contribute</a> ·
   <a href="SOURCES.md">Source tracker</a>
 </p>
+
+<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
 
 </div>
 
