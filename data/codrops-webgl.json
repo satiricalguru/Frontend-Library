@@ -22,12 +22,15 @@
     "previews": {
       "resolvedOn": "2026-11-12",
       "bySource": {
-        "github-social-card": 118,
+        "github-social-card": 1,
+        "local-render": 117,
         "readme-remote": 176,
         "repository-file": 3
       },
       "withoutPreview": 18,
       "method": "Authenticated GitHub REST API (repository, default-branch commit, recursive tree, README), at most 4 repositories at a time. Repository files are pinned to the default-branch commit SHA on raw.githubusercontent.com. README images on other hosts are stored as URLs for the visitor's browser and were not fetched. Remaining repositories use GitHub's generated social card.",
+      "localRenders": 117,
+      "localRenderMethod": "scripts/render-codrops-previews.mjs: shallow clone of the official repository (no hooks, install or build), static files served on loopback, screenshot in headless Chrome at 1280x800 with tympanus.net and Codrops CDN requests blocked. Commit and entry page recorded per item.",
       "imagesDownloaded": false,
       "tympanusRequested": false,
       "videosCollected": false,
@@ -523,8 +526,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "b43d5d3c93b6f5a9e2c9d8eb82cb3bf802350eae",
-      "preview": "https://opengraph.githubassets.com/1/codrops/3DRestaurantMenu",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/3DRestaurantMenu.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/3DRestaurantMenu",
+      "previewCommit": "b43d5d3c93b6f5a9e2c9d8eb82cb3bf802350eae",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-3dstackmotion",
@@ -583,8 +590,12 @@
       "demo": "http://tympanus.net/Tutorials/AnimatedAnimals/",
       "previewCollected": "2026-11-12",
       "commit": "b3e6c6e4e114272cca37409242814b767e76b466",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedAnimals",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedAnimals.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedAnimals",
+      "previewCommit": "b3e6c6e4e114272cca37409242814b767e76b466",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedbordermenus",
@@ -611,8 +622,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "7f6f143a9f473f37648263d31d8b5fb14d3b8ac9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedBorderMenus",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedBorderMenus.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedBorderMenus",
+      "previewCommit": "7f6f143a9f473f37648263d31d8b5fb14d3b8ac9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedcodebackground",
@@ -734,8 +749,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "faed393932f2c0cfc42242b1bd40b624f5423c23",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedGridLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedGridLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedGridLayout",
+      "previewCommit": "faed393932f2c0cfc42242b1bd40b624f5423c23",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedgridpreviews",
@@ -795,8 +814,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "be97aba6bdf98e212e885845393675ab1cd3f271",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedHeader",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedHeader.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedHeader",
+      "previewCommit": "be97aba6bdf98e212e885845393675ab1cd3f271",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedimagecolumns",
@@ -882,8 +905,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "631b92ab350f6da1619aabf57c23edf03a686658",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedLetters",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedLetters.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedLetters",
+      "previewCommit": "631b92ab350f6da1619aabf57c23edf03a686658",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedmenuicon",
@@ -911,8 +938,12 @@
       "demo": "http://tympanus.net/Tutorials/AnimatedMenuIcon/",
       "previewCollected": "2026-11-12",
       "commit": "d289185350e587ca43725a855f18b4758f6b1630",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedMenuIcon",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedMenuIcon.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedMenuIcon",
+      "previewCommit": "d289185350e587ca43725a855f18b4758f6b1630",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedresponsiveimagegrid",
@@ -941,8 +972,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "60aa60b8871a2d822f7128e5f2157b8a477995c1",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedResponsiveImageGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedResponsiveImageGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedResponsiveImageGrid",
+      "previewCommit": "60aa60b8871a2d822f7128e5f2157b8a477995c1",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatedsvgicons",
@@ -969,8 +1004,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c44b8c3b153bbd0f7d0262034170e5232ae6190e",
-      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedSVGIcons",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/AnimatedSVGIcons.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/AnimatedSVGIcons",
+      "previewCommit": "c44b8c3b153bbd0f7d0262034170e5232ae6190e",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-animatesvgtextpath",
@@ -1036,8 +1075,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "36a9d1ba0b6dff2996f004ac46b2df607d3d047c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Animocons",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Animocons.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Animocons",
+      "previewCommit": "36a9d1ba0b6dff2996f004ac46b2df607d3d047c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-arrownavigationstyles",
@@ -1066,8 +1109,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "2e7c8868f44814bb80ce74e1b669984c417345bd",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ArrowNavigationStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ArrowNavigationStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ArrowNavigationStyles",
+      "previewCommit": "2e7c8868f44814bb80ce74e1b669984c417345bd",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-astro-shop-view-transitions",
@@ -1186,8 +1233,12 @@
       "article": "https://tympanus.net/codrops/?p=29372",
       "previewCollected": "2026-11-12",
       "commit": "f8bc11a648756c32701106a33f19f0b795f1d794",
-      "preview": "https://opengraph.githubassets.com/1/codrops/BlockRevealers",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/BlockRevealers.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/BlockRevealers",
+      "previewCommit": "f8bc11a648756c32701106a33f19f0b795f1d794",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-blueprint-backgroundslideshow",
@@ -1214,8 +1265,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "786c8a390d4cb6d0d40e5f1cc9befb6c749067b4",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-BackgroundSlideshow",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Blueprint-BackgroundSlideshow.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Blueprint-BackgroundSlideshow",
+      "previewCommit": "786c8a390d4cb6d0d40e5f1cc9befb6c749067b4",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-blueprint-elasticcontentslider",
@@ -1242,8 +1297,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "6fb1df3013ae0ceb26620199f4f264a8f8bb8b29",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-ElasticContentSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Blueprint-ElasticContentSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Blueprint-ElasticContentSlider",
+      "previewCommit": "6fb1df3013ae0ceb26620199f4f264a8f8bb8b29",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-blueprint-fixedbackgroundscrollinglayout",
@@ -1270,8 +1329,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "b55ab13f7b1e9b24f6000bbed26847f2a2e77b0d",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-FixedBackgroundScrollingLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Blueprint-FixedBackgroundScrollingLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Blueprint-FixedBackgroundScrollingLayout",
+      "previewCommit": "b55ab13f7b1e9b24f6000bbed26847f2a2e77b0d",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-blueprint-fullwidthimageslider",
@@ -1298,8 +1361,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f69efd5832eaa18a2a82b099bacee65d8876c16b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-FullWidthImageSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Blueprint-FullWidthImageSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Blueprint-FullWidthImageSlider",
+      "previewCommit": "f69efd5832eaa18a2a82b099bacee65d8876c16b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-blueprint-responsivefullwidthgrid",
@@ -1326,8 +1393,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f79a80cb04ab3f5d6db5e0b39c9a11331ffc8083",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-ResponsiveFullWidthGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Blueprint-ResponsiveFullWidthGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Blueprint-ResponsiveFullWidthGrid",
+      "previewCommit": "f79a80cb04ab3f5d6db5e0b39c9a11331ffc8083",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-bookpreview",
@@ -1355,8 +1426,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "29c446ba5e87a71965882862f89b090cca6d2226",
-      "preview": "https://opengraph.githubassets.com/1/codrops/BookPreview",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/BookPreview.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/BookPreview",
+      "previewCommit": "29c446ba5e87a71965882862f89b090cca6d2226",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-buttoncomponentmorph",
@@ -1383,8 +1458,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "6d2e37e33cdb215da676cd0f6fee9e3e42d95ef1",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ButtonComponentMorph",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ButtonComponentMorph.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ButtonComponentMorph",
+      "previewCommit": "6d2e37e33cdb215da676cd0f6fee9e3e42d95ef1",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-buttonhoverstyles",
@@ -1441,8 +1520,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c5c92baed93810b3b131e4b140ed2474779ef62c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ButtonStylesInspiration",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ButtonStylesInspiration.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ButtonStylesInspiration",
+      "previewCommit": "c5c92baed93810b3b131e4b140ed2474779ef62c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-captionhovereffects",
@@ -1470,8 +1553,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c4a983c0e547bec34562b2323f0fb7defe680b87",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CaptionHoverEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CaptionHoverEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CaptionHoverEffects",
+      "previewCommit": "c4a983c0e547bec34562b2323f0fb7defe680b87",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-cardstackeffects",
@@ -1498,8 +1585,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "09c82dfed5bb533bae1d4a55d0f0bffdbd95b67d",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CardStackEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CardStackEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CardStackEffects",
+      "previewCommit": "09c82dfed5bb533bae1d4a55d0f0bffdbd95b67d",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-cinemaseatpreview",
@@ -1529,8 +1620,12 @@
       "demo": "https://tympanus.net/Demos/CinemaSeatPreview/",
       "previewCollected": "2026-11-12",
       "commit": "3d9c6ae4decea570852ded9993014dec0ee200fc",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CinemaSeatPreview",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CinemaSeatPreview.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CinemaSeatPreview",
+      "previewCommit": "3d9c6ae4decea570852ded9993014dec0ee200fc",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-circulartexteffect",
@@ -1586,8 +1681,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "2f7175b2e84647aa1378d34a13ef0baada6b39a9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ClickEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ClickEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ClickEffects",
+      "previewCommit": "2f7175b2e84647aa1378d34a13ef0baada6b39a9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-cliphovereffect",
@@ -1825,8 +1924,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "ce39ae40827229a0a94767f169037984f3cd5a7c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeButtons",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CreativeButtons.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CreativeButtons",
+      "previewCommit": "ce39ae40827229a0a94767f169037984f3cd5a7c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-creativegooeyeffects",
@@ -1854,8 +1957,12 @@
       "article": "http://tympanus.net/codrops/?p=23487",
       "previewCollected": "2026-11-12",
       "commit": "1ecf43af90c725d150e0986364475edd4487b5e7",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeGooeyEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CreativeGooeyEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CreativeGooeyEffects",
+      "previewCommit": "1ecf43af90c725d150e0986364475edd4487b5e7",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-creativelinkeffects",
@@ -1883,8 +1990,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "61ff3ec23019418df6b5cc935bd3f976e35b1e2c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeLinkEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/CreativeLinkEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/CreativeLinkEffects",
+      "previewCommit": "61ff3ec23019418df6b5cc935bd3f976e35b1e2c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-crosshairdistortion",
@@ -2190,8 +2301,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "e20e20d3f509b06299030e245abf5ba6f64f1f46",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DialogEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DialogEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DialogEffects",
+      "previewCommit": "e20e20d3f509b06299030e245abf5ba6f64f1f46",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-directionawarehovereffect",
@@ -2220,8 +2335,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "15f35fd6feeba60030811534b34179712fca977f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DirectionAwareHoverEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DirectionAwareHoverEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DirectionAwareHoverEffect",
+      "previewCommit": "15f35fd6feeba60030811534b34179712fca977f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-distortedbuttoneffects",
@@ -2250,8 +2369,12 @@
       "demo": "http://tympanus.net/Development/DistortedButtonEffects/",
       "previewCollected": "2026-11-12",
       "commit": "e45285afb2a3a8b4cb31fe6c0c069880f17c05d2",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DistortedButtonEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DistortedButtonEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DistortedButtonEffects",
+      "previewCommit": "e45285afb2a3a8b4cb31fe6c0c069880f17c05d2",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-distortedlinkeffects",
@@ -2345,8 +2468,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f923f05be59842cf61d75ddb3c1348852d08e95e",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DotNavigationStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DotNavigationStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DotNavigationStyles",
+      "previewCommit": "f923f05be59842cf61d75ddb3c1348852d08e95e",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-doubleimagehovereffects",
@@ -2432,8 +2559,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "041ee7c8717fa75b423321110477634e2955b3a2",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DraggableDualViewSlideshow",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DraggableDualViewSlideshow.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DraggableDualViewSlideshow",
+      "previewCommit": "041ee7c8717fa75b423321110477634e2955b3a2",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-draggablemenu",
@@ -2499,8 +2630,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "fe50c03055671a930b8e9582486c27e2d5ad45d2",
-      "preview": "https://opengraph.githubassets.com/1/codrops/DynamicGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/DynamicGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/DynamicGrid",
+      "previewCommit": "fe50c03055671a930b8e9582486c27e2d5ad45d2",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-elasticcircleslideshow",
@@ -2528,8 +2663,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "958f02e235a86ad5ca92dc6309b8265a409c1353",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ElasticCircleSlideshow",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ElasticCircleSlideshow.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ElasticCircleSlideshow",
+      "previewCommit": "958f02e235a86ad5ca92dc6309b8265a409c1353",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-elasticgridscroll",
@@ -2617,8 +2756,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "733bfc20d164f262622dcd47c7905d762c8804db",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ElasticSVGElements",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ElasticSVGElements.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ElasticSVGElements",
+      "previewCommit": "733bfc20d164f262622dcd47c7905d762c8804db",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-exhibition",
@@ -2646,8 +2789,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "e10dca0ae1d32ca808e41fef0788e815b6539af7",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Exhibition",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Exhibition.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Exhibition",
+      "previewCommit": "e10dca0ae1d32ca808e41fef0788e815b6539af7",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-expandinggriditemanimation",
@@ -2763,8 +2910,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3cc6094fc92259140117e9d8950d8e6bf4bb72fe",
-      "preview": "https://opengraph.githubassets.com/1/codrops/FilterableProductGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/FilterableProductGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/FilterableProductGrid",
+      "previewCommit": "3cc6094fc92259140117e9d8950d8e6bf4bb72fe",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-folderpreviewideas",
@@ -2821,8 +2972,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f90ea18ca5ecfe016b98c17fe695a7cedcb9fd24",
-      "preview": "https://opengraph.githubassets.com/1/codrops/FourBoxes",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/FourBoxes.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/FourBoxes",
+      "previewCommit": "f90ea18ca5ecfe016b98c17fe695a7cedcb9fd24",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-fullimagereveal",
@@ -2909,8 +3064,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0fea38a0024f25bedcba185423ef96bf1dd5dc7f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenForm",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/FullscreenForm.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/FullscreenForm",
+      "previewCommit": "0fea38a0024f25bedcba185423ef96bf1dd5dc7f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-fullscreenhoverloop",
@@ -2975,8 +3134,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "1dfb62faf91a9f548240438622161d407db6c05f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenLayoutPageTransitions",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/FullscreenLayoutPageTransitions.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/FullscreenLayoutPageTransitions",
+      "previewCommit": "1dfb62faf91a9f548240438622161d407db6c05f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-fullscreenoverlaystyles",
@@ -3003,8 +3166,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c8ec821c031a2de83a66909077b2c34b7f76f80a",
-      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenOverlayStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/FullscreenOverlayStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/FullscreenOverlayStyles",
+      "previewCommit": "c8ec821c031a2de83a66909077b2c34b7f76f80a",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-fullscreenscroll",
@@ -3062,8 +3229,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "775f1a7ccae89b31f6105ca98c48c398bb6b638f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/GammaGallery",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/GammaGallery.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/GammaGallery",
+      "previewCommit": "775f1a7ccae89b31f6105ca98c48c398bb6b638f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-glitchperspective",
@@ -3323,8 +3494,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3c0fb4373e74597fed3d02c532d4c3014a5b8650",
-      "preview": "https://opengraph.githubassets.com/1/codrops/GridGallery",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/GridGallery.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/GridGallery",
+      "previewCommit": "3c0fb4373e74597fed3d02c532d4c3014a5b8650",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-griditemhovereffect",
@@ -3518,8 +3693,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "fa2b283504590e92ef25c717ba989870ada7217c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/GridLoadingAnimations",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/GridLoadingAnimations.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/GridLoadingAnimations",
+      "previewCommit": "fa2b283504590e92ef25c717ba989870ada7217c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-gridloadingeffects",
@@ -3547,8 +3726,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "6f50926ddebedabd04d9fc71264237550085e59b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/GridLoadingEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/GridLoadingEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/GridLoadingEffects",
+      "previewCommit": "6f50926ddebedabd04d9fc71264237550085e59b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-gridmenu",
@@ -3733,8 +3916,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "428f07d25a52e3b28fa03fb661ac4fe91855bbf4",
-      "preview": "https://opengraph.githubassets.com/1/codrops/HorizontalSlideOutMenu",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/HorizontalSlideOutMenu.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/HorizontalSlideOutMenu",
+      "previewCommit": "428f07d25a52e3b28fa03fb661ac4fe91855bbf4",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-horizontalsmoothscrolllayout",
@@ -3792,8 +3979,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3bf44a3aab6f2baadbefebfa432fdaae9d12dbf0",
-      "preview": "https://opengraph.githubassets.com/1/codrops/HoverEffectIdeas",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/HoverEffectIdeas.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/HoverEffectIdeas",
+      "previewCommit": "3bf44a3aab6f2baadbefebfa432fdaae9d12dbf0",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-hovergrid",
@@ -3822,8 +4013,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0a59474715182c0d0bc2219c48f9cdd4f570cf9b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/HoverGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/HoverGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/HoverGrid",
+      "previewCommit": "0a59474715182c0d0bc2219c48f9cdd4f570cf9b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-hoverpreviewminimap",
@@ -3885,8 +4080,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "89311da793c21141cb5b13e8f0d29107fee510fb",
-      "preview": "https://opengraph.githubassets.com/1/codrops/IconHoverEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/IconHoverEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/IconHoverEffects",
+      "previewCommit": "89311da793c21141cb5b13e8f0d29107fee510fb",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-imagedraggingeffects",
@@ -3974,8 +4173,12 @@
       "article": "http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/",
       "previewCollected": "2026-11-12",
       "commit": "30c994b612900be1174d4c1535b1d6d8932cba1b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ImageGridEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ImageGridEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ImageGridEffects",
+      "previewCommit": "30c994b612900be1174d4c1535b1d6d8932cba1b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-imagegridmotioneffect",
@@ -4168,8 +4371,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "2d2d489b5d2018dc12a2e3d2aa6aaf92cce4ba3a",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ImageTiltEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ImageTiltEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ImageTiltEffect",
+      "previewCommit": "2d2d489b5d2018dc12a2e3d2aa6aaf92cce4ba3a",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-imagetocontent",
@@ -4326,8 +4533,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d2696a58b3dd223455775879d2498001883a6d17",
-      "preview": "https://opengraph.githubassets.com/1/codrops/InlineAnchorStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/InlineAnchorStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/InlineAnchorStyles",
+      "previewCommit": "d2696a58b3dd223455775879d2498001883a6d17",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-inlinelayoutswitch",
@@ -4449,8 +4660,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0e41a531fac6d3d71374af1a4917cea9cc58d07f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Interactive3DMallMap",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Interactive3DMallMap.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Interactive3DMallMap",
+      "previewCommit": "0e41a531fac6d3d71374af1a4917cea9cc58d07f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-interactivepoints",
@@ -4665,8 +4880,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f5b67c3ddc3eba63a84e4512d018ee00d60dd231",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ItemRevealer",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ItemRevealer.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ItemRevealer",
+      "previewCommit": "f5b67c3ddc3eba63a84e4512d018ee00d60dd231",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-itemslider",
@@ -4694,8 +4913,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "5a9d5c0052ec4849b49c15f7750c7b9d76954ba3",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ItemSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ItemSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ItemSlider",
+      "previewCommit": "5a9d5c0052ec4849b49c15f7750c7b9d76954ba3",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-kinetictypepagetransition",
@@ -4999,8 +5222,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "a2d19f8ed4420a14fda9bbf5ecc7cf8fa80e2665",
-      "preview": "https://opengraph.githubassets.com/1/codrops/LineTypeEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/LineTypeEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/LineTypeEffect",
+      "previewCommit": "a2d19f8ed4420a14fda9bbf5ecc7cf8fa80e2665",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-liquiddistortion",
@@ -5031,8 +5258,12 @@
       "article": "https://tympanus.net/codrops/?p=32454",
       "previewCollected": "2026-11-12",
       "commit": "d8f91ae96e4a0777385f4bb557b4484a0a22f550",
-      "preview": "https://opengraph.githubassets.com/1/codrops/LiquidDistortion",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/LiquidDistortion.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/LiquidDistortion",
+      "previewCommit": "d8f91ae96e4a0777385f4bb557b4484a0a22f550",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-littlefragments",
@@ -5060,8 +5291,12 @@
       "article": "https://tympanus.net/codrops/2017/01/19/little-fragments-creating-a-simple-image-poster-effect/",
       "previewCollected": "2026-11-12",
       "commit": "8242016245f3080572b05a8e091d41308dd9a49a",
-      "preview": "https://opengraph.githubassets.com/1/codrops/LittleFragments",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/LittleFragments.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/LittleFragments",
+      "previewCommit": "8242016245f3080572b05a8e091d41308dd9a49a",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-lookbookhovereffects",
@@ -5249,8 +5484,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "abb5117e05ab9a7ba6dfba3c2a12965d501608d4",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MediaPopUpEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MediaPopUpEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MediaPopUpEffect",
+      "previewCommit": "abb5117e05ab9a7ba6dfba3c2a12965d501608d4",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-menufullgrid",
@@ -5277,8 +5516,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c2644d0417163fa252371da3222160f662ac262e",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MenuFullGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MenuFullGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MenuFullGrid",
+      "previewCommit": "c2644d0417163fa252371da3222160f662ac262e",
+      "previewEntry": "dist/index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-menuhovereffects",
@@ -5402,8 +5645,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "70cc1f1406d6f4970bdcae2b4f07c286941a342c",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MirrorEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MirrorEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MirrorEffect",
+      "previewCommit": "70cc1f1406d6f4970bdcae2b4f07c286941a342c",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-modalwindoweffects",
@@ -5431,8 +5678,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "859d73f6f88e763ad10e698746cb94acceb870d9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ModalWindowEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ModalWindowEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ModalWindowEffects",
+      "previewCommit": "859d73f6f88e763ad10e698746cb94acceb870d9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-morphingbackgroundshapes",
@@ -5491,8 +5742,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "ff3ff88db4a637dd0cf4a7a8b2726938f16b0039",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MorphingDevices",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MorphingDevices.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MorphingDevices",
+      "previewCommit": "ff3ff88db4a637dd0cf4a7a8b2726938f16b0039",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-morphingpagetransition",
@@ -5550,8 +5805,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3b70e0e6f8d868026d82b60e5746477a6002e5c7",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MorphingSearch",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MorphingSearch.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MorphingSearch",
+      "previewCommit": "3b70e0e6f8d868026d82b60e5746477a6002e5c7",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-motionblureffect",
@@ -5579,8 +5838,12 @@
       "article": "http://tympanus.net/codrops/?p=23824",
       "previewCollected": "2026-11-12",
       "commit": "327d96ef4f7e746c0627d32634e2041ecf3b5362",
-      "preview": "https://opengraph.githubassets.com/1/codrops/MotionBlurEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/MotionBlurEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/MotionBlurEffect",
+      "previewCommit": "327d96ef4f7e746c0627d32634e2041ecf3b5362",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-motionrevealslideshow",
@@ -5761,8 +6024,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "7c72f118c779dc5f11bb7a72952a8f5aa4aec130",
-      "preview": "https://opengraph.githubassets.com/1/codrops/NavigationIndicators",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/NavigationIndicators.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/NavigationIndicators",
+      "previewCommit": "7c72f118c779dc5f11bb7a72952a8f5aa4aec130",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-notificationstyles",
@@ -5789,8 +6056,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "2e8a88f4e7b7353ae1da867d4ec7595061deaf3b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/NotificationStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/NotificationStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/NotificationStyles",
+      "previewCommit": "2e8a88f4e7b7353ae1da867d4ec7595061deaf3b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-offcanvasmenueffects",
@@ -5818,8 +6089,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "f6d9ef2ce7f45c86244b6ff56643ed66f71a2d57",
-      "preview": "https://opengraph.githubassets.com/1/codrops/OffCanvasMenuEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/OffCanvasMenuEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/OffCanvasMenuEffects",
+      "previewCommit": "f6d9ef2ce7f45c86244b6ff56643ed66f71a2d57",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-oneelementscroll",
@@ -5906,8 +6181,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "ec21e83fe918e942a9ee298dcbd158eb0a973c06",
-      "preview": "https://opengraph.githubassets.com/1/codrops/OnScrollEffectLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/OnScrollEffectLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/OnScrollEffectLayout",
+      "previewCommit": "ec21e83fe918e942a9ee298dcbd158eb0a973c06",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-onscrollfilter",
@@ -6147,8 +6426,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "5bda3a9754e657bb6a4a28622c9f8f08efe96d50",
-      "preview": "https://opengraph.githubassets.com/1/codrops/OnScrollTypoAnimations",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/OnScrollTypoAnimations.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/OnScrollTypoAnimations",
+      "previewCommit": "5bda3a9754e657bb6a4a28622c9f8f08efe96d50",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-onscrolltypographyanimations",
@@ -6333,8 +6616,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d4348fe750a3903d962775f76b77fc41d203b0d4",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PageLoadingEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PageLoadingEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PageLoadingEffects",
+      "previewCommit": "d4348fe750a3903d962775f76b77fc41d203b0d4",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-pagepreloadingeffect",
@@ -6361,8 +6648,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "7a7893f4145f1dcfcf5dccd1ec893b24170fc987",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PagePreloadingEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PagePreloadingEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PagePreloadingEffect",
+      "previewCommit": "7a7893f4145f1dcfcf5dccd1ec893b24170fc987",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-pagerevealeffects",
@@ -6390,8 +6681,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0939dd213a7b204c16732c9453cdf7580027a67b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PageRevealEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PageRevealEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PageRevealEffects",
+      "previewCommit": "0939dd213a7b204c16732c9453cdf7580027a67b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-pagetransitions",
@@ -6419,8 +6714,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d608c934d683cab9558608409a912ef864bba2e8",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PageTransitions",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PageTransitions.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PageTransitions",
+      "previewCommit": "d608c934d683cab9558608409a912ef864bba2e8",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-paranoiaslideshow",
@@ -6515,8 +6814,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "b473003a97e91d3d0174ac362b2b670085dc7918",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PerspectivePageViewNavigation",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PerspectivePageViewNavigation.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PerspectivePageViewNavigation",
+      "previewCommit": "b473003a97e91d3d0174ac362b2b670085dc7918",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-pfold",
@@ -6543,8 +6846,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "bbe5ca69a56c18f3586cdf499f58e220a08742f2",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PFold",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PFold.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PFold",
+      "previewCommit": "bbe5ca69a56c18f3586cdf499f58e220a08742f2",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-photographywebsiteconcept",
@@ -6572,8 +6879,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "ad4dc27082bd5e88a08670b513e98033b66ca99b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PhotographyWebsiteConcept",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PhotographyWebsiteConcept.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PhotographyWebsiteConcept",
+      "previewCommit": "ad4dc27082bd5e88a08670b513e98033b66ca99b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-pixelgooeytooltip",
@@ -6664,8 +6975,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3152559784c82598f21b4ac8b582d49725f74784",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PlayfulTrampolineEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PlayfulTrampolineEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PlayfulTrampolineEffect",
+      "previewCommit": "3152559784c82598f21b4ac8b582d49725f74784",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-polaroidstackgrid",
@@ -6693,8 +7008,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "5bddce27a82f9c1ea853a30beb76f163a6402548",
-      "preview": "https://opengraph.githubassets.com/1/codrops/PolaroidStackGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/PolaroidStackGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/PolaroidStackGrid",
+      "previewCommit": "5bddce27a82f9c1ea853a30beb76f163a6402548",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-previewcontenttransition",
@@ -6751,8 +7070,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0d4040cc1299c68d479d3f7cb4fff757e1fbdb1b",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ProductComparison",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ProductComparison.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ProductComparison",
+      "previewCommit": "0d4040cc1299c68d479d3f7cb4fff757e1fbdb1b",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-productgridlayout",
@@ -6779,8 +7102,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "45e7db3d10c61f9d18029ead8c48f54f2c79d7f1",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ProductGridLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ProductGridLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ProductGridLayout",
+      "previewCommit": "45e7db3d10c61f9d18029ead8c48f54f2c79d7f1",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-progressbuttonstyles",
@@ -6807,8 +7134,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "633fa0af9682123edbeee83aeef07f42e831bd76",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ProgressButtonStyles",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ProgressButtonStyles.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ProgressButtonStyles",
+      "previewCommit": "633fa0af9682123edbeee83aeef07f42e831bd76",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-proximityfeedback",
@@ -6898,8 +7229,12 @@
       "demo": "https://tympanus.net/Development/RainEffect/",
       "previewCollected": "2026-11-12",
       "commit": "5270be663903883ae585858216b656120d8d4cd5",
-      "preview": "https://opengraph.githubassets.com/1/codrops/RainEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/RainEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/RainEffect",
+      "previewCommit": "5270be663903883ae585858216b656120d8d4cd5",
+      "previewEntry": "demo/index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-rapidimagehovermenu",
@@ -7138,8 +7473,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "36610ac51f2d1a3acfbbe15e7436c10ea2a8e926",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ResponsiveIconGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ResponsiveIconGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ResponsiveIconGrid",
+      "previewCommit": "36610ac51f2d1a3acfbbe15e7436c10ea2a8e926",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-revealslideshow",
@@ -7197,8 +7536,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "07050a6a585a76a26ecc8750cac7df8d48b14bb9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/RoomDisplay",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/RoomDisplay.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/RoomDisplay",
+      "previewCommit": "07050a6a585a76a26ecc8750cac7df8d48b14bb9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-rotatedrevealers",
@@ -7295,8 +7638,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "1b24778b3d1690a47059b42844a187bc71d9e47f",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SamsungGrid",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SamsungGrid.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SamsungGrid",
+      "previewCommit": "1b24778b3d1690a47059b42844a187bc71d9e47f",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-scatteredpolaroidsgallery",
@@ -7323,8 +7670,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d4b14ab6d0095192f8268a416508ef6e0fde73ca",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ScatteredPolaroidsGallery",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ScatteredPolaroidsGallery.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ScatteredPolaroidsGallery",
+      "previewCommit": "d4b14ab6d0095192f8268a416508ef6e0fde73ca",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-scroll3dgrid",
@@ -7645,8 +7996,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "54ce5b6480b0502e0afa8781a6130b84638b77a3",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SeamTransitions",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SeamTransitions.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SeamTransitions",
+      "previewCommit": "54ce5b6480b0502e0afa8781a6130b84638b77a3",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-searchuieffects",
@@ -7673,8 +8028,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "3850d3bc99777bf9133abb34a96211f4d65f7abc",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SearchUIEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SearchUIEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SearchUIEffects",
+      "previewCommit": "3850d3bc99777bf9133abb34a96211f4d65f7abc",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-seatpreview",
@@ -7731,8 +8090,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "89879a9e87606a4785b2276d362ba9a0fc039ba3",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SegmentEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SegmentEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SegmentEffect",
+      "previewCommit": "89879a9e87606a4785b2276d362ba9a0fc039ba3",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-shapehovereffectsvg",
@@ -7760,8 +8123,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d3698031b26078d2a26a3b610c12b090d2b9b97e",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ShapeHoverEffectSVG",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ShapeHoverEffectSVG.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ShapeHoverEffectSVG",
+      "previewCommit": "d3698031b26078d2a26a3b610c12b090d2b9b97e",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-shapemorphideas",
@@ -7848,8 +8215,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0f0f1d24a7a79b13b0cebc461158c291d659e837",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ShazamButtonEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ShazamButtonEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ShazamButtonEffect",
+      "previewCommit": "0f0f1d24a7a79b13b0cebc461158c291d659e837",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-sidebartransitions",
@@ -7878,8 +8249,12 @@
       "demo": "http://tympanus.net/Development/SidebarTransitions/",
       "previewCollected": "2026-11-12",
       "commit": "c4979de167026141cd58cc3eb166a5d34a7e26da",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SidebarTransitions",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SidebarTransitions.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SidebarTransitions",
+      "previewCommit": "c4979de167026141cd58cc3eb166a5d34a7e26da",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-simpledropdowneffects",
@@ -7906,8 +8281,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "900f693bed9b5fa2fc89e6e7c7ef9e985f2d56d6",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SimpleDropDownEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SimpleDropDownEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SimpleDropDownEffects",
+      "previewCommit": "900f693bed9b5fa2fc89e6e7c7ef9e985f2d56d6",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-slicebox",
@@ -7935,8 +8314,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "fe05654e3eb268d52d2082eb0af115b4a869e18d",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Slicebox",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Slicebox.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Slicebox",
+      "previewCommit": "fe05654e3eb268d52d2082eb0af115b4a869e18d",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-sliceddualimagelayout",
@@ -8083,8 +8466,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "ba698682091d8b0257b573ca786417de81c50e60",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SliderPagination",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SliderPagination.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SliderPagination",
+      "previewCommit": "ba698682091d8b0257b573ca786417de81c50e60",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-slideshowanimations",
@@ -8142,8 +8529,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "7eccdc5667e8265e8687d8759bd5d8c4033bdd3d",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SlidingHeaderLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SlidingHeaderLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SlidingHeaderLayout",
+      "previewCommit": "7eccdc5667e8265e8687d8759bd5d8c4033bdd3d",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-slitslider",
@@ -8172,8 +8563,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "14ccc222595de9271e13a9b2e3a04c8d321ea35e",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SlitSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SlitSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SlitSlider",
+      "previewCommit": "14ccc222595de9271e13a9b2e3a04c8d321ea35e",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-smoothscrollanimations",
@@ -8276,8 +8671,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "2de436924a110af4c0999945ffcdd41561dadd90",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SplitLayout",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SplitLayout.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SplitLayout",
+      "previewCommit": "2de436924a110af4c0999945ffcdd41561dadd90",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-stackmotionhovereffects",
@@ -8305,8 +8704,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "5ecaae4d7fc754105c49cd89e3b32742b560dcd9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/StackMotionHoverEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/StackMotionHoverEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/StackMotionHoverEffects",
+      "previewCommit": "5ecaae4d7fc754105c49cd89e3b32742b560dcd9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-stackslider",
@@ -8334,8 +8737,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "778ed3b9963a9cae2bf41c07b292a80cf30ffbaa",
-      "preview": "https://opengraph.githubassets.com/1/codrops/StackSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/StackSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/StackSlider",
+      "previewCommit": "778ed3b9963a9cae2bf41c07b292a80cf30ffbaa",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-staggered3dgridanimations",
@@ -8396,8 +8803,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "07fc86021048f407415f28e9fc126c7ee73f9d88",
-      "preview": "https://opengraph.githubassets.com/1/codrops/Stapel",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/Stapel.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/Stapel",
+      "previewCommit": "07fc86021048f407415f28e9fc126c7ee73f9d88",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-stickysections",
@@ -8482,8 +8893,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "e61272d3e2a0e2ea715214319f0d065d44feb44d",
-      "preview": "https://opengraph.githubassets.com/1/codrops/SurfReport",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/SurfReport.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/SurfReport",
+      "previewCommit": "e61272d3e2a0e2ea715214319f0d065d44feb44d",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-svgimagehover",
@@ -8707,8 +9122,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "b37c4936b26779c9bff86d68cca8c8d55831a8d3",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TextInputEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TextInputEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TextInputEffects",
+      "previewCommit": "b37c4936b26779c9bff86d68cca8c8d55831a8d3",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-textrepetitioneffect",
@@ -8766,8 +9185,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "cb8993c1a4c90d13b816829615b5a47b3f67ffd0",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TextStylesHoverEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TextStylesHoverEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TextStylesHoverEffects",
+      "previewCommit": "cb8993c1a4c90d13b816829615b5a47b3f67ffd0",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-texttraileffect",
@@ -8935,8 +9358,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c65348cf7caa52054aa78f9c3848e4d1a99b1983",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ThumbnailGridExpandingPreview",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ThumbnailGridExpandingPreview.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ThumbnailGridExpandingPreview",
+      "previewCommit": "c65348cf7caa52054aa78f9c3848e4d1a99b1983",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-tilescroll",
@@ -8996,8 +9423,12 @@
       "article": "http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/",
       "previewCollected": "2026-11-12",
       "commit": "e232cd71190e0f43841a42a851e8049181f7a9b1",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TiltHoverEffects",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TiltHoverEffects.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TiltHoverEffects",
+      "previewCommit": "e232cd71190e0f43841a42a851e8049181f7a9b1",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-tooltipmenu",
@@ -9024,8 +9455,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "c3f3bb4bcc9b0079d542d13fab7b64789f282b24",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TooltipMenu",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TooltipMenu.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TooltipMenu",
+      "previewCommit": "c3f3bb4bcc9b0079d542d13fab7b64789f282b24",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-tooltipstylesinspiration",
@@ -9053,8 +9488,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0396ae3aa8092098947b642a62605f3f8a2b3a67",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TooltipStylesInspiration",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TooltipStylesInspiration.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TooltipStylesInspiration",
+      "previewCommit": "0396ae3aa8092098947b642a62605f3f8a2b3a67",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-tooltiptransition",
@@ -9113,8 +9552,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "53f36ecebe1f7b63244fb83ed1ce791c1a4968d5",
-      "preview": "https://opengraph.githubassets.com/1/codrops/TriplePanelImageSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/TriplePanelImageSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/TriplePanelImageSlider",
+      "previewCommit": "53f36ecebe1f7b63244fb83ed1ce791c1a4968d5",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-typeshuffleanimation",
@@ -9236,8 +9679,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "0145fbdc057a2c27165ca6a5c156ea14eb74ef18",
-      "preview": "https://opengraph.githubassets.com/1/codrops/VerticalShowcaseSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/VerticalShowcaseSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/VerticalShowcaseSlider",
+      "previewCommit": "0145fbdc057a2c27165ca6a5c156ea14eb74ef18",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-videoopeninganimation",
@@ -9264,8 +9711,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "d888b8cd6ec01f17921745495786194f29093af9",
-      "preview": "https://opengraph.githubassets.com/1/codrops/VideoOpeningAnimation",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/VideoOpeningAnimation.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/VideoOpeningAnimation",
+      "previewCommit": "d888b8cd6ec01f17921745495786194f29093af9",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-viewmodeswitch",
@@ -9292,8 +9743,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "906d66f4b12bfb2bd1aee6fe86f237013b789d42",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ViewModeSwitch",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ViewModeSwitch.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ViewModeSwitch",
+      "previewCommit": "906d66f4b12bfb2bd1aee6fe86f237013b789d42",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-webglblobs",
@@ -9355,8 +9810,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "66ea2d7f66cbc8a69d883593445c528897e91456",
-      "preview": "https://opengraph.githubassets.com/1/codrops/WobblySlideshowEffect",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/WobblySlideshowEffect.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/WobblySlideshowEffect",
+      "previewCommit": "66ea2d7f66cbc8a69d883593445c528897e91456",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-youtubeleftsidemenu",
@@ -9383,8 +9842,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "42e547b67bc45b91410c1efec278ae2e8455dc24",
-      "preview": "https://opengraph.githubassets.com/1/codrops/YouTubeLeftSideMenu",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/YouTubeLeftSideMenu.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/YouTubeLeftSideMenu",
+      "previewCommit": "42e547b67bc45b91410c1efec278ae2e8455dc24",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-zoomslider",
@@ -9412,8 +9875,12 @@
       "demo": "http://tympanus.net/Blueprints/ZoomSlider/",
       "previewCollected": "2026-11-12",
       "commit": "3b426d0017c84a8cdaf77157ea3e0c3e35927477",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ZoomSlider",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ZoomSlider.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ZoomSlider",
+      "previewCommit": "3b426d0017c84a8cdaf77157ea3e0c3e35927477",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     },
     {
       "id": "codrops-repo-zoomslideshow",
@@ -9440,8 +9907,12 @@
       "animationsCaptured": false,
       "previewCollected": "2026-11-12",
       "commit": "bc337eb4495658e783910acde9282f7ee88c8749",
-      "preview": "https://opengraph.githubassets.com/1/codrops/ZoomSlideshow",
-      "previewSource": "github-social-card"
+      "preview": "captures/codrops-renders/ZoomSlideshow.jpg",
+      "previewSource": "local-render",
+      "previewSocialCard": "https://opengraph.githubassets.com/1/codrops/ZoomSlideshow",
+      "previewCommit": "bc337eb4495658e783910acde9282f7ee88c8749",
+      "previewEntry": "index.html",
+      "previewNote": "Rendered locally in headless Chrome (1280x800) from the official repository at previewCommit; tympanus.net and Codrops CDN requests blocked. Reference screenshot only; the demo and its assets belong to Codrops and the demo authors."
     }
   ]
 }

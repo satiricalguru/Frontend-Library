@@ -36,7 +36,8 @@
       "capture": "18 already observed public listing links; no blocked article crawl. Additional demo metadata from official github.com/codrops repositories.",
       "previews": "Repository previews come from the official github.com/codrops repositories via the authenticated GitHub API: committed images pinned to the default-branch commit on raw.githubusercontent.com, README image URLs on other hosts stored for browser hotlinking without being fetched, otherwise GitHub-generated social cards (opengraph.githubassets.com).",
       "tympanusAccessed": false,
-      "videos": "Not collected: the hosted demos live on tympanus.net, which disallows AI crawlers and returned HTTP 403."
+      "videos": "Not collected: the hosted demos live on tympanus.net, which disallows AI crawlers and returned HTTP 403.",
+      "localRenders": "117 demo screenshots rendered locally on 2026-11-12 from the official github.com/codrops repositories (shallow clone, no install/build, loopback server, headless Chrome with tympanus.net and Codrops CDN requests blocked). 1 repository (astro-shop-view-transitions) has no static entry page and keeps GitHub's card."
     },
     {
       "url": "https://github.com/VoltAgent/awesome-design-md",

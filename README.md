@@ -302,7 +302,7 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 
 <!-- CONTRIBUTORS:START -->
 <a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
-  <img src=".github/assets/generated/contributors.svg" alt="Frontend Library contributors">
+  <img src="https://frontend-library-xi-pied.vercel.app/api/contributors/" alt="Frontend Library contributors (updates automatically)">
 </a>
 <!-- CONTRIBUTORS:END -->
 
