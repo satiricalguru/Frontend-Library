@@ -114,6 +114,8 @@ function visual(item, { large = false } = {}) {
   }
   if (c === 'codrops' && safeUrl(item.preview)) {
     const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Preview of ${item.name}`;
+    // GitHub's generated repo card is a wide text layout: show it whole instead of cropping it
+    if (item.previewSource === 'github-social-card') img.className = 'contain';
     img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
     img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
     v.append(img, node('span', 'badge', item.kind === 'article-reference' ? 'article' : 'demo repo'));

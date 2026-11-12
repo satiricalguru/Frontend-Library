@@ -64,7 +64,9 @@ ARTICLES = [
 ]
 
 
-PREVIEW_FIELDS = ('preview', 'previewSource', 'previewHost', 'previewPath', 'commit', 'previewCollected')
+PREVIEW_FIELDS = ('preview', 'previewSource', 'previewHost', 'previewPath', 'commit', 'previewCollected',
+                  # written by scripts/render-codrops-previews.mjs
+                  'previewCommit', 'previewEntry', 'previewNote', 'previewSocialCard')
 IMAGE_EXT = re.compile(r'\.(png|jpe?g|gif|webp|avif|svg)$', re.I)
 CONVENTIONAL = re.compile(r'(?:^|/)(preview|screenshot|screenshots?|demo|cover|thumbnail|thumb)\.(png|jpe?g|gif|webp)$', re.I)
 CONVENTIONAL_DIRS = ('', 'docs/', 'images/', 'img/')
@@ -213,7 +215,9 @@ def resolve_preview(item, collected):
 def enrich_previews(items, collected, workers=4):
     """Resolve previews for repository items, at most `workers` repositories at a time."""
     repos = [item for item in items if urlparse(item['url']).hostname == 'github.com'
-             and urlparse(item['url']).path.lower().startswith('/codrops/')]
+             and urlparse(item['url']).path.lower().startswith('/codrops/')
+             # local renders (scripts/render-codrops-previews.mjs) are kept; re-run that script to refresh them
+             and item.get('previewSource') != 'local-render']
     for item in repos:
         for field in PREVIEW_FIELDS:
             item.pop(field, None)
@@ -241,6 +245,8 @@ def preview_coverage(items, collected):
         'resolvedOn': collected, 'bySource': dict(sorted(counts.items())),
         'withoutPreview': sum(1 for item in items if not item.get('preview')),
         'method': 'Authenticated GitHub REST API (repository, default-branch commit, recursive tree, README), at most 4 repositories at a time. Repository files are pinned to the default-branch commit SHA on raw.githubusercontent.com. README images on other hosts are stored as URLs for the visitor\'s browser and were not fetched. Remaining repositories use GitHub\'s generated social card.',
+        'localRenders': counts.get('local-render', 0),
+        'localRenderMethod': 'scripts/render-codrops-previews.mjs: shallow clone of the official repository (no hooks, install or build), static files served on loopback, screenshot in headless Chrome at 1280x800 with tympanus.net and Codrops CDN requests blocked. Commit and entry page recorded per item.',
         'imagesDownloaded': False, 'tympanusRequested': False, 'videosCollected': False,
         'articleReferences': 'No preview unless a repository records the identical article URL; none were inferred.',
     }
@@ -368,7 +374,8 @@ def thumb(item, width=96):
     if not item.get('preview'):
         return '—'
     alt = html.escape(f"Preview of {item['name']}", quote=True)
-    return f'<a href="{html.escape(item["url"], quote=True)}"><img src="{html.escape(item["preview"], quote=True)}" width="{width}" alt="{alt}"></a>'
+    src = item['preview'] if item['preview'].startswith('https://') else '../../' + item['preview']
+    return f'<a href="{html.escape(item["url"], quote=True)}"><img src="{html.escape(src, quote=True)}" width="{width}" alt="{alt}"></a>'
 
 
 def write(catalog):
@@ -385,7 +392,7 @@ def write(catalog):
              'Tags on repository records are metadata matches, not verification of dependencies or runtime techniques. Repository creation dates are not article publication dates. A linked demo is included only when the GitHub API explicitly supplied it as a homepage; no demo URL was guessed.', '',
              *([] if not previews else [
                  '## Previews', '',
-                 f"Repository rows show a small preview: {previews['bySource'].get('repository-file', 0)} images committed in the repository (pinned to the default-branch commit on raw.githubusercontent.com), {previews['bySource'].get('readme-remote', 0)} README images hosted elsewhere (hotlinked by your browser, mostly from tympanus.net; not fetched or stored by this library) and {previews['bySource'].get('github-social-card', 0)} GitHub-generated social cards. Previews were resolved through the GitHub API on {previews['resolvedOn']}; tympanus.net was not requested and no demo videos were collected. A preview is a repository image, not a capture of the running demo.", '']),
+                 f"Repository rows show a small preview: {previews['bySource'].get('local-render', 0)} screenshots of the demo rendered locally from its official repository (headless Chrome, tympanus.net requests blocked, commit recorded per row; see `scripts/render-codrops-previews.mjs`), {previews['bySource'].get('repository-file', 0)} images committed in the repository (pinned to the default-branch commit on raw.githubusercontent.com), {previews['bySource'].get('readme-remote', 0)} README images hosted elsewhere (hotlinked by your browser, mostly from tympanus.net; not fetched or stored by this library) and {previews['bySource'].get('github-social-card', 0)} GitHub-generated social cards. Previews were resolved through the GitHub API on {previews['resolvedOn']}; tympanus.net was not requested and no demo videos were collected. Local renders are reference screenshots: the demos, their code and assets belong to Codrops and the demo authors.", '']),
              '## Use with an agent', '',
              'Choose a reference by its tags, then open the repository, its README and its declared demo through permitted access. Inspect the actual effect before adapting it. Verify the current dependency versions, LICENSE and asset notices; an MIT repository may contain separately credited images, fonts or models. Match the user’s project stack and keep layout, motion and assets as distinct implementation requirements. Follow the [frontend-library skill](../../.agents/skills/frontend-library/SKILL.md).', '',
              '## Article references', '', '| Article | Date | Topics |', '|:--|:--|:--|']
@@ -414,7 +421,14 @@ def main():
     parser.add_argument('--cache', type=Path, help='Read a previously fetched GitHub API pages JSON instead of network')
     parser.add_argument('--previews', action='store_true', help='Resolve repository previews through gh api')
     parser.add_argument('--previews-only', action='store_true', help='Resolve previews for the existing catalog without re-reading the repository list')
+    parser.add_argument('--guide-only', action='store_true', help='Rewrite the guide and preview coverage from the existing catalog (no network)')
     args = parser.parse_args()
+    if args.guide_only:
+        catalog = load_catalog()
+        resolved = (catalog['coverage'].get('previews') or {}).get('resolvedOn') or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+        catalog['coverage']['previews'] = preview_coverage(catalog['items'], resolved)
+        write(catalog)
+        return
     if args.previews_only:
         catalog = load_catalog()
         collected = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
