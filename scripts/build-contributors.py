@@ -15,6 +15,7 @@ import os
 import re
 import subprocess
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -36,6 +37,8 @@ TRAILER_ALIASES = [
     (re.compile(r"copilot", re.I), "Copilot"),
     (re.compile(r"codex|openai", re.I), "codex"),
     (re.compile(r"cursor", re.I), "cursoragent"),
+    (re.compile(r"devin", re.I), "devin-ai-integration[bot]"),
+    (re.compile(r"opencode", re.I), "opencode-agent[bot]"),
 ]
 
 AVATAR_SIZE = 64
@@ -123,7 +126,7 @@ def gather_contributors() -> list[dict]:
     for login_hint in collect_coauthors():
         if login_hint.lower() in by_lower:
             continue
-        user = github_get_json(f"https://api.github.com/users/{login_hint}")
+        user = github_get_json(f"https://api.github.com/users/{urllib.parse.quote(login_hint)}")
         if not user or not user.get("avatar_url"):
             continue
         login = user["login"]
