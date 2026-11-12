@@ -45,6 +45,32 @@ Thanks for your interest in contributing to **Frontend Library**! Contributions 
    ```
 6. **Open a Pull Request** against `main` on GitHub and fill out the PR template checklist.
 
+## Preview GIFs
+
+Animated previews are captured from the demo page with headless Chrome, so the GIF always matches the code you shipped. The script needs Node 18+ (for the built-in `WebSocket`), Chrome or Chromium, and `ffmpeg` on your `PATH`:
+
+```bash
+node scripts/capture-gif.mjs animations/snippets/<name>/index.html .github/assets/gifs/<name>.gif
+```
+
+The optional arguments are the capture length in milliseconds and the frame rate:
+
+```bash
+node scripts/capture-gif.mjs components/<name>/index.html .github/assets/gifs/<name>.gif 2600 20
+```
+
+Set `GIF_WIDTH` and `GIF_HEIGHT` to change the capture viewport when a component is taller than the default stage.
+
+## Checks that run on your PR
+
+The CI workflow rebuilds the catalogs and fails if the generated files are out of date, and `scripts/validate-data.py` checks that every entry in `data/` still has both a `url` and the `source` page it was collected from. Run them locally before pushing:
+
+```bash
+python3 scripts/build-catalog.py && python3 scripts/build-visuals.py
+python3 scripts/validate-data.py
+git diff --exit-code   # should print nothing
+```
+
 ## Need Help or Have Ideas?
 
 Open an Issue to suggest a new asset category, report a broken asset, or discuss changes before submitting a large PR.
