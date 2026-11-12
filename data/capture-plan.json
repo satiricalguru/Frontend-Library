@@ -3,28 +3,28 @@
   "items": [
     {
       "id": "lusion-home",
-      "name": "Lusion \u2014 Home",
+      "name": "Lusion — Home",
       "url": "https://lusion.co/",
       "source": "https://lusion.co/",
       "kind": "landing-page"
     },
     {
       "id": "lusion-about",
-      "name": "Lusion \u2014 About",
+      "name": "Lusion — About",
       "url": "https://lusion.co/about",
       "source": "https://lusion.co/",
       "kind": "studio-page"
     },
     {
       "id": "lusion-projects",
-      "name": "Lusion \u2014 Projects",
+      "name": "Lusion — Projects",
       "url": "https://lusion.co/projects",
       "source": "https://lusion.co/",
       "kind": "project-index"
     },
     {
       "id": "lusion-labs",
-      "name": "Lusion Labs \u2014 Index",
+      "name": "Lusion Labs — Index",
       "url": "https://labs.lusion.co/",
       "source": "https://lusion.co/",
       "kind": "experiment-index"
@@ -462,7 +462,7 @@
     },
     {
       "id": "live-ion",
-      "name": "Ion \u2014 live WebGL speaker landing page",
+      "name": "Ion — live WebGL speaker landing page",
       "url": "https://exp-ion.lusion.co/",
       "source": "https://labs.lusion.co/exp/ion-speaker",
       "kind": "landing-page",
@@ -475,108 +475,432 @@
     },
     {
       "id": "live-surface-floater",
-      "name": "Surface Floater \u2014 live experience",
+      "name": "Surface Floater — live experience",
       "url": "https://surface-floater.lusion.co/",
       "source": "https://labs.lusion.co/exp/choochoo",
       "kind": "interactive-experience"
     },
     {
       "id": "live-akari",
-      "name": "Akari \u2014 live experience",
+      "name": "Akari — live experience",
       "url": "https://akari.lusion.co/",
       "source": "https://labs.lusion.co/exp/choochoo",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-covid-spike",
-      "name": "Exp Covid Spike \u2014 live experience",
+      "name": "Exp Covid Spike — live experience",
       "url": "https://exp-covid-spike.lusion.co/",
       "source": "https://labs.lusion.co/exp/covid-spike",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-my-little-storybook",
-      "name": "Exp My Little Storybook \u2014 live experience",
+      "name": "Exp My Little Storybook — live experience",
       "url": "https://exp-my-little-storybook.lusion.co/",
       "source": "https://labs.lusion.co/exp/covid-spike",
       "kind": "interactive-experience"
     },
     {
       "id": "live-hair-simulation",
-      "name": "Hair Simulation \u2014 live experience",
+      "name": "Hair Simulation — live experience",
       "url": "https://hair-simulation.lusion.co/",
       "source": "https://labs.lusion.co/exp/hair-simulation",
       "kind": "interactive-experience"
     },
     {
       "id": "live-webxr-sneakers",
-      "name": "Webxr Sneakers \u2014 live experience",
+      "name": "Webxr Sneakers — live experience",
       "url": "https://webxr-sneakers.lusion.co/",
       "source": "https://labs.lusion.co/exp/hair-simulation",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-mind-flayer",
-      "name": "Exp Mind Flayer \u2014 live experience",
+      "name": "Exp Mind Flayer — live experience",
       "url": "https://exp-mind-flayer.lusion.co/",
       "source": "https://labs.lusion.co/exp/hair-simulation",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-infinite-passerella",
-      "name": "Exp Infinite Passerella \u2014 live experience",
+      "name": "Exp Infinite Passerella — live experience",
       "url": "https://exp-infinite-passerella.lusion.co/",
       "source": "https://labs.lusion.co/exp/infinite-passerella",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-gemini",
-      "name": "Exp Gemini \u2014 live experience",
+      "name": "Exp Gemini — live experience",
       "url": "https://exp-gemini.lusion.co/",
       "source": "https://labs.lusion.co/exp/ion-speaker",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-small-world",
-      "name": "Exp Small World \u2014 live experience",
+      "name": "Exp Small World — live experience",
       "url": "https://exp-small-world.lusion.co/",
       "source": "https://labs.lusion.co/exp/ion-speaker",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-digital-city",
-      "name": "Exp Digital City \u2014 live experience",
+      "name": "Exp Digital City — live experience",
       "url": "https://exp-digital-city.lusion.co/",
       "source": "https://labs.lusion.co/exp/my-little-story-book",
       "kind": "interactive-experience"
     },
     {
       "id": "live-exp-abduction",
-      "name": "Exp Abduction \u2014 live experience",
+      "name": "Exp Abduction — live experience",
       "url": "https://exp-abduction.lusion.co/",
       "source": "https://labs.lusion.co/exp/my-little-story-book",
       "kind": "interactive-experience"
     },
     {
       "id": "live-1105-ddd2024-homepage",
-      "name": "1105 Ddd2024 Homepage \u2014 live experience",
+      "name": "1105 Ddd2024 Homepage — live experience",
       "url": "https://1105-ddd2024-homepage.lusion.co/",
       "source": "https://lusion.co/projects/ddd_2024",
       "kind": "interactive-experience"
     },
     {
       "id": "live-archive-devin-ai",
-      "name": "Archive Devin Ai \u2014 live experience",
+      "name": "Archive Devin Ai — live experience",
       "url": "https://archive-devin-ai.lusion.co/",
       "source": "https://lusion.co/projects/devin_ai",
       "kind": "interactive-experience"
     },
     {
       "id": "live-client-zero-tech",
-      "name": "Client Zero Tech \u2014 live experience",
+      "name": "Client Zero Tech — live experience",
       "url": "https://client-zero-tech.lusion.co/",
       "source": "https://lusion.co/projects/zero_tech",
       "kind": "interactive-experience"
+    },
+    {
+      "id": "refero-linear",
+      "name": "Linear — homepage",
+      "url": "https://linear.app/",
+      "source": "https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-vercel",
+      "name": "Vercel — homepage",
+      "url": "https://vercel.com/",
+      "source": "https://styles.refero.design/style/f24daf3a-d43f-4dec-85a9-8ac1d5148a03",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-stripe",
+      "name": "Stripe — homepage",
+      "url": "https://stripe.com/",
+      "source": "https://styles.refero.design/style/48e5de76-05d5-4c4e-a269-c7c245b291ec",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-notion",
+      "name": "Notion — homepage",
+      "url": "https://www.notion.com/",
+      "source": "https://styles.refero.design/style/f58e99d1-940d-4254-8822-5d856bba6505",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-raycast",
+      "name": "Raycast — homepage",
+      "url": "https://www.raycast.com/",
+      "source": "https://styles.refero.design/style/3b6a17f0-3bdf-418c-a95e-0b89e5a8b2f8",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-framer",
+      "name": "Framer — homepage",
+      "url": "https://www.framer.com/",
+      "source": "https://styles.refero.design/style/242db326-a6f3-482a-b12e-5e7f8af94981",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-supabase",
+      "name": "Supabase — homepage",
+      "url": "https://supabase.com/",
+      "source": "https://styles.refero.design/style/632249f1-fd78-4c77-9b34-7bae37ff3e9b",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-arc",
+      "name": "Arc — homepage",
+      "url": "https://arc.net/",
+      "source": "https://styles.refero.design/style/acfb6fa1-3aed-4e64-8522-7f332a796de8",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-wise",
+      "name": "Wise — homepage",
+      "url": "https://wise.com/",
+      "source": "https://styles.refero.design/style/367c0c6e-73a7-441c-a8ff-91d139ac60dc",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-superhuman",
+      "name": "Superhuman — homepage",
+      "url": "https://superhuman.com/",
+      "source": "https://styles.refero.design/style/418b374a-be64-44f0-b17e-1d45308c7e62",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-github",
+      "name": "GitHub — homepage",
+      "url": "https://github.com/",
+      "source": "https://styles.refero.design/style/c3ceca5c-d329-4559-b947-016172941ba2",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-discord",
+      "name": "Discord — homepage",
+      "url": "https://discord.com/",
+      "source": "https://styles.refero.design/style/faec4b0c-cf93-4150-97de-0a8e7eed1840",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-duolingo",
+      "name": "Duolingo — homepage",
+      "url": "https://www.duolingo.com/",
+      "source": "https://styles.refero.design/style/95b472c5-fc07-46a8-a11f-c5432e290fcd",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-slack",
+      "name": "Slack — homepage",
+      "url": "https://slack.com/",
+      "source": "https://styles.refero.design/style/e26cb9b0-f876-41ff-9f24-fd67a6b9776c",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-shopify",
+      "name": "Shopify — homepage",
+      "url": "https://www.shopify.com/",
+      "source": "https://styles.refero.design/style/1a8ba699-24cb-4b35-8db1-c595c578199c",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-intercom",
+      "name": "Intercom — homepage",
+      "url": "https://www.intercom.com/",
+      "source": "https://styles.refero.design/style/12255b63-e506-4bc1-a4cd-d05487de32f3",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-mailchimp",
+      "name": "Mailchimp — homepage",
+      "url": "https://mailchimp.com/",
+      "source": "https://styles.refero.design/style/24929007-7e62-4c96-a940-7de65438a578",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-webflow",
+      "name": "Webflow — homepage",
+      "url": "https://webflow.com/",
+      "source": "https://styles.refero.design/style/31471407-598a-45fd-a505-d921980d8855",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-anthropic",
+      "name": "Anthropic — homepage",
+      "url": "https://www.anthropic.com/",
+      "source": "https://styles.refero.design/style/d469cba4-c448-4a43-a033-883f8bfcdc42",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-mercury",
+      "name": "Mercury — homepage",
+      "url": "https://mercury.com/",
+      "source": "https://styles.refero.design/style/3172cd4d-118a-4a16-a259-6b634d32322e",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-ramp",
+      "name": "Ramp — homepage",
+      "url": "https://ramp.com/",
+      "source": "https://styles.refero.design/style/b38702a0-75ab-474c-9106-00b624535825",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-cursor",
+      "name": "Cursor — homepage",
+      "url": "https://cursor.com/",
+      "source": "https://styles.refero.design/style/4e3b4717-84c8-4599-baaf-a343c3d619b6",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-resend",
+      "name": "Resend — homepage",
+      "url": "https://resend.com/",
+      "source": "https://styles.refero.design/style/0d914ef0-fa84-4c60-a9aa-cef0b5eb6e5d",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-clerk",
+      "name": "Clerk — homepage",
+      "url": "https://clerk.com/",
+      "source": "https://styles.refero.design/style/ed10ae04-24ec-4e42-9bf2-ea12a4b58d67",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-retool",
+      "name": "Retool — homepage",
+      "url": "https://retool.com/",
+      "source": "https://styles.refero.design/style/c45b115b-dcb5-446d-8952-85aef740f8e4",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-perplexity-ai",
+      "name": "Perplexity AI — homepage",
+      "url": "https://www.perplexity.ai/",
+      "source": "https://styles.refero.design/style/7c4e9339-591c-46c3-ac3d-20c1b5b5a568",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-monzo",
+      "name": "Monzo — homepage",
+      "url": "https://monzo.com/",
+      "source": "https://styles.refero.design/style/e8a1d114-6924-4f03-acd2-996dd30f15a6",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-teenage-engineering",
+      "name": "teenage engineering — homepage",
+      "url": "https://teenage.engineering/",
+      "source": "https://styles.refero.design/style/aecf9dda-5cba-4dc7-9e73-59b65d895cdf",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-spline",
+      "name": "Spline — homepage",
+      "url": "https://spline.design/",
+      "source": "https://styles.refero.design/style/b36d5c7c-9b28-4c99-b5a8-69ce03621410",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-apple",
+      "name": "Apple — homepage",
+      "url": "https://www.apple.com/",
+      "source": "https://styles.refero.design/style/aecac5da-f397-4ddf-b71f-de1efc434cb8",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-grafana-labs",
+      "name": "Grafana Labs — homepage",
+      "url": "https://grafana.com/",
+      "source": "https://styles.refero.design/style/03e0e30c-4c0f-4879-948a-9b501e530207",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-nuxt",
+      "name": "Nuxt — homepage",
+      "url": "https://nuxt.com/",
+      "source": "https://styles.refero.design/style/d9a19632-e9ee-4c9c-849b-ed48b1c43ee7",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-mollie",
+      "name": "Mollie — homepage",
+      "url": "https://www.mollie.com/",
+      "source": "https://styles.refero.design/style/73ec75d6-edec-4ed2-bc09-debb261b6ee0",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-modern-treasury",
+      "name": "Modern Treasury — homepage",
+      "url": "https://www.moderntreasury.com/",
+      "source": "https://styles.refero.design/style/2e9b3dcb-f937-488d-891c-351c7366188f",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-awwwards",
+      "name": "Awwwards — homepage",
+      "url": "https://www.awwwards.com/",
+      "source": "https://styles.refero.design/style/a77a7289-3438-46ba-8194-214739e47514",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "refero-dollar-shave-club",
+      "name": "Dollar Shave Club — homepage",
+      "url": "https://www.dollarshaveclub.com/",
+      "source": "https://styles.refero.design/style/6d72f05e-dce6-43ad-9532-f61bf211ed46",
+      "kind": "landing-page",
+      "group": "refero",
+      "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
     }
   ]
 }

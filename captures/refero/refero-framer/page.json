@@ -1,0 +1,3541 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-framer",
+  "name": "Framer — homepage",
+  "url": "https://www.framer.com/",
+  "source": "https://styles.refero.design/style/242db326-a6f3-482a-b12e-5e7f8af94981",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:46:01.303Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.framer.com/robots.txt",
+    "checkedAt": "2026-11-12T10:46:01.302Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/api-proxy"
+      },
+      {
+        "allow": false,
+        "path": "/*?budget="
+      },
+      {
+        "allow": false,
+        "path": "/*&budget="
+      },
+      {
+        "allow": false,
+        "path": "/*?region="
+      },
+      {
+        "allow": false,
+        "path": "/*&region="
+      },
+      {
+        "allow": false,
+        "path": "/*?skill="
+      },
+      {
+        "allow": false,
+        "path": "/*&skill="
+      },
+      {
+        "allow": false,
+        "path": "/*?language="
+      },
+      {
+        "allow": false,
+        "path": "/*&language="
+      },
+      {
+        "allow": false,
+        "path": "/*?tab="
+      },
+      {
+        "allow": false,
+        "path": "/*&tab="
+      },
+      {
+        "allow": false,
+        "path": "/experts/*?referrer="
+      },
+      {
+        "allow": false,
+        "path": "/experts/*&referrer="
+      },
+      {
+        "allow": false,
+        "path": "/*?sort="
+      },
+      {
+        "allow": false,
+        "path": "/*&sort="
+      },
+      {
+        "allow": false,
+        "path": "/*?query="
+      },
+      {
+        "allow": false,
+        "path": "/*&query="
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "hero",
+          "hero-visual",
+          "fztpfe"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 858,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "hero",
+          "hero-visual",
+          "fztpfe"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3009,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 3010,
+        "contentTop": -2946,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "agents",
+          "agents-design",
+          "agents-cms"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5357,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 6715,
+        "contentTop": -6651,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "bento-performance",
+          "bento-cms",
+          "1wic2o7"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7753,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 9516,
+        "contentTop": -9452,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9842,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.framer.com/",
+        "scrollY": 11464,
+        "contentTop": -11400,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://analytics.framer.com/_/service_worker/6al0/sw_iframe.html",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://analytics.framer.com/_/set_cookie",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://analytics.framer.com/g/collect",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://api.framer.com/auth/signin",
+      "status": 401,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://api.framer.com/auth/web/access-token",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://api.framer.com/site/users/me",
+      "status": 401,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://events.framer.com/anonymous",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Ping"
+    },
+    {
+      "url": "https://events.framer.com/script",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://events.framer.com/track",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://framer.com/bootstrap.3165c4d60fa1ec08737cd3f0c754b3ef835b0d32.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://framer.com/edit/alpha",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://framer.com/edit/alpha/init.mjs",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://status.framer.com/index.json",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.framer.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 77027,
+      "sha256": "525b6d0a7373326ec997b597e5395ef7bd8dfa818a82f8fde3de643b4ca5e8bd"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 79145,
+      "sha256": "126ff8a6faefa1b156e3b3d42f5843ae45ccad5e5bc61e92ada5367fbb9a095a"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 73580,
+      "sha256": "33acf458debc5f309aac8d10bfc6387131f5ae53159af73d48a6f303acc43a88"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 63248,
+      "sha256": "66f170537fbfe307d693fe83b827164f8af87afe8d7af81190e0f5976d421d67"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 64274,
+      "sha256": "e067741810b05d02106a8eb9fe53d700e67fe6c179c519bd7fbd8108afb1ce2e"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 69522,
+      "sha256": "199621eac206aa965c1a9332fb2c217bac2e68ddfd7b20515660ed37284ad284"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 306408,
+      "sha256": "fb157ca782230a0136b2201c56b92bb62024a9b64147da6a27ad38bbd77adc3f"
+    }
+  ],
+  "initial": {
+    "url": "https://www.framer.com/",
+    "title": "Framer: Free website builder and AI design agent",
+    "documentHeight": 12364,
+    "contentHeight": 12364,
+    "contentTop": 64,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "hero",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 64,
+          "width": 1440,
+          "height": 1020
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "companies",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 1084,
+          "width": 1440,
+          "height": 336
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "agents",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 2818,
+          "width": 1440,
+          "height": 3117
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 65,
+        "rect": {
+          "x": 120,
+          "y": 164,
+          "width": 782,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 120,
+          "y": 1540,
+          "width": 520,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 150,
+          "y": 2587,
+          "width": 137,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 550,
+          "y": 2587,
+          "width": 146,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 950,
+          "y": 2587,
+          "width": 219,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 39,
+        "rect": {
+          "x": 120,
+          "y": 2938,
+          "width": 387,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 130,
+          "y": 3588,
+          "width": 640,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 130,
+          "y": 4288,
+          "width": 640,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 130,
+          "y": 4988,
+          "width": 741,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 120,
+          "y": 6055,
+          "width": 270,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 145,
+          "y": 6681,
+          "width": 107,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 545,
+          "y": 6681,
+          "width": 40,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 145,
+          "y": 7161,
+          "width": 35,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 545,
+          "y": 6921,
+          "width": 110,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 545,
+          "y": 7161,
+          "width": 99,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 1042,
+          "y": 6826,
+          "width": 156,
+          "height": 43
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "43.2px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 945,
+          "y": 6921,
+          "width": 63,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 945,
+          "y": 7161,
+          "width": 68,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 145,
+          "y": 7641,
+          "width": 76,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 945,
+          "y": 7641,
+          "width": 94,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 120,
+          "y": 7930,
+          "width": 400,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 120,
+          "y": 9169,
+          "width": 330,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 120,
+          "y": 9988,
+          "width": 500,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 379,
+          "y": 11205,
+          "width": 682,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.framer.com/",
+      "https://www.framer.com/enterprise/",
+      "https://www.framer.com/pricing",
+      "https://framer.com/login",
+      "https://www.framer.com/r/signup/",
+      "https://www.framer.com/brand",
+      "https://framer.com/r/signup/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/agents/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/performance/",
+      "https://www.framer.com/cms/",
+      "https://www.framer.com/seo/",
+      "https://www.framer.com/collaborate/",
+      "https://www.framer.com/academy/lessons/localization",
+      "https://www.framer.com/hosting/",
+      "https://www.framer.com/legal/security",
+      "https://www.framer.com/",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/community/gallery/",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/stories/miro/",
+      "https://www.framer.com/stories/perplexity/",
+      "https://www.framer.com/stories/legora/",
+      "https://www.framer.com/stories/mixpanel/",
+      "https://www.framer.com/stories/zapier/",
+      "https://www.framer.com/stories/typesafe/",
+      "https://www.framer.com/stories/mutiny/",
+      "https://www.framer.com/stories/stackai/",
+      "https://www.framer.com/community/feed/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://framer.com/signup",
+      "https://www.framer.com/ai/",
+      "https://www.framer.com/agents/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/design/",
+      "https://www.framer.com/collaborate/",
+      "https://www.framer.com/cms/",
+      "https://www.framer.com/hosting/",
+      "https://www.framer.com/performance/",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/seo/",
+      "https://www.framer.com/skills",
+      "https://www.framer.com/convert/",
+      "https://www.framer.com/publish/",
+      "https://www.framer.com/updates",
+      "https://www.framer.com/community/marketplace/templates/",
+      "https://www.framer.com/community/marketplace/components/",
+      "https://www.framer.com/community/marketplace/vectors/",
+      "https://www.framer.com/community/marketplace/plugins/",
+      "https://www.framer.com/community/gallery/",
+      "https://www.framer.com/community/members/",
+      "https://www.framer.com/switch/",
+      "https://www.framer.com/enterprise/",
+      "https://www.framer.com/agencies/",
+      "https://www.framer.com/startups/",
+      "https://www.framer.com/pricing",
+      "https://www.framer.com/academy/",
+      "https://www.framer.com/downloads/",
+      "https://www.framer.com/developers/",
+      "https://www.framer.com/creators",
+      "https://www.framer.com/expert/apply/",
+      "https://www.framer.com/guides",
+      "https://www.framer.com/blog/",
+      "https://www.framer.com/newsletter",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/skills/index",
+      "https://www.framer.com/education/students/",
+      "https://www.framer.com/",
+      "https://www.framer.com/help/",
+      "https://www.framer.com/meetups/",
+      "https://www.framer.com/contact/",
+      "https://www.framer.com/solutions/designers/",
+      "https://www.framer.com/solutions/agencies/",
+      "https://www.framer.com/solutions/marketers/",
+      "https://www.framer.com/solutions/growth/",
+      "https://www.framer.com/solutions/builders/",
+      "https://www.framer.com/solutions/engineers/",
+      "https://www.framer.com/solutions/site-teams/",
+      "https://www.framer.com/solutions/founders/",
+      "https://www.framer.com/solutions/ai-website-builder/",
+      "https://www.framer.com/solutions/ai-designer/",
+      "https://www.framer.com/solutions/website-builder/",
+      "https://www.framer.com/solutions/landing-pages/",
+      "https://www.framer.com/solutions/portfolio-website/",
+      "https://www.framer.com/solutions/ui-ux-design/",
+      "https://www.framer.com/solutions/figma-to-html/",
+      "https://www.framer.com/solutions/no-code-website-builder/",
+      "https://www.framer.com/compare",
+      "https://www.framer.com/compare/framer-vs-webflow",
+      "https://www.framer.com/compare/framer-vs-figma",
+      "https://www.framer.com/compare/framer-vs-wix",
+      "https://www.framer.com/compare/framer-vs-squarespace",
+      "https://www.framer.com/compare/framer-vs-wordpress",
+      "https://www.framer.com/compare/framer-vs-readymag",
+      "https://www.framer.com/compare/framer-vs-ceros",
+      "https://www.framer.com/compare/framer-vs-unbounce",
+      "https://www.framer.com/compare/framer-vs-lovable",
+      "https://www.framer.com/compare/framer-vs-claude-code",
+      "https://www.framer.com/compare/framer-vs-chatgpt",
+      "https://www.framer.com/compare/framer-vs-codex",
+      "https://www.framer.com/compare/framer-vs-contentful",
+      "https://www.framer.com/compare/framer-vs-sanity",
+      "https://www.framer.com/compare/framer-vs-adobe-experience-manager",
+      "https://www.framer.com/compare/framer-vs-replit",
+      "https://www.framer.com/compare/framer-vs-astro",
+      "https://www.framer.com/compare/framer-vs-v0",
+      "https://www.framer.com/about",
+      "https://www.framer.com/careers/",
+      "https://www.framer.com/legal/security",
+      "https://www.framer.com/brand",
+      "https://www.framer.com/legal/community-terms",
+      "https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2",
+      "https://www.framer.com/store",
+      "https://www.framer.com/f1",
+      "https://www.framer.com/stack-score/",
+      "https://www.framer.com/domains/",
+      "https://www.framer.com/canvasbench/",
+      "https://www.framer.com/state-of-sites-2026/",
+      "https://www.framer.com/aeo",
+      "https://www.linkpreview.app/",
+      "https://www.framer.com/",
+      "https://x.com/framer",
+      "https://www.youtube.com/@Framer",
+      "https://www.instagram.com/framer/",
+      "https://www.linkedin.com/company/framer/",
+      "https://www.threads.com/@framer",
+      "https://framer.com/llms.txt/",
+      "https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2",
+      "https://www.framerstatus.com/",
+      "https://www.framer.com/legal/cookie-statement"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/ejDJI6YCqjhk88qIQ858e36L04E.mp4",
+        "poster": "https://framerusercontent.com/images/aKUIMjNuPk8A4te7JSSJ3Jek.jpg?width=1160&height=650",
+        "width": 1920,
+        "height": 1076
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/UnfUTFiycUvyLiWVaZSTQX3S7kA.png?width=335&height=335",
+        "poster": "",
+        "width": 335,
+        "height": 335
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/23W7URwXzeyNBGr6KAR1Ovou6V4.png?width=475&height=475",
+        "poster": "",
+        "width": 475,
+        "height": 475
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HpuIynUBjhAJSaXjaIesR9XZ7fM.png?scale-down-to=512&width=2160&height=2160",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/tYCN0QonegUXVR55WmrQ7jG3nLo.jpg?scale-down-to=1024&width=2240&height=140",
+        "poster": "",
+        "width": 530,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CvGf2WB8Q3Q9xFTMPzlPIpuqL4o.jpg?scale-down-to=1024&width=2240&height=740",
+        "poster": "",
+        "width": 530,
+        "height": 174
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/Eu34w3qmcwIMwxWCvCWBKaHtrw.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ZFCF3yK98ckn0QgDMmKrJXXURVQ.jpg?width=2240&height=900",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NSyL5fO3XPhUYlHmNfv0May8LM.jpg?width=2240&height=140",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ICi2m2zyPai1LKwz9XZEkgSzQ.jpg?scale-down-to=512&width=1620&height=140",
+        "poster": "",
+        "width": 379,
+        "height": 32
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/tIWm3IhzJNTfEtVL9lEqnFZAy58.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HMvEeofMOWYzHDwChgXFgpYcs.jpg?scale-down-to=512&width=1620&height=370",
+        "poster": "",
+        "width": 379,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/VDou7Mwa4dcffjzYvoa80Cmi74.jpg?scale-down-to=512&width=1620&height=960",
+        "poster": "",
+        "width": 379,
+        "height": 224
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MvPPd7I4xJxeNO5ievRfaoAE.jpg?width=1620&height=1180",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/I4HWeSzUbC3vy22QykEaieasPY.jpg?width=1620&height=140",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/EX9NZExSFA4eodl7ZJOzgSOmf0.jpg?lossless=1&width=1200&height=1549",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/4dSrVgS0I0XvJg2hlhEERFeaI4.jpg?lossless=1&width=1200&height=1454",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MY18WE0x641B3s93Ntxb9EyNDg.jpg?lossless=1&width=1200&height=1632",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/LPkXlDTlZn3Gg3nOt0vzCxLJXU.png?width=512&height=512",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/4lqMHnXQfYqTAzY33snof8y0Es.png?width=764&height=480",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MpLFDC67YQNhZn2xoUIeyQAZK0.jpg?width=120&height=120",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Yrl5iQeyEEzLD8pNITy1dJET2RM.jpg?width=120&height=120",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/vXcO4WGVMInagNXNjSGxl3jl0U.jpg?width=120&height=120",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/YY5IEBQkB2R1f6V5zwAeWX6sl2M.jpg?width=120&height=120",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Hmpf3NeQjpUx0q8s2c8riF2jpQ.jpg?width=120&height=120",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jsKLc6lXoHjCysrAHeG3ghcriI.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/noTZrAnaWnle2PIeZvXS66nzXG4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/7hSz2Jc01Ilj9LZpJlZ7RcYh0Q.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/uDdBqfuYdrKTwMfwVUNHXY3FtJk.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/hlpxQq1a2zZi2B0UH9nlvggCYZY.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/izmhOCZ9AE4RHH29q34wCc5W3Mo.jpg?width=2240&height=140",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RUCQXTdC1P3kOSgwlXiUYL7zXc.jpg?width=2240&height=880",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FZ7lxiXg058Q5WkLuIXqolcRD8.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/usaoXNWRLeM7U9Xt0Tx5xMMbc.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CRKaWbZDqmciaZB3o8TLxfNfg.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ImSxIBL5r0HQ0A9eAfv3URGZ6s.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/kNTFdAbq8KepLO0ZTbRn615fg4.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/l43trLLXSdDM5JxPLAjSBS0yFZQ.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/7mIYCJjy7b59G8bbbUNvCTZ5tg.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QTBWCthlYtWCw8cIvFl8tkXTZx4.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/f4S0gAvTsWVVdZcuwBqWpJJJx4Q.jpg?width=750&height=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NSyL5fO3XPhUYlHmNfv0May8LM.jpg?width=2240&height=140",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jsKLc6lXoHjCysrAHeG3ghcriI.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/uDdBqfuYdrKTwMfwVUNHXY3FtJk.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/noTZrAnaWnle2PIeZvXS66nzXG4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FXS1HldC2ITgGNLZTGbBDGA7h0.png?scale-down-to=512&width=1200&height=630",
+        "poster": "",
+        "width": 280,
+        "height": 147
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/OmKDjH7juzfJ8ETRwLy9hglwa0.png?width=192&height=192",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/PNKbO6dGnRRwEvctPlhddS3H2s.png?width=512&height=512",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/kFiEvDg0LczTmqWVkfNUFTc50.png?width=512&height=512",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CQsZ1v3Cg7a8s5gQ8zH4usL7HU.png?width=774&height=480",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QSALLMZz20lUztB4mySTDLq6mE.png?width=2800&height=1804",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ordt7SZDaUEWKA368UbAGtdIno.png?width=884&height=1894",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/a1daVaOmbl26jqNCw1Q0P3vhWZQ.png?width=2796&height=1808",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/qgcb6nXCOIxXxk9CLxf9WOoOk.png?width=880&height=1806",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/wVxwU0qi5YsLHBFbDaX8c3jTcU.png?width=3222&height=2078",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/AfVrJxeJkkgPpnO71Nw1tpmiiyI.jpg?width=928&height=1846",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RtheNIazFJm6EqfeKh66Bi7wyGI.png?width=880&height=1808",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CC3vnYoPhqbdIEFTrhc9At8bgWo.png?width=2874&height=1834",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/YCWnviU2EZwsP64iysymO773I.png?width=880&height=1782",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/wbyAS4r6FWaI1G1ena314OJs.png?width=2800&height=1804",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Y6F5zkargty3ahKr9VGtA83ujXU.png?width=880&height=1806",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/WDlxZ5aairNkZSH0cyHqAzB2w.png?width=3200&height=2072",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Ll17Dg9HmF3p6UA1Us9m037NPiw.svg?width=57&height=21",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/DL8hej2J0ENXehCcjm05h3CmA.png?width=2048&height=1070",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Xflqz4b166Nn6flLSNwZ3YHpnA.png?width=710&height=160",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/eGoO50sQnLTjwFBzhi9LqDdU3vQ.png?width=2048&height=1152",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/nfqFxnwuHxDsKC4aq6bkL2C5Xc.svg?width=88&height=17",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jTtsVVBhSR0HphLKfSJpeVnmPos.webp?width=1000&height=1250",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/438CGnEJ8fW9oxKnD8cAdepnjS0.png?width=556&height=132",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/sxoUHMyDJmczUkVs28JyYftbQGM.png?width=2680&height=1320",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HEGqsXen4lEDl1qKEvOdeRAnxQ.svg?width=110&height=30",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/2HcMn3WE6ABg2DKf1egvCVZpn6s.jpg?width=2374&height=1746",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/o6pwnBxo1jLaJBtBl6CIuNjk8.svg?width=105&height=21",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/PzS1LtimN9FJ30xc2ET30Xure8.jpg?width=720&height=920",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NzfMBw82styKJA2j3DPEV081U.svg?width=1000&height=481",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RFqRfs88P7646TFOvUgWoxE0.png?width=648&height=752",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/lUZ3uzIob6NgeCKawVZCpNKJjE.png?width=1052&height=245",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/u0RvuERtz1FFu2w5kUQAVWmyU.jpg?width=2460&height=1296",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/rRuvXeJC8VZ7naTn6TEU38KyMk.png?width=156&height=64",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/vT8YWu2HpMqiF96ExFdnTUwjuk.png?width=400&height=400",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/IxrpbsCJLku5W91FcYn0gQuQY.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/p84L3wZzLg8rmtYvL85BAH0STM.png?width=640&height=640",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/6Mk8jyDEgOtr9zqsKnmAgsWAo.png?width=1600&height=1200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MBxTAYW1PmysHhfbcP7XfQPdoyI.png?width=400&height=400",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/d5okMiktMgbhCcGtgbr8gGqqHU.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/t0AxBQTyoDw9K4AFQrXmuKebU.png?width=80&height=80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/EGqLxawrgBiyYfcyRAdEFPRAMWo.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/mx5bnHNOCjRCPzwr1BpHj9zQ.png?width=128&height=96",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QchK2Mvzs4ZwqHCLITcEsyXfJQ.png?width=1600&height=1200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/n1eghXaRMaqaWFr1Is0nbWs.png?width=1600&height=1200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/SS1zLYFYEq2f2D7kn4GQdd9n6vI.png?width=2048&height=1536",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/d5ll6Vg4lf8pfdDjYrojBFKyw.png?width=1600&height=1200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Z0NE8U5KIf5GgCIJbqfv56tBjRE.png?width=200&height=200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ADJeiESFkUDh8VbMD46zlok6zVU.png?width=200&height=200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/nu5431blP1UqkgJejFHGxH6PCU.png?width=400&height=400",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/igNEVLKB1e3RUBLSYZgBS42ond8.png?width=200&height=200",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ynggD7nUfZHDBUYkl6tiSYz14.png?width=800&height=800",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/0eXXFHUyHJfmWheo1hAsywfd6Y.svg?width=17&height=17",
+        "poster": "",
+        "width": 17,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7b699d37-95d9-4f2a-ba2b-64439a2416c7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&tw_session_start=1&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7b699d37-95d9-4f2a-ba2b-64439a2416c7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&tw_session_start=1&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.podscribe.com/tag?action=view&user_id=9428f4d8-9061-7038-4333-e6338026449c&advertiser=framer&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.framer.com%2F&device_id=17944803617830.8014667626901348&first_visited_at=1794480363032&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fwww.framer.com%2F&event_url=https%3A%2F%2Fwww.framer.com%2F&source=js-tag+v1.2.3&cachebust=1794480363979",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ecb6880a-d100-41fb-87eb-921558d017a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ecb6880a-d100-41fb-87eb-921558d017a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://framer.com/edit/alpha?framerSiteId=79bc0c23c780a1bf6fd5ae4ab91052e922a4b36f471cf742332e409a0b73662e&source=www.framer.com&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%7D&loadStart=1794480362335",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 11304,
+    "actualTravel": 11464,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.framer.com/",
+    "title": "Framer: Free website builder and AI design agent",
+    "documentHeight": 12364,
+    "contentHeight": 12364,
+    "contentTop": -11400,
+    "scrollY": 11464,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "hero",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -11400,
+          "width": 1440,
+          "height": 1020
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "companies",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -10380,
+          "width": 1440,
+          "height": 336
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "agents",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -8646,
+          "width": 1440,
+          "height": 3117
+        },
+        "style": {
+          "fontFamily": "sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 65,
+        "rect": {
+          "x": 120,
+          "y": -11300,
+          "width": 782,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 120,
+          "y": -9924,
+          "width": 520,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 150,
+          "y": -8877,
+          "width": 137,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 550,
+          "y": -8877,
+          "width": 146,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 950,
+          "y": -8877,
+          "width": 219,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "15px",
+          "lineHeight": "20.25px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 39,
+        "rect": {
+          "x": 120,
+          "y": -8526,
+          "width": 387,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 150,
+          "y": -7876,
+          "width": 640,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 150,
+          "y": -7176,
+          "width": 640,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 150,
+          "y": -6476,
+          "width": 741,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 120,
+          "y": -5409,
+          "width": 270,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 145,
+          "y": -4783,
+          "width": 107,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 545,
+          "y": -4783,
+          "width": 40,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 145,
+          "y": -4303,
+          "width": 35,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 545,
+          "y": -4543,
+          "width": 110,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 545,
+          "y": -4303,
+          "width": 99,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 1042,
+          "y": -4638,
+          "width": 156,
+          "height": 43
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "43.2px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 945,
+          "y": -4543,
+          "width": 63,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 945,
+          "y": -4303,
+          "width": 68,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 145,
+          "y": -3823,
+          "width": 76,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 945,
+          "y": -3823,
+          "width": 94,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"Inter Variable Placeholder\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "24.3px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 120,
+          "y": -3534,
+          "width": 400,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 120,
+          "y": -2295,
+          "width": 330,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 120,
+          "y": -1476,
+          "width": 500,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "48.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 379,
+          "y": -259,
+          "width": 682,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "\"GT Walsheim Medium\", \"GT Walsheim Medium Placeholder\", sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.framer.com/",
+      "https://www.framer.com/enterprise/",
+      "https://www.framer.com/pricing",
+      "https://framer.com/login",
+      "https://www.framer.com/r/signup/",
+      "https://www.framer.com/brand",
+      "https://framer.com/r/signup/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/agents/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/signup/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/performance/",
+      "https://www.framer.com/cms/",
+      "https://www.framer.com/seo/",
+      "https://www.framer.com/collaborate/",
+      "https://www.framer.com/academy/lessons/localization",
+      "https://www.framer.com/hosting/",
+      "https://www.framer.com/legal/security",
+      "https://www.framer.com/",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/community/gallery/",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/stories/miro/",
+      "https://www.framer.com/stories/perplexity/",
+      "https://www.framer.com/stories/legora/",
+      "https://www.framer.com/stories/mixpanel/",
+      "https://www.framer.com/stories/zapier/",
+      "https://www.framer.com/stories/typesafe/",
+      "https://www.framer.com/stories/mutiny/",
+      "https://www.framer.com/stories/stackai/",
+      "https://www.framer.com/community/feed/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://www.framer.com/",
+      "https://framer.com/signup",
+      "https://www.framer.com/ai/",
+      "https://www.framer.com/agents/",
+      "https://www.framer.com/mcp/",
+      "https://www.framer.com/design/",
+      "https://www.framer.com/collaborate/",
+      "https://www.framer.com/cms/",
+      "https://www.framer.com/hosting/",
+      "https://www.framer.com/performance/",
+      "https://www.framer.com/analytics",
+      "https://www.framer.com/seo/",
+      "https://www.framer.com/skills",
+      "https://www.framer.com/convert/",
+      "https://www.framer.com/publish/",
+      "https://www.framer.com/updates",
+      "https://www.framer.com/community/marketplace/templates/",
+      "https://www.framer.com/community/marketplace/components/",
+      "https://www.framer.com/community/marketplace/vectors/",
+      "https://www.framer.com/community/marketplace/plugins/",
+      "https://www.framer.com/community/gallery/",
+      "https://www.framer.com/community/members/",
+      "https://www.framer.com/switch/",
+      "https://www.framer.com/enterprise/",
+      "https://www.framer.com/agencies/",
+      "https://www.framer.com/startups/",
+      "https://www.framer.com/pricing",
+      "https://www.framer.com/academy/",
+      "https://www.framer.com/downloads/",
+      "https://www.framer.com/developers/",
+      "https://www.framer.com/creators",
+      "https://www.framer.com/expert/apply/",
+      "https://www.framer.com/guides",
+      "https://www.framer.com/blog/",
+      "https://www.framer.com/newsletter",
+      "https://www.framer.com/stories/",
+      "https://www.framer.com/skills/index",
+      "https://www.framer.com/education/students/",
+      "https://www.framer.com/",
+      "https://www.framer.com/help/",
+      "https://www.framer.com/meetups/",
+      "https://www.framer.com/contact/",
+      "https://www.framer.com/solutions/designers/",
+      "https://www.framer.com/solutions/agencies/",
+      "https://www.framer.com/solutions/marketers/",
+      "https://www.framer.com/solutions/growth/",
+      "https://www.framer.com/solutions/builders/",
+      "https://www.framer.com/solutions/engineers/",
+      "https://www.framer.com/solutions/site-teams/",
+      "https://www.framer.com/solutions/founders/",
+      "https://www.framer.com/solutions/ai-website-builder/",
+      "https://www.framer.com/solutions/ai-designer/",
+      "https://www.framer.com/solutions/website-builder/",
+      "https://www.framer.com/solutions/landing-pages/",
+      "https://www.framer.com/solutions/portfolio-website/",
+      "https://www.framer.com/solutions/ui-ux-design/",
+      "https://www.framer.com/solutions/figma-to-html/",
+      "https://www.framer.com/solutions/no-code-website-builder/",
+      "https://www.framer.com/compare",
+      "https://www.framer.com/compare/framer-vs-webflow",
+      "https://www.framer.com/compare/framer-vs-figma",
+      "https://www.framer.com/compare/framer-vs-wix",
+      "https://www.framer.com/compare/framer-vs-squarespace",
+      "https://www.framer.com/compare/framer-vs-wordpress",
+      "https://www.framer.com/compare/framer-vs-readymag",
+      "https://www.framer.com/compare/framer-vs-ceros",
+      "https://www.framer.com/compare/framer-vs-unbounce",
+      "https://www.framer.com/compare/framer-vs-lovable",
+      "https://www.framer.com/compare/framer-vs-claude-code",
+      "https://www.framer.com/compare/framer-vs-chatgpt",
+      "https://www.framer.com/compare/framer-vs-codex",
+      "https://www.framer.com/compare/framer-vs-contentful",
+      "https://www.framer.com/compare/framer-vs-sanity",
+      "https://www.framer.com/compare/framer-vs-adobe-experience-manager",
+      "https://www.framer.com/compare/framer-vs-replit",
+      "https://www.framer.com/compare/framer-vs-astro",
+      "https://www.framer.com/compare/framer-vs-v0",
+      "https://www.framer.com/about",
+      "https://www.framer.com/careers/",
+      "https://www.framer.com/legal/security",
+      "https://www.framer.com/brand",
+      "https://www.framer.com/legal/community-terms",
+      "https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2",
+      "https://www.framer.com/store",
+      "https://www.framer.com/f1",
+      "https://www.framer.com/stack-score/",
+      "https://www.framer.com/domains/",
+      "https://www.framer.com/canvasbench/",
+      "https://www.framer.com/state-of-sites-2026/",
+      "https://www.framer.com/aeo",
+      "https://www.linkpreview.app/",
+      "https://www.framer.com/",
+      "https://x.com/framer",
+      "https://www.youtube.com/@Framer",
+      "https://www.instagram.com/framer/",
+      "https://www.linkedin.com/company/framer/",
+      "https://www.threads.com/@framer",
+      "https://framer.com/llms.txt/",
+      "https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2",
+      "https://www.framerstatus.com/",
+      "https://www.framer.com/legal/cookie-statement"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/ejDJI6YCqjhk88qIQ858e36L04E.mp4",
+        "poster": "https://framerusercontent.com/images/aKUIMjNuPk8A4te7JSSJ3Jek.jpg?width=1160&height=650",
+        "width": 1920,
+        "height": 1076
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/UnfUTFiycUvyLiWVaZSTQX3S7kA.png?width=335&height=335",
+        "poster": "",
+        "width": 335,
+        "height": 335
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/23W7URwXzeyNBGr6KAR1Ovou6V4.png?width=475&height=475",
+        "poster": "",
+        "width": 475,
+        "height": 475
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HpuIynUBjhAJSaXjaIesR9XZ7fM.png?scale-down-to=512&width=2160&height=2160",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/tYCN0QonegUXVR55WmrQ7jG3nLo.jpg?scale-down-to=1024&width=2240&height=140",
+        "poster": "",
+        "width": 530,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CvGf2WB8Q3Q9xFTMPzlPIpuqL4o.jpg?scale-down-to=1024&width=2240&height=740",
+        "poster": "",
+        "width": 530,
+        "height": 174
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/Eu34w3qmcwIMwxWCvCWBKaHtrw.mp4",
+        "poster": "",
+        "width": 2240,
+        "height": 1200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ZFCF3yK98ckn0QgDMmKrJXXURVQ.jpg?scale-down-to=1024&width=2240&height=900",
+        "poster": "",
+        "width": 530,
+        "height": 212
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NSyL5fO3XPhUYlHmNfv0May8LM.jpg?scale-down-to=1024&width=2240&height=140",
+        "poster": "",
+        "width": 530,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ICi2m2zyPai1LKwz9XZEkgSzQ.jpg?scale-down-to=512&width=1620&height=140",
+        "poster": "",
+        "width": 379,
+        "height": 32
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/tIWm3IhzJNTfEtVL9lEqnFZAy58.mp4",
+        "poster": "",
+        "width": 810,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HMvEeofMOWYzHDwChgXFgpYcs.jpg?scale-down-to=512&width=1620&height=370",
+        "poster": "",
+        "width": 379,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/VDou7Mwa4dcffjzYvoa80Cmi74.jpg?scale-down-to=512&width=1620&height=960",
+        "poster": "",
+        "width": 379,
+        "height": 224
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MvPPd7I4xJxeNO5ievRfaoAE.jpg?scale-down-to=512&width=1620&height=1180",
+        "poster": "",
+        "width": 379,
+        "height": 276
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/I4HWeSzUbC3vy22QykEaieasPY.jpg?width=1620&height=140",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/EX9NZExSFA4eodl7ZJOzgSOmf0.jpg?lossless=1&width=1200&height=1549",
+        "poster": "",
+        "width": 1440,
+        "height": 1858
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/4dSrVgS0I0XvJg2hlhEERFeaI4.jpg?lossless=1&width=1200&height=1454",
+        "poster": "",
+        "width": 1440,
+        "height": 1744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MY18WE0x641B3s93Ntxb9EyNDg.jpg?lossless=1&width=1200&height=1632",
+        "poster": "",
+        "width": 1440,
+        "height": 1958
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/LPkXlDTlZn3Gg3nOt0vzCxLJXU.png?width=512&height=512",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/4lqMHnXQfYqTAzY33snof8y0Es.png?scale-down-to=512&width=764&height=480",
+        "poster": "",
+        "width": 46,
+        "height": 28
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MpLFDC67YQNhZn2xoUIeyQAZK0.jpg?width=120&height=120",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Yrl5iQeyEEzLD8pNITy1dJET2RM.jpg?width=120&height=120",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/vXcO4WGVMInagNXNjSGxl3jl0U.jpg?width=120&height=120",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/YY5IEBQkB2R1f6V5zwAeWX6sl2M.jpg?width=120&height=120",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Hmpf3NeQjpUx0q8s2c8riF2jpQ.jpg?width=120&height=120",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/GjvoTAZBS3bbZCkT9BvgvSP3Tio.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jsKLc6lXoHjCysrAHeG3ghcriI.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/noTZrAnaWnle2PIeZvXS66nzXG4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/7hSz2Jc01Ilj9LZpJlZ7RcYh0Q.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/uDdBqfuYdrKTwMfwVUNHXY3FtJk.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/hlpxQq1a2zZi2B0UH9nlvggCYZY.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/izmhOCZ9AE4RHH29q34wCc5W3Mo.jpg?scale-down-to=1024&width=2240&height=140",
+        "poster": "",
+        "width": 520,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RUCQXTdC1P3kOSgwlXiUYL7zXc.jpg?scale-down-to=1024&width=2240&height=880",
+        "poster": "",
+        "width": 520,
+        "height": 204
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FZ7lxiXg058Q5WkLuIXqolcRD8.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/usaoXNWRLeM7U9Xt0Tx5xMMbc.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CRKaWbZDqmciaZB3o8TLxfNfg.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ImSxIBL5r0HQ0A9eAfv3URGZ6s.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/kNTFdAbq8KepLO0ZTbRn615fg4.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/l43trLLXSdDM5JxPLAjSBS0yFZQ.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/7mIYCJjy7b59G8bbbUNvCTZ5tg.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QTBWCthlYtWCw8cIvFl8tkXTZx4.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/f4S0gAvTsWVVdZcuwBqWpJJJx4Q.jpg?scale-down-to=1024&width=750&height=1080",
+        "poster": "",
+        "width": 173,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NSyL5fO3XPhUYlHmNfv0May8LM.jpg?scale-down-to=1024&width=2240&height=140",
+        "poster": "",
+        "width": 530,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jsKLc6lXoHjCysrAHeG3ghcriI.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/uDdBqfuYdrKTwMfwVUNHXY3FtJk.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/noTZrAnaWnle2PIeZvXS66nzXG4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/9fmhLlnuVij5WJGb7AKAPHd8K4.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FnIAILjnZeFuwBoETfTs4DaTubU.jpg?width=450&height=450",
+        "poster": "",
+        "width": 450,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/FXS1HldC2ITgGNLZTGbBDGA7h0.png?scale-down-to=512&width=1200&height=630",
+        "poster": "",
+        "width": 280,
+        "height": 147
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/OmKDjH7juzfJ8ETRwLy9hglwa0.png?width=192&height=192",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/PNKbO6dGnRRwEvctPlhddS3H2s.png?width=512&height=512",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/kFiEvDg0LczTmqWVkfNUFTc50.png?width=512&height=512",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CQsZ1v3Cg7a8s5gQ8zH4usL7HU.png?scale-down-to=512&width=774&height=480",
+        "poster": "",
+        "width": 400,
+        "height": 248
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QSALLMZz20lUztB4mySTDLq6mE.png?scale-down-to=1024&width=2800&height=1804",
+        "poster": "",
+        "width": 700,
+        "height": 451
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ordt7SZDaUEWKA368UbAGtdIno.png?width=884&height=1894",
+        "poster": "",
+        "width": 220,
+        "height": 471
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/a1daVaOmbl26jqNCw1Q0P3vhWZQ.png?scale-down-to=1024&width=2796&height=1808",
+        "poster": "",
+        "width": 700,
+        "height": 452
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/qgcb6nXCOIxXxk9CLxf9WOoOk.png?width=880&height=1806",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/wVxwU0qi5YsLHBFbDaX8c3jTcU.png?width=3222&height=2078",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/AfVrJxeJkkgPpnO71Nw1tpmiiyI.jpg?width=928&height=1846",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RtheNIazFJm6EqfeKh66Bi7wyGI.png?width=880&height=1808",
+        "poster": "",
+        "width": 220,
+        "height": 452
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/CC3vnYoPhqbdIEFTrhc9At8bgWo.png?scale-down-to=1024&width=2874&height=1834",
+        "poster": "",
+        "width": 700,
+        "height": 446
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/YCWnviU2EZwsP64iysymO773I.png?width=880&height=1782",
+        "poster": "",
+        "width": 220,
+        "height": 445
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/wbyAS4r6FWaI1G1ena314OJs.png?scale-down-to=1024&width=2800&height=1804",
+        "poster": "",
+        "width": 700,
+        "height": 451
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Y6F5zkargty3ahKr9VGtA83ujXU.png?width=880&height=1806",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/WDlxZ5aairNkZSH0cyHqAzB2w.png?scale-down-to=1024&width=3200&height=2072",
+        "poster": "",
+        "width": 700,
+        "height": 453
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Ll17Dg9HmF3p6UA1Us9m037NPiw.svg?width=57&height=21",
+        "poster": "",
+        "width": 57,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/DL8hej2J0ENXehCcjm05h3CmA.png?scale-down-to=512&width=2048&height=1070",
+        "poster": "",
+        "width": 360,
+        "height": 188
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Xflqz4b166Nn6flLSNwZ3YHpnA.png?scale-down-to=512&width=710&height=160",
+        "poster": "",
+        "width": 280,
+        "height": 62
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/eGoO50sQnLTjwFBzhi9LqDdU3vQ.png?scale-down-to=512&width=2048&height=1152",
+        "poster": "",
+        "width": 360,
+        "height": 202
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/nfqFxnwuHxDsKC4aq6bkL2C5Xc.svg?width=88&height=17",
+        "poster": "",
+        "width": 88,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/jTtsVVBhSR0HphLKfSJpeVnmPos.webp?scale-down-to=1024&width=1000&height=1250",
+        "poster": "",
+        "width": 359,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/438CGnEJ8fW9oxKnD8cAdepnjS0.png?scale-down-to=512&width=556&height=132",
+        "poster": "",
+        "width": 280,
+        "height": 66
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/sxoUHMyDJmczUkVs28JyYftbQGM.png?scale-down-to=512&width=2680&height=1320",
+        "poster": "",
+        "width": 360,
+        "height": 177
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/HEGqsXen4lEDl1qKEvOdeRAnxQ.svg?width=110&height=30",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/2HcMn3WE6ABg2DKf1egvCVZpn6s.jpg?width=2374&height=1746",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/o6pwnBxo1jLaJBtBl6CIuNjk8.svg?width=105&height=21",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/PzS1LtimN9FJ30xc2ET30Xure8.jpg?width=720&height=920",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/NzfMBw82styKJA2j3DPEV081U.svg?width=1000&height=481",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/RFqRfs88P7646TFOvUgWoxE0.png?width=648&height=752",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/lUZ3uzIob6NgeCKawVZCpNKJjE.png?width=1052&height=245",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/u0RvuERtz1FFu2w5kUQAVWmyU.jpg?scale-down-to=512&width=2460&height=1296",
+        "poster": "",
+        "width": 360,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/rRuvXeJC8VZ7naTn6TEU38KyMk.png?width=156&height=64",
+        "poster": "",
+        "width": 156,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/vT8YWu2HpMqiF96ExFdnTUwjuk.png?width=400&height=400",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/IxrpbsCJLku5W91FcYn0gQuQY.mp4",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/p84L3wZzLg8rmtYvL85BAH0STM.png?scale-down-to=512&width=640&height=640",
+        "poster": "",
+        "width": 29,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/6Mk8jyDEgOtr9zqsKnmAgsWAo.png?scale-down-to=1024&width=1600&height=1200",
+        "poster": "",
+        "width": 560,
+        "height": 420
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MBxTAYW1PmysHhfbcP7XfQPdoyI.png?width=400&height=400",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/d5okMiktMgbhCcGtgbr8gGqqHU.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/t0AxBQTyoDw9K4AFQrXmuKebU.png?width=80&height=80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/EGqLxawrgBiyYfcyRAdEFPRAMWo.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/vT8YWu2HpMqiF96ExFdnTUwjuk.png?width=400&height=400",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/IxrpbsCJLku5W91FcYn0gQuQY.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/p84L3wZzLg8rmtYvL85BAH0STM.png?scale-down-to=512&width=640&height=640",
+        "poster": "",
+        "width": 29,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/6Mk8jyDEgOtr9zqsKnmAgsWAo.png?scale-down-to=1024&width=1600&height=1200",
+        "poster": "",
+        "width": 560,
+        "height": 420
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/MBxTAYW1PmysHhfbcP7XfQPdoyI.png?width=400&height=400",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/d5okMiktMgbhCcGtgbr8gGqqHU.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/t0AxBQTyoDw9K4AFQrXmuKebU.png?width=80&height=80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://framerusercontent.com/assets/EGqLxawrgBiyYfcyRAdEFPRAMWo.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/mx5bnHNOCjRCPzwr1BpHj9zQ.png?width=128&height=96",
+        "poster": "",
+        "width": 128,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/QchK2Mvzs4ZwqHCLITcEsyXfJQ.png?scale-down-to=512&width=1600&height=1200",
+        "poster": "",
+        "width": 50,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/n1eghXaRMaqaWFr1Is0nbWs.png?scale-down-to=512&width=1600&height=1200",
+        "poster": "",
+        "width": 50,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/SS1zLYFYEq2f2D7kn4GQdd9n6vI.png?scale-down-to=512&width=2048&height=1536",
+        "poster": "",
+        "width": 50,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/d5ll6Vg4lf8pfdDjYrojBFKyw.png?scale-down-to=512&width=1600&height=1200",
+        "poster": "",
+        "width": 50,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/Z0NE8U5KIf5GgCIJbqfv56tBjRE.png?width=200&height=200",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ADJeiESFkUDh8VbMD46zlok6zVU.png?width=200&height=200",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/nu5431blP1UqkgJejFHGxH6PCU.png?width=400&height=400",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/igNEVLKB1e3RUBLSYZgBS42ond8.png?width=200&height=200",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/ynggD7nUfZHDBUYkl6tiSYz14.png?scale-down-to=512&width=800&height=800",
+        "poster": "",
+        "width": 29,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://framerusercontent.com/images/0eXXFHUyHJfmWheo1hAsywfd6Y.svg?width=17&height=17",
+        "poster": "",
+        "width": 17,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7b699d37-95d9-4f2a-ba2b-64439a2416c7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&tw_session_start=1&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7b699d37-95d9-4f2a-ba2b-64439a2416c7&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&tw_session_start=1&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.podscribe.com/tag?action=view&user_id=9428f4d8-9061-7038-4333-e6338026449c&advertiser=framer&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.framer.com%2F&device_id=17944803617830.8014667626901348&first_visited_at=1794480363032&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fwww.framer.com%2F&event_url=https%3A%2F%2Fwww.framer.com%2F&source=js-tag+v1.2.3&cachebust=1794480363979",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ecb6880a-d100-41fb-87eb-921558d017a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=ecb6880a-d100-41fb-87eb-921558d017a3&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://framer.com/edit/alpha?framerSiteId=79bc0c23c780a1bf6fd5ae4ab91052e922a4b36f471cf742332e409a0b73662e&source=www.framer.com&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%7D&loadStart=1794480362335",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=23c143c4-eeff-4b00-a737-3dbb28f5c94f&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=6521&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=23c143c4-eeff-4b00-a737-3dbb28f5c94f&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4db091de-3bc2-406b-9685-4ca7fc9517fa&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.framer.com%2F&tw_engaged_ms=6521&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480362973-254577354&twpid=tw.1794480362973.310747812230522876&txn_id=nxmzp&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9842,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

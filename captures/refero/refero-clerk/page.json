@@ -1,0 +1,5056 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-clerk",
+  "name": "Clerk — homepage",
+  "url": "https://clerk.com/",
+  "source": "https://styles.refero.design/style/ed10ae04-24ec-4e42-9bf2-ea12a4b58d67",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:51:26.111Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://clerk.com/robots.txt",
+    "checkedAt": "2026-11-12T10:51:26.110Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/workspace/"
+      },
+      {
+        "allow": false,
+        "path": "/apps/"
+      },
+      {
+        "allow": false,
+        "path": "/docs/core-1/"
+      },
+      {
+        "allow": false,
+        "path": "/docs/core-2/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 0,
+        "contentTop": 90,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 982,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 0,
+        "contentTop": 90,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 7543,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 1624,
+        "contentTop": -1534,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 13158,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 3621,
+        "contentTop": -3531,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "b2b-saas"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 15094,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 5130,
+        "contentTop": -5040,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 17809,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://clerk.com/",
+        "scrollY": 6253,
+        "contentTop": -6163,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "clerk-footer"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com:18443/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com:2082/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com:8443/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com:992/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/c/1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy/browser-key",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/c/1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy/corpus",
+      "status": 204,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/c/1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy/probe",
+      "status": 204,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p0o.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p1q3.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p2s3.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p3p3.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy-p4q3.client.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/probe",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cdn.protect.clerk.com/ins_1lyWDZiobr600AKUeQDoSlrEmoM/c/1-2b7kwkd6j3aj2d5mc7kkxwpmeu-26ykwnhxgi4x2oglohgzkgoqcy/bootstrap.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/clerk-js@6.42.3/dist/321_clerk.browser_232d43_6.42.3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/clerk-js@6.42.3/dist/clerk.browser.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/ui@1.42.4/dist/framework_ui_a38dfb_1.42.4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/ui@1.42.4/dist/subscriptionDetails_ui_a38dfb_1.42.4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/ui@1.42.4/dist/ui-common_ui_a38dfb_1.42.4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/ui@1.42.4/dist/ui.browser.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/npm/@clerk/ui@1.42.4/dist/vendors_ui_a38dfb_1.42.4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.clerk.com/v1/client",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.clerk.com/v1/environment",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0_ynhxpa63w9h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/00_vz4dwu27n8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/02s3i7qfymcar.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/04-ry1kvupdnc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/091kcakxh_09l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0askn3571gg43.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0b0iuguk-w6wz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0b6uke2fjvpme.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0buxc3ao1jxcw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0jtl1mfpjtd65.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0lyjxh0-qqrys.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0mw0n7y87t4bf.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0o1g6xzp-1drz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0p4qivch-oz-q.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0pkrjnihf7abb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0s57vw5l7wj2w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0sowk69nqhrds.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0uhxrybk9rsu8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0x6vjzu_1qip_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0y0xy9csxgih0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/0yzv4kr8q8p2p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1-bax9ajqb1xs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1-n0ljhzp9tbl.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/110m9ena71ah3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1143cf8peq8m6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/12-gq35hy4wqa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/13pkx5z63uvlg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/14qsbplli60hn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/15aogt9phvtlw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/17kl-t0-7ax1y.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1b9v4kcv9vz38.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1dlmif--180uq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1f4e4nx1c5gm6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1nt5wrg6h_4jo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1q9au52qir7do.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1rqm4xwjr1_vs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1s7lplgkjgxmo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1uua-jzd1kesn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1vnhuf8iir5au.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1z-9qb1t_d9jc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/1zd4jhdzcro_p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2_9l5vd76oy7v.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2_y6adjlkklg_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2-4uelo4wz2pv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/23jd63ts5ffvx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/26e17pgy_t9ai.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/27b8lr-l7jzxh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/27ypf6_301ds8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/27zj8kaue13he.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2a0i7xz_vcu5h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2b1g9tcslnkdc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2cr1ijmw97-na.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2ekf8hd0ny5qm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2fbvua-afx7xl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2genz3m74jxsm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2jq0m3tsoqutk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2k3sqbwzc0kra.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2lhcd-9q4ectf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2lssng1y8-m6-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2luha7r5_ie7a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2n5ithbdasu41.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2r7i-vi-lhi7u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2t5loci-i5f3w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2wz303a4t32qe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2ylmq-mj70ubd.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/2z9gn8mcaply7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3_p5orz1puucp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3_s0qh_bvrc0l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3-xoyt-o2spou.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/30i_k4_q3ad85.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/30r51mvls0eod.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/338knw20luana.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3b4pbdqt_ub0j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3bxggcemkz2wt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3csy90-2lhgxx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3d53xa48sh-_v.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3ej91dfb5eeh9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3fe0xddmu6ua3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3hb--jgpf3kdq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3hmpcbymaptf5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3koqbugotmc08.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3ku3krpg-j9iq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3llvrcld8-ok7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3m33ln--dy11c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3mdv790d9wfoo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3mkyk5ke28g9o.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3pkftx86pc6o7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3po-sk_b6ma_b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3pym1hnh2dvl5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3qghjw_wi4aj8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3slce5sojm8ko.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3tcqi-84zxx47.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3vewp4xv7g652.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3z_lrxw9m12ly.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/3zv3fbeooedhv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/411k_7-ce5ltz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/42zlhz1n31vsx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/chunks/turbopack-3h_ctkfaeun7f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/07c7676b89ed2778-s.p.45535valc9rzk.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/astro-outline.20yer5aj36m4k.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/astro.1hvws-lpg00h7.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/braintrust.0n3uack0mbyxx.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/browserbase.0_-f9ucuvzbqe.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/cartesia.07la3_14qzmuu.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/circuit-bento@2xq95.450fd6vagzoi3.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/consensus.320f8sv-s1is8.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/convex-outline.0nqdpxvrfgwc1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/convex.41w__7ymkxay9.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/david-ai.31l1lyd6j3iqg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/durable.37nux_gcm99y7.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/expo-outline.1qv0rymrfq243.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/expo.0g2h32vz4m411.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/GeistVariableVF_numbers.p.3we0i3od0iush.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/glow-bento@q30r.2q4ub5g282n1u.avif",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/Havana_Regular-s.p.0qkqm_39f7t0s.woff",
+      "status": 200,
+      "mimeType": "font/woff",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/higgsfield.2fe2c4qm_65ub.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/inngest.1n8fo1qbf4du4.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/meta.3i0k6pfnl86x-.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/nextjs-outline.3uzklaamm2rjn.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/nextjs.36ytzey3064gy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/open-router.2pgv3onxrgmsf.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/react-outline.2r3oj46_t7eim.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/react-router-outline.35fu1fi_f2nuv.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/react-router.2lv2vn4p887vr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/react.3vi85u4knc5nh.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/samaya.11qhqt1xqayr8.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/soehne_mono_buch.044eo65kpyfgg.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_Bold-s.p.3apq79xsdhsa_.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_BoldItalic-s.p.26zpp78ejlsbh.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_Book-s.p.1tp558au52mp8.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_BookItalic-s.p.1qky57xzagphu.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_Medium-s.p.3034-r-4niicv.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_MediumItalic-s.p.3grtn8jczn3z6.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_Regular-s.p.0z_z2ccbdvksh.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_RegularItalic-s.p.3rfru8unvf3x7.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_SemiBold-s.p.3lstdh700wb75.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/SuisseIntl_SemiBoldItalic-s.p.3pdf515_t0wa_.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/supabase-outline.3c0fx6j2gc-sx.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/supabase.1h7dzxh5oihyw.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/tanstack-outline.20-1jufpbsp4q.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/tanstack.2vggus0ymwoia.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/upstash.126s1cotmlzor.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/vercel-outline.0ijycyn_5so8k.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_next/static/immutable/media/vercel.2jp-_35_hn7ts.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://clerk.com/_proxy/dub/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/agents",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/articles",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/billing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/brand-assets",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/careers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/changelog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/cli",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/company",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/contact",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/astro/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/expo/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/guides/development/integrations/databases/convex",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/guides/development/integrations/databases/supabase",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/guides/development/integrations/overview",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/guides/development/integrations/platforms/vercel-marketplace",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/nextjs/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/react-router/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/react/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/docs/tanstack-react-start/getting-started/quickstart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/expo-authentication",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/github-student-developer-pack",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/glossary",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/legal",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/legal/privacy",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/legal/standard-terms",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/legal/website-terms",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/llm-leaderboard",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/mcp",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/multi-tenancy",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/nextjs-authentication",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/react-authentication",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/relay-G4fq/array/phc_q5TPT5kitT5x2OFKOo7yB3bLWm1ChE24asf8wJGM8cq/config.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/relay-G4fq/static/1.434.15/dead-clicks-autocapture.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/relay-G4fq/static/1.434.15/posthog-recorder.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/relay-G4fq/static/1.434.15/surveys.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://clerk.com/security",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/startups",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/user-authentication",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://clerk.com/v2/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 64425,
+      "sha256": "c20af3f1ddbedcae4aa43d3335683e0059a584b221a071cdac2df6d7619397f0"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 64371,
+      "sha256": "20675c123c57817c01dcaa7d14c91ca1092b0122daf6d857e68b28aaed064bb9"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 67481,
+      "sha256": "440f0447c8a5856b21f43efeb112eb164edbd22224275f5220e0bb4580244a91"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 68202,
+      "sha256": "2a3108992ca7bd1d672491913018bb0e946fda3c555fd105241d7d1f85489611"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 55021,
+      "sha256": "e855c47e37a31e0e27bf9af0cc82928d6efac2f13858c4372b6668b7b2ffdc1d"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 78517,
+      "sha256": "a0df3c8ae0aceec553afa169c82753da278b2b66656245f18581ccdb5382b4c1"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 363031,
+      "sha256": "d968a72a1e26d6c87a2a1ff85aa922310739131a160d1362b07b171c7fa11f7d"
+    }
+  ],
+  "initial": {
+    "url": "https://clerk.com/",
+    "title": "Clerk | Authentication and User Management",
+    "documentHeight": 7153,
+    "contentHeight": 7153,
+    "contentTop": 90,
+    "scrollY": 0,
+    "ready": "WpjB7a_variable FMl8Nq_variable bH8fPa_variable h-full scroll-pt-(--root-scroll-pt,4rem) bg-(--root-bg) antialiased [--root-bg:var(--light,var(--color-gray-50))_var(--dark,var(--color-gray-950))] [font-synthesis-weight:none] signed-out neutral",
+    "bodyStyle": {
+      "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(247, 247, 248)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "b2b-saas",
+        "tag": "DIV",
+        "rect": {
+          "x": 80,
+          "y": 3287,
+          "width": 1280,
+          "height": 893
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 120,
+          "y": 190,
+          "width": 598,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "700",
+          "color": "rgb(19, 19, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -176,
+          "y": 364,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 8,
+          "y": 366,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 192,
+          "y": 1328,
+          "width": 313,
+          "height": 23
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -176,
+          "y": 1724,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 8,
+          "y": 1726,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": -176,
+          "y": 3002,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 8,
+          "y": 3004,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 572,
+          "y": 233,
+          "width": 296,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 572,
+          "y": 233,
+          "width": 296,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 554,
+          "y": 579,
+          "width": 333,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 595,
+          "y": 1121,
+          "width": 251,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 936,
+          "y": 254,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 1120,
+          "y": 256,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 919,
+          "y": 1191,
+          "width": 345,
+          "height": 23
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 940,
+          "y": 1644,
+          "width": 131,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26.6666px",
+          "fontWeight": "700",
+          "color": "rgb(33, 33, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1116,
+          "y": 1646,
+          "width": 499,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(33, 33, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 936,
+          "y": 2902,
+          "width": 680,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "32px",
+          "fontWeight": "500",
+          "color": "rgb(43, 43, 52)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 1672,
+          "y": 349,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 1856,
+          "y": 389,
+          "width": 192,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(19, 19, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 1672,
+          "y": 1742,
+          "width": 680,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "32px",
+          "fontWeight": "500",
+          "color": "rgb(43, 43, 52)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 120,
+          "y": 1510,
+          "width": 1200,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(151, 133, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 144,
+          "y": 1927,
+          "width": 158,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 144,
+          "y": 2055,
+          "width": 171,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 400,
+        "height": 566,
+        "rect": {
+          "x": 520,
+          "y": 527,
+          "width": 400,
+          "height": 566
+        }
+      }
+    ],
+    "links": [
+      "https://clerk.com/#main",
+      "https://clerk.com/",
+      "https://clerk.com/pricing",
+      "https://dashboard.clerk.com/sign-up",
+      "https://clerk.com/mcp",
+      "https://clerk.com/user-authentication",
+      "https://clerk.com/multi-tenancy",
+      "https://clerk.com/mcp",
+      "https://clerk.com/cli",
+      "https://clerk.com/agents",
+      "https://clerk.com/docs#frontend-frameworks",
+      "https://clerk.com/docs/nextjs/getting-started/quickstart",
+      "https://clerk.com/docs/react/getting-started/quickstart",
+      "https://clerk.com/docs/expo/getting-started/quickstart",
+      "https://clerk.com/docs/react-router/getting-started/quickstart",
+      "https://clerk.com/docs/tanstack-react-start/getting-started/quickstart",
+      "https://clerk.com/docs/astro/getting-started/quickstart",
+      "https://clerk.com/docs/guides/development/integrations/overview",
+      "https://clerk.com/docs/guides/development/integrations/databases/supabase",
+      "https://clerk.com/docs/guides/development/integrations/databases/convex",
+      "https://clerk.com/docs/guides/development/integrations/platforms/vercel-marketplace",
+      "https://x.com/webdevcody/status/1794123071932015079",
+      "https://x.com/johnennis/status/2046196182771191822",
+      "https://x.com/ArjunRajJain/status/2034012893000437870",
+      "https://x.com/parthg1304/status/2046087468475380188",
+      "https://x.com/_ix_drew/status/2037215966497583236",
+      "https://x.com/geluhorotan/status/2039398755149979863",
+      "https://x.com/RSolticzki/status/2040076691209408975",
+      "https://x.com/ClimStefan/status/2097329799593119761",
+      "https://x.com/kritikakodes/status/2018679615959543874",
+      "https://x.com/sickdotdev/status/2026904185699184915",
+      "https://x.com/web3naman/status/2022369528517398620",
+      "https://x.com/theo/status/1652218871590567937",
+      "https://clerk.com/user-authentication",
+      "https://clerk.com/multi-tenancy",
+      "https://clerk.com/billing",
+      "https://clerk.com/mcp",
+      "https://clerk.com/cli",
+      "https://clerk.com/agents",
+      "https://clerk.com/react-authentication",
+      "https://clerk.com/nextjs-authentication",
+      "https://clerk.com/expo-authentication",
+      "https://clerk.com/docs#explore-by-frontend-framework",
+      "https://clerk.com/docs",
+      "https://clerk.com/changelog",
+      "https://clerk.com/glossary",
+      "https://feedback.clerk.com/roadmap",
+      "https://clerk.com/startups",
+      "https://clerk.com/github-student-developer-pack",
+      "https://clerk.com/llm-leaderboard",
+      "https://clerk.com/company",
+      "https://clerk.com/careers",
+      "https://clerk.com/blog",
+      "https://clerk.com/contact",
+      "https://clerk.com/brand-assets",
+      "https://clerk.com/articles",
+      "https://clerk.com/legal/standard-terms",
+      "https://clerk.com/legal/privacy",
+      "https://clerk.com/legal/website-terms",
+      "https://clerk.com/security",
+      "https://clerk.com/legal",
+      "https://x.com/clerk",
+      "https://www.linkedin.com/company/clerkinc",
+      "https://clerk.com/discord",
+      "https://github.com/clerk",
+      "https://www.youtube.com/@clerkdev"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile_2x.05rljjdinsruf.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile-billing_2x.0d77_z6a29tqg.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-billing_2x.3r5x2c2ya-3fr.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Foauth-consent_2x.1bre1lelbp0un.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 633
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile_2x.3cak9-9xitg51.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-invitations_2x.33av8g60-1epg.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-roles_2x.03kogrtuiozrx.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-sso_2x.10qfio5d0d2bk.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-directory-sync_2x.1b19_bjqbkhd3.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile-mobile_2x.11hzii_yc1u1c.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-mobile%403x.29l3w2cm7ls_j.png&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-invitations-mobile_2x.1owc_ohoalc81.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-roles-mobile_2x.2-vhskiwf3_ez.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-sso-mobile_2x.39fk_gpw22ws4.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-directory-sync-mobile_2x.2xtinaw8_-yez.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsso-custom-saml.39ipmj08pq1p0.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsso-oidc.3sp26ncdyd0zy.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/meta.3i0k6pfnl86x-.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/browserbase.0_-f9ucuvzbqe.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/inngest.1n8fo1qbf4du4.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/david-ai.31l1lyd6j3iqg.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/meta.3i0k6pfnl86x-.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/braintrust.0n3uack0mbyxx.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/durable.37nux_gcm99y7.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/braintrust.0n3uack0mbyxx.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/open-router.2pgv3onxrgmsf.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/higgsfield.2fe2c4qm_65ub.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/open-router.2pgv3onxrgmsf.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/upstash.126s1cotmlzor.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/samaya.11qhqt1xqayr8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/upstash.126s1cotmlzor.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/consensus.320f8sv-s1is8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/cartesia.07la3_14qzmuu.svg",
+        "poster": "",
+        "width": 300,
+        "height": 67
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/consensus.320f8sv-s1is8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/circuit-bento@2xq95.450fd6vagzoi3.webp",
+        "poster": "",
+        "width": 1748,
+        "height": 1982
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/glow-bento@q30r.2q4ub5g282n1u.avif",
+        "poster": "",
+        "width": 2640,
+        "height": 2640
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-1%403x.39yojuvifaq_z.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-2%403x.03ki99x9vmci-.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-3%403x.2hyme9iu1gp4-.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-4%403x.279uvtdrr499p.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-1%403x.3a70a_dy1qyta.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-2%403x.31c-fsmyudz1p.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-3%403x.0khf8t1vqyfll.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-5%403x.3tqao0drvem3n.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/nextjs-outline.3uzklaamm2rjn.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/nextjs.36ytzey3064gy.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-outline.2r3oj46_t7eim.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react.3vi85u4knc5nh.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/expo-outline.1qv0rymrfq243.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/expo.0g2h32vz4m411.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-router-outline.35fu1fi_f2nuv.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-router.2lv2vn4p887vr.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/tanstack-outline.20-1jufpbsp4q.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/tanstack.2vggus0ymwoia.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/astro-outline.20yer5aj36m4k.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/astro.1hvws-lpg00h7.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/supabase-outline.3c0fx6j2gc-sx.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/supabase.1h7dzxh5oihyw.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/convex-outline.0nqdpxvrfgwc1.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/convex.41w__7ymkxay9.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/vercel-outline.0ijycyn_5so8k.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/vercel.2jp-_35_hn7ts.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpaul-copplestone.0m2a78_cic6jy.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo-rauch.2vj2ygerjpsmt.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpatrick-collison.2l-62xun2463y.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebdevcody.1-f-nl3zko7nk.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjohnennis.1ezwpo3h4k9ic.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Farjunrajjain.1x56xnxv9nzzx.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fparthg1304.2dpvo_2c94sch.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fix_drew.1q-2kfgioe0pl.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgeluhorotan.0dbv4_fliwavp.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Frsolticzki.2qat5q7043um8.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclimstefan.0398_rs6ps-p2.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkritikakodes.09rz3h9tf9-yv.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsickdotdev.2_uv6dimyrk2t.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb3naman.0ffv721vhgxuy.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftheo-browne.0yaqleb6osrn9.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2918def9-60d0-4e24-b6d7-f35fd5cd42c0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&tw_session_start=1&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2918def9-60d0-4e24-b6d7-f35fd5cd42c0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&tw_session_start=1&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 100000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 57000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 44000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 600,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6093,
+    "actualTravel": 6253,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://clerk.com/",
+    "title": "Clerk | Authentication and User Management",
+    "documentHeight": 7153,
+    "contentHeight": 7153,
+    "contentTop": -6163,
+    "scrollY": 6253,
+    "ready": "WpjB7a_variable FMl8Nq_variable bH8fPa_variable h-full scroll-pt-(--root-scroll-pt,4rem) bg-(--root-bg) antialiased [--root-bg:var(--light,var(--color-gray-50))_var(--dark,var(--color-gray-950))] [font-synthesis-weight:none] signed-out neutral",
+    "bodyStyle": {
+      "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(247, 247, 248)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "b2b-saas",
+        "tag": "DIV",
+        "rect": {
+          "x": 80,
+          "y": -2966,
+          "width": 1280,
+          "height": 893
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 120,
+          "y": -6063,
+          "width": 598,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "700",
+          "color": "rgb(19, 19, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -176,
+          "y": -5889,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 8,
+          "y": -5887,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 192,
+          "y": -4925,
+          "width": 313,
+          "height": 23
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -176,
+          "y": -4529,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 8,
+          "y": -4527,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": -176,
+          "y": -3251,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 8,
+          "y": -3249,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 572,
+          "y": -6020,
+          "width": 296,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 572,
+          "y": -6020,
+          "width": 296,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 554,
+          "y": -5674,
+          "width": 333,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 595,
+          "y": -5132,
+          "width": 251,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 936,
+          "y": -5999,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 1120,
+          "y": -5997,
+          "width": 492,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 919,
+          "y": -5062,
+          "width": 345,
+          "height": 23
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 940,
+          "y": -4609,
+          "width": 131,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26.6666px",
+          "fontWeight": "700",
+          "color": "rgb(33, 33, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1116,
+          "y": -4607,
+          "width": 499,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(33, 33, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 936,
+          "y": -3351,
+          "width": 680,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "32px",
+          "fontWeight": "500",
+          "color": "rgb(43, 43, 52)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 1672,
+          "y": -5904,
+          "width": 140,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "17px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 1856,
+          "y": -5864,
+          "width": 192,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "700",
+          "color": "rgb(19, 19, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 1672,
+          "y": -4511,
+          "width": 680,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "32px",
+          "fontWeight": "500",
+          "color": "rgb(43, 43, 52)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 120,
+          "y": -4743,
+          "width": 1200,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(151, 133, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 144,
+          "y": -4326,
+          "width": 158,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 144,
+          "y": -4198,
+          "width": 171,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "geistNumbers, suisse, \"suisse Fallback\"",
+          "fontSize": "13px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 896,
+        "height": 584,
+        "rect": {
+          "x": 504,
+          "y": -225,
+          "width": 896,
+          "height": 584
+        }
+      },
+      {
+        "id": "",
+        "width": 1200,
+        "height": 128,
+        "rect": {
+          "x": 120,
+          "y": 772,
+          "width": 1200,
+          "height": 128
+        }
+      }
+    ],
+    "links": [
+      "https://clerk.com/#main",
+      "https://clerk.com/",
+      "https://clerk.com/pricing",
+      "https://dashboard.clerk.com/sign-up",
+      "https://clerk.com/mcp",
+      "https://clerk.com/user-authentication",
+      "https://clerk.com/multi-tenancy",
+      "https://clerk.com/mcp",
+      "https://clerk.com/cli",
+      "https://clerk.com/agents",
+      "https://clerk.com/docs#frontend-frameworks",
+      "https://clerk.com/docs/nextjs/getting-started/quickstart",
+      "https://clerk.com/docs/react/getting-started/quickstart",
+      "https://clerk.com/docs/expo/getting-started/quickstart",
+      "https://clerk.com/docs/react-router/getting-started/quickstart",
+      "https://clerk.com/docs/tanstack-react-start/getting-started/quickstart",
+      "https://clerk.com/docs/astro/getting-started/quickstart",
+      "https://clerk.com/docs/guides/development/integrations/overview",
+      "https://clerk.com/docs/guides/development/integrations/databases/supabase",
+      "https://clerk.com/docs/guides/development/integrations/databases/convex",
+      "https://clerk.com/docs/guides/development/integrations/platforms/vercel-marketplace",
+      "https://x.com/webdevcody/status/1794123071932015079",
+      "https://x.com/johnennis/status/2046196182771191822",
+      "https://x.com/ArjunRajJain/status/2034012893000437870",
+      "https://x.com/parthg1304/status/2046087468475380188",
+      "https://x.com/_ix_drew/status/2037215966497583236",
+      "https://x.com/geluhorotan/status/2039398755149979863",
+      "https://x.com/RSolticzki/status/2040076691209408975",
+      "https://x.com/ClimStefan/status/2097329799593119761",
+      "https://x.com/kritikakodes/status/2018679615959543874",
+      "https://x.com/sickdotdev/status/2026904185699184915",
+      "https://x.com/web3naman/status/2022369528517398620",
+      "https://x.com/theo/status/1652218871590567937",
+      "https://clerk.com/user-authentication",
+      "https://clerk.com/multi-tenancy",
+      "https://clerk.com/billing",
+      "https://clerk.com/mcp",
+      "https://clerk.com/cli",
+      "https://clerk.com/agents",
+      "https://clerk.com/react-authentication",
+      "https://clerk.com/nextjs-authentication",
+      "https://clerk.com/expo-authentication",
+      "https://clerk.com/docs#explore-by-frontend-framework",
+      "https://clerk.com/docs",
+      "https://clerk.com/changelog",
+      "https://clerk.com/glossary",
+      "https://feedback.clerk.com/roadmap",
+      "https://clerk.com/startups",
+      "https://clerk.com/github-student-developer-pack",
+      "https://clerk.com/llm-leaderboard",
+      "https://clerk.com/company",
+      "https://clerk.com/careers",
+      "https://clerk.com/blog",
+      "https://clerk.com/contact",
+      "https://clerk.com/brand-assets",
+      "https://clerk.com/articles",
+      "https://clerk.com/legal/standard-terms",
+      "https://clerk.com/legal/privacy",
+      "https://clerk.com/legal/website-terms",
+      "https://clerk.com/security",
+      "https://clerk.com/legal",
+      "https://x.com/clerk",
+      "https://www.linkedin.com/company/clerkinc",
+      "https://clerk.com/discord",
+      "https://github.com/clerk",
+      "https://www.youtube.com/@clerkdev"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile_2x.05rljjdinsruf.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile-billing_2x.0d77_z6a29tqg.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-billing_2x.3r5x2c2ya-3fr.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Foauth-consent_2x.1bre1lelbp0un.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 633
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile_2x.3cak9-9xitg51.webp&w=750&q=90",
+        "poster": "",
+        "width": 720,
+        "height": 505
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-invitations_2x.33av8g60-1epg.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpricing-table_2x.2nk9n3cy07p29.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-roles_2x.03kogrtuiozrx.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-trigger%403x.02lbby1nnnz8i.png&w=96&q=90",
+        "poster": "",
+        "width": 84,
+        "height": 84
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-sso_2x.10qfio5d0d2bk.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-button-popover_2x.2-p7mfgt9se0x.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-in_2x.1gmw0wa141dem.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwaitlist_2x.1_n8sh2w6ynyu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 322
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-profile-directory-sync_2x.1b19_bjqbkhd3.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-list_2x.16lz1x64a1any.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.1zyw5onyavff7.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher-trigger_2x.37g9n_iubpf6o.webp&w=384&q=90",
+        "poster": "",
+        "width": 356,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forganization-switcher_2x.246pgq5gzby42.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsign-up_2x.2eoh00kayhjvu.webp&w=384&q=90",
+        "poster": "",
+        "width": 352,
+        "height": 514
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-profile-mobile_2x.11hzii_yc1u1c.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-mobile%403x.29l3w2cm7ls_j.png&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-invitations-mobile_2x.1owc_ohoalc81.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-roles-mobile_2x.2-vhskiwf3_ez.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-sso-mobile_2x.39fk_gpw22ws4.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Forg-profile-directory-sync-mobile_2x.2xtinaw8_-yez.webp&w=3840&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fuser-avatar.1wtoqp_epfnsp.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclerk-avatar.0ke0r6cgfvodf.png&w=96&q=75",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsso-custom-saml.39ipmj08pq1p0.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsso-oidc.3sp26ncdyd0zy.png&w=256&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/meta.3i0k6pfnl86x-.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/browserbase.0_-f9ucuvzbqe.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/inngest.1n8fo1qbf4du4.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/david-ai.31l1lyd6j3iqg.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/meta.3i0k6pfnl86x-.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/braintrust.0n3uack0mbyxx.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/durable.37nux_gcm99y7.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/braintrust.0n3uack0mbyxx.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/open-router.2pgv3onxrgmsf.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/higgsfield.2fe2c4qm_65ub.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/open-router.2pgv3onxrgmsf.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/upstash.126s1cotmlzor.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/samaya.11qhqt1xqayr8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/upstash.126s1cotmlzor.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/consensus.320f8sv-s1is8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/cartesia.07la3_14qzmuu.svg",
+        "poster": "",
+        "width": 300,
+        "height": 67
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/consensus.320f8sv-s1is8.svg",
+        "poster": "",
+        "width": 144,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/circuit-bento@2xq95.450fd6vagzoi3.webp",
+        "poster": "",
+        "width": 1748,
+        "height": 1982
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/glow-bento@q30r.2q4ub5g282n1u.avif",
+        "poster": "",
+        "width": 2640,
+        "height": 2640
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-1%403x.39yojuvifaq_z.png&w=96&q=75",
+        "poster": "",
+        "width": 96,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-2%403x.03ki99x9vmci-.png&w=96&q=75",
+        "poster": "",
+        "width": 96,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-3%403x.2hyme9iu1gp4-.png&w=96&q=75",
+        "poster": "",
+        "width": 96,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-4%403x.279uvtdrr499p.png&w=96&q=75",
+        "poster": "",
+        "width": 96,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-1%403x.3a70a_dy1qyta.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-2%403x.31c-fsmyudz1p.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-sm-3%403x.0khf8t1vqyfll.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fperson-5%403x.3tqao0drvem3n.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/nextjs-outline.3uzklaamm2rjn.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/nextjs.36ytzey3064gy.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-outline.2r3oj46_t7eim.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react.3vi85u4knc5nh.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/expo-outline.1qv0rymrfq243.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/expo.0g2h32vz4m411.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-router-outline.35fu1fi_f2nuv.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/react-router.2lv2vn4p887vr.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/tanstack-outline.20-1jufpbsp4q.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/tanstack.2vggus0ymwoia.webp",
+        "poster": "",
+        "width": 312,
+        "height": 126
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/astro-outline.20yer5aj36m4k.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/astro.1hvws-lpg00h7.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/supabase-outline.3c0fx6j2gc-sx.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/supabase.1h7dzxh5oihyw.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/convex-outline.0nqdpxvrfgwc1.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/convex.41w__7ymkxay9.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/vercel-outline.0ijycyn_5so8k.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/static/immutable/media/vercel.2jp-_35_hn7ts.svg",
+        "poster": "",
+        "width": 104,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpaul-copplestone.0m2a78_cic6jy.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo-rauch.2vj2ygerjpsmt.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpatrick-collison.2l-62xun2463y.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebdevcody.1-f-nl3zko7nk.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjohnennis.1ezwpo3h4k9ic.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Farjunrajjain.1x56xnxv9nzzx.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fparthg1304.2dpvo_2c94sch.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fix_drew.1q-2kfgioe0pl.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgeluhorotan.0dbv4_fliwavp.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Frsolticzki.2qat5q7043um8.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fclimstefan.0398_rs6ps-p2.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkritikakodes.09rz3h9tf9-yv.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsickdotdev.2_uv6dimyrk2t.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fweb3naman.0ffv721vhgxuy.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ftheo-browne.0yaqleb6osrn9.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2918def9-60d0-4e24-b6d7-f35fd5cd42c0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&tw_session_start=1&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2918def9-60d0-4e24-b6d7-f35fd5cd42c0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&tw_session_start=1&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/i/adsct?bci=4&cv=97%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=bcc32b16-5db4-4b57-b47f-b9e4cdb14508&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=6797&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=97%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=bcc32b16-5db4-4b57-b47f-b9e4cdb14508&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c8e27989-328a-4d22-9e53-a80d510b667d&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fclerk.com%2F&tw_engaged_ms=6797&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480687992-59605379&twpid=tw.1794480687992.38031691392111389&txn_id=o6tnh&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 100000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 57000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 44000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 17809,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

@@ -1,0 +1,2939 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-notion",
+  "name": "Notion — homepage",
+  "url": "https://www.notion.com/",
+  "source": "https://styles.refero.design/style/f58e99d1-940d-4254-8822-5d856bba6505",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:45:18.102Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.notion.com/robots.txt",
+    "checkedAt": "2026-11-12T10:45:18.101Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/invite/"
+      },
+      {
+        "allow": false,
+        "path": "/*/invite/"
+      },
+      {
+        "allow": false,
+        "path": "/templates/search?query=*"
+      },
+      {
+        "allow": false,
+        "path": "/*/templates/search?query=*"
+      },
+      {
+        "allow": false,
+        "path": "/lp/webinars/"
+      },
+      {
+        "allow": false,
+        "path": "/lp/webinars/*"
+      },
+      {
+        "allow": false,
+        "path": "/_vercel/insights/view"
+      },
+      {
+        "allow": false,
+        "path": "/embed/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/embed/*"
+      },
+      {
+        "allow": false,
+        "path": "/product/agents-homepage"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 0,
+        "contentTop": 108,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 865,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 0,
+        "contentTop": 108,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2313,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 978,
+        "contentTop": -870,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "5s8E0EU3tXEvGrFrRwgxhb",
+          "1FOyxGfzHA9kKA1BVPQa4m",
+          "3PH2HDqwPQKa0Xtq1EzIHs"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4463,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 2181,
+        "contentTop": -2073,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "5s8E0EU3tXEvGrFrRwgxhb",
+          "1FOyxGfzHA9kKA1BVPQa4m",
+          "3PH2HDqwPQKa0Xtq1EzIHs",
+          "5CESaDHalT60BVMktTrFD9",
+          "4U19kO5gM7RYsJa4Xr2oGF",
+          "_R_e9abm_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6130,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 3090,
+        "contentTop": -2982,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "_R_bm_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 7762,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.notion.com/",
+        "scrollY": 3770,
+        "contentTop": -3662,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "_R_bm_",
+          "site-footer"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://app.notion.com/api/v3/etClient",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://app.notion.com/api/v3/generateOnetapNonce",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp.notion.com/v1/initialize",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.notion.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.notion.com/_next/data/080d921e2359a7c0ab66a35a74486cbdf8cbc32f/en-us/product/dev.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.notion.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/080d921e2359a7c0ab66a35a74486cbdf8cbc32f/_buildManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/080d921e2359a7c0ab66a35a74486cbdf8cbc32f/_clientMiddlewareManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/080d921e2359a7c0ab66a35a74486cbdf8cbc32f/_ssgManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0_c20-p7358ts.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0_pohyekro9m_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/02g6vsnftwois.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/02rj4cgtf2n8u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/02v5kae69g_bx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/03htqd1x9zk0h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/03yfa-kx5l1df.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/06je3-0ophitk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/06opk8o_67lkc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/06silq2f_scbz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/071558wddb6zc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/07bqas6kytk0u.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/09395o_ma8p2o.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0a--_go3h28nv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0bhhoxv-tc5tg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0d0zi-h_ie2er.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0d63v3yy1-bhs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0dwps95duqrlo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0g55hnozfpmrm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0h__50ie2ksx9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0j28er4ejsvob.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0j5pj3b8vdm-j.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0lscygdzdw4z6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0m_jjtn575_6e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0milyf6pj9slr.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0p7sbtp4_8clf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0r4e-wfbhhynq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0ri0yko5hrph3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0riaa10gmajv-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0ue-ykhhvcozi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/0y9avzuowll5n.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1_q9icg436c9v.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/111vb9k015u3c.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/11ojei96_n0c-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/131wc0ct7xdy5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/14tbpj0by6_04.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/15b-z8do6im74.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/16n-j18gaqjn5.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1816gg36if4vb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1ekj4m3p6bwk7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1elgmpwklw_ni.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1i7xcgkoiap9s.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1ka--lc29lur-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1mmyz9mya377z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1mohpmitd-2mm.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1o44e_btt971e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1phy5t3fgvrhx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1pl8ipt7_nhjh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1q50_0ldvmidc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1u2fhpzx-y34k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1ufsced5a2dd3.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1x2bll-wsfvxs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1x47i8y6igxgn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1xyo73pu0u5mv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1ybpdusudh5jl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1yc61txfdkdur.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/1z57e-dxc_rz_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2-b_eu2y-lyf2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/20aj1lk10xx4d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/230zoj22ja9xg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/23urjlv78z993.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/241ojl513x4i_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/248v06ioc50pl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/253763qowgyxm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/266cx5x85-p2e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/27-9fmw11kok5.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/270_p11739_91.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/273g19l9iu7bx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/27xwj6-z_lcjc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/28gc2o4fdt-fp.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/29nn9niz81dhu.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/29sr564c2b1iy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2b2f5cwmp36x_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2bsodvme4i4h3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2cdwdboykg7jt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2f8oer6tizqw9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2fee42dk-ntga.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2j4s6jjv761tp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2jw1i42psvbmp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2k3gr-5v595cw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2ltr43yxsy3fz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2lxc4wcci326e.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2lzs-4dm-g0o7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2md3wx2_9yyjx.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2mdgle38fe66o.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2mx8sbhlobrig.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2nst_gcpzdo91.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2suxivv7_4p-p.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2tzz-ezeut-ga.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2vy6guohz2d7k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2wswy-iv3_tb4.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2xqvabjmfjjq4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/2zej69a1fo8sp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3_24x8lqxe9di.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3-_3sgyhkl9a3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/30uv2fob534w6.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/32-8eqeqm1b56.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/33lw4r49atotg.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/365im--yluhzc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/37k89fl43sq_k.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/38-3vwlrf5on9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3873ugpvx9xm-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3943lwhzlv_u3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3bba9crxpmhrx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3bj-jdyc91sst.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3dhcfqm4gv49m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3ez2dqtm8953k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3fey-sm34e2m7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3gtvu2f9-uwu7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3happ68jcoyw3.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3hcdi18z2rrpa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3htq544_5e_g0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3jtqdstaz91yb.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3lvvg-0jti0g4.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3mryzi6c3-hak.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3oryoisdp0rsm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3oy3v1iixfoyn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3ql3-cmww9t-1.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3t5_oseo3vl3w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3tarxfbhc0_h7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3wcx3vdo5i075.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3wsr5zse0z4bq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3yt66n71xjj8f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/3zkczi610em2c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/43jw3tu4qfp5g.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/chunks/turbopack-3yv6cmuran_d1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/_next/static/media/LyonText-Regular-Web.0v5-4d-mnyixl.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.notion.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.notion.com/front-api/notifications/en-US",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.notion.com/front-api/releases/latest-byline",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.notion.com/front-static/external/transcend/transcend.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.notion.com/front-static/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.notion.com/front-static/fonts/NotionInter-Bold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.notion.com/front-static/fonts/NotionInter-Medium.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.notion.com/front-static/fonts/NotionInter-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.notion.com/front-static/fonts/NotionInter-SemiBold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.notion.com/front-static/scripts/gtm/metadata-io-site-script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 85301,
+      "sha256": "d8e388ed8dd32203a44a173164e9d316567e95a54339baa4e01f5fbf30221ded"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 86464,
+      "sha256": "424b3a0af93321de42de0013653fb6d7285585f9764a2e43ca9b521474b32012"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 70875,
+      "sha256": "797fba0dd75e13295e60a29d364e420669d677dfbf3fedb3bae9a4e196891c15"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 73438,
+      "sha256": "6a2ce5cdc02e88df4e7e3388a8d52ca057bf2804a7fe3af5eeef72547ceb9f4d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 85691,
+      "sha256": "5911c05679afe95939fa9c5bc7877927f7fa31c0d745709a891395cfe2b1cfd3"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 47747,
+      "sha256": "39b8b4cd95c10c90de140f42fc31d57809be6994d83a19b7be8a913015f303eb"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 364931,
+      "sha256": "1ea8ab0dbb1399186c1a12f874c85bef82d490ed115f769f001199cebf8ee17c"
+    }
+  ],
+  "initial": {
+    "url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "documentHeight": 4731,
+    "contentHeight": 4731,
+    "contentTop": 108,
+    "scrollY": 0,
+    "ready": "QPCBRq_theme -Qs3Ha_noXScroll",
+    "bodyStyle": {
+      "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgba(0, 0, 0, 0.95)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_bm_",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3705,
+          "width": 1440,
+          "height": 630
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 0.898)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 340,
+          "y": 323,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 610,
+          "y": 323,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 880,
+          "y": 323,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 94,
+          "y": 188,
+          "width": 1252,
+          "height": 210
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "96px",
+          "lineHeight": "100px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 106,
+          "y": 1533,
+          "width": 655,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "54px",
+          "lineHeight": "56px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 130,
+          "y": 1673,
+          "width": 454,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 756,
+          "y": 1673,
+          "width": 407,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 130,
+          "y": 2257,
+          "width": 452,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 106,
+          "y": 2601,
+          "width": 1229,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 0.54)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 131,
+          "y": 2716,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 378,
+          "y": 2716,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 625,
+          "y": 2716,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 873,
+          "y": 2716,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 1120,
+          "y": 2716,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_bmH1_",
+        "characters": 27,
+        "rect": {
+          "x": 106,
+          "y": 2981,
+          "width": 671,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "54px",
+          "lineHeight": "56px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_bm_-heading",
+        "characters": 18,
+        "rect": {
+          "x": 548,
+          "y": 3969,
+          "width": 344,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "42px",
+          "lineHeight": "48px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.notion.com/en-gb",
+      "https://www.notion.com/product",
+      "https://www.notion.com/product/features",
+      "https://www.notion.com/product/features#capture",
+      "https://www.notion.com/product/features#find",
+      "https://www.notion.com/product/features#automate",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/download",
+      "https://www.notion.com/enterprise",
+      "https://www.notion.com/teams",
+      "https://www.notion.com/startups",
+      "https://www.notion.com/product/dev",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/customers",
+      "https://www.notion.com/webinars",
+      "https://www.notion.com/templates",
+      "https://www.notion.com/explore-consultants",
+      "https://academy.notion.com/",
+      "https://www.notion.com/product/demos",
+      "https://www.notion.com/help",
+      "https://www.notion.com/pricing",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/login?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/customers/openai",
+      "https://www.notion.com/customers/figma",
+      "https://www.notion.com/customers/ramp",
+      "https://www.notion.com/customers/cursor",
+      "https://www.notion.com/customers/toyota",
+      "https://www.notion.com/customers/clay",
+      "https://www.notion.com/customers/vercel",
+      "https://www.notion.com/customers/faire",
+      "https://www.notion.com/product/features#capture",
+      "https://www.notion.com/product/features#find",
+      "https://www.notion.com/product/features#automate",
+      "https://www.notion.com/product/ai/use-cases/triage-product-feedback",
+      "https://www.notion.com/product/ai/use-cases/resolve-support-tickets-in-slack",
+      "https://www.notion.com/product/ai/use-cases/respond-to-security-alerts-faster",
+      "https://www.notion.com/product/ai/use-cases/automate-weekly-reporting",
+      "https://www.notion.com/product/dev",
+      "https://www.notion.com/customers/cursor",
+      "https://www.notion.com/customers/faire",
+      "https://www.notion.com/customers/ramp",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/product",
+      "https://www.notion.com/product/features",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/product/ai",
+      "https://www.notion.com/pricing",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/download",
+      "https://www.notion.com/explore",
+      "https://www.notion.com/customers",
+      "https://www.notion.com/connections",
+      "https://www.notion.com/templates",
+      "https://www.notion.com/help",
+      "https://academy.notion.com/",
+      "https://www.notion.com/community",
+      "https://www.notion.com/about",
+      "https://www.notion.com/careers",
+      "https://www.notion.com/security",
+      "https://www.notion-status.com/",
+      "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac",
+      "https://www.notion.com/trust/privacy-policy#california",
+      "https://www.notion.com/enterprise",
+      "https://www.notion.com/teams",
+      "https://www.notion.com/startups",
+      "https://developers.notion.com/",
+      "https://www.notion.com/explore",
+      "https://www.notion.com/en-US",
+      "https://www.notion.com/id",
+      "https://www.notion.com/da",
+      "https://www.notion.com/de",
+      "https://www.notion.com/en-GB",
+      "https://www.notion.com/es-ES",
+      "https://www.notion.com/es",
+      "https://www.notion.com/fr",
+      "https://www.notion.com/it",
+      "https://www.notion.com/nl",
+      "https://www.notion.com/nb",
+      "https://www.notion.com/pt",
+      "https://www.notion.com/fi",
+      "https://www.notion.com/sv",
+      "https://www.notion.com/vi",
+      "https://www.notion.com/he",
+      "https://www.notion.com/ar",
+      "https://www.notion.com/th",
+      "https://www.notion.com/ko",
+      "https://www.notion.com/ja",
+      "https://www.notion.com/zh-CN",
+      "https://www.notion.com/zh-TW"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Fcapture.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Ffind.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Fautomate.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_1.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_2.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_3.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_4.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_5.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_6.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_7.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Faccent-illustrations%2FagentTop-v2.png&w=256&q=75",
+        "poster": "",
+        "width": 160,
+        "height": 170
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Faccent-illustrations%2FpersonPeekLeft2-v1.png&w=256&q=75",
+        "poster": "",
+        "width": 160,
+        "height": 170
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+        "poster": "",
+        "width": 3840,
+        "height": 2400
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3kVtQWll6jUqQepQ0kaYlz/382b34f23ecb349129239f0b649aba8c/web-homepage-hero-1920x1200_final.jpg?w=1080&q=90&fm=webp",
+        "poster": "",
+        "width": 960,
+        "height": 600
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6gu2Rybt4VdhS2GEEA99PO/da29ed051a3b0821f5dac4868dcb4403/OpenAI-homepage-cropped.svg",
+        "poster": "",
+        "width": 66,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4aacFfCek6OBBghMJHaBSk/9cb5eb86db70a11dbb6bc62b6535293b/a24-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 123
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6T4QxYfpIzIbZgWUSa5Rb1/8c6cb40bbf2304f8486222d777314b83/Figma_Wordmark__Black_.svg",
+        "poster": "",
+        "width": 300,
+        "height": 115
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/1WOBygtnWVcfsk5EfcSJVM/99b994e046e92fee4878075877a9441c/FedEx.svg",
+        "poster": "",
+        "width": 176,
+        "height": 50
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4KBpzIRuWO9Bkoho07RwHW/7e608b80b697431b92ffb144e545cf3c/Ramp.svg",
+        "poster": "",
+        "width": 300,
+        "height": 81
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5zvQQUAMUwmWaGbC9qhXpK/633c8d40bbbb2b42faec7ea3339788ff/cursor-logo-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 71
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6ZbZcPA6g5hFrPMbOPfraR/ef4bc2c92ed55a60c9609900717d3755/substack-wordmark-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 52
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/27zUO0UMDpEBMwPKUUilFH/daba398de4e970fcda7a138ff09d480a/Nvidia.svg",
+        "poster": "",
+        "width": 300,
+        "height": 57
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/75O9653Z83boVzSMBMSY2D/4b36e928296e00612213aff4bdd369f2/toyota-black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 55
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4ljglPuQFOp4jC8kIacMa1/73c44685b85c73a717baac0329633d59/clay-mono-black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 98
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/2Srehy5L0uv68kHfd341sB/b486900e403e6bd0b4cd29bca21d79b4/lamborghini-script-mono.svg",
+        "poster": "",
+        "width": 600,
+        "height": 121
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5PYK3Lg8UW2Pk5pjMSo0oo/386446de76c143e694ec9790807eff7e/david-zwirner-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6NEhbP27yAbhvWdLKPHTFV/6978b1603c567d69f5fe7b4895b1d30f/Vercel.svg",
+        "poster": "",
+        "width": 300,
+        "height": 60
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/2lvHXS3UJ5sJscJTW8GTpc/c22ac415979069ab3be881b2749e0d77/Faire_logo_-_black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5noP5n1Gp9wULYfUEzujKv/49d56f55c09d72488606d57671e7d8c4/full-logo--black.svg",
+        "poster": "",
+        "width": 950,
+        "height": 173
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6mSBovk8ZRupLUOZtSu9vp/2bc7912e143755ee406413ab0b9e0b68/goop-mono.svg",
+        "poster": "",
+        "width": 494,
+        "height": 197
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/7hER3ka9QgDiTjLh5Fh3ZZ/acda79bc2449edf5d964a3fc89e19623/Discord-Logo-Black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 45
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5s8E0EU3tXEvGrFrRwgxhb/c44fce43494ccd6f098746c64b679aab/capture_desktop.jpg?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 604
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5bqhI7eaPc7AeAtuuTvtuh/915d56f683fcd7edbd9f1e0434136b0d/pin_capture.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3wptjGyp47YX2bFx2LikSS/06eae544cf0d12dcd58a41e157031c9a/Mini_AIMN.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/1FOyxGfzHA9kKA1BVPQa4m/721dc34d66976c6dbaa4b16b260b9a97/find_desktop.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 604
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3PH2HDqwPQKa0Xtq1EzIHs/df192356392843cf5999e8691221fae1/image.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 314
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4mw82WFsPwlqM8p3SFChGp/0f24425d9c398b7231eb089e4677e069/chat_input.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5CESaDHalT60BVMktTrFD9/986587f634695de956580c1654b4f777/automate_front_desktop.jpg?w=3840&q=55&fm=webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4U19kO5gM7RYsJa4Xr2oGF/806a8c048e2a03bf4886d3085a03986d/image.png?w=3840&q=55&fm=webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fmailbox.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Frock.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fsign.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fapple.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Flight_bulb.png&w=96&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fagent-prompts%2Fworker.png&w=48&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3M9ceMRlhgl2rIRgqs6nSq/8a641169512d0053ac357d97ba527758/cursor.png?w=3840&q=55&fm=webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/OJRQbA3XzRNfCfMh3UWf4/76408a06d9d9a1ed52fcd109b264de80/Company_Cursor__Colorway_White.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3pCHbRV7f5UjIssdK3CDpy/7b48cf81bad50d66e31caa5a3b80d5b5/faire.png?w=3840&q=55&fm=webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6HI6Z7JAuvLnNK8mDWdnF8/fd2d3b36fc27b8bbad2042136c7991f2/Company_faire__Colorway_White.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/69ZGgVfnKktXcsoatPFe10/bb284c982b9a95f943eef6bbda821104/ramp.png?w=3840&q=55&fm=webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6zW25mUZj4PMuydbiGSEIi/9b8c5eb1d8e0db2abf4c531433a39a6e/Ramp_Business_Corporation_Logo_1.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4286b3c-1687-42da-b8c8-afe3b671628c&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&tw_session_start=1&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4286b3c-1687-42da-b8c8-afe3b671628c&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&tw_session_start=1&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=343272399&tm=gtm002&Ver=2&mid=b5885625-e814-44e9-a6f2-e309948f9058&bo=2&sid=27a1f3d0de8611f19ef58dca56487572&vid=27a1ec70de8611f1a735b9f75043a3b7&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=The%20AI%20workspace%20that%20works%20for%20you.%20%7C%20Notion&p=https%3A%2F%2Fwww.notion.com%2F&r=&lt=373&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=438471",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.pdscrb.com/tag?action=view&user_id=3488f428-90e1-7044-33f0-052cafff1a22&advertiser=notion&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.notion.com%2F&device_id=pscrb_fe9dddd7-07b8-4279-900c-9ceafd421337&first_visited_at=1794480319234&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fwww.notion.com%2F&event_url=https%3A%2F%2Fwww.notion.com%2F&source=js-tag+v1.2.3&cachebust=1794480320254",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=343272399&tm=gtm002&Ver=2&mid=b5885625-e814-44e9-a6f2-e309948f9058&bo=2&sid=27a1f3d0de8611f19ef58dca56487572&vid=27a1ec70de8611f1a735b9f75043a3b7&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=The%20AI%20workspace%20that%20works%20for%20you.%20%7C%20Notion&p=https%3A%2F%2Fwww.notion.com%2F&r=&lt=373&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=438471",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 3671,
+    "actualTravel": 3770,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "documentHeight": 4731,
+    "contentHeight": 4731,
+    "contentTop": -3662,
+    "scrollY": 3770,
+    "ready": "QPCBRq_theme -Qs3Ha_noXScroll",
+    "bodyStyle": {
+      "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgba(0, 0, 0, 0.95)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_bm_",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -65,
+          "width": 1440,
+          "height": 630
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 0.898)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 340,
+          "y": 279,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 610,
+          "y": 279,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 880,
+          "y": 279,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 94,
+          "y": -3582,
+          "width": 1252,
+          "height": 210
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "96px",
+          "lineHeight": "100px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 106,
+          "y": -2237,
+          "width": 655,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "54px",
+          "lineHeight": "56px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 130,
+          "y": -2097,
+          "width": 454,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 756,
+          "y": -2097,
+          "width": 407,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 130,
+          "y": -1513,
+          "width": 452,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "22px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 106,
+          "y": -1169,
+          "width": 1229,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 0.54)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 131,
+          "y": -1054,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 378,
+          "y": -1054,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 625,
+          "y": -1054,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 873,
+          "y": -1054,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 1120,
+          "y": -1054,
+          "width": 189,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_bmH1_",
+        "characters": 27,
+        "rect": {
+          "x": 106,
+          "y": -789,
+          "width": 671,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "54px",
+          "lineHeight": "56px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_bm_-heading",
+        "characters": 18,
+        "rect": {
+          "x": 548,
+          "y": 199,
+          "width": 344,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "NotionInter, Inter, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, \"Apple Color Emoji\", Arial, sans-serif, \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+          "fontSize": "42px",
+          "lineHeight": "48px",
+          "fontWeight": "700",
+          "color": "rgba(0, 0, 0, 0.95)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.notion.com/en-gb",
+      "https://www.notion.com/product",
+      "https://www.notion.com/product/features",
+      "https://www.notion.com/product/features#capture",
+      "https://www.notion.com/product/features#find",
+      "https://www.notion.com/product/features#automate",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/download",
+      "https://www.notion.com/enterprise",
+      "https://www.notion.com/teams",
+      "https://www.notion.com/startups",
+      "https://www.notion.com/product/dev",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/customers",
+      "https://www.notion.com/webinars",
+      "https://www.notion.com/templates",
+      "https://www.notion.com/explore-consultants",
+      "https://academy.notion.com/",
+      "https://www.notion.com/product/demos",
+      "https://www.notion.com/help",
+      "https://www.notion.com/pricing",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/login?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/customers/openai",
+      "https://www.notion.com/customers/figma",
+      "https://www.notion.com/customers/ramp",
+      "https://www.notion.com/customers/cursor",
+      "https://www.notion.com/customers/toyota",
+      "https://www.notion.com/customers/clay",
+      "https://www.notion.com/customers/vercel",
+      "https://www.notion.com/customers/faire",
+      "https://www.notion.com/product/features#capture",
+      "https://www.notion.com/product/features#find",
+      "https://www.notion.com/product/features#automate",
+      "https://www.notion.com/product/ai/use-cases/triage-product-feedback",
+      "https://www.notion.com/product/ai/use-cases/resolve-support-tickets-in-slack",
+      "https://www.notion.com/product/ai/use-cases/respond-to-security-alerts-faster",
+      "https://www.notion.com/product/ai/use-cases/automate-weekly-reporting",
+      "https://www.notion.com/product/dev",
+      "https://www.notion.com/customers/cursor",
+      "https://www.notion.com/customers/faire",
+      "https://www.notion.com/customers/ramp",
+      "https://www.notion.com/signup?from=marketing&pathname=%2F&tid=32eeaa8ce4c54fdbbad260bd105513ab",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/product",
+      "https://www.notion.com/product/features",
+      "https://www.notion.com/releases",
+      "https://www.notion.com/product/ai",
+      "https://www.notion.com/pricing",
+      "https://www.notion.com/contact-sales",
+      "https://www.notion.com/download",
+      "https://www.notion.com/explore",
+      "https://www.notion.com/customers",
+      "https://www.notion.com/connections",
+      "https://www.notion.com/templates",
+      "https://www.notion.com/help",
+      "https://academy.notion.com/",
+      "https://www.notion.com/community",
+      "https://www.notion.com/about",
+      "https://www.notion.com/careers",
+      "https://www.notion.com/security",
+      "https://www.notion-status.com/",
+      "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac",
+      "https://www.notion.com/trust/privacy-policy#california",
+      "https://www.notion.com/enterprise",
+      "https://www.notion.com/teams",
+      "https://www.notion.com/startups",
+      "https://developers.notion.com/",
+      "https://www.notion.com/explore",
+      "https://www.notion.com/en-US",
+      "https://www.notion.com/id",
+      "https://www.notion.com/da",
+      "https://www.notion.com/de",
+      "https://www.notion.com/en-GB",
+      "https://www.notion.com/es-ES",
+      "https://www.notion.com/es",
+      "https://www.notion.com/fr",
+      "https://www.notion.com/it",
+      "https://www.notion.com/nl",
+      "https://www.notion.com/nb",
+      "https://www.notion.com/pt",
+      "https://www.notion.com/fi",
+      "https://www.notion.com/sv",
+      "https://www.notion.com/vi",
+      "https://www.notion.com/he",
+      "https://www.notion.com/ar",
+      "https://www.notion.com/th",
+      "https://www.notion.com/ko",
+      "https://www.notion.com/ja",
+      "https://www.notion.com/zh-CN",
+      "https://www.notion.com/zh-TW"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Fcapture.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Ffind.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fnav%2FallFeaturesNav%2Fautomate.png&w=256&q=75",
+        "poster": "",
+        "width": 256,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_1.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_2.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_3.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_4.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_5.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_6.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fteams-agents-hero%2Fpile_7.webp&w=256&q=75",
+        "poster": "",
+        "width": 225,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Faccent-illustrations%2FagentTop-v2.png&w=256&q=75",
+        "poster": "",
+        "width": 160,
+        "height": 170
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Faccent-illustrations%2FpersonPeekLeft2-v1.png&w=256&q=75",
+        "poster": "",
+        "width": 160,
+        "height": 170
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+        "poster": "",
+        "width": 3840,
+        "height": 2400
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3kVtQWll6jUqQepQ0kaYlz/382b34f23ecb349129239f0b649aba8c/web-homepage-hero-1920x1200_final.jpg?w=1080&q=90&fm=webp",
+        "poster": "",
+        "width": 960,
+        "height": 600
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6gu2Rybt4VdhS2GEEA99PO/da29ed051a3b0821f5dac4868dcb4403/OpenAI-homepage-cropped.svg",
+        "poster": "",
+        "width": 66,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4aacFfCek6OBBghMJHaBSk/9cb5eb86db70a11dbb6bc62b6535293b/a24-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 123
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6T4QxYfpIzIbZgWUSa5Rb1/8c6cb40bbf2304f8486222d777314b83/Figma_Wordmark__Black_.svg",
+        "poster": "",
+        "width": 300,
+        "height": 115
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/1WOBygtnWVcfsk5EfcSJVM/99b994e046e92fee4878075877a9441c/FedEx.svg",
+        "poster": "",
+        "width": 176,
+        "height": 50
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4KBpzIRuWO9Bkoho07RwHW/7e608b80b697431b92ffb144e545cf3c/Ramp.svg",
+        "poster": "",
+        "width": 300,
+        "height": 81
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5zvQQUAMUwmWaGbC9qhXpK/633c8d40bbbb2b42faec7ea3339788ff/cursor-logo-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 71
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6ZbZcPA6g5hFrPMbOPfraR/ef4bc2c92ed55a60c9609900717d3755/substack-wordmark-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 52
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/27zUO0UMDpEBMwPKUUilFH/daba398de4e970fcda7a138ff09d480a/Nvidia.svg",
+        "poster": "",
+        "width": 300,
+        "height": 57
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/75O9653Z83boVzSMBMSY2D/4b36e928296e00612213aff4bdd369f2/toyota-black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 55
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4ljglPuQFOp4jC8kIacMa1/73c44685b85c73a717baac0329633d59/clay-mono-black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 98
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/2Srehy5L0uv68kHfd341sB/b486900e403e6bd0b4cd29bca21d79b4/lamborghini-script-mono.svg",
+        "poster": "",
+        "width": 600,
+        "height": 121
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5PYK3Lg8UW2Pk5pjMSo0oo/386446de76c143e694ec9790807eff7e/david-zwirner-mono.svg",
+        "poster": "",
+        "width": 300,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6NEhbP27yAbhvWdLKPHTFV/6978b1603c567d69f5fe7b4895b1d30f/Vercel.svg",
+        "poster": "",
+        "width": 300,
+        "height": 60
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/2lvHXS3UJ5sJscJTW8GTpc/c22ac415979069ab3be881b2749e0d77/Faire_logo_-_black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5noP5n1Gp9wULYfUEzujKv/49d56f55c09d72488606d57671e7d8c4/full-logo--black.svg",
+        "poster": "",
+        "width": 950,
+        "height": 173
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6mSBovk8ZRupLUOZtSu9vp/2bc7912e143755ee406413ab0b9e0b68/goop-mono.svg",
+        "poster": "",
+        "width": 494,
+        "height": 197
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/7hER3ka9QgDiTjLh5Fh3ZZ/acda79bc2449edf5d964a3fc89e19623/Discord-Logo-Black.svg",
+        "poster": "",
+        "width": 300,
+        "height": 45
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5s8E0EU3tXEvGrFrRwgxhb/c44fce43494ccd6f098746c64b679aab/capture_desktop.jpg?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 604
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5bqhI7eaPc7AeAtuuTvtuh/915d56f683fcd7edbd9f1e0434136b0d/pin_capture.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3wptjGyp47YX2bFx2LikSS/06eae544cf0d12dcd58a41e157031c9a/Mini_AIMN.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/1FOyxGfzHA9kKA1BVPQa4m/721dc34d66976c6dbaa4b16b260b9a97/find_desktop.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 604
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3PH2HDqwPQKa0Xtq1EzIHs/df192356392843cf5999e8691221fae1/image.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 314
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4mw82WFsPwlqM8p3SFChGp/0f24425d9c398b7231eb089e4677e069/chat_input.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 604,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/5CESaDHalT60BVMktTrFD9/986587f634695de956580c1654b4f777/automate_front_desktop.jpg?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 403,
+        "height": 403
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/4U19kO5gM7RYsJa4Xr2oGF/806a8c048e2a03bf4886d3085a03986d/image.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 403,
+        "height": 403
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fmailbox.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Frock.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fsign.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Fapple.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fagents%2Flight_bulb.png&w=48&q=75",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.notion.com/_next/image?url=%2Ffront-static%2Fpages%2Fhome%2Fagent-prompts%2Fworker.png&w=32&q=75",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3M9ceMRlhgl2rIRgqs6nSq/8a641169512d0053ac357d97ba527758/cursor.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 403,
+        "height": 504
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/OJRQbA3XzRNfCfMh3UWf4/76408a06d9d9a1ed52fcd109b264de80/Company_Cursor__Colorway_White.svg",
+        "poster": "",
+        "width": 82,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/3pCHbRV7f5UjIssdK3CDpy/7b48cf81bad50d66e31caa5a3b80d5b5/faire.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 403,
+        "height": 504
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6HI6Z7JAuvLnNK8mDWdnF8/fd2d3b36fc27b8bbad2042136c7991f2/Company_faire__Colorway_White.svg",
+        "poster": "",
+        "width": 89,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/69ZGgVfnKktXcsoatPFe10/bb284c982b9a95f943eef6bbda821104/ramp.png?w=640&q=55&fm=webp",
+        "poster": "",
+        "width": 403,
+        "height": 504
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/spoqsaf9291f/6zW25mUZj4PMuydbiGSEIi/9b8c5eb1d8e0db2abf4c531433a39a6e/Ramp_Business_Corporation_Logo_1.svg",
+        "poster": "",
+        "width": 639,
+        "height": 173
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4286b3c-1687-42da-b8c8-afe3b671628c&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&tw_session_start=1&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d4286b3c-1687-42da-b8c8-afe3b671628c&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&tw_session_start=1&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=343272399&tm=gtm002&Ver=2&mid=b5885625-e814-44e9-a6f2-e309948f9058&bo=2&sid=27a1f3d0de8611f19ef58dca56487572&vid=27a1ec70de8611f1a735b9f75043a3b7&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=The%20AI%20workspace%20that%20works%20for%20you.%20%7C%20Notion&p=https%3A%2F%2Fwww.notion.com%2F&r=&lt=373&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=438471",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.pdscrb.com/tag?action=view&user_id=3488f428-90e1-7044-33f0-052cafff1a22&advertiser=notion&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.notion.com%2F&device_id=pscrb_fe9dddd7-07b8-4279-900c-9ceafd421337&first_visited_at=1794480319234&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fwww.notion.com%2F&event_url=https%3A%2F%2Fwww.notion.com%2F&source=js-tag+v1.2.3&cachebust=1794480320254",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=acfa2c22-59da-4a73-9d8d-444ba4f5d5e5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=5980&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=100%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=acfa2c22-59da-4a73-9d8d-444ba4f5d5e5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=98f4cb96-0b5d-464a-a48e-d4dfc53c1077&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Fwww.notion.com%2F&tw_engaged_ms=5980&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480319211-812887141&twpid=tw.1794480319211.910171349956425827&txn_id=ofilm&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=343272399&tm=gtm002&Ver=2&mid=b5885625-e814-44e9-a6f2-e309948f9058&bo=2&sid=27a1f3d0de8611f19ef58dca56487572&vid=27a1ec70de8611f1a735b9f75043a3b7&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=The%20AI%20workspace%20that%20works%20for%20you.%20%7C%20Notion&p=https%3A%2F%2Fwww.notion.com%2F&r=&lt=373&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=438471",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 7762,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

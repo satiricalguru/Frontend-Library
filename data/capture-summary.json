@@ -1,13 +1,13 @@
 {
-  "packages": 57,
-  "captured": 52,
-  "uniqueRoutes": 56,
-  "videos": 57,
-  "checkpoints": 342,
-  "observedResourceResponses": 2380,
-  "uniqueResourceUrls": 1242,
+  "packages": 93,
+  "captured": 84,
+  "uniqueRoutes": 92,
+  "videos": 92,
+  "checkpoints": 552,
+  "observedResourceResponses": 6285,
+  "uniqueResourceUrls": 5147,
   "byKind": {
-    "landing-page": 3,
+    "landing-page": 39,
     "studio-page": 1,
     "project-index": 1,
     "interactive-experience": 15,
@@ -16,7 +16,8 @@
     "experiment-index": 1
   },
   "byStatus": {
-    "captured": 52,
-    "needs-review": 5
+    "captured": 84,
+    "needs-review": 8,
+    "failed": 1
   }
 }

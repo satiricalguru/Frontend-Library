@@ -1,0 +1,3607 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-nuxt",
+  "name": "Nuxt — homepage",
+  "url": "https://nuxt.com/",
+  "source": "https://styles.refero.design/style/d9a19632-e9ee-4c9c-849b-ed48b1c43ee7",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:53:42.847Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://nuxt.com/robots.txt",
+    "checkedAt": "2026-11-12T10:53:42.847Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt",
+          "reka-tabs-v-0-0-13-0-content-0"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1645,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt",
+          "reka-tabs-v-0-0-13-0-content-0"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 5217,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 1765,
+        "contentTop": -1701,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 9060,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 3933,
+        "contentTop": -3869,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 11746,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 5575,
+        "contentTop": -5511,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt",
+          "showcaseData"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 14750,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://nuxt.com/",
+        "scrollY": 6785,
+        "contentTop": -6721,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__nuxt",
+          "v-0-0-5"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://ipx.nuxt.com/f_auto,s_40x40/gh_avatar/yyx990803",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/antfu",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/atinux",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/aytdm",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/benjamincanac",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/BobbieGoede",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/clarkdo",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/clemcode",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/DamianGlowala",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/danielroe",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/farnabaz",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/harlan-zw",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/huang-julien",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/HugoRCD",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/inouetakuya",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/kazupon",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/kevinmarrec",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/larbish",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/onmax",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/pi0",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/pimlie",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/rchl",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/ricardogobbosouza",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/smarroufin",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/TheAlexLichter",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/adyen.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/google-ventures.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/microsoft-edge-developer.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/nasa-jet-propulsion-laboratory.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/prada.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/tiktok-ads.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/trade-republic.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ipx.nuxt.com/s_512x439/assets/landing/deploy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/_...DKtZSw73.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/_slug_.DamFefDQ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/1ckq-nIt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/1MXNyaxZ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/2XR3BR5N.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/5QcA-vaO.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/68-Zdh9J.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/9iEUJqbO.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/aRZpJz8B.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/aTu8u8iw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/B-IMNUzs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/B4Iry5oC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/B6aQVFaN.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/B6GqwM7U.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/b9C6nW-Q.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Ba7ZAoE6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bbpvi9nl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BBxuj4BK.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BDNMzG2s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BdNuwm7S.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BdP96ozV.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BevNwkri.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/bfcYSSmi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BFP0Q-i7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bg0cTrZw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/bg739Ytm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bhbr5ouO.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Biv4bZnc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bk9HFtpC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BL2jUmpC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BLcjua3M.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Blx4YTsr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bm0iCx3L.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BmtLDQcx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bng2rRDf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BPURPD2Q.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BQGy5CMY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BqmerOIy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BrCdjciQ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BRwtHjOe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bs_DBEtq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Bsli7XF2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BsOjT3e2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BSWRw3CT.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BTSr4YdD.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/builds/meta/9648ef84-9b01-4166-89fa-1c578303264d.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BuVJnu6e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/bv-6NFvs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BvwUtYaq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BvyXwS3B.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BW3xJdEx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/bW6NxFOP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BwOGTZSw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BxmSwb4P.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BxOOxIq_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BXs3arfR.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BymnAYQj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BzaW06Jt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/BZHHlLnn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C-askLR5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C-giRA4D.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C0sebBoY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C1HJCnig.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C1WjhyhM.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C1xaWsSh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C46VEg6D.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C5_fLA0R.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C5M-cyyQ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C713Po1h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C7Nr86pc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/C8_vTZLY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CawMGYPH.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CBAiwulX.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CBe0pGuC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CBrqYNHb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CCuq5Ylc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Cd0Dhyii.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CD8my1CM.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CeELip5u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CfkeJvTe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CFQQ2Ttw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Ch9-Vq03.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CHjehvaz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CImkeKMI.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CJ4Hussu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Cj4p1dn8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Cjf18aWY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CL-5m--O.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CLAtdQhQ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CnltPaLU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CnOT-ex1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CosUaQgB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CPBxyKQT.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CpJjjU-Z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Cpv1R3AU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CRgdd2bC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CRTKad7p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CrWM8CmX.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CsoTEKif.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CSy8XIZ8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CVLHRCtE.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/cVV2hEVK.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CwlzNYi6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CWw_5jkf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CwYac7jX.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Cx6Zr3ih.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CxIkTKX3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CxyNszd8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CyloURpP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CZ7hz9sP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/CzqaF5TH.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D-3aGTWp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D-jCkeNr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D3hoLTqU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D3zbs8lj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D5ogEQRo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D64I2Tyi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D7EmiJ3L.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/D8agjMqv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DAWnu_5x.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Db5CO7NQ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DbDiB4GS.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DC3J_sqW.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DcbODEEr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DcVkh0GT.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DDwbn050.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DDXiWF5X.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DDXKPN2S.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/deploy.B0o1N2aQ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DFe4rOiZ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DHihWhf5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DHT3jbU8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DIFKKJ0e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Dj0HuhAl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Dj5zsdfB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Djt2dsao.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DK2EpuO2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DK3Fl9T5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Dk69hZEU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DkDqFddO.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DL01lAdg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DmWnaxyW.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DNEbLmgg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Do0XythY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DPgSgKiJ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DQc1I2os.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DtAAmWfM.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DU6Shbqz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DUaLxyMp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DUeSH-iK.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DVdjlfWB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DWAPZbVu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DWEoD8ZB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DwOW9Noh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DygI0CC5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DYzQGZto.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DZ2F_T9b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DZJHPYHX.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/DzQGYy8z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/eLfNW32C.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/entry.BFaZKOLP.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/EUdXJTXP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/eXsmP8V0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Fhta8usV.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/fjs35PA8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/fonts/23mtYSzxPVyLoxLNpoXveb5p0hEC2MbGLOudqhNuXQQ-sHyjhRga9hvdq4tAx7_wIeBFh1sLJ_E5PRwGnzrqxWs.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/fonts/xwIOK4HPdbSC6Mdc0x2VRT_mYY3ySqs1fy6nxcxXjiU-0j7FPoS1jkGvS2tsrn8rI3GG3RfFYZS8ICqy61eWDc8.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/fXCOyayj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/G8h9EzQ9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/g9c3sf0i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/kt1Dg6Lf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/L2D-YPUa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/LczgkNfS.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/ln_6TUVh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/m3t1_CHn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/mBDeaw00.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/ModuleItem.Bvcw7T3B.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/modules.DGHk7lew.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/muQn5rLW.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Nzw0IJar.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/OIK-BlZR.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/OrqJ08Kn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/p9T1N38g.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/pages.D7wEt-eB.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/pXxTfIK-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/Q1vDajqB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/QXYBBDu5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/sCq8RKIP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/search-HvijOV_L.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/TAH74YqS.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/TGgQY57N.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/UcqkkzsE.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/uDmQpQD6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/UVVRauc0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/VideoAccordion.BPHclfWM.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/VwES1yW_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/W6B24lQS.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/wcB1mPBY.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/yOvPCjUu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_nuxt/yvQVMc-u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/9149e8baebe0316c/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/api/_auth/session",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/api/agent/usage",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/api/content/heads",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/api/content/site/list",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/api/nuxters",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/api/v1/modules/health",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/backmarket.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/caudalie.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/dassault-systemes.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/louis-vuitton.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/paul-smith.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/brands/vans.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/adyen.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/git-lab.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/harrods.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/la-poste.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/microsoft-edge-developer.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/n8n.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/nintendo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/prada.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/stack-overflow.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/assets/websites/logos/trade-republic.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://nuxt.com/blog/devtools-v4/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/deploy/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/docs/4.x/getting-started/installation/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/f771ed1f69e3eb32/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://nuxt.com/icon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://nuxt.com/modules/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/modules/content/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/modules/devtools/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/modules/ui/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/antfu/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/atinux/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/aytdm/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/benjamincanac/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/BobbieGoede/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/clarkdo/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/clemcode/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/DamianGlowala/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/danielroe/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/farnabaz/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/harlan-zw/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/huang-julien/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/HugoRCD/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/inouetakuya/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/kazupon/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/kevinmarrec/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/larbish/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/onmax/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/pi0/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/pimlie/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/rchl/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/ricardogobbosouza/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/smarroufin/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/nuxters/TheAlexLichter/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/showcase/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/templates/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/updates/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://nuxt.com/video-courses/_payload.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 73314,
+      "sha256": "2aeea06fe71a62c6b42d11e076cf8b5b5466c1efb3c5a7ac5a38f0355e95ca86"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 73195,
+      "sha256": "f8a6d0aa64848344932bf3b3eeb8e0403c296d3149b1fa19aa530a4286b20dfa"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 72969,
+      "sha256": "0d33d9c42967e59ac6e87654fec39bfbcf4600b182a1772e8b800cb6bb6e477d"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 43060,
+      "sha256": "21de2ac5cf6a0262dd6d6f37beb5ff2d6c4441225df0e29b9b44751431c0984f"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 107607,
+      "sha256": "2ad75473bcdb0f1ce6be6aeb9bb0874b7ea04567c0c915320d7979bc8e66a4aa"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 52394,
+      "sha256": "c0600eb9f449eff7571d602db425e3c287d962d82962786dbed5d55b5c706c07"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 348881,
+      "sha256": "97f4a76cd1c5ef41705a7c671326372b1858c81e5bfd991ca456f49985a8b6fc"
+    }
+  ],
+  "initial": {
+    "url": "https://nuxt.com/",
+    "title": "Nuxt: The Full-Stack Vue Framework",
+    "documentHeight": 7683,
+    "contentHeight": 7683,
+    "contentTop": 64,
+    "scrollY": 0,
+    "ready": "ui-macos dark",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "oklch(0.922 0 none)",
+      "backgroundColor": "oklch(0.145 0 none)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 32,
+          "y": 268,
+          "width": 656,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "72px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 32,
+          "y": 844,
+          "width": 1376,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 32,
+          "y": 1173,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 32,
+          "y": 2231,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 32,
+          "y": 2879,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 32,
+          "y": 3508,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 32,
+          "y": 4370,
+          "width": 656,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 752,
+          "y": 5058,
+          "width": 656,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 384,
+          "y": 5685,
+          "width": 672,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 32,
+          "y": 6570,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 32,
+          "y": 7434,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 345,
+          "y": 7434,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 658,
+          "y": 7434,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://nuxt.com/",
+      "https://github.com/nuxt/nuxt/releases/tag/v4.6.4",
+      "https://nuxt.com/docs/4.x",
+      "https://nuxt.com/modules",
+      "https://nuxt.com/templates",
+      "https://nuxt.com/showcase",
+      "https://nuxt.com/nuxters",
+      "https://nuxt.com/updates",
+      "https://nuxt.com/video-courses",
+      "https://go.nuxt.com/github",
+      "https://nuxt.com/blog/devtools-v4",
+      "https://nuxt.com/docs/getting-started/installation",
+      "https://nuxt.com/showcase",
+      "https://eu.louisvuitton.com/",
+      "https://www.nintendo.com/",
+      "https://about.gitlab.com/",
+      "https://www.prada.com/",
+      "https://www.backmarket.com/",
+      "https://developer.microsoft.com/en-us/microsoft-edge",
+      "https://www.paulsmith.com/",
+      "https://stackoverflow.co/",
+      "https://nuxt.com/docs",
+      "https://x.com/evanyou",
+      "https://vuejs.org/",
+      "https://vite.dev/",
+      "https://nitro.build/",
+      "https://npmx.dev/package-stats/nuxt/v/4.6.4?granularity=monthly",
+      "https://go.nuxt.com/github",
+      "https://github.com/nuxt/nuxt",
+      "https://go.nuxt.com/github",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/discord",
+      "https://nuxt.com/modules",
+      "https://npmx.dev/package-stats/@nuxt/ui/v/4.12.0?granularity=monthly",
+      "https://github.com/nuxt/ui#dev",
+      "https://nuxt.care/?search=npm:@nuxt/ui",
+      "https://nuxt.com/modules/ui",
+      "https://npmx.dev/package-stats/@nuxt/content/v/3.16.2?granularity=monthly",
+      "https://github.com/nuxt/content#main",
+      "https://nuxt.care/?search=npm:@nuxt/content",
+      "https://nuxt.com/modules/content",
+      "https://npmx.dev/package-stats/@nuxt/devtools/v/4.1.0?granularity=monthly",
+      "https://github.com/nuxt/devtools#main/packages/devtools",
+      "https://nuxt.care/?search=npm:@nuxt/devtools",
+      "https://nuxt.com/modules/devtools",
+      "https://npmx.dev/package-stats/@nuxt/image/v/2.2.1?granularity=monthly",
+      "https://github.com/nuxt/image",
+      "https://nuxt.care/?search=npm:@nuxt/image",
+      "https://nuxt.com/modules/image",
+      "https://npmx.dev/package-stats/@nuxt/icon/v/2.6.2?granularity=monthly",
+      "https://github.com/nuxt/icon",
+      "https://nuxt.care/?search=npm:@nuxt/icon",
+      "https://nuxt.com/modules/icon",
+      "https://npmx.dev/package-stats/@nuxt/eslint/v/1.17.0?granularity=monthly",
+      "https://github.com/nuxt/eslint",
+      "https://nuxt.care/?search=npm:@nuxt/eslint",
+      "https://nuxt.com/modules/eslint",
+      "https://npmx.dev/package-stats/@nuxt/fonts/v/1.2.0?granularity=monthly",
+      "https://github.com/nuxt/fonts",
+      "https://nuxt.care/?search=npm:@nuxt/fonts",
+      "https://nuxt.com/modules/fonts",
+      "https://npmx.dev/package-stats/@nuxt/scripts/v/1.3.12?granularity=monthly",
+      "https://github.com/nuxt/scripts#main/packages/script",
+      "https://nuxt.care/?search=npm:@nuxt/scripts",
+      "https://nuxt.com/modules/scripts",
+      "https://npmx.dev/package-stats/@nuxt/test-utils/v/4.4.0?granularity=monthly",
+      "https://github.com/nuxt/test-utils#main",
+      "https://nuxt.care/?search=npm:@nuxt/test-utils",
+      "https://nuxt.com/modules/test-utils",
+      "https://npmx.dev/package-stats/@nuxt/hints/v/1.1.5?granularity=monthly",
+      "https://github.com/nuxt/hints",
+      "https://nuxt.care/?search=npm:@nuxt/hints",
+      "https://nuxt.com/modules/hints",
+      "https://npmx.dev/package-stats/@nuxt/a11y/v/1.0.0-alpha.1?granularity=monthly",
+      "https://github.com/nuxt/a11y",
+      "https://nuxt.care/?search=npm:@nuxt/a11y",
+      "https://nuxt.com/modules/a11y",
+      "https://nuxt.com/deploy",
+      "https://nuxt.com/nuxters",
+      "https://go.nuxt.com/discord",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/bluesky",
+      "https://nuxt.com/showcase",
+      "https://eu.louisvuitton.com/",
+      "https://www.nintendo.com/en-gb/",
+      "https://traderepublic.com/",
+      "https://www.prada.com/gb/en.html",
+      "https://www.adyen.com/",
+      "https://jpl.nasa.gov/",
+      "https://www.gv.com/",
+      "https://developer.microsoft.com/en-us/microsoft-edge",
+      "https://tiktok.com/business/en",
+      "https://www.aldi-sued.de/",
+      "https://opencollective.com/nuxtjs",
+      "https://nuxt.com/sponsors",
+      "https://vercel.com/",
+      "https://mojam.co/",
+      "https://www.vuemastery.com/",
+      "https://www.curotec.com/",
+      "https://kinde.com/",
+      "https://netrouting.com/",
+      "https://logto.io/",
+      "https://nuxt.com/nuxters",
+      "https://nuxt.com/team",
+      "https://nuxt.com/design-kit",
+      "https://nuxt.com/templates",
+      "https://nuxt.com/showcase",
+      "https://nuxt.com/evals",
+      "https://nuxt.com/enterprise/agencies",
+      "https://nuxt.com/sponsors",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/bluesky",
+      "https://go.nuxt.com/linkedin",
+      "https://go.nuxt.com/discord",
+      "https://go.nuxt.com/github",
+      "https://go.nuxt.com/license"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto,s_40x40/gh_avatar/yyx990803",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/s_512x439/assets/landing/deploy.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/louis-vuitton.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/nintendo.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/trade-republic.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/prada.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/adyen.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/nasa-jet-propulsion-laboratory.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/google-ventures.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/microsoft-edge-developer.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/tiktok-ads.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/aldi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/14985020",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/mojamco/981e9de/logo/460.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/22382188?v=4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/34548260?v=4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/97858324?v=4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/netrouting/4908b54/avatar/460.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3200,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6623,
+    "actualTravel": 6785,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://nuxt.com/",
+    "title": "Nuxt: The Full-Stack Vue Framework",
+    "documentHeight": 7685,
+    "contentHeight": 7685,
+    "contentTop": -6721,
+    "scrollY": 6785,
+    "ready": "ui-macos dark",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "oklch(0.922 0 none)",
+      "backgroundColor": "oklch(0.145 0 none)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 32,
+          "y": -6517,
+          "width": 656,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "72px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 32,
+          "y": -5941,
+          "width": 1376,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 32,
+          "y": -5610,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 32,
+          "y": -4552,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 32,
+          "y": -3904,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 32,
+          "y": -3275,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 32,
+          "y": -2414,
+          "width": 656,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 752,
+          "y": -1725,
+          "width": 656,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 384,
+          "y": -1098,
+          "width": 672,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 32,
+          "y": -213,
+          "width": 1376,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 32,
+          "y": 651,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 345,
+          "y": 651,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 658,
+          "y": 651,
+          "width": 281,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Outfit, \"Outfit Fallback: Segoe UI\", \"Outfit Fallback: Helvetica Neue\", \"Outfit Fallback: Arial\", \"Outfit Fallback: Noto Sans\", \"Outfit Fallback: Liberation Sans\", Inter, \"Inter Fallback: Segoe UI\", \"Inter Fallback: Helvetica Neue\", \"Inter Fallback: Arial\", \"Inter Fallback: Noto Sans\", \"Inter Fallback: Liberation Sans\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.922 0 none)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://nuxt.com/",
+      "https://github.com/nuxt/nuxt/releases/tag/v4.6.4",
+      "https://nuxt.com/docs/4.x",
+      "https://nuxt.com/modules",
+      "https://nuxt.com/templates",
+      "https://nuxt.com/showcase",
+      "https://nuxt.com/nuxters",
+      "https://nuxt.com/updates",
+      "https://nuxt.com/video-courses",
+      "https://go.nuxt.com/github",
+      "https://nuxt.com/blog/devtools-v4",
+      "https://nuxt.com/docs/getting-started/installation",
+      "https://nuxt.com/showcase",
+      "https://eu.louisvuitton.com/",
+      "https://www.nintendo.com/",
+      "https://about.gitlab.com/",
+      "https://www.prada.com/",
+      "https://www.backmarket.com/",
+      "https://developer.microsoft.com/en-us/microsoft-edge",
+      "https://www.paulsmith.com/",
+      "https://stackoverflow.co/",
+      "https://www.adyen.com/",
+      "https://www.harrods.com/",
+      "https://n8n.io/",
+      "https://us.caudalie.com/",
+      "https://traderepublic.com/",
+      "https://www.laposte.fr/",
+      "https://www.3ds.com/",
+      "https://www.vans.com/",
+      "https://nuxt.com/docs",
+      "https://x.com/evanyou",
+      "https://vuejs.org/",
+      "https://vite.dev/",
+      "https://nitro.build/",
+      "https://npmx.dev/package-stats/nuxt/v/4.6.4?granularity=monthly",
+      "https://go.nuxt.com/github",
+      "https://github.com/nuxt/nuxt",
+      "https://go.nuxt.com/github",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/discord",
+      "https://nuxt.com/modules",
+      "https://npmx.dev/package-stats/@nuxt/ui/v/4.12.0?granularity=monthly",
+      "https://github.com/nuxt/ui#dev",
+      "https://nuxt.care/?search=npm:@nuxt/ui",
+      "https://nuxt.com/modules/ui",
+      "https://npmx.dev/package-stats/@nuxt/content/v/3.16.2?granularity=monthly",
+      "https://github.com/nuxt/content#main",
+      "https://nuxt.care/?search=npm:@nuxt/content",
+      "https://nuxt.com/modules/content",
+      "https://npmx.dev/package-stats/@nuxt/devtools/v/4.1.0?granularity=monthly",
+      "https://github.com/nuxt/devtools#main/packages/devtools",
+      "https://nuxt.care/?search=npm:@nuxt/devtools",
+      "https://nuxt.com/modules/devtools",
+      "https://npmx.dev/package-stats/@nuxt/image/v/2.2.1?granularity=monthly",
+      "https://github.com/nuxt/image",
+      "https://nuxt.care/?search=npm:@nuxt/image",
+      "https://nuxt.com/modules/image",
+      "https://npmx.dev/package-stats/@nuxt/icon/v/2.6.2?granularity=monthly",
+      "https://github.com/nuxt/icon",
+      "https://nuxt.care/?search=npm:@nuxt/icon",
+      "https://nuxt.com/modules/icon",
+      "https://npmx.dev/package-stats/@nuxt/eslint/v/1.17.0?granularity=monthly",
+      "https://github.com/nuxt/eslint",
+      "https://nuxt.care/?search=npm:@nuxt/eslint",
+      "https://nuxt.com/modules/eslint",
+      "https://npmx.dev/package-stats/@nuxt/fonts/v/1.2.0?granularity=monthly",
+      "https://github.com/nuxt/fonts",
+      "https://nuxt.care/?search=npm:@nuxt/fonts",
+      "https://nuxt.com/modules/fonts",
+      "https://npmx.dev/package-stats/@nuxt/scripts/v/1.3.12?granularity=monthly",
+      "https://github.com/nuxt/scripts#main/packages/script",
+      "https://nuxt.care/?search=npm:@nuxt/scripts",
+      "https://nuxt.com/modules/scripts",
+      "https://npmx.dev/package-stats/@nuxt/test-utils/v/4.4.0?granularity=monthly",
+      "https://github.com/nuxt/test-utils#main",
+      "https://nuxt.care/?search=npm:@nuxt/test-utils",
+      "https://nuxt.com/modules/test-utils",
+      "https://npmx.dev/package-stats/@nuxt/hints/v/1.1.5?granularity=monthly",
+      "https://github.com/nuxt/hints",
+      "https://nuxt.care/?search=npm:@nuxt/hints",
+      "https://nuxt.com/modules/hints",
+      "https://npmx.dev/package-stats/@nuxt/a11y/v/1.0.0-alpha.1?granularity=monthly",
+      "https://github.com/nuxt/a11y",
+      "https://nuxt.care/?search=npm:@nuxt/a11y",
+      "https://nuxt.com/modules/a11y",
+      "https://nuxt.com/deploy",
+      "https://nuxt.com/nuxters",
+      "https://go.nuxt.com/discord",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/bluesky",
+      "https://nuxt.com/nuxters/danielroe",
+      "https://nuxt.com/nuxters/pi0",
+      "https://nuxt.com/nuxters/atinux",
+      "https://nuxt.com/nuxters/benjamincanac",
+      "https://nuxt.com/nuxters/TheAlexLichter",
+      "https://nuxt.com/nuxters/farnabaz",
+      "https://nuxt.com/nuxters/harlan-zw",
+      "https://nuxt.com/nuxters/clarkdo",
+      "https://nuxt.com/nuxters/antfu",
+      "https://nuxt.com/nuxters/huang-julien",
+      "https://nuxt.com/nuxters/BobbieGoede",
+      "https://nuxt.com/nuxters/rchl",
+      "https://nuxt.com/nuxters/HugoRCD",
+      "https://nuxt.com/nuxters/onmax",
+      "https://nuxt.com/nuxters/pimlie",
+      "https://nuxt.com/nuxters/ricardogobbosouza",
+      "https://nuxt.com/nuxters/inouetakuya",
+      "https://nuxt.com/nuxters/clemcode",
+      "https://nuxt.com/nuxters/larbish",
+      "https://nuxt.com/nuxters/kevinmarrec",
+      "https://nuxt.com/nuxters/aytdm",
+      "https://nuxt.com/nuxters/smarroufin",
+      "https://nuxt.com/nuxters/kazupon",
+      "https://nuxt.com/nuxters/DamianGlowala",
+      "https://nuxt.com/showcase",
+      "https://eu.louisvuitton.com/",
+      "https://www.nintendo.com/en-gb/",
+      "https://traderepublic.com/",
+      "https://www.prada.com/gb/en.html",
+      "https://www.adyen.com/",
+      "https://jpl.nasa.gov/",
+      "https://www.gv.com/",
+      "https://developer.microsoft.com/en-us/microsoft-edge",
+      "https://tiktok.com/business/en",
+      "https://www.aldi-sued.de/",
+      "https://opencollective.com/nuxtjs",
+      "https://nuxt.com/sponsors",
+      "https://vercel.com/",
+      "https://mojam.co/",
+      "https://www.vuemastery.com/",
+      "https://www.curotec.com/",
+      "https://kinde.com/",
+      "https://netrouting.com/",
+      "https://logto.io/",
+      "https://nuxt.com/nuxters",
+      "https://nuxt.com/team",
+      "https://nuxt.com/design-kit",
+      "https://nuxt.com/templates",
+      "https://nuxt.com/showcase",
+      "https://nuxt.com/evals",
+      "https://nuxt.com/enterprise/agencies",
+      "https://nuxt.com/sponsors",
+      "https://go.nuxt.com/x",
+      "https://go.nuxt.com/bluesky",
+      "https://go.nuxt.com/linkedin",
+      "https://go.nuxt.com/discord",
+      "https://go.nuxt.com/github",
+      "https://go.nuxt.com/license"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto,s_40x40/gh_avatar/yyx990803",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/s_512x439/assets/landing/deploy.svg",
+        "poster": "",
+        "width": 551,
+        "height": 472
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/danielroe",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/pi0",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/atinux",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/benjamincanac",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/TheAlexLichter",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/farnabaz",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/harlan-zw",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/clarkdo",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/antfu",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/huang-julien",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/BobbieGoede",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/rchl",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/HugoRCD",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/onmax",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/pimlie",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/ricardogobbosouza",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/inouetakuya",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/clemcode",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/larbish",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/kevinmarrec",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/aytdm",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/smarroufin",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/kazupon",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_auto&s_80x80/gh_avatar/DamianGlowala",
+        "poster": "",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/louis-vuitton.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/nintendo.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/trade-republic.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/prada.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/adyen.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/nasa-jet-propulsion-laboratory.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/google-ventures.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/microsoft-edge-developer.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_646x363/assets/websites/tiktok-ads.webp",
+        "poster": "",
+        "width": 646,
+        "height": 363
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipx.nuxt.com/f_webp&s_1292x726/assets/websites/aldi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/14985020",
+        "poster": "",
+        "width": 460,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/mojamco/981e9de/logo/460.png",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/22382188?v=4",
+        "poster": "",
+        "width": 460,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/34548260?v=4",
+        "poster": "",
+        "width": 460,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://avatars.githubusercontent.com/u/97858324?v=4",
+        "poster": "",
+        "width": 460,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/netrouting/4908b54/avatar/460.png",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.opencollective.com/logto/0589181/avatar/460.png",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3200,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 14750,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

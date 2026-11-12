@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-/** Capture discovered Lusion routes, including virtual scroll. No site code/assets are copied.
- * node scripts/capture-pages.mjs [--id lusion-home] [--force] [--mobile]
+/** Capture planned public routes (Lusion, plus brand homepages discovered through the Refero index),
+ * including virtual scroll. No site code/assets are copied.
+ * node scripts/capture-pages.mjs [--id lusion-home] [--group refero] [--force] [--mobile]
  * Requires Node 22+, Chrome, ffmpeg. Sources, failures and limitations stay in each record.
  */
 import { readFile, writeFile, mkdir, mkdtemp, rm, access } from 'node:fs/promises';
@@ -18,13 +19,14 @@ const mobile = args.includes('--mobile');
 const viewport = mobile ? { width: 390, height: 844, deviceScaleFactor: 1, mobile: true }
   : { width: 1440, height: 900, deviceScaleFactor: 1, mobile: false };
 const plan = JSON.parse(await readFile(join(ROOT, 'data/capture-plan.json'), 'utf8'));
-const selected = plan.items.filter(item => (!option('--id') || item.id === option('--id')) && (!args.includes('--only-live') || item.id.startsWith('live-')) && (!args.includes('--only-labs') || item.id.startsWith('labs-')) && (!args.includes('--only-projects') || item.id.startsWith('project-')));
+const selected = plan.items.filter(item => (!option('--id') || item.id === option('--id')) && (!args.includes('--only-live') || item.id.startsWith('live-')) && (!args.includes('--only-labs') || item.id.startsWith('labs-')) && (!args.includes('--only-projects') || item.id.startsWith('project-')) && (!option('--group') || (item.group || 'lusion') === option('--group')));
 if (!selected.length) throw new Error('No matching capture ID');
 const policy = new Map();
 
 async function allowed(url) {
   const parsed = new URL(url);
-  if (!(parsed.hostname === 'lusion.co' || parsed.hostname.endsWith('.lusion.co'))) throw new Error('Capture host is not in the source allowlist');
+  // the plan itself is the allowlist: only hosts that a reviewed plan entry names can be captured
+  if (!plan.items.some(item => new URL(item.url).hostname === parsed.hostname)) throw new Error('Capture host is not in the source allowlist');
   if (!policy.has(parsed.origin)) {
     const response = await fetch(`${parsed.origin}/robots.txt`, { signal: AbortSignal.timeout(20000) });
     if (![200, 404].includes(response.status)) throw new Error(`robots.txt returned ${response.status}; stopping`);
@@ -41,7 +43,8 @@ async function allowed(url) {
       } else group.rules.push({ allow: key.toLowerCase() === 'allow', path: value });
     }
     groups.push(group);
-    const specific = groups.filter(g => g.agents.includes('gptbot'));
+    // the strictest applicable AI-crawler group wins: any ClaudeBot / anthropic-ai / GPTBot rule applies
+    const specific = groups.filter(g => g.agents.some(a => ['claudebot', 'anthropic-ai', 'claude-web', 'gptbot'].includes(a)));
     policy.set(parsed.origin, { url: `${parsed.origin}/robots.txt`, checkedAt: new Date().toISOString(),
       rules: (specific.length ? specific : groups.filter(g => g.agents.includes('*'))).flatMap(g => g.rules),
       status: response.status, htmlFallback: /^\s*<!doctype|^\s*<html/i.test(body) });
@@ -75,6 +78,13 @@ const inspect = `(() => {
     reducedMotion:matchMedia('(prefers-reduced-motion: reduce)').matches};
 })()`;
 
+let currentSite = 'lusion.co';
+const siteOf = host => host.replace(/^www\./, '').split('.').slice(-2).join('.');
+const sameSite = host => (currentSite === 'lusion.co' && host === 'lusion.dev') || host === currentSite || host.endsWith('.' + currentSite);
+const RIGHTS = {
+  lusion: 'Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.',
+  refero: 'Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.',
+};
 const browser = await launchBrowser();
 const responseMap = new Map();
 let runtimeErrors = [];
@@ -84,7 +94,7 @@ browser.listeners.add(message => {
     try {
       const u = new URL(r.url);
       // Exclude analytics, user-specific requests and all URL query parameters.
-      if (u.hostname === 'lusion.co' || u.hostname.endsWith('.lusion.co') || u.hostname === 'lusion.dev') {
+      if (sameSite(u.hostname)) {
         u.search = ''; u.hash = '';
         responseMap.set(u.href, { url: u.href, status: r.status, mimeType: r.mimeType, type: message.params.type });
       }
@@ -96,7 +106,9 @@ browser.listeners.add(message => {
 try {
   for (const item of selected) {
     const id = item.id + (mobile ? '-mobile' : '');
-    const folder = join(ROOT, 'captures/lusion', id);
+    const group = item.group || 'lusion';
+    currentSite = siteOf(new URL(item.url).hostname);
+    const folder = join(ROOT, 'captures', group, id);
     const recordPath = join(folder, 'page.json');
     try {
       await access(recordPath);
@@ -107,7 +119,7 @@ try {
     let robots;
     try { robots = await allowed(item.url); }
     catch (error) {
-      const denied = {version:1,id,name:item.name,url:item.url,source:item.source,kind:item.kind,capturedAt:new Date().toISOString(),viewport,
+      const denied = {version:1,group,id,name:item.name,url:item.url,source:item.source,kind:item.kind,capturedAt:new Date().toISOString(),viewport,
         status:'failed',error:error.message,rights:'All source work retains its original rights.',limitations:['No page capture: source access or robots check failed.'],checkpoints:[],resources:[],files:[]};
       await writeFile(recordPath,JSON.stringify(denied,null,2)+'\n');
       console.error(`not captured ${id}: ${error.message}`);
@@ -117,16 +129,17 @@ try {
     responseMap.clear(); runtimeErrors = [];
     const record = { version: 1, captureAlgorithm:2, id, name: item.name, url: item.url, source: item.source,
       kind: item.kind, capturedAt: new Date().toISOString(), viewport, robots,
-      rights: 'Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.',
+      group, rights: RIGHTS[group] || RIGHTS.refero,
       status: 'captured', limitations: ['A recorded browser traversal, not an offline copy of the site.',
         'Shader source, models, textures and original media are inventoried by URL only.',
         'Audio is muted. Scroll checkpoints do not enumerate every possible interaction.',
-        'A canvas does not by itself prove Three.js or any particular rendering technique.'],
+        'A canvas does not by itself prove Three.js or any particular rendering technique.',
+        ...(group === 'refero' ? ['Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.'] : [])],
       checkpoints: [], resources: [], files: [] };
     try {
       await browser.send('Emulation.setDeviceMetricsOverride', viewport);
       await browser.send('Page.navigate', { url: item.url });
-      await pause(item.id === 'lusion-home' ? 11000 : 6000);
+      await pause(item.id === 'lusion-home' ? 11000 : group === 'refero' ? 5000 : 6000);
       for (let i = 0; i < 60; i++) {
         if (await browser.evaluate(`document.readyState==='complete' && !document.documentElement.className.includes('is-loading') && ![...document.querySelectorAll('#overlay--preloader,#preloader,.loader')].some(e=>{const s=getComputedStyle(e),r=e.getBoundingClientRect();return r.height>20&&r.y<innerHeight&&r.bottom>0&&r.x<innerWidth&&r.right>0&&s.display!=='none'&&s.visibility!=='hidden'&&Number(s.opacity)>.05})`)) break;
         await pause(500);

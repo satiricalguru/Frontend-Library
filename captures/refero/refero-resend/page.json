@@ -1,0 +1,3526 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-resend",
+  "name": "Resend — homepage",
+  "url": "https://resend.com/",
+  "source": "https://styles.refero.design/style/0d914ef0-fa84-4c60-a9aa-cef0b5eb6e5d",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:51:02.259Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://resend.com/robots.txt",
+    "checkedAt": "2026-11-12T10:51:02.259Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1222,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 4334,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 3011,
+        "contentTop": -3011,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6563,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 6711,
+        "contentTop": -6711,
+        "pageTransform": "none",
+        "visibleIds": [
+          "base-ui-_R_qm4ltqbsdb_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 9379,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 9531,
+        "contentTop": -9531,
+        "pageTransform": "none",
+        "visibleIds": [
+          "base-ui-_R_6isltqbsdb_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 11744,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://resend.com/",
+        "scrollY": 11460,
+        "contentTop": -11460,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-inngest.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-raycast.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-replit.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cdn.resend.com/posts/logo-turso.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://fp.resend.com/0W48O9V/roa",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://fp.resend.com/web/v4/wSRVrijKeaGZIyZLVQ1w",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://resend.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0_cfcgdc8xq4k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/03c9mxhalvhj9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0566d418p6tnv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/05h_w7cuz2zvr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/09_alk0on4036.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0a2w5jr3kk6l9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0c1oh8fw_usom.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0ctqzh4rg_ny9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0gro5mtdjptr8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0iytammf7vev7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0ks8k8hhr_nzh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0l9hh9mm5o4z7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0nbg1p-6dthpd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0q9w1p-wq49jc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0r6v08e618vj1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0sz3w4ruui2m3.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0vaz39ptf9up1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0w8fcn_0jm1k1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0wra49-7gmmcb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0xeh2xddavjvf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0yeore_iygm0a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/0ymun9uz4ufqr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1_193ek16jhq4.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1-mbgr25yb-xg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/13_fvjcpyq8i-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/14awfp_uxxg6f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/15hbyubs1d4x3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/15re-54fw_g14.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/18ync81w7lm6b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/19lr_awbr3x4i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/19ovfzk93_6fu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1co-b4qxzgt9i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1cv-38k9d9_5n.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1i-xzp57swl_w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1kho81qvvxb2y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1qjri3sb6sdgh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1r0qnim83i84l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1r2jhoz-9ltb8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1smy0qayd3b6s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1t0d1jknbnqj-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1tdl2v2mh7lhl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1ts8z0ci4q3hl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1wnpq0xk-h323.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/1zuqh6j6aw-gn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2_lr5m2c0obip.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/20evi5wdpiiv8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/23glfu_-v-r23.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/24gjk2mv9kk68.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/26zeoz24bc850.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2ayoq2k0qo98t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2c7qyx9jsbpid.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2dm5tdvbo0tht.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2dssliz2mla58.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2f9zmte5jh5vl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2fzkor99ptzoe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2gz4xxbgk7gbq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2hlrs92wgikab.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2j1kphi0jqjri.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2km50zrpjj34-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2npdxw6118x2j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2oavtehqy-sx5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2rnlbl53qglvw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2szezhj7_mlg5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/2z_ty45xtdj52.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3_vd38aimprja.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/31aorz1k-zbju.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/31nk9ebf-upxo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/32khvrr1w6a94.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3a3fxkkwose-u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3dhyj100kz7aa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3er4zh23i4x-w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3et7-fe7ojtfi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3gryu0hjj6n7y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3h4n5m5p748y-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3j_ttje2fyl5f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3j84ghdg22x3d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3l0y_5epo2s9x.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3o081jr2h9-dl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3swxztxh5hkz6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3xu8bizxnaobl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/3zlo_5fr0x7-r.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/405eufyqzw41u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/41fn2aws9h8f-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/452wq-06ub_qj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/chunks/turbopack-2ihhr7iq83pua.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/abc_favorit_book.p.2svqvtuar83ra.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/abc_favorit_medium.p.25jbl6miwtyjw.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/domaine_bold.p.3n2td7ookua-p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/domaine_medium.p.180pom31p-fh2.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/domaine_regular.p.2joc-huu8rdu_.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/_next/static/immutable/media/Lateral_CompressedBold-s.p.1o4poyyplreul.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/about",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/api/trpc/system.status",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/docs/send-with-nextjs",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/enterprise",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/features/audiences",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/features/automations",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/features/broadcasts",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/fonts/website/commit-mono-italic.ad800a5c.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/fonts/website/commit-mono-regular.b25e8a0c.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/fonts/website/inter.eb71fd6b.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://resend.com/forward",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/home",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/login",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/relay-qWzP/array/phc_AgEBpcQTRsBl3UgQX2U8XvimTlgdXG6YEhfvJl2cUfc/config.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/relay-qWzP/flags/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/relay-qWzP/static/1.438.21/dead-clicks-autocapture.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/relay-qWzP/static/1.438.21/posthog-recorder.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/relay-qWzP/static/1.438.21/surveys.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://resend.com/signup",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/guillermo-rauch.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/cube-fallback.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/cube.splinecode",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Other"
+    },
+    {
+      "url": "https://resend.com/static/favicons/favicon-marketing.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://resend.com/static/footer-github.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/footer-linkedin.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/footer-x.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/footer-youtube.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-broadcast-fallback.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-broadcast.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-control-fallback.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-control.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-integrate-afternoon-fallback.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-integrate-afternoon.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-react-fallback.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/3d-react.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://resend.com/static/landing-page/vercel.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://resend.com/static/texture-btn.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 45325,
+      "sha256": "7733d18f333d0be2da2e4ece69c950dffde9d9ceb867f874402da50e7b797164"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 49958,
+      "sha256": "6b86dc31bc8e733c43f34402a63784351f8c6026444586ebbb7ecb8a1a6b99c1"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 76926,
+      "sha256": "6b4f1f93d9d695a7b61bc68d5148932037756ec45f229c7e15b75862ac9e7a03"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 71628,
+      "sha256": "c5a67429476db3586b1c18e11fae19433fbb814364136bd3da9d7c627a5032b0"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 46422,
+      "sha256": "ed31df228a48e3e49acaae5d3c69bdf4d67997816fcac80e6ea70698198d726f"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 42348,
+      "sha256": "0f05251abc48bc67cd960b18afae929bf6465c656c32dd6873ad02b687fba2b8"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 271869,
+      "sha256": "a162211a47dd9089a166701a6c0a9d3944885cac01742af625ffc115e85139c4"
+    }
+  ],
+  "initial": {
+    "url": "https://resend.com/",
+    "title": "Resend · Email for developers",
+    "documentHeight": 12359,
+    "contentHeight": 12359,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "ZlhkGq_variable H1A7Za_variable WvXfCW_variable pT4Oxa_variable dark",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Website\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(240, 240, 240)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Website\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 168,
+          "y": 327,
+          "width": 480,
+          "height": 204
+        },
+        "style": {
+          "fontFamily": "domaine, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "96px",
+          "lineHeight": "96px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 104,
+          "y": 1887,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 104,
+          "y": 2997,
+          "width": 1232,
+          "height": 134
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 145,
+          "y": 3626,
+          "width": 302,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 777,
+          "y": 3626,
+          "width": 322,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 104,
+          "y": 4149,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 104,
+          "y": 5321,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 145,
+          "y": 5884,
+          "width": 302,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 777,
+          "y": 5884,
+          "width": 322,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 104,
+          "y": 6407,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 885,
+          "y": 6921,
+          "width": 380,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "Helvetica",
+          "fontSize": "24px",
+          "lineHeight": "33.6px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 104,
+          "y": 7589,
+          "width": 448,
+          "height": 134
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 104,
+          "y": 7831,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 541,
+          "y": 7831,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 979,
+          "y": 7831,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 104,
+          "y": 8047,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 541,
+          "y": 8047,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 979,
+          "y": 8047,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 104,
+          "y": 8262,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 541,
+          "y": 8262,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 979,
+          "y": 8262,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 104,
+          "y": 9346,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 184,
+          "y": 9572,
+          "width": 114,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 605,
+          "y": 9572,
+          "width": 77,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 648,
+        "height": 550,
+        "rect": {
+          "x": 785,
+          "y": 276,
+          "width": 454,
+          "height": 385
+        }
+      }
+    ],
+    "links": [
+      "https://resend.com/home",
+      "https://resend.com/home",
+      "https://resend.com/pricing",
+      "https://resend.com/login",
+      "https://resend.com/signup",
+      "https://resend.com/forward",
+      "https://resend.com/signup",
+      "https://resend.com/docs",
+      "https://resend.com/enterprise",
+      "https://github.com/resend/resend-node-example",
+      "https://github.com/resend/resend-node-example/archive/refs/heads/main.zip",
+      "https://resend.com/docs/dashboard/emails/send-test-emails",
+      "https://resend.com/docs/webhooks/introduction",
+      "https://resend.com/features/audiences",
+      "https://resend.com/features/broadcasts",
+      "https://resend.com/signup",
+      "https://react.email/docs",
+      "https://resend.com/get-started",
+      "https://resend.com/docs/send-with-nextjs",
+      "https://resend.com/signup",
+      "https://x.com/resend",
+      "https://github.com/resend",
+      "https://linkedin.com/company/resend",
+      "https://www.youtube.com/channel/UC0FkhoSz2kYqHVBk4L0QYIg",
+      "https://resend.com/status",
+      "https://resend.com/features/automations",
+      "https://resend.com/features/audiences",
+      "https://resend.com/features/broadcasts",
+      "https://resend.com/features/inbound",
+      "https://resend.com/products/inboxes",
+      "https://resend.com/features/templates",
+      "https://resend.com/features/webhooks",
+      "https://resend.com/features/dedicated-ips",
+      "https://resend.com/changelog",
+      "https://resend.com/pricing",
+      "https://resend.com/enterprise",
+      "https://resend.com/security",
+      "https://resend.com/security/soc-2",
+      "https://resend.com/security/gdpr",
+      "https://resend.com/brand",
+      "https://resend.com/about",
+      "https://resend.com/blog",
+      "https://resend.com/careers",
+      "https://resend.com/clubs",
+      "https://resend.com/customers",
+      "https://resend.com/humans",
+      "https://resend.com/philosophy",
+      "https://resend.com/support",
+      "https://resend.com/status",
+      "https://resend.com/migrate",
+      "https://resend.com/docs/knowledge-base/introduction",
+      "https://resend.com/legal",
+      "https://resend.com/events",
+      "https://resend.com/insiders",
+      "https://resend.com/open-source",
+      "https://resend.com/wallpapers"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-hero-1.jpg&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-light.avif&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://resend.com/static/cube.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://resend.com/static/landing-page/3d-integrate-afternoon.mp4",
+        "poster": "https://resend.com/static/landing-page/3d-integrate-afternoon-fallback.jpg",
+        "width": 370,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fbroadcast-email-header.webp&w=1200&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-audience.avif&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-analytics.webp&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fexample-logo.png&w=256&q=75&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/landing-page/vercel.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/guillermo-rauch.webp",
+        "poster": "",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-metrics.webp&w=3840&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-x.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-github.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-linkedin.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-youtube.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "about:blank",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 11299,
+    "actualTravel": 11460,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://resend.com/",
+    "title": "Resend · Email for developers",
+    "documentHeight": 12360,
+    "contentHeight": 12360,
+    "contentTop": -11460,
+    "scrollY": 11460,
+    "ready": "ZlhkGq_variable H1A7Za_variable WvXfCW_variable pT4Oxa_variable dark",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Website\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(240, 240, 240)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Website\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 168,
+          "y": -11133,
+          "width": 480,
+          "height": 204
+        },
+        "style": {
+          "fontFamily": "domaine, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "96px",
+          "lineHeight": "96px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 104,
+          "y": -9573,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 104,
+          "y": -8463,
+          "width": 1232,
+          "height": 134
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 145,
+          "y": -7834,
+          "width": 302,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 777,
+          "y": -7834,
+          "width": 322,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 104,
+          "y": -7311,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 104,
+          "y": -6139,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 145,
+          "y": -5576,
+          "width": 302,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 777,
+          "y": -5576,
+          "width": 322,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 104,
+          "y": -5053,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 885,
+          "y": -4539,
+          "width": 380,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "Helvetica",
+          "fontSize": "24px",
+          "lineHeight": "33.6px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 104,
+          "y": -3871,
+          "width": 448,
+          "height": 134
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 104,
+          "y": -3649,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 541,
+          "y": -3649,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 979,
+          "y": -3649,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 104,
+          "y": -3433,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 541,
+          "y": -3433,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 979,
+          "y": -3433,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 104,
+          "y": -3218,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 541,
+          "y": -3218,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 979,
+          "y": -3218,
+          "width": 357,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "20px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 104,
+          "y": -2114,
+          "width": 1232,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "67.2px",
+          "fontWeight": "400",
+          "color": "rgb(240, 240, 240)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 184,
+          "y": -1888,
+          "width": 114,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 605,
+          "y": -1888,
+          "width": 77,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "aBCFavorit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgba(252, 253, 255, 0.937)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 648,
+        "height": 550,
+        "rect": {
+          "x": 688,
+          "y": -11267,
+          "width": 648,
+          "height": 550
+        }
+      }
+    ],
+    "links": [
+      "https://resend.com/home",
+      "https://resend.com/home",
+      "https://resend.com/pricing",
+      "https://resend.com/login",
+      "https://resend.com/signup",
+      "https://resend.com/forward",
+      "https://resend.com/signup",
+      "https://resend.com/docs",
+      "https://resend.com/enterprise",
+      "https://github.com/resend/resend-node-example",
+      "https://github.com/resend/resend-node-example/archive/refs/heads/main.zip",
+      "https://resend.com/docs/dashboard/emails/send-test-emails",
+      "https://resend.com/docs/webhooks/introduction",
+      "https://resend.com/features/audiences",
+      "https://resend.com/features/broadcasts",
+      "https://resend.com/signup",
+      "https://react.email/docs",
+      "https://resend.com/get-started",
+      "https://resend.com/docs/send-with-nextjs",
+      "https://resend.com/signup",
+      "https://x.com/resend",
+      "https://github.com/resend",
+      "https://linkedin.com/company/resend",
+      "https://www.youtube.com/channel/UC0FkhoSz2kYqHVBk4L0QYIg",
+      "https://resend.com/status",
+      "https://resend.com/features/automations",
+      "https://resend.com/features/audiences",
+      "https://resend.com/features/broadcasts",
+      "https://resend.com/features/inbound",
+      "https://resend.com/products/inboxes",
+      "https://resend.com/features/templates",
+      "https://resend.com/features/webhooks",
+      "https://resend.com/features/dedicated-ips",
+      "https://resend.com/changelog",
+      "https://resend.com/pricing",
+      "https://resend.com/enterprise",
+      "https://resend.com/security",
+      "https://resend.com/security/soc-2",
+      "https://resend.com/security/gdpr",
+      "https://resend.com/brand",
+      "https://resend.com/about",
+      "https://resend.com/blog",
+      "https://resend.com/careers",
+      "https://resend.com/clubs",
+      "https://resend.com/customers",
+      "https://resend.com/humans",
+      "https://resend.com/philosophy",
+      "https://resend.com/support",
+      "https://resend.com/status",
+      "https://resend.com/migrate",
+      "https://resend.com/docs/knowledge-base/introduction",
+      "https://resend.com/legal",
+      "https://resend.com/events",
+      "https://resend.com/insiders",
+      "https://resend.com/open-source",
+      "https://resend.com/wallpapers"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-hero-1.jpg&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Flanding-page%2Fbg-light.avif&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://resend.com/static/cube.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://resend.com/static/landing-page/3d-integrate-afternoon.mp4",
+        "poster": "https://resend.com/static/landing-page/3d-integrate-afternoon-fallback.jpg",
+        "width": 370,
+        "height": 370
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://resend.com/static/landing-page/3d-broadcast.mp4",
+        "poster": "https://resend.com/static/landing-page/3d-broadcast-fallback.jpg",
+        "width": 370,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fbroadcast-email-header.webp&w=640&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1200,
+        "height": 388
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-audience.avif&w=750&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1444,
+        "height": 616
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-zoom-analytics.webp&w=750&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 750,
+        "height": 320
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://resend.com/static/landing-page/3d-react.mp4",
+        "poster": "https://resend.com/static/landing-page/3d-react-fallback.jpg",
+        "width": 370,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fexample-logo.png&w=96&q=75&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/landing-page/vercel.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 1155,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/guillermo-rauch.webp",
+        "poster": "",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://resend.com/static/landing-page/3d-control.mp4",
+        "poster": "https://resend.com/static/landing-page/3d-control-fallback.jpg",
+        "width": 370,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/_next/image?url=%2Fstatic%2Fproduct-pages%2Fscreenshot-metrics.webp&w=1920&q=100&dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 2560,
+        "height": 1367
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-infisical.jpg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/vlad-matsiiako.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mintlify.jpg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/hahnbee-lee.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-mrbeast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/bradley-greenwood.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-gumroad.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/sahil-lavingia.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-raycast.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/thomas-mann.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-replit.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/amadeo-pellicce.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-tailwind.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/peter-suhm.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-braintrust.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/tara-nagar.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-turso.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/glauber-costa.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.resend.com/posts/logo-inngest.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/avatars/dan-farrelly.jpg",
+        "poster": "",
+        "width": 320,
+        "height": 320
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-x.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-github.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-linkedin.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://resend.com/static/footer-youtube.svg?dpl=dpl_CMBX4ZzMMWuDHLBPeB55T7aWJaUv",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IFRAME",
+        "url": "about:blank",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 2000,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 11744,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

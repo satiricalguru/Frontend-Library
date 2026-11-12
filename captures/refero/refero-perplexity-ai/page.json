@@ -1,0 +1,1359 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-perplexity-ai",
+  "name": "Perplexity AI — homepage",
+  "url": "https://www.perplexity.ai/",
+  "source": "https://styles.refero.design/style/7c4e9339-591c-46c3-ac3d-20c1b5b5a568",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:52:09.269Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.perplexity.ai/robots.txt",
+    "checkedAt": "2026-11-12T10:52:09.267Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/*?*q="
+      },
+      {
+        "allow": false,
+        "path": "/search/new"
+      },
+      {
+        "allow": false,
+        "path": "/search?*/"
+      },
+      {
+        "allow": false,
+        "path": "/marketing/prerelease/"
+      },
+      {
+        "allow": false,
+        "path": "/external-edit/"
+      },
+      {
+        "allow": false,
+        "path": "/onboarding/"
+      },
+      {
+        "allow": false,
+        "path": "/join/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 815,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1523,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 2382,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 3035,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 3868,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.perplexity.ai/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://count.perplexity.ai/bs",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://edge.perplexity.ai/image",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://experimentation-cdn.perplexity.ai/_feature-flags/web/v2/2f2fc7f2e9ce13b09b84f63d54d0b4a5/63049ba1b9ba27e51fe4c01c0291faba/latest.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://frontend-cdn.perplexity.ai/_agi_assets/fonts/Curious-Sans-1.002-VF.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://frontend-cdn.perplexity.ai/_agi_assets/fonts/Curious-Serif-1.002-VF.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://frontend-cdn.perplexity.ai/_agi_assets/fonts/FKGroteskNeue.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/access__v2-CKj1T1Yo.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/accountRouteMapShared__v2-CWZxL0Rc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/aether-core__v2-DDBiTrYi.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/analytics__v2-CTzBy7HZ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/AppsMenu__v2-lLCzKGux.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/artifact-actions__v2-BWHaBXjJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ask-input__v2-DPBnS50j.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ask-input-workspace-folders__v2-P8rpx6Vc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ask-sidebar-sdk__v2-CCMma2o5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/base-ui__v2-5_ljAsyr.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/bootstrap__v2-Dv-ZZvbT.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/composer-sdk__v2-C3docB1l.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/computer-affiliate-handoff__v2-6lDKvmYQ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/computer-ask-input__v2-BILcH_Up.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/computer-command-menu__v2-hua7kH0k.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ComputerOnboardingCards__v2-D3QXlUFD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/computerOnboardingCardsQuery__v2-DHRwP5qJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ComputerPresetsShared__v2-DCTLFHPu.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ConnectorSelectorPlusMenuItem__v2-BgYARJkc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/constants__v2-8Leu3mB0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/CookieConsentPopup__v2-D6s9lSxn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/CreateSpaceFromSharedThreadProvider__v2-BDF83x4h.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/device-typeahead__v2-CwtvCsnv.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/DifferentiatedHomepageTitle__v2-GDxEJiX8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/dist__v2-CzS5gYFW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/en-GB__v2-CULevyVZ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/eppo-sdk__v2-DX1HSTzJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ErrorFallback__v2-CQ0k09_H.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/experimentation__v2-CKrLEMeU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/GlobalToastRenderer__v2-DIJN7JFM.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/googleOneTapAutoSelect__v2-BbZveM7c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/gradientOrbSettings__v2-BzT1wIn2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/handlePermalink__v2-DeHLj68H.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/home-computer-connector-launcher__v2-LlteHEZH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/HomepageProBadgeUpsell__v2-nG6zmD34.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/HomepageWidgetsSurface__v2-BFWOCJQk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/HomeTopRightControls__v2-CSc4eFWt.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/i18n__v2-D2lzCJdt.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/index.html__v2-BHRUv3qg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/layout-banner__v2-rFdr745E.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/layout-floating__v2-CzaWNefE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/layout-sidebar__v2-rEOCj2wO.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/layout-sidebar-projects__v2-Cqp7962n.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/lexical__v2-OqdxjSoI.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ModalUpsellSlot__v2-DBxCNaI_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/OnboardingCardsGrid__v2-B9X3HDWn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/OneTimeJoinVerifiedOrg__v2-DoDp2kZR.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/openfeature__v2-hI7kQswW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/orbCompositor__v2-CrLJWSr3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/orbCompositorClient__v2-ocDz5kD_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/orbPhoto__v2-BL8YYVbn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/orbThinkingExit__v2-DYFMsc2G.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/page-components-home__v2-CPFp4stj.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/PageLoading__v2-DTmONp2l.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/pageTTVModules__v2-Dp9u83FZ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/parseOklch__v2-fTdZidwN.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/platform-components__v2-DtapcbQS.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/platform-core__v2-Bqwg59YC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/pplx-icons__v2-BVjOuMYE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/pplx-stream__v2-CGPm-5vn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/PplxFeatureFlagProvider__v2-D0YNYk-a.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/ProtectedSettingsPageGate__v2-DkFGgVvc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/react-query__v2-CJSBMmu_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/redirects__v2-ClEiSGEk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/refreshSubscriptionStatus__v2-CDTZ_agD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/resolveSpaBootstrapState__v2-DTUbLbY9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/rolldown-runtime__v2-C0FnF6B9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/search__v2-D-CHAtS5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SearchComponentsRoute__v2-CpwuLO1Z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SearchModelMenu__v2-BkkVXFUw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SearchModelMenuItems__v2-C1LHmGyX.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/session-typeahead__v2-58VveKBf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SettingsModalOpener__v2-CQ0uD0x0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SharedThreadCreateSpaceContext__v2-BnEAmpx_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/sidebar-artifact-preview__v2-Odo76tmU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/sidebar-host-shared__v2-ClxUOdR5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/sidebar-project-actions__v2-DW6VN0JX.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/sidebar-sdk-renderer__v2-Tr_Q4_pr.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/sidebar-thread-hover-details__v2-RdwQfLtg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SidebarTeammateCreateCard__v2-HC95tvAc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/SidebarVisitorTeammates__v2-D6J79jko.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/singular-sdk__v2-CEfv3o3y.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/source-suggestions__v2-CweuOlNE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/spa-metadata__v2-D-DhZATV.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/spa-shell__v2-C7KcUpA1.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/src__v2-a07uRhtV.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/startSpa__v2-BtpkFFEg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/Static__v2-DbkCQZlB.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/StripeStatusRefresher__v2-_mBuuPVl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/style__v2-BLIgatk9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/talk-to-sales__v2-Bn9m5O4K.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/TeammateProfileAvatar__v2-CdpO88uU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/types__v2-Yg-am7QP.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/usage-analytics__v2-DOn-t2NY.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useAPIGroupSettingsEnabled__v2-DTFlgoX0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useCanManageOrgPlugins__v2-CFdJ9XZ4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useCanManageOrgSkills__v2-IeLee5iR.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useCanSubscriptionPayNow__v2-BCAr1vZo.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useConnectorSelectorRows__v2-B1teQopU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useCreateSpaceModal__v2-CL1x-rTC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useExploreAssistantConfig__v2-Bjyf_Vsy.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useGetOrgSuggestions__v2-5_mMIu0N.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useHasUsedComputer__v2-CFdgMPsJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useHomepageWidgetUpsellSlotPlan__v2-DXCxRYBI.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useIsEnterpriseConnectorRbacEnabled__v2-DUtY70LH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useIsOrgAdmin__v2-4YctPY9s.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useOrganizationModelPreferences__v2-DfhnRjcL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useRequestAccess__v2-Z2jPQOj8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useSettingsHash__v2-CWvkmz3e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useTeammatesEnterpriseVisibility__v2-DmI8f3ai.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useThreadHistoryState__v2-CDaZixuT.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useTransientThread__v2-D7gqwauP.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/useWebTeammatesUiVariation__v2-HBIDlwJb.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/utils__v2-BstuDsOc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/vendors__v2-BSvsKG86.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/vite__v2-CYtfOYgs.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://pplx-next-static-public.perplexity.ai/_spa/assets/workbox-window.prod.es5__v2-DsELeUxu.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://r2cdn.perplexity.ai/js/count/0.1.0/loader.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.perplexity.ai/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.perplexity.ai/_pplx-restricted-static-assets/_spa/assets/_restricted/restricted-feature-loader__v2-BR4Zsne3.js",
+      "status": 403,
+      "mimeType": "text/plain",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.perplexity.ai/api/auth/providers",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/api/auth/session",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/api/bot-assessment",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.1522898626224921:1794478230:9GdX4fQ-VIoC6_uIl1RC6VdOsCCvpCYH_ltQaxRnSTs/a594fc4dfce0a6c3",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://www.perplexity.ai/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.perplexity.ai/cdn-cgi/rum",
+      "status": 204,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://www.perplexity.ai/cdn-cgi/trace",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/academic/check-edu-institution",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/autosuggest/list-autosuggest",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/billing/asi-access-decision",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/billing/ubb-config",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/computer/menu",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/event/analytics",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Ping"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/homepage-widgets/upsell",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/models/config/v2",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/pins",
+      "status": 401,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/sidebar/upsell/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/sources",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/user/info",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/visitor/consent-requirement",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.perplexity.ai/rest/visitor/information",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 60353,
+      "sha256": "fd64a372eac25daf24445dec8016a355a96248a99cd1b83797b454e1396baeb0"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 60363,
+      "sha256": "759979a0f11b4231cfffc3a77b4fec3ac9e243604b0e5a4c7c46c89c37dcf49f"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 59935,
+      "sha256": "89170eed2bce96822ff271d2ae67cbb0d99e97003cfb93e6e58ba602e89fc758"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 60724,
+      "sha256": "c7093e7c2d660f204840d9d320cf111b5db04f9c758142de825571df16bfaf4c"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 60748,
+      "sha256": "cd4735b4ba57157e5a31b130fd221a71e5f6328cab2cd1748cd2911382c29af5"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 60748,
+      "sha256": "cd4735b4ba57157e5a31b130fd221a71e5f6328cab2cd1748cd2911382c29af5"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 28804,
+      "sha256": "730844eb8212e3a7d742c694a6eb442a25fcf09d147210f8ab1b592b71fd2a22"
+    }
+  ],
+  "initial": {
+    "url": "https://www.perplexity.ai/",
+    "title": "Perplexity",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "350",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "color(srgb 0.0823529 0.0901961 0.105882)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 73,
+        "rect": {
+          "x": 679,
+          "y": 285,
+          "width": 322,
+          "height": 39
+        },
+        "style": {
+          "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "26px",
+          "lineHeight": "39px",
+          "fontWeight": "350",
+          "color": "rgb(219, 222, 227)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_r_2c_",
+        "characters": 13,
+        "rect": {
+          "x": 999,
+          "y": 663,
+          "width": 1,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "350",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 197,
+          "y": 316,
+          "width": 21,
+          "height": 21
+        }
+      },
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 174,
+          "y": 331,
+          "width": 23,
+          "height": 23
+        }
+      },
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 199,
+          "y": 352,
+          "width": 23,
+          "height": 23
+        }
+      }
+    ],
+    "links": [
+      "https://www.perplexity.ai/",
+      "https://www.perplexity.ai/",
+      "https://www.perplexity.ai/computer/tasks",
+      "https://www.perplexity.ai/automations",
+      "https://www.perplexity.ai/artifacts",
+      "https://www.perplexity.ai/computer/plugins",
+      "https://www.perplexity.ai/projects",
+      "https://www.perplexity.ai/library",
+      "https://www.perplexity.ai/hub/legal/terms-of-service",
+      "https://www.perplexity.ai/hub/legal/privacy-notice"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://edge.perplexity.ai/image",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://count.perplexity.ai/bs#24ef1a96-51b2-4a2d-a41c-eeeca18f3c80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 0,
+    "actualTravel": 0,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.perplexity.ai/",
+    "title": "Perplexity",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "350",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "color(srgb 0.0823529 0.0901961 0.105882)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 73,
+        "rect": {
+          "x": 679,
+          "y": 285,
+          "width": 322,
+          "height": 39
+        },
+        "style": {
+          "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "26px",
+          "lineHeight": "39px",
+          "fontWeight": "350",
+          "color": "rgb(219, 222, 227)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_r_2c_",
+        "characters": 13,
+        "rect": {
+          "x": 999,
+          "y": 663,
+          "width": 1,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "pplxSans, ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "350",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 197,
+          "y": 316,
+          "width": 21,
+          "height": 21
+        }
+      },
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 174,
+          "y": 331,
+          "width": 23,
+          "height": 23
+        }
+      },
+      {
+        "id": "",
+        "width": 20,
+        "height": 20,
+        "rect": {
+          "x": 199,
+          "y": 352,
+          "width": 23,
+          "height": 23
+        }
+      }
+    ],
+    "links": [
+      "https://www.perplexity.ai/",
+      "https://www.perplexity.ai/",
+      "https://www.perplexity.ai/computer/tasks",
+      "https://www.perplexity.ai/automations",
+      "https://www.perplexity.ai/artifacts",
+      "https://www.perplexity.ai/computer/plugins",
+      "https://www.perplexity.ai/projects",
+      "https://www.perplexity.ai/library",
+      "https://www.perplexity.ai/hub/legal/terms-of-service",
+      "https://www.perplexity.ai/hub/legal/privacy-notice"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://edge.perplexity.ai/image",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://count.perplexity.ai/bs#24ef1a96-51b2-4a2d-a41c-eeeca18f3c80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 3868,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

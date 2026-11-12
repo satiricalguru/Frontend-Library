@@ -1,0 +1,2686 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-stripe",
+  "name": "Stripe — homepage",
+  "url": "https://stripe.com/",
+  "source": "https://styles.refero.design/style/48e5de76-05d5-4c4e-a269-c7c245b291ec",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:44:59.374Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://stripe.com/robots.txt",
+    "checkedAt": "2026-11-12T10:44:59.374Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/docs"
+      },
+      {
+        "allow": true,
+        "path": "/docs$"
+      },
+      {
+        "allow": false,
+        "path": "/bitcoin/refund"
+      },
+      {
+        "allow": false,
+        "path": "/sources/refund"
+      },
+      {
+        "allow": false,
+        "path": "/sources/sepa_mandate"
+      },
+      {
+        "allow": false,
+        "path": "/sources/test_source"
+      },
+      {
+        "allow": false,
+        "path": "/sources/test_klarna"
+      },
+      {
+        "allow": false,
+        "path": "/unsupported-browser"
+      },
+      {
+        "allow": false,
+        "path": "/handoff-healthcheck"
+      },
+      {
+        "allow": false,
+        "path": "/handoff"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.",
+    "Traversal navigated to https://stripe.com/in; inspect checkpoint URLs before comparing."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 0,
+        "contentTop": 112,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1088,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 0,
+        "contentTop": 112,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3932,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 3672,
+        "contentTop": -3560,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6476,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 8188,
+        "contentTop": -8076,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8360,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 11604,
+        "contentTop": -11492,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10289,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://stripe.com/in",
+        "scrollY": 13946,
+        "contentTop": -13834,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://q.stripe.com/",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://r.stripe.com/0",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://r.stripe.com/b",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://stripe.com/cookie-settings/enforcement-mode",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://stripe.com/in",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://stripe.com/in/-api/book-of-the-week",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://stripe.com/in/notifications",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 96975,
+      "sha256": "a7e81272f83701023425593d81e8cf257d5fd7066c19861d1a586f7ec61192df"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 96228,
+      "sha256": "a5e21f1748a651dd673f956e8117d471310879a3077762724d314e8257edee8c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 98862,
+      "sha256": "e2ebc731a98390d0529e461c667e1af40999b0b9f6eb172bb00fed4c7f313589"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 69554,
+      "sha256": "ecc8d0eb3f30597f1d0e43c409eaedd30e3dfa4310a7123a156355c1ff7e540d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 94589,
+      "sha256": "d35dd6f549d50cc4cfad40c2e6abedcca1baa077014db1ce42230bc2c0a319ad"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 61218,
+      "sha256": "6c4978d1613cfc040f71dca5b8eaab094bf7cde231994977b0a209495b4cbef7"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 559882,
+      "sha256": "7c31d03ad5d2e93ef4387cbece6e0b365703c01a2d8a3710be0f5c9680dfed83"
+    }
+  ],
+  "initial": {
+    "url": "https://stripe.com/in",
+    "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+    "documentHeight": 14846,
+    "contentHeight": 14846,
+    "contentTop": 112,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 173,
+        "rect": {
+          "x": 208,
+          "y": 294,
+          "width": 959,
+          "height": 221
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "55.2px",
+          "fontWeight": "300",
+          "color": "rgb(129, 184, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 173,
+        "rect": {
+          "x": 208,
+          "y": 294,
+          "width": 959,
+          "height": 221
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "55.2px",
+          "fontWeight": "300",
+          "color": "rgba(0, 14, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 104,
+          "y": 890,
+          "width": 593,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "35.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-payments",
+        "characters": 60,
+        "rect": {
+          "x": 128,
+          "y": 1087,
+          "width": 628,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-billing",
+        "characters": 24,
+        "rect": {
+          "x": 960,
+          "y": 1087,
+          "width": 274,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-agentic-commerce",
+        "characters": 33,
+        "rect": {
+          "x": 128,
+          "y": 1779,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-issuing",
+        "characters": 31,
+        "rect": {
+          "x": 544,
+          "y": 1779,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-crypto",
+        "characters": 60,
+        "rect": {
+          "x": 960,
+          "y": 1779,
+          "width": 284,
+          "height": 87
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-connect",
+        "characters": 31,
+        "rect": {
+          "x": 128,
+          "y": 2471,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 475,
+          "y": 3633,
+          "width": 489,
+          "height": 115
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "57.68px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 104,
+          "y": 4623,
+          "width": 444,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "35.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 61,
+        "rect": {
+          "x": 104,
+          "y": 4825,
+          "width": 504,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-Hertz",
+        "characters": 35,
+        "rect": {
+          "x": 160,
+          "y": 5028,
+          "width": 994,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-URBN",
+        "characters": 72,
+        "rect": {
+          "x": 160,
+          "y": 5726,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-Instacart",
+        "characters": 53,
+        "rect": {
+          "x": 160,
+          "y": 5799,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-LeMonde",
+        "characters": 63,
+        "rect": {
+          "x": 160,
+          "y": 5872,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 104,
+          "y": 6109,
+          "width": 158,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 520,
+          "y": 6109,
+          "width": 173,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 936,
+          "y": 6109,
+          "width": 107,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 104,
+          "y": 6373,
+          "width": 504,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 104,
+          "y": 7063,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 452,
+          "y": 7063,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 66,
+        "rect": {
+          "x": 800,
+          "y": 7063,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 72,
+        "rect": {
+          "x": 1148,
+          "y": 7063,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1392,
+        "height": 761,
+        "rect": {
+          "x": 337,
+          "y": 36,
+          "width": 1393,
+          "height": 761
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 104,
+          "y": 11632,
+          "width": 1232,
+          "height": 460
+        }
+      }
+    ],
+    "links": [
+      "https://openrouter.ai/",
+      "https://stripe.com/in",
+      "https://stripe.com/in/pricing",
+      "https://dashboard.stripe.com/login",
+      "https://stripe.com/in/products",
+      "https://dashboard.stripe.com/register",
+      "https://stripe.com/in/contact/sales",
+      "https://dashboard.stripe.com/login",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/newsroom/news/stripe-openai-instant-checkout",
+      "https://stripe.com/in/customers/amazon",
+      "https://stripe.com/in/newsroom/news/nvidia-collaboration-with-stripe",
+      "https://stripe.com/in/newsroom/news/stripe-ford-agreement",
+      "https://stripe.com/in/newsroom/news/google-and-stripe",
+      "https://stripe.com/in/customers/shopify",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/ramp",
+      "https://stripe.com/in/customers/figma",
+      "https://stripe.com/in/customers/woo",
+      "https://stripe.com/in/customers/vercel",
+      "https://stripe.com/in/newsroom/news/stripe-and-uber",
+      "https://stripe.com/in/customers/anthropic",
+      "https://stripe.com/in/customers/brightwheel",
+      "https://stripe.com/in/customers/cursor",
+      "https://stripe.com/in/newsroom/news/stripe-openai-instant-checkout",
+      "https://stripe.com/in/customers/amazon",
+      "https://stripe.com/in/newsroom/news/nvidia-collaboration-with-stripe",
+      "https://stripe.com/in/newsroom/news/stripe-ford-agreement",
+      "https://stripe.com/in/newsroom/news/google-and-stripe",
+      "https://stripe.com/in/customers/shopify",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/ramp",
+      "https://stripe.com/in/customers/figma",
+      "https://stripe.com/in/customers/woo",
+      "https://stripe.com/in/customers/vercel",
+      "https://stripe.com/in/newsroom/news/stripe-and-uber",
+      "https://stripe.com/in/customers/anthropic",
+      "https://stripe.com/in/customers/brightwheel",
+      "https://stripe.com/in/customers/cursor",
+      "https://stripe.com/in/sessions/2026?utm_medium=owned-surfaces&utm_source=9cb9&utm_campaign=GLOBAL_4301&utm_content=8a70&utm_term=5a728d3d167c",
+      "https://status.stripe.com/",
+      "https://stripe.com/in/enterprise",
+      "https://stripe.com/in/customers/hertz",
+      "https://stripe.com/in/customers/hertz",
+      "https://stripe.com/in/customers/urbn",
+      "https://stripe.com/in/customers/urbn",
+      "https://stripe.com/in/customers/instacart",
+      "https://stripe.com/in/customers/instacart",
+      "https://stripe.com/in/customers/le-monde",
+      "https://stripe.com/in/customers/le-monde",
+      "https://stripe.com/in/professional-services",
+      "https://stripe.com/in/partners",
+      "https://stripe.com/in/support-plans",
+      "https://stripe.com/in/startups",
+      "https://stripe.com/in/customers/lovable",
+      "https://stripe.com/in/customers/gamma",
+      "https://stripe.com/in/customers/runway",
+      "https://stripe.com/in/customers/supabase",
+      "https://stripe.com/in/customers/linear",
+      "https://stripe.com/in/customers/elevenlabs",
+      "https://stripe.com/in/customers/browserbase",
+      "https://stripe.com/in/customers/decagon",
+      "https://stripe.com/in/startups#application",
+      "https://stripe.com/in/atlas",
+      "https://stripe.com/in/use-cases/platforms",
+      "https://stripe.com/in/guides/best-practices-for-launching-and-scaling-platform-payments",
+      "https://stripe.com/in/guides/introduction-to-monetizing-payments",
+      "https://stripe.com/in/guides/introduction-to-risk-management",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/jobber",
+      "https://stripe.com/in/customers/substack",
+      "https://stripe.com/in/customers/lightspeed-terminal",
+      "https://docs.stripe.com/development",
+      "https://github.com/stripe",
+      "https://docs.stripe.com/no-code",
+      "https://marketplace.stripe.com/",
+      "https://docs.stripe.com/development",
+      "https://stripe.com/in/annual-updates/2025",
+      "https://stripe.com/in/newsroom/news/bfcm2025",
+      "https://stripe.com/in/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+      "https://www.youtube.com/watch?v=eMSqlQMk480",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/customers/crypto-com-spotlight",
+      "https://stripe.com/in/blog/introducing-our-agentic-commerce-solutions",
+      "https://stripe.com/in/lp/how-retailers-drive-growth",
+      "https://stripe.com/in/annual-updates/2025",
+      "https://stripe.com/in/newsroom/news/bfcm2025",
+      "https://stripe.com/in/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+      "https://www.youtube.com/watch?v=eMSqlQMk480",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/customers/crypto-com-spotlight",
+      "https://stripe.com/in/blog/introducing-our-agentic-commerce-solutions",
+      "https://stripe.com/in/lp/how-retailers-drive-growth",
+      "https://press.stripe.com/",
+      "https://worksinprogress.co/",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/pricing",
+      "https://docs.stripe.com/get-started",
+      "https://stripe.com/in/pricing",
+      "https://stripe.com/in/atlas",
+      "https://stripe.com/in/authorization-boost",
+      "https://stripe.com/in/billing",
+      "https://stripe.com/in/capital",
+      "https://stripe.com/in/capital/platforms",
+      "https://stripe.com/in/payments/checkout",
+      "https://stripe.com/in/climate",
+      "https://stripe.com/in/connect",
+      "https://stripe.com/in/use-cases/crypto",
+      "https://stripe.com/in/crypto-onramp",
+      "https://stripe.com/in/data-pipeline",
+      "https://stripe.com/in/payments/elements",
+      "https://stripe.com/in/financial-connections",
+      "https://stripe.com/in/payouts",
+      "https://stripe.com/in/identity",
+      "https://stripe.com/in/invoicing",
+      "https://stripe.com/in/issuing",
+      "https://stripe.com/in/payments/link",
+      "https://stripe.com/in/managed-payments",
+      "https://stripe.com/in/payments/payment-links",
+      "https://stripe.com/in/payments/payment-methods",
+      "https://stripe.com/in/payments",
+      "https://stripe.com/in/radar",
+      "https://stripe.com/in/revenue-recognition",
+      "https://stripe.com/in/sigma",
+      "https://stripe.com/in/billing/subscriptions",
+      "https://stripe.com/in/tax",
+      "https://stripe.com/in/terminal",
+      "https://stripe.com/in/treasury",
+      "https://stripe.com/in/treasury/platforms",
+      "https://stripe.com/in/billing/usage-based-billing",
+      "https://stripe.com/in/enterprise",
+      "https://stripe.com/in/startups",
+      "https://stripe.com/in/use-cases/agentic-commerce",
+      "https://stripe.com/in/use-cases/crypto",
+      "https://stripe.com/in/use-cases/ecommerce",
+      "https://stripe.com/in/use-cases/embedded-finance",
+      "https://stripe.com/in/use-cases/finance-automation",
+      "https://stripe.com/in/use-cases/global-businesses",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/use-cases/marketplaces",
+      "https://stripe.com/in/money-management/availability",
+      "https://stripe.com/in/use-cases/platforms",
+      "https://stripe.com/in/use-cases/saas",
+      "https://stripe.com/in/use-cases/ai",
+      "https://stripe.com/in/use-cases/creator-economy",
+      "https://stripe.com/in/industries/fintech",
+      "https://stripe.com/in/industries/gaming",
+      "https://stripe.com/in/industries/travel",
+      "https://stripe.com/in/industries/insurance",
+      "https://stripe.com/in/industries/media-entertainment",
+      "https://stripe.com/in/industries/nonprofits",
+      "https://stripe.com/in/industries/professional-services",
+      "https://stripe.com/in/industries/public-sector",
+      "https://stripe.com/in/industries/retail",
+      "https://docs.stripe.com/",
+      "https://docs.stripe.com/api",
+      "https://status.stripe.com/",
+      "https://docs.stripe.com/changelog",
+      "https://docs.stripe.com/development",
+      "https://docs.stripe.com/projects",
+      "https://stripe.dev/",
+      "https://marketplace.stripe.com/",
+      "https://stripe.com/in/partners",
+      "https://stripe.com/in/professional-services",
+      "https://stripe.com/in/roadmap",
+      "https://stripe.com/in/guides",
+      "https://stripe.com/in/customers",
+      "https://stripe.com/in/blog",
+      "https://stripecommunity.com/",
+      "https://stripe.com/in/sessions",
+      "https://stripe.com/in/privacy",
+      "https://stripe.com/in/legal/restricted-businesses",
+      "https://stripe.com/in/spc/licenses",
+      "https://stripe.com/in/sitemap",
+      "https://stripe.com/in/cookie-settings",
+      "https://stripe.com/in/resources/more",
+      "https://stripe.com/in/about",
+      "https://stripe.com/in/careers",
+      "https://stripe.com/in/newsroom",
+      "https://press.stripe.com/",
+      "https://stripe.com/in/contact/sales",
+      "https://support.stripe.com/",
+      "https://stripe.com/in/support-plans",
+      "https://dashboard.stripe.com/login",
+      "https://go.stripe.global/subscribe",
+      "https://stripe.com/in/privacy"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/wave-fallback-desktop-1x.fba6fa88.webp",
+        "poster": "",
+        "width": 1392,
+        "height": 975
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1Vf8oT9Fm6dEwpnEx5PgK1/055956f38d7fd8b0cc7419692ef29778/bento-terminal.png?w=308&fm=webp&q=90",
+        "poster": "",
+        "width": 308,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&fm=webp&q=90",
+        "poster": "",
+        "width": 80,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5Dr3Oc550drIrxyzzXgFbq/f6e4fb0b8b4b40d73e94fdf7c9bc7028/payments-hoodie.jpg?w=80&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1UE1lPgwbfQRH586XfTWKM/f90bfc79f87b3e60a4189cc0f5a03228/showflix-streaming.jpg?w=80&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&fm=webp&q=90",
+        "poster": "",
+        "width": 80,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/vYmk6v8n7oDAwbDpwhjV6/846f9b3e214549b8f14e2b8c8cfe9343/payment-bento-background.jpg?w=860&fm=webp&q=80",
+        "poster": "",
+        "width": 860,
+        "height": 712
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/m9HBEK464p46FeNIhs2PV/f5054a93c8a0a6aabdd1c47675d610ae/wave_crop.jpg?w=296&q=80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/3NcSrMqMgaKe75QNr8wZI8/46d520dfc48c5b9f1c59dcde9460b58c/connect-bento-card-background-image.jpg?w=1232&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/43eqkFV1GG5GqcbNNeEzVp/8f4705b1b80a4c835c2960ed8055d649/ConnectMobileBackground.jpg?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2YFdgdFPeIiDpmQbhHPAx8/186752498bf713fea245f31bcec84f8a/sessions-2026-on-demand-bg.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/52qeQQDMQNJ3CmnFPjHbTi/1a3a3acd4f027175a863fafcc29a4d9a/sessions-2026-on-demand-bg-mobile.png?w=368&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/63zO5Z4CABvFl3pLLhnu3l/a9c12c883f820dc29d29fa0b9dcb0814/DatavizStatic3x.png?w=768&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/24BNV3GGtvCprFLrYovyaa/b2eac20a1d5ec75e4bff3888b998d163/enterprise-accordion-hertz.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/37wKFanVluouT2iEZUbD0H/f75e77141e1330ad81ea18c6aea65f0c/enterprise-accordion-urbn.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1v5hJ2NWvKpQfVbMqOzCpE/c900b9ed4c288f7cf0a0dced5f4983f2/enterprise-accordion-instacart.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5AQ9A87KzwpPy4CD3uPz5C/4afd1a1e9d6e1d698c4c7c74a4868822/enterprise-accordion-lemonde.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1CBkJePR5Cwf2QNIVCia1I/c0a702cec7a3814c69f21f86b89ed718/lovable.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2QjRFO1cRvocACDtyA7g9e/44245671788d6e086ab7d82b37937450/Gamma.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6fpvaTP1TZWXKWVMewABjV/4412b9ca2940d89d3834ac65c1fc329d/Runway.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/7fM8bvEbivprOMM1zyow9N/3cad3cc826f96e4038b4ea88d81ebe3b/Supabase.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/4b8Ubw7N2kYwb7QZl3Ogri/422cc19f725aa68e647d90ce2833c8d0/linear.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/JK7aZoMzWA3uUbLb35kxx/dea1444a0aee29751c0c7098ffb33534/Eleven_Labs.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1NiQJZA0rKbwXZ7mD4BCrM/0abdaba77e564f858a33241a9aab0939/browserbase.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1hreJwxuVJ5ucPtuA7pRKH/3c5630387bca898d01ae17fc7ae2890a/decagon.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1DZkp4Ce0kiwj2F2Z0kJ16/fcb4904fd728f49521385059618245b9/card_startups.png?w=585&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5dQAw5oJf3TOO1Jt6IKDRH/f391594c11f38d821259acdd3412a7a6/platform-graphic-background_2x.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/yqIFyZRGU5zDwdUsWtUyM/25b9f23c748c4d54079a09016fde59d8/annual-letter-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6yE6G454SGCJnJgEYsS2MB/70b405a1dce904bc0c6f2698223fb966/the-happenings-bfcm-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/33xcv8eCmXzMzWXicVQ4cF/83d91fa419ff8d1b9466739b4ecdcb1d/the-happenings-tidemark-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/t03tXrgvnHUPGwxYUgSxN/bd8da003434c9e9fb72c719b9edb429b/the-happenings-cheeky-pint-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/Pd2JQ7FZ1pYMIMGDwvMdV/13e7e021ca23d042da8ac07be829f7ef/the-happenings-payment-processing-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/4LaZVLqDqGf9091wqUAmFp/fbe9fc307e1336b69bcd9be4ec5c4752/the-happenings-crypto-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1k7ckFceNFlxqF47hWJUlM/eaa4d8b3f8e4b76ba3dd7df7da88e099/the-happenings-agentic-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/7EVLwfXmG3pl1vhBssMrFB/b6d8612b1f567922c1355d864c279678/the-happenings-payment-retailers-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1hmjWQj2Xwglop2rAW62zf/2899db472c5095e1a6b69bee0ead60c9/WorkInProgressIcon.png?w=32&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/PrivacyCompliance.html?id=f326791f-aa8c-4a68-821b-2b5139d5210b&origin=https%3A%2F%2Fstripe.com",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/GoogleTagManager.html?id=72630365-a413-4b9c-b8f0-e35c12e7c5f3&origin=https%3A%2F%2Fstripe.com",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 0,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 13786,
+    "actualTravel": 13946,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://stripe.com/in",
+    "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+    "documentHeight": 14846,
+    "contentHeight": 14846,
+    "contentTop": -13834,
+    "scrollY": 13946,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 173,
+        "rect": {
+          "x": 208,
+          "y": -13652,
+          "width": 959,
+          "height": 221
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "55.2px",
+          "fontWeight": "300",
+          "color": "rgb(129, 184, 26)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 173,
+        "rect": {
+          "x": 208,
+          "y": -13652,
+          "width": 959,
+          "height": 221
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "55.2px",
+          "fontWeight": "300",
+          "color": "rgba(0, 14, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 104,
+          "y": -13056,
+          "width": 593,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "35.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-payments",
+        "characters": 60,
+        "rect": {
+          "x": 128,
+          "y": -12859,
+          "width": 628,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-billing",
+        "characters": 24,
+        "rect": {
+          "x": 960,
+          "y": -12859,
+          "width": 274,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-agentic-commerce",
+        "characters": 33,
+        "rect": {
+          "x": 128,
+          "y": -12167,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-issuing",
+        "characters": 31,
+        "rect": {
+          "x": 544,
+          "y": -12167,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-crypto",
+        "characters": 60,
+        "rect": {
+          "x": 960,
+          "y": -12167,
+          "width": 284,
+          "height": 87
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "bento-card-title-connect",
+        "characters": 31,
+        "rect": {
+          "x": 128,
+          "y": -11475,
+          "width": 284,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 475,
+          "y": -10313,
+          "width": 489,
+          "height": 115
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "57.68px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 104,
+          "y": -9323,
+          "width": 444,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "35.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 61,
+        "rect": {
+          "x": 104,
+          "y": -9121,
+          "width": 504,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-Hertz",
+        "characters": 35,
+        "rect": {
+          "x": 160,
+          "y": -8918,
+          "width": 994,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-URBN",
+        "characters": 72,
+        "rect": {
+          "x": 160,
+          "y": -8220,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-Instacart",
+        "characters": 53,
+        "rect": {
+          "x": 160,
+          "y": -8147,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "summary-customer-content-LeMonde",
+        "characters": 63,
+        "rect": {
+          "x": 160,
+          "y": -8074,
+          "width": 1120,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "24.2px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 104,
+          "y": -7837,
+          "width": 158,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 520,
+          "y": -7837,
+          "width": 173,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 936,
+          "y": -7837,
+          "width": 107,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "400",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 104,
+          "y": -7573,
+          "width": 504,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "29.12px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 104,
+          "y": -6883,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 452,
+          "y": -6883,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 66,
+        "rect": {
+          "x": 800,
+          "y": -6883,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 72,
+        "rect": {
+          "x": 1148,
+          "y": -6883,
+          "width": 332,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "22.4px",
+          "fontWeight": "300",
+          "color": "rgb(6, 27, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1392,
+        "height": 761,
+        "rect": {
+          "x": 337,
+          "y": -13910,
+          "width": 1393,
+          "height": 761
+        }
+      },
+      {
+        "id": "",
+        "width": 447,
+        "height": 728,
+        "rect": {
+          "x": 80,
+          "y": -12217,
+          "width": 447,
+          "height": 728
+        }
+      },
+      {
+        "id": "",
+        "width": 447,
+        "height": 728,
+        "rect": {
+          "x": 496,
+          "y": -12217,
+          "width": 447,
+          "height": 728
+        }
+      },
+      {
+        "id": "",
+        "width": 447,
+        "height": 728,
+        "rect": {
+          "x": 912,
+          "y": -12217,
+          "width": 447,
+          "height": 728
+        }
+      },
+      {
+        "id": "",
+        "width": 1234,
+        "height": 519,
+        "rect": {
+          "x": 103,
+          "y": -9935,
+          "width": 1234,
+          "height": 519
+        }
+      },
+      {
+        "id": "",
+        "width": 1264,
+        "height": 20,
+        "rect": {
+          "x": 88,
+          "y": -7663,
+          "width": 1264,
+          "height": 20
+        }
+      },
+      {
+        "id": "",
+        "width": 1264,
+        "height": 20,
+        "rect": {
+          "x": 88,
+          "y": -6477,
+          "width": 1264,
+          "height": 20
+        }
+      },
+      {
+        "id": "",
+        "width": 1264,
+        "height": 20,
+        "rect": {
+          "x": 88,
+          "y": -3919,
+          "width": 1264,
+          "height": 20
+        }
+      },
+      {
+        "id": "",
+        "width": 1232,
+        "height": 460,
+        "rect": {
+          "x": 104,
+          "y": -3845,
+          "width": 1232,
+          "height": 460
+        }
+      },
+      {
+        "id": "",
+        "width": 1264,
+        "height": 20,
+        "rect": {
+          "x": 88,
+          "y": -3280,
+          "width": 1264,
+          "height": 20
+        }
+      },
+      {
+        "id": "",
+        "width": 1232,
+        "height": 460,
+        "rect": {
+          "x": 104,
+          "y": -2314,
+          "width": 1232,
+          "height": 460
+        }
+      },
+      {
+        "id": "",
+        "width": 1264,
+        "height": 20,
+        "rect": {
+          "x": 88,
+          "y": -1668,
+          "width": 1264,
+          "height": 20
+        }
+      }
+    ],
+    "links": [
+      "https://openrouter.ai/",
+      "https://stripe.com/in",
+      "https://stripe.com/in/pricing",
+      "https://dashboard.stripe.com/login",
+      "https://stripe.com/in/products",
+      "https://dashboard.stripe.com/register",
+      "https://stripe.com/in/contact/sales",
+      "https://dashboard.stripe.com/login",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/newsroom/news/stripe-openai-instant-checkout",
+      "https://stripe.com/in/customers/amazon",
+      "https://stripe.com/in/newsroom/news/nvidia-collaboration-with-stripe",
+      "https://stripe.com/in/newsroom/news/stripe-ford-agreement",
+      "https://stripe.com/in/newsroom/news/google-and-stripe",
+      "https://stripe.com/in/customers/shopify",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/ramp",
+      "https://stripe.com/in/customers/figma",
+      "https://stripe.com/in/customers/woo",
+      "https://stripe.com/in/customers/vercel",
+      "https://stripe.com/in/newsroom/news/stripe-and-uber",
+      "https://stripe.com/in/customers/anthropic",
+      "https://stripe.com/in/customers/brightwheel",
+      "https://stripe.com/in/customers/cursor",
+      "https://stripe.com/in/newsroom/news/stripe-openai-instant-checkout",
+      "https://stripe.com/in/customers/amazon",
+      "https://stripe.com/in/newsroom/news/nvidia-collaboration-with-stripe",
+      "https://stripe.com/in/newsroom/news/stripe-ford-agreement",
+      "https://stripe.com/in/newsroom/news/google-and-stripe",
+      "https://stripe.com/in/customers/shopify",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/ramp",
+      "https://stripe.com/in/customers/figma",
+      "https://stripe.com/in/customers/woo",
+      "https://stripe.com/in/customers/vercel",
+      "https://stripe.com/in/newsroom/news/stripe-and-uber",
+      "https://stripe.com/in/customers/anthropic",
+      "https://stripe.com/in/customers/brightwheel",
+      "https://stripe.com/in/customers/cursor",
+      "https://stripe.com/in/sessions/2026?utm_medium=owned-surfaces&utm_source=9cb9&utm_campaign=GLOBAL_4301&utm_content=8a70&utm_term=5a728d3d167c",
+      "https://status.stripe.com/",
+      "https://stripe.com/in/enterprise",
+      "https://stripe.com/in/customers/hertz",
+      "https://stripe.com/in/customers/hertz",
+      "https://stripe.com/in/customers/urbn",
+      "https://stripe.com/in/customers/urbn",
+      "https://stripe.com/in/customers/instacart",
+      "https://stripe.com/in/customers/instacart",
+      "https://stripe.com/in/customers/le-monde",
+      "https://stripe.com/in/customers/le-monde",
+      "https://stripe.com/in/professional-services",
+      "https://stripe.com/in/partners",
+      "https://stripe.com/in/support-plans",
+      "https://stripe.com/in/startups",
+      "https://stripe.com/in/customers/lovable",
+      "https://stripe.com/in/customers/gamma",
+      "https://stripe.com/in/customers/runway",
+      "https://stripe.com/in/customers/supabase",
+      "https://stripe.com/in/customers/linear",
+      "https://stripe.com/in/customers/elevenlabs",
+      "https://stripe.com/in/customers/browserbase",
+      "https://stripe.com/in/customers/decagon",
+      "https://stripe.com/in/startups#application",
+      "https://stripe.com/in/atlas",
+      "https://stripe.com/in/use-cases/platforms",
+      "https://stripe.com/in/guides/best-practices-for-launching-and-scaling-platform-payments",
+      "https://stripe.com/in/guides/introduction-to-monetizing-payments",
+      "https://stripe.com/in/guides/introduction-to-risk-management",
+      "https://stripe.com/in/customers/mindbody",
+      "https://stripe.com/in/customers/jobber",
+      "https://stripe.com/in/customers/substack",
+      "https://stripe.com/in/customers/lightspeed-terminal",
+      "https://docs.stripe.com/development",
+      "https://github.com/stripe",
+      "https://marketplace.stripe.com/",
+      "https://buy.stripe.com/test_eVa3do41l4Ye6KkcMN",
+      "https://docs.stripe.com/no-code",
+      "https://marketplace.stripe.com/",
+      "https://docs.stripe.com/development",
+      "https://stripe.com/in/annual-updates/2025",
+      "https://stripe.com/in/newsroom/news/bfcm2025",
+      "https://stripe.com/in/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+      "https://www.youtube.com/watch?v=eMSqlQMk480",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/customers/crypto-com-spotlight",
+      "https://stripe.com/in/blog/introducing-our-agentic-commerce-solutions",
+      "https://stripe.com/in/lp/how-retailers-drive-growth",
+      "https://stripe.com/in/annual-updates/2025",
+      "https://stripe.com/in/newsroom/news/bfcm2025",
+      "https://stripe.com/in/lp/vertical-saas-benchmark-2025?utm_medium=owned-surfaces&utm_source=33d6&utm_campaign=GLOBAL_4250&utm_content=819a&utm_term=a6a6d7b23e01",
+      "https://www.youtube.com/watch?v=eMSqlQMk480",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/customers/crypto-com-spotlight",
+      "https://stripe.com/in/blog/introducing-our-agentic-commerce-solutions",
+      "https://stripe.com/in/lp/how-retailers-drive-growth",
+      "https://press.princeton.edu/books/paperback/9780691089591/on-beauty-and-being-just?srsltid=AU7gw4WwkG0dWoeXCa3ZwtTIYK3aam19TineQBtD9ud42WDPBbpPYJoB",
+      "https://press.stripe.com/",
+      "https://worksinprogress.co/",
+      "https://stripe.com/in/contact/sales",
+      "https://stripe.com/in/pricing",
+      "https://docs.stripe.com/get-started",
+      "https://stripe.com/in/pricing",
+      "https://stripe.com/in/atlas",
+      "https://stripe.com/in/authorization-boost",
+      "https://stripe.com/in/billing",
+      "https://stripe.com/in/capital",
+      "https://stripe.com/in/capital/platforms",
+      "https://stripe.com/in/payments/checkout",
+      "https://stripe.com/in/climate",
+      "https://stripe.com/in/connect",
+      "https://stripe.com/in/use-cases/crypto",
+      "https://stripe.com/in/crypto-onramp",
+      "https://stripe.com/in/data-pipeline",
+      "https://stripe.com/in/payments/elements",
+      "https://stripe.com/in/financial-connections",
+      "https://stripe.com/in/payouts",
+      "https://stripe.com/in/identity",
+      "https://stripe.com/in/invoicing",
+      "https://stripe.com/in/issuing",
+      "https://stripe.com/in/payments/link",
+      "https://stripe.com/in/managed-payments",
+      "https://stripe.com/in/payments/payment-links",
+      "https://stripe.com/in/payments/payment-methods",
+      "https://stripe.com/in/payments",
+      "https://stripe.com/in/radar",
+      "https://stripe.com/in/revenue-recognition",
+      "https://stripe.com/in/sigma",
+      "https://stripe.com/in/billing/subscriptions",
+      "https://stripe.com/in/tax",
+      "https://stripe.com/in/terminal",
+      "https://stripe.com/in/treasury",
+      "https://stripe.com/in/treasury/platforms",
+      "https://stripe.com/in/billing/usage-based-billing",
+      "https://stripe.com/in/enterprise",
+      "https://stripe.com/in/startups",
+      "https://stripe.com/in/use-cases/agentic-commerce",
+      "https://stripe.com/in/use-cases/crypto",
+      "https://stripe.com/in/use-cases/ecommerce",
+      "https://stripe.com/in/use-cases/embedded-finance",
+      "https://stripe.com/in/use-cases/finance-automation",
+      "https://stripe.com/in/use-cases/global-businesses",
+      "https://stripe.com/in/use-cases/in-app-payments",
+      "https://stripe.com/in/use-cases/marketplaces",
+      "https://stripe.com/in/money-management/availability",
+      "https://stripe.com/in/use-cases/platforms",
+      "https://stripe.com/in/use-cases/saas",
+      "https://stripe.com/in/use-cases/ai",
+      "https://stripe.com/in/use-cases/creator-economy",
+      "https://stripe.com/in/industries/fintech",
+      "https://stripe.com/in/industries/gaming",
+      "https://stripe.com/in/industries/travel",
+      "https://stripe.com/in/industries/insurance",
+      "https://stripe.com/in/industries/media-entertainment",
+      "https://stripe.com/in/industries/nonprofits",
+      "https://stripe.com/in/industries/professional-services",
+      "https://stripe.com/in/industries/public-sector",
+      "https://stripe.com/in/industries/retail",
+      "https://docs.stripe.com/",
+      "https://docs.stripe.com/api",
+      "https://status.stripe.com/",
+      "https://docs.stripe.com/changelog",
+      "https://docs.stripe.com/development",
+      "https://docs.stripe.com/projects",
+      "https://stripe.dev/",
+      "https://marketplace.stripe.com/",
+      "https://stripe.com/in/partners",
+      "https://stripe.com/in/professional-services",
+      "https://stripe.com/in/roadmap",
+      "https://stripe.com/in/guides",
+      "https://stripe.com/in/customers",
+      "https://stripe.com/in/blog",
+      "https://stripecommunity.com/",
+      "https://stripe.com/in/sessions",
+      "https://stripe.com/in/privacy",
+      "https://stripe.com/in/legal/restricted-businesses",
+      "https://stripe.com/in/spc/licenses",
+      "https://stripe.com/in/sitemap",
+      "https://stripe.com/in/cookie-settings",
+      "https://stripe.com/in/resources/more",
+      "https://stripe.com/in/about",
+      "https://stripe.com/in/careers",
+      "https://stripe.com/in/newsroom",
+      "https://press.stripe.com/",
+      "https://stripe.com/in/contact/sales",
+      "https://support.stripe.com/",
+      "https://stripe.com/in/support-plans",
+      "https://dashboard.stripe.com/login",
+      "https://go.stripe.global/subscribe",
+      "https://stripe.com/in/privacy"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/wave-fallback-desktop-1x.fba6fa88.webp",
+        "poster": "",
+        "width": 1392,
+        "height": 975
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1Vf8oT9Fm6dEwpnEx5PgK1/055956f38d7fd8b0cc7419692ef29778/bento-terminal.png?w=308&fm=webp&q=90",
+        "poster": "",
+        "width": 308,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&fm=webp&q=90",
+        "poster": "",
+        "width": 80,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5Dr3Oc550drIrxyzzXgFbq/f6e4fb0b8b4b40d73e94fdf7c9bc7028/payments-hoodie.jpg?w=80&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1UE1lPgwbfQRH586XfTWKM/f90bfc79f87b3e60a4189cc0f5a03228/showflix-streaming.jpg?w=80&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6BTjJGdjfGVA8brPwj7p3M/fcf084ff85142366e118fe85ee78b632/payments-electric-kettle.jpg?w=80&fm=webp&q=90",
+        "poster": "",
+        "width": 80,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/vYmk6v8n7oDAwbDpwhjV6/846f9b3e214549b8f14e2b8c8cfe9343/payment-bento-background.jpg?w=860&fm=webp&q=80",
+        "poster": "",
+        "width": 860,
+        "height": 712
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/m9HBEK464p46FeNIhs2PV/f5054a93c8a0a6aabdd1c47675d610ae/wave_crop.jpg?w=296&q=80",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2rL4pJabxq9Yo0haXwK2HO/83c05122b463c882c8c89111154d77ec/shirt-blue.png?w=160&fm=webp&q=90",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6KmB7XGsUbTefNew25WF4T/6a949fbf5567dcd145339f5fcf207fae/hoodie-navy.png?w=160&fm=webp&q=90",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/3NcSrMqMgaKe75QNr8wZI8/46d520dfc48c5b9f1c59dcde9460b58c/connect-bento-card-background-image.jpg?w=1232&fm=webp&q=90",
+        "poster": "",
+        "width": 1232,
+        "height": 450
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/43eqkFV1GG5GqcbNNeEzVp/8f4705b1b80a4c835c2960ed8055d649/ConnectMobileBackground.jpg?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2YFdgdFPeIiDpmQbhHPAx8/186752498bf713fea245f31bcec84f8a/sessions-2026-on-demand-bg.png?w=1632&fm=webp&q=90",
+        "poster": "",
+        "width": 1440,
+        "height": 467
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/52qeQQDMQNJ3CmnFPjHbTi/1a3a3acd4f027175a863fafcc29a4d9a/sessions-2026-on-demand-bg-mobile.png?w=368&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/63zO5Z4CABvFl3pLLhnu3l/a9c12c883f820dc29d29fa0b9dcb0814/DatavizStatic3x.png?w=768&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/24BNV3GGtvCprFLrYovyaa/b2eac20a1d5ec75e4bff3888b998d163/enterprise-accordion-hertz.png?w=1632&fm=webp&q=90",
+        "poster": "",
+        "width": 1440,
+        "height": 620
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/37wKFanVluouT2iEZUbD0H/f75e77141e1330ad81ea18c6aea65f0c/enterprise-accordion-urbn.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1v5hJ2NWvKpQfVbMqOzCpE/c900b9ed4c288f7cf0a0dced5f4983f2/enterprise-accordion-instacart.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5AQ9A87KzwpPy4CD3uPz5C/4afd1a1e9d6e1d698c4c7c74a4868822/enterprise-accordion-lemonde.png?w=296&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1CBkJePR5Cwf2QNIVCia1I/c0a702cec7a3814c69f21f86b89ed718/lovable.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 421
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2QjRFO1cRvocACDtyA7g9e/44245671788d6e086ab7d82b37937450/Gamma.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 480
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6fpvaTP1TZWXKWVMewABjV/4412b9ca2940d89d3834ac65c1fc329d/Runway.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 421
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/7fM8bvEbivprOMM1zyow9N/3cad3cc826f96e4038b4ea88d81ebe3b/Supabase.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 421
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/4b8Ubw7N2kYwb7QZl3Ogri/422cc19f725aa68e647d90ce2833c8d0/linear.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 421
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/JK7aZoMzWA3uUbLb35kxx/dea1444a0aee29751c0c7098ffb33534/Eleven_Labs.png?w=432&fm=webp&q=90",
+        "poster": "",
+        "width": 432,
+        "height": 421
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1NiQJZA0rKbwXZ7mD4BCrM/0abdaba77e564f858a33241a9aab0939/browserbase.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1hreJwxuVJ5ucPtuA7pRKH/3c5630387bca898d01ae17fc7ae2890a/decagon.png?w=432&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1DZkp4Ce0kiwj2F2Z0kJ16/fcb4904fd728f49521385059618245b9/card_startups.png?w=585&fm=webp&q=90",
+        "poster": "",
+        "width": 585,
+        "height": 236
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/5dQAw5oJf3TOO1Jt6IKDRH/f391594c11f38d821259acdd3412a7a6/platform-graphic-background_2x.png?w=1632&fm=webp&q=90",
+        "poster": "",
+        "width": 1440,
+        "height": 622
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/2AQaqFVlwXgXxBRIwIp9ry/c597bf42bd93eef022cbc6933c0d7cbc/QRCode.png?w=70&fm=webp&q=90",
+        "poster": "",
+        "width": 70,
+        "height": 66
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/yqIFyZRGU5zDwdUsWtUyM/25b9f23c748c4d54079a09016fde59d8/annual-letter-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/6yE6G454SGCJnJgEYsS2MB/70b405a1dce904bc0c6f2698223fb966/the-happenings-bfcm-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/33xcv8eCmXzMzWXicVQ4cF/83d91fa419ff8d1b9466739b4ecdcb1d/the-happenings-tidemark-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/t03tXrgvnHUPGwxYUgSxN/bd8da003434c9e9fb72c719b9edb429b/the-happenings-cheeky-pint-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/Pd2JQ7FZ1pYMIMGDwvMdV/13e7e021ca23d042da8ac07be829f7ef/the-happenings-payment-processing-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/4LaZVLqDqGf9091wqUAmFp/fbe9fc307e1336b69bcd9be4ec5c4752/the-happenings-crypto-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1k7ckFceNFlxqF47hWJUlM/eaa4d8b3f8e4b76ba3dd7df7da88e099/the-happenings-agentic-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/7EVLwfXmG3pl1vhBssMrFB/b6d8612b1f567922c1355d864c279678/the-happenings-payment-retailers-mobile.png?w=336&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/69Q6xUxXBRry3WB8NfghbT/f0f99466a224895d6da4028a034c94b9/On_Beauty.png?w=592&fm=webp&q=90",
+        "poster": "",
+        "width": 695,
+        "height": 1065
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.stripeassets.com/fzn2n1nzq965/1hmjWQj2Xwglop2rAW62zf/2899db472c5095e1a6b69bee0ead60c9/WorkInProgressIcon.png?w=32&fm=webp&q=90",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/PrivacyCompliance.html?id=f326791f-aa8c-4a68-821b-2b5139d5210b&origin=https%3A%2F%2Fstripe.com",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://b.stripecdn.com/stripethirdparty-srv/assets/v33.1/GoogleTagManager.html?id=72630365-a413-4b9c-b8f0-e35c12e7c5f3&origin=https%3A%2F%2Fstripe.com",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 0,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 1420,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10289,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

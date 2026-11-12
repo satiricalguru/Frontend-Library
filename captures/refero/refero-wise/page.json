@@ -1,0 +1,4183 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-wise",
+  "name": "Wise — homepage",
+  "url": "https://wise.com/",
+  "source": "https://styles.refero.design/style/367c0c6e-73a7-441c-a8ff-91d139ac60dc",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:46:49.542Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://wise.com/robots.txt",
+    "checkedAt": "2026-11-12T10:46:49.541Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/attribution"
+      },
+      {
+        "allow": false,
+        "path": "/migrate-cookies"
+      },
+      {
+        "allow": false,
+        "path": "/visit/"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/currency-converter/"
+      },
+      {
+        "allow": false,
+        "path": "/*/swift-bic/"
+      },
+      {
+        "allow": false,
+        "path": "/*/help/search"
+      },
+      {
+        "allow": false,
+        "path": "/*//publiccurrency-converter/"
+      },
+      {
+        "allow": false,
+        "path": "/widget"
+      },
+      {
+        "allow": false,
+        "path": "*redirectUrl=*"
+      },
+      {
+        "allow": false,
+        "path": "*0=/public*"
+      },
+      {
+        "allow": false,
+        "path": "*/send-money/?sourceCurrency=*"
+      },
+      {
+        "allow": false,
+        "path": "/my/send-money/send-money-to-israel"
+      },
+      {
+        "allow": true,
+        "path": "*gateway*sourceCurrency=*"
+      },
+      {
+        "allow": true,
+        "path": "*comparisons*sourceCurrency=*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 0,
+        "contentTop": 76,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "hero-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 859,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 0,
+        "contentTop": 76,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "hero-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2348,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 2599,
+        "contentTop": -2523,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "feature-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4198,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 5797,
+        "contentTop": -5721,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "app-section",
+          "coverage-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 5918,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 8213,
+        "contentTop": -8137,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "coverage-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 7547,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://wise.com/",
+        "scrollY": 10020,
+        "contentTop": -9944,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "radix-_R_an6_-content-header-personal-tab",
+          "header-personal-card-default",
+          "radix-_R_an6_-content-header-business-tab",
+          "header-business-card",
+          "radix-_R_an6_-content-header-platform-tab",
+          "header-platform-card",
+          "main",
+          "coverage-section",
+          "gn-footer-top"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://sst.wise.com/_/service_worker/6al0/sw_iframe.html",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://sst.wise.com/_/set_cookie",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://sst.wise.com/g/collect",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://sst.wise.com/gtag/js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sst.wise.com/wisetag",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://wise.com/bff/account-details/wise-qr/v1",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://wise.com/cookie-consent.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/csp",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Other"
+    },
+    {
+      "url": "https://wise.com/gateway/v2/analytics",
+      "status": 204,
+      "mimeType": "",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://wise.com/gateway/v4/comparisons",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/global-navigation/gn_business_v2.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/global-navigation/gn_personal_v3.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/global-navigation/gn_platform_v2.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/android_chrome_192x192.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Other"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/android_chrome_256x256.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Other"
+    },
+    {
+      "url": "https://wise.com/public-resources/assets/icons/wise-personal/favicon.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Other"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/12118-a96b3db2240f069c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/21577-5a0242a1f0ff5eec.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/2388-e6f7ce7a31e01408.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/29052-d004ac33bde76c76.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/2906.c94b97f5af5b8b74.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/31667.0ea5e94a5a10a306.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/31674-f1c084c790199a2d.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/31972-afc3f9316712401f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/38238-c28ec0158e5c1cd5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/3fcf0381-f8f14c87b86adb0b.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/40826-bb2288a800f0525d.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/41357-4c71b4411cc75a0f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/45426-a834699e75bf87ee.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/45965-7ba50223750ba489.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/4598c63c-8e3213b410eb07cc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/47232-ff4d9b9df05caf5f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/48e9e1b7-6d8c0547a0e3c1ad.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/50044-83a347a398ceb0ec.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/58975.4f154c69a71d80f3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/63ee4de2-7015a09e0bdf5fa3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/64238-f89fbfe83366816e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/64931-515af5d5331e874c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/693e9633-12b6c19f051053a2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/72663-015234899a12cbfe.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/76027.7e884f6efad918e7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/82051-5372483480ca3da7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/85472ce6-47c815c28eaf47d8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/90627-5a6b24be677bfc4f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/90701-9382816bcacead40.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/95355-8200eaa8f94c4c1c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/9627638a-e44f0b1a9540a99e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/9cca5155-2e4742c4fbf94829.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/b0ff0e03-f0605fd435c2442e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/d02771da-343b9e9d8096d54e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/da064507-a226e5bdccd8c6f9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/framework-cd2075ab3dac3e58.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/main-aea445a165f8811e.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/pages/_app-66a5fd5047c5fd3c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/pages/index-c6e2f51326d58b24.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/chunks/webpack-a2efea690f8daba8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/css/55d22ff224d9688c.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/css/677fc4d7f16dee3d.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/css/8682a856882063f9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/css/a613b0bfad72eed1.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/app-xl.af636f0d.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/in-hero-xl.133fd015.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/in-save-xl.f593f4c9.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/in-transfer-xl.fb1862cb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/inter-latin-variable-wghtOnly-normal.40c45725.woff2",
+      "status": 200,
+      "mimeType": "binary/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/inter-latin-wght-normal.6c596dfc.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/media/WiseSans-Heavy.4bf7de7a.woff2",
+      "status": 200,
+      "mimeType": "binary/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/multi-currency-account-homepage_main_11db567/_buildManifest.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/static-assets/app/_next/static/multi-currency-account-homepage_main_11db567/_ssgManifest.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://wise.com/visit/pixel.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "XHR"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ad.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ae.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/aed.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ar.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/at.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/au.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/bd.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/be.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/bg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/bl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/br.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/bw.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ca.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ch.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/cl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/cn.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/co.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/cr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/cy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/cz.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/de.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/dk.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ec.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ee.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/eg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/es.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/eur.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/fi.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/fj.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/fm.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/fr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gb.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ge.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gh.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gi.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gp.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/gr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/hk.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/hr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/hu.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/id.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ie.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/il.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/im.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/in.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/inr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/it.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/je.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/jp.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ke.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/kr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/li.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/lk.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/lt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/lu.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/lv.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ma.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mc.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/me.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mf.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mh.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mq.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/mx.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/my.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ng.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/nl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/no.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/np.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/nr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/nz.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pa.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pe.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ph.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pk.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pm.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/pw.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/re.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ro.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/se.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/sg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/si.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/sk.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/sm.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/sv.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/th.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/tl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/tr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/tw.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/tz.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ua.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/ug.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/us.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/usd.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/uy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/va.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/vg.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/vn.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/yt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/za.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/flags/zm.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-art/assets/illustrations/lock-large@1x.webp",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Image"
+    },
+    {
+      "url": "https://wise.com/web-vitals",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Ping"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 99869,
+      "sha256": "9dce7220846b2e185c25554bcaea0aadec30c351d0b8129ccd43daf099f5ed36"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 99869,
+      "sha256": "9dce7220846b2e185c25554bcaea0aadec30c351d0b8129ccd43daf099f5ed36"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 110761,
+      "sha256": "2938720ea3a41bbf991e8051f3c8e53d4b74a8b365239bde5f0bccefb522f143"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 81182,
+      "sha256": "9e955d150bdedae78f1418a96a542cb1ece4a93e9751ce6c924f690cebd5ffe6"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 85387,
+      "sha256": "134987a1b299ddd84200b5d2876cc1a00e849b924a76d8aabcbf489fcaadb5d8"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 45300,
+      "sha256": "387cc89da69f7b170ae2f048fdaeb0a0d78f1f446863fae6f844cf566ed6cf70"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 428661,
+      "sha256": "4e6b033b6dc609c6ffe9962fe7c5c827704727f2e482d5ce1052f10704053b54"
+    }
+  ],
+  "initial": {
+    "url": "https://wise.com/",
+    "title": "Wise: The international account | Money without borders | Wise India",
+    "documentHeight": 10817,
+    "contentHeight": 10817,
+    "contentTop": 76,
+    "scrollY": 0,
+    "ready": "np-theme-personal",
+    "bodyStyle": {
+      "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "26px",
+      "fontWeight": "400",
+      "color": "rgb(69, 71, 69)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "hero-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 76,
+          "width": 1440,
+          "height": 1311
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "maxitrust-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1444,
+          "width": 1440,
+          "height": 401
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "feature-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1901,
+          "width": 1440,
+          "height": 1264
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "transfer-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3221,
+          "width": 1440,
+          "height": 693
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgb(159, 232, 112)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "security-section-in",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3971,
+          "width": 1440,
+          "height": 524
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "social-trust-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 4551,
+          "width": 1440,
+          "height": 598
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "app-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 5205,
+          "width": 1440,
+          "height": 500
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "coverage-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 5762,
+          "width": 1440,
+          "height": 3655
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(22, 51, 0, 0.08)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 19,
+          "y": 151,
+          "width": 1402,
+          "height": 181
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "103.5px",
+          "lineHeight": "90.3555px",
+          "fontWeight": "800",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 418,
+          "y": 1500,
+          "width": 605,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 213,
+          "y": 1698,
+          "width": 261,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 649,
+          "y": 1698,
+          "width": 261,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 1085,
+          "y": 1711,
+          "width": 204,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 94,
+          "y": 1901,
+          "width": 561,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 156,
+          "y": 2142,
+          "width": 433,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 156,
+          "y": 2265,
+          "width": 301,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 786,
+          "y": 2567,
+          "width": 561,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 848,
+          "y": 2808,
+          "width": 318,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 848,
+          "y": 2905,
+          "width": 214,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 848,
+          "y": 3002,
+          "width": 247,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 94,
+          "y": 3464,
+          "width": 561,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "44.75px",
+          "lineHeight": "48.1063px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 94,
+          "y": 3971,
+          "width": 561,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 94,
+          "y": 4658,
+          "width": 611,
+          "height": 155
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "88.5px",
+          "lineHeight": "77.4375px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 94,
+          "y": 4831,
+          "width": 611,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 189,
+        "rect": {
+          "x": 761,
+          "y": 4735,
+          "width": 336,
+          "height": 168
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 108,
+        "rect": {
+          "x": 1181,
+          "y": 4735,
+          "width": 336,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(159, 232, 112)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 217,
+        "rect": {
+          "x": 1601,
+          "y": 4735,
+          "width": 336,
+          "height": 196
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 186,
+        "rect": {
+          "x": 2022,
+          "y": 4735,
+          "width": 336,
+          "height": 168
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(159, 232, 112)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 140,
+        "rect": {
+          "x": 2442,
+          "y": 4735,
+          "width": 336,
+          "height": 140
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 786,
+          "y": 5262,
+          "width": 561,
+          "height": 232
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "88.5px",
+          "lineHeight": "77.4375px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 94,
+          "y": 5818,
+          "width": 1252,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "44.75px",
+          "lineHeight": "48.1063px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 94,
+          "y": 9473,
+          "width": 380,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://wise.com/#main",
+      "https://wise.com/",
+      "https://wise.com/in/account/",
+      "https://wise.com/in/business/",
+      "https://wise.com/platform/",
+      "https://wise.com/in/account/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/large-amounts/",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/pricing/",
+      "https://wise.com/in/business/",
+      "https://wise.com/in/business/receive-money",
+      "https://wise.com/in/business/manage-team",
+      "https://wise.com/in/business/accounting-software",
+      "https://wise.com/gb/business/contact?click_cta_id=gb_bhomepage_top",
+      "https://wise.com/in/pricing/business",
+      "https://wise.com/platform/",
+      "https://wise.com/platform/send/",
+      "https://wise.com/platform/receive/",
+      "https://wise.com/platform/cards/",
+      "https://wise.com/platform/multi-currency-accounts/",
+      "https://wise.com/platform/financial-institutions/",
+      "https://wise.com/platform/education/",
+      "https://wise.com/platform/marketplaces/",
+      "https://wise.com/platform/spend-management/",
+      "https://wise.com/platform/travel/",
+      "https://wise.com/platform/workforce-platforms/",
+      "https://wise.com/platform/coverage/",
+      "https://www.wiseconnect.io/",
+      "https://docs.wise.com/api-docs",
+      "https://wise.com/help/",
+      "https://wise.com/login",
+      "https://wise.com/register",
+      "https://wise.com/",
+      "https://wise.com/register",
+      "https://wise.com/register?redirectUrl=%2Fonboarding%3Forigin%3DSTANDARD",
+      "https://awards.globalfintechfest.com/GFA2025/winners-2025",
+      "https://wise.com/help/articles/2932693/how-is-wise-regulated-in-each-country-and-region",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/pricing/",
+      "https://newsroom.wise.com/en-CAS/249593-wise-doubles-down-in-india-announces-new-hub-in-hyderabad-and-launches-international-account-details-for-businesses-to-get-paid-from-a/",
+      "https://wise.com/in/safety-and-security/",
+      "https://wise.com/in/send-money/send-money-to-andorra",
+      "https://wise.com/in/send-money/send-money-to-argentina",
+      "https://wise.com/in/send-money/send-money-to-australia",
+      "https://wise.com/in/send-money/send-money-to-austria",
+      "https://wise.com/in/send-money/send-money-to-bangladesh",
+      "https://wise.com/in/send-money/send-money-to-belgium",
+      "https://wise.com/in/send-money/send-money-to-botswana",
+      "https://wise.com/in/send-money/send-money-to-brazil",
+      "https://wise.com/in/send-money/send-money-to-british-virgin-islands",
+      "https://wise.com/in/send-money/send-money-to-bulgaria",
+      "https://wise.com/in/send-money/send-money-to-canada",
+      "https://wise.com/in/send-money/send-money-to-chile",
+      "https://wise.com/in/send-money/send-money-to-china",
+      "https://wise.com/in/send-money/send-money-to-colombia",
+      "https://wise.com/in/send-money/send-money-to-costa-rica",
+      "https://wise.com/in/send-money/send-money-to-croatia",
+      "https://wise.com/in/send-money/send-money-to-cyprus",
+      "https://wise.com/in/send-money/send-money-to-czech-republic",
+      "https://wise.com/in/send-money/send-money-to-denmark",
+      "https://wise.com/in/send-money/send-money-to-dubai",
+      "https://wise.com/in/send-money/send-money-to-ecuador",
+      "https://wise.com/in/send-money/send-money-to-egypt",
+      "https://wise.com/in/send-money/send-money-to-el-salvador",
+      "https://wise.com/in/send-money/send-money-to-estonia",
+      "https://wise.com/in/send-money/send-money-to-europe",
+      "https://wise.com/in/send-money/send-money-to-fiji",
+      "https://wise.com/in/send-money/send-money-to-finland",
+      "https://wise.com/in/send-money/send-money-to-france",
+      "https://wise.com/in/send-money/send-money-to-georgia",
+      "https://wise.com/in/send-money/send-money-to-germany",
+      "https://wise.com/in/send-money/send-money-to-ghana",
+      "https://wise.com/in/send-money/send-money-to-gibraltar",
+      "https://wise.com/in/send-money/send-money-to-greece",
+      "https://wise.com/in/send-money/send-money-to-guadeloupe",
+      "https://wise.com/in/send-money/send-money-to-guernsey",
+      "https://wise.com/in/send-money/send-money-to-hong-kong",
+      "https://wise.com/in/send-money/send-money-to-hungary",
+      "https://wise.com/in/send-money/send-money-to-india",
+      "https://wise.com/in/send-money/send-money-to-indonesia",
+      "https://wise.com/in/send-money/send-money-to-ireland",
+      "https://wise.com/in/send-money/send-money-to-isle-of-man",
+      "https://wise.com/in/send-money/send-money-to-israel",
+      "https://wise.com/in/send-money/send-money-to-italy",
+      "https://wise.com/in/send-money/send-money-to-japan",
+      "https://wise.com/in/send-money/send-money-to-jersey",
+      "https://wise.com/in/send-money/send-money-to-kenya",
+      "https://wise.com/in/send-money/send-money-to-latvia",
+      "https://wise.com/in/send-money/send-money-to-liechtenstein",
+      "https://wise.com/in/send-money/send-money-to-lithuania",
+      "https://wise.com/in/send-money/send-money-to-luxembourg",
+      "https://wise.com/in/send-money/send-money-to-malaysia",
+      "https://wise.com/in/send-money/send-money-to-malta",
+      "https://wise.com/in/send-money/send-money-to-marshall-islands",
+      "https://wise.com/in/send-money/send-money-to-martinique",
+      "https://wise.com/in/send-money/send-money-to-mayotte",
+      "https://wise.com/in/send-money/send-money-to-mexico",
+      "https://wise.com/in/send-money/send-money-to-micronesia",
+      "https://wise.com/in/send-money/send-money-to-monaco",
+      "https://wise.com/in/send-money/send-money-to-montenegro",
+      "https://wise.com/in/send-money/send-money-to-morocco",
+      "https://wise.com/in/send-money/send-money-to-nauru",
+      "https://wise.com/in/send-money/send-money-to-nepal",
+      "https://wise.com/in/send-money/send-money-to-the-netherlands",
+      "https://wise.com/in/send-money/send-money-to-new-zealand",
+      "https://wise.com/in/send-money/send-money-to-nigeria",
+      "https://wise.com/in/send-money/send-money-to-norway",
+      "https://wise.com/in/send-money/send-money-to-pakistan",
+      "https://wise.com/in/send-money/send-money-to-palau",
+      "https://wise.com/in/send-money/send-money-to-panama",
+      "https://wise.com/in/send-money/send-money-to-peru",
+      "https://wise.com/in/send-money/send-money-to-philippines",
+      "https://wise.com/in/send-money/send-money-to-poland",
+      "https://wise.com/in/send-money/send-money-to-portugal",
+      "https://wise.com/in/send-money/send-money-to-reunion",
+      "https://wise.com/in/send-money/send-money-to-romania",
+      "https://wise.com/in/send-money/send-money-to-saint-barthelemy",
+      "https://wise.com/in/send-money/send-money-to-saint-martin-french-part",
+      "https://wise.com/in/send-money/send-money-to-saint-pierre-and-miquelon",
+      "https://wise.com/in/send-money/send-money-to-san-marino",
+      "https://wise.com/in/send-money/send-money-to-singapore",
+      "https://wise.com/in/send-money/send-money-to-slovakia",
+      "https://wise.com/in/send-money/send-money-to-slovenia",
+      "https://wise.com/in/send-money/send-money-to-south-africa",
+      "https://wise.com/in/send-money/send-money-to-south-korea",
+      "https://wise.com/in/send-money/send-money-to-spain",
+      "https://wise.com/in/send-money/send-money-to-sri-lanka",
+      "https://wise.com/in/send-money/send-money-to-sweden",
+      "https://wise.com/in/send-money/send-money-to-switzerland",
+      "https://wise.com/in/send-money/send-money-to-taiwan",
+      "https://wise.com/in/send-money/send-money-to-tanzania",
+      "https://wise.com/in/send-money/send-money-to-thailand",
+      "https://wise.com/in/send-money/send-money-to-east-timor",
+      "https://wise.com/in/send-money/send-money-to-turkey",
+      "https://wise.com/in/send-money/send-money-to-uganda",
+      "https://wise.com/in/send-money/send-money-to-ukraine",
+      "https://wise.com/in/send-money/send-money-to-united-arab-emirates",
+      "https://wise.com/in/send-money/send-money-to-the-uk",
+      "https://wise.com/in/send-money/send-money-to-the-usa",
+      "https://wise.com/in/send-money/send-money-to-uruguay",
+      "https://wise.com/in/send-money/send-money-to-vatican",
+      "https://wise.com/in/send-money/send-money-to-vietnam",
+      "https://wise.com/in/send-money/send-money-to-zambia",
+      "https://wise.com/in/send-money#coverage-section",
+      "https://wise.com/",
+      "https://wise.com/in/business/",
+      "https://wise.com/platform/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/large-amounts/",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/currency-converter/",
+      "https://wise.com/in/stock/",
+      "https://wise.com/in/swift-codes/",
+      "https://wise.com/in/iban/",
+      "https://wise.com/tools/exchange-rate-alerts/",
+      "https://wise.com/in/compare/",
+      "https://wise.com/in/availability/",
+      "https://wise.com/in/about/our-story",
+      "https://wise.com/in/blog/",
+      "https://wise.com/in/safety-and-security/",
+      "https://wise.com/in/press",
+      "https://www.wise.jobs/",
+      "https://wise.com/owners/",
+      "https://wise.com/our-mission",
+      "https://wise.com/in/partnerwise",
+      "https://wise.com/gb/about/wise-reviews",
+      "https://wise.com/help/",
+      "https://status.wise.com/",
+      "https://www.facebook.com/wise",
+      "https://x.com/wise",
+      "https://www.instagram.com/wiseaccount",
+      "https://www.youtube.com/@wise",
+      "https://uk.linkedin.com/company/wiseaccount",
+      "https://wise.com/terms-and-conditions",
+      "https://wise.com/gb/legal/privacy-notices",
+      "https://wise.com/cookie-policy",
+      "https://wise.com/p/research-privacy-policy",
+      "https://wise.com/help/articles/2235393/how-do-i-make-a-complaint",
+      "https://wise.com/local-sites",
+      "https://wise.com/public-resources/assets/global-navigation/pdf/modern_slavery_26.pdf",
+      "https://wise.com/help/articles/473W1lKUiKkVFMNeBQgrAG/accessibility-at-wise",
+      "https://wise.com/help/articles/79CxCv9Qj1r7mDPJuIwUA3/wise-intellectual-property"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_personal_v3.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_business_v2.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_platform_v2.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/in.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-hero-xl.133fd015.jpg",
+        "poster": "",
+        "width": 2784,
+        "height": 1680
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-save-xs.19312cdc.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-transfer-xs.b5658178.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/inr.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/usd.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/illustrations/lock-large@1x.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,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",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/app-xs.d26dfc2e.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://16544908.fls.doubleclick.net/activityi;src=16544908;type=invmedia;cat=ex-li0;rcb=19;ord=8135118753174;npa=0;auiddc=1812896294.1794480412;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ba1v9244856016z86881521za20gzb6881521zd6881521xeaxf1;gcs=G111;gcd=13n3n3n2n5l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~118897920~118897930~119860442~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~121284210~123329125~123785233~124170881;epver=2;dc_random=1794480413_rbI6fkTgv9cBWAxKS2O1aZhrUv0WESD2jQ;_dc_test=1;~oref=https%3A%2F%2Fwise.com%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=5990948&tm=gtm002&Ver=2&mid=1b7fefaf-092f-4a47-a29f-00cce109a356&bo=1&sid=5fa8a600de8611f1beba0706bc72a685&vid=5fa8a7c0de8611f1939a399222555125&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Wise%3A%20The%20international%20account%20%7C%20Money%20without%20borders%20%7C%20Wise%20India&p=https%3A%2F%2Fwise.com%2F&r=&lt=1546&evt=pageLoad&sv=2&cdb=AQAS&rn=904372",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=jkdnggb&cookie_sync=1&upv=3.0.0&upid=zbv7lgp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=jkdnggb&cookie_sync=1&upv=3.0.0&upid=zbv7lgp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=ay3869r&cookie_sync=1&upv=3.0.0&upid=64p74hp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=5990948&tm=gtm002&Ver=2&mid=1b7fefaf-092f-4a47-a29f-00cce109a356&bo=1&sid=5fa8a600de8611f1beba0706bc72a685&vid=5fa8a7c0de8611f1939a399222555125&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Wise%3A%20The%20international%20account%20%7C%20Money%20without%20borders%20%7C%20Wise%20India&p=https%3A%2F%2Fwise.com%2F&r=&lt=1546&evt=pageLoad&sv=2&cdb=AQAS&rn=904372",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 9757,
+    "actualTravel": 10020,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://wise.com/",
+    "title": "Wise: The international account | Money without borders | Wise India",
+    "documentHeight": 11519,
+    "contentHeight": 11519,
+    "contentTop": -9944,
+    "scrollY": 10020,
+    "ready": "np-theme-personal",
+    "bodyStyle": {
+      "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+      "fontSize": "18px",
+      "lineHeight": "26px",
+      "fontWeight": "400",
+      "color": "rgb(69, 71, 69)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "hero-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -9944,
+          "width": 1440,
+          "height": 1311
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "maxitrust-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -8576,
+          "width": 1440,
+          "height": 401
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "feature-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -8119,
+          "width": 1440,
+          "height": 1606
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "transfer-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -6456,
+          "width": 1440,
+          "height": 693
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgb(159, 232, 112)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "security-section-in",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5707,
+          "width": 1440,
+          "height": 524
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "social-trust-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5127,
+          "width": 1440,
+          "height": 598
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "app-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -4472,
+          "width": 1440,
+          "height": 859
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "coverage-section",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -3557,
+          "width": 1440,
+          "height": 3655
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(69, 71, 69)",
+          "backgroundColor": "rgba(22, 51, 0, 0.08)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 19,
+          "y": -9869,
+          "width": 1402,
+          "height": 181
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "103.5px",
+          "lineHeight": "90.3555px",
+          "fontWeight": "800",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 418,
+          "y": -8520,
+          "width": 605,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 213,
+          "y": -8322,
+          "width": 261,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 649,
+          "y": -8322,
+          "width": 261,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 1085,
+          "y": -8309,
+          "width": 204,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 94,
+          "y": -8022,
+          "width": 561,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 156,
+          "y": -7781,
+          "width": 433,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 156,
+          "y": -7658,
+          "width": 301,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 786,
+          "y": -7185,
+          "width": 561,
+          "height": 109
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 848,
+          "y": -6944,
+          "width": 318,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 848,
+          "y": -6847,
+          "width": 214,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 848,
+          "y": -6750,
+          "width": 247,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 94,
+          "y": -6214,
+          "width": 561,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "44.75px",
+          "lineHeight": "48.1063px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 94,
+          "y": -5707,
+          "width": 561,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "58px",
+          "lineHeight": "54.404px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 94,
+          "y": -5020,
+          "width": 611,
+          "height": 155
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "88.5px",
+          "lineHeight": "77.4375px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 94,
+          "y": -4846,
+          "width": 611,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 189,
+        "rect": {
+          "x": 761,
+          "y": -4942,
+          "width": 336,
+          "height": 168
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 108,
+        "rect": {
+          "x": 1181,
+          "y": -4942,
+          "width": 336,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(159, 232, 112)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 217,
+        "rect": {
+          "x": 1601,
+          "y": -4942,
+          "width": 336,
+          "height": 196
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 186,
+        "rect": {
+          "x": 2022,
+          "y": -4942,
+          "width": 336,
+          "height": 168
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(159, 232, 112)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 140,
+        "rect": {
+          "x": 2442,
+          "y": -4942,
+          "width": 336,
+          "height": 140
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(22, 51, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 786,
+          "y": -4236,
+          "width": 561,
+          "height": 232
+        },
+        "style": {
+          "fontFamily": "\"Wise Sans\", Inter, Rubik, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", sans-serif",
+          "fontSize": "88.5px",
+          "lineHeight": "77.4375px",
+          "fontWeight": "800",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 94,
+          "y": -3500,
+          "width": 1252,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "44.75px",
+          "lineHeight": "48.1063px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 94,
+          "y": 154,
+          "width": 380,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "Inter, Vazirmatn, \"Noto Sans SC\", \"Zen Kaku Gothic Antique\", \"Noto Sans KR\", \"Noto Sans Thai\", \"Noto Sans Hebrew\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "25.992px",
+          "fontWeight": "600",
+          "color": "rgb(14, 15, 12)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://wise.com/#main",
+      "https://wise.com/",
+      "https://wise.com/in/account/",
+      "https://wise.com/in/business/",
+      "https://wise.com/platform/",
+      "https://wise.com/in/account/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/large-amounts/",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/pricing/",
+      "https://wise.com/in/business/",
+      "https://wise.com/in/business/receive-money",
+      "https://wise.com/in/business/manage-team",
+      "https://wise.com/in/business/accounting-software",
+      "https://wise.com/gb/business/contact?click_cta_id=gb_bhomepage_top",
+      "https://wise.com/in/pricing/business",
+      "https://wise.com/platform/",
+      "https://wise.com/platform/send/",
+      "https://wise.com/platform/receive/",
+      "https://wise.com/platform/cards/",
+      "https://wise.com/platform/multi-currency-accounts/",
+      "https://wise.com/platform/financial-institutions/",
+      "https://wise.com/platform/education/",
+      "https://wise.com/platform/marketplaces/",
+      "https://wise.com/platform/spend-management/",
+      "https://wise.com/platform/travel/",
+      "https://wise.com/platform/workforce-platforms/",
+      "https://wise.com/platform/coverage/",
+      "https://www.wiseconnect.io/",
+      "https://docs.wise.com/api-docs",
+      "https://wise.com/help/",
+      "https://wise.com/login",
+      "https://wise.com/register",
+      "https://wise.com/",
+      "https://wise.com/register",
+      "https://wise.com/register?redirectUrl=%2Fonboarding%3Forigin%3DSTANDARD",
+      "https://awards.globalfintechfest.com/GFA2025/winners-2025",
+      "https://wise.com/help/articles/2932693/how-is-wise-regulated-in-each-country-and-region",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/pricing/",
+      "https://newsroom.wise.com/en-CAS/249593-wise-doubles-down-in-india-announces-new-hub-in-hyderabad-and-launches-international-account-details-for-businesses-to-get-paid-from-a/",
+      "https://wise.com/in/safety-and-security/",
+      "https://wise.com/in/send-money/send-money-to-andorra",
+      "https://wise.com/in/send-money/send-money-to-argentina",
+      "https://wise.com/in/send-money/send-money-to-australia",
+      "https://wise.com/in/send-money/send-money-to-austria",
+      "https://wise.com/in/send-money/send-money-to-bangladesh",
+      "https://wise.com/in/send-money/send-money-to-belgium",
+      "https://wise.com/in/send-money/send-money-to-botswana",
+      "https://wise.com/in/send-money/send-money-to-brazil",
+      "https://wise.com/in/send-money/send-money-to-british-virgin-islands",
+      "https://wise.com/in/send-money/send-money-to-bulgaria",
+      "https://wise.com/in/send-money/send-money-to-canada",
+      "https://wise.com/in/send-money/send-money-to-chile",
+      "https://wise.com/in/send-money/send-money-to-china",
+      "https://wise.com/in/send-money/send-money-to-colombia",
+      "https://wise.com/in/send-money/send-money-to-costa-rica",
+      "https://wise.com/in/send-money/send-money-to-croatia",
+      "https://wise.com/in/send-money/send-money-to-cyprus",
+      "https://wise.com/in/send-money/send-money-to-czech-republic",
+      "https://wise.com/in/send-money/send-money-to-denmark",
+      "https://wise.com/in/send-money/send-money-to-dubai",
+      "https://wise.com/in/send-money/send-money-to-ecuador",
+      "https://wise.com/in/send-money/send-money-to-egypt",
+      "https://wise.com/in/send-money/send-money-to-el-salvador",
+      "https://wise.com/in/send-money/send-money-to-estonia",
+      "https://wise.com/in/send-money/send-money-to-europe",
+      "https://wise.com/in/send-money/send-money-to-fiji",
+      "https://wise.com/in/send-money/send-money-to-finland",
+      "https://wise.com/in/send-money/send-money-to-france",
+      "https://wise.com/in/send-money/send-money-to-georgia",
+      "https://wise.com/in/send-money/send-money-to-germany",
+      "https://wise.com/in/send-money/send-money-to-ghana",
+      "https://wise.com/in/send-money/send-money-to-gibraltar",
+      "https://wise.com/in/send-money/send-money-to-greece",
+      "https://wise.com/in/send-money/send-money-to-guadeloupe",
+      "https://wise.com/in/send-money/send-money-to-guernsey",
+      "https://wise.com/in/send-money/send-money-to-hong-kong",
+      "https://wise.com/in/send-money/send-money-to-hungary",
+      "https://wise.com/in/send-money/send-money-to-india",
+      "https://wise.com/in/send-money/send-money-to-indonesia",
+      "https://wise.com/in/send-money/send-money-to-ireland",
+      "https://wise.com/in/send-money/send-money-to-isle-of-man",
+      "https://wise.com/in/send-money/send-money-to-israel",
+      "https://wise.com/in/send-money/send-money-to-italy",
+      "https://wise.com/in/send-money/send-money-to-japan",
+      "https://wise.com/in/send-money/send-money-to-jersey",
+      "https://wise.com/in/send-money/send-money-to-kenya",
+      "https://wise.com/in/send-money/send-money-to-latvia",
+      "https://wise.com/in/send-money/send-money-to-liechtenstein",
+      "https://wise.com/in/send-money/send-money-to-lithuania",
+      "https://wise.com/in/send-money/send-money-to-luxembourg",
+      "https://wise.com/in/send-money/send-money-to-malaysia",
+      "https://wise.com/in/send-money/send-money-to-malta",
+      "https://wise.com/in/send-money/send-money-to-marshall-islands",
+      "https://wise.com/in/send-money/send-money-to-martinique",
+      "https://wise.com/in/send-money/send-money-to-mayotte",
+      "https://wise.com/in/send-money/send-money-to-mexico",
+      "https://wise.com/in/send-money/send-money-to-micronesia",
+      "https://wise.com/in/send-money/send-money-to-monaco",
+      "https://wise.com/in/send-money/send-money-to-montenegro",
+      "https://wise.com/in/send-money/send-money-to-morocco",
+      "https://wise.com/in/send-money/send-money-to-nauru",
+      "https://wise.com/in/send-money/send-money-to-nepal",
+      "https://wise.com/in/send-money/send-money-to-the-netherlands",
+      "https://wise.com/in/send-money/send-money-to-new-zealand",
+      "https://wise.com/in/send-money/send-money-to-nigeria",
+      "https://wise.com/in/send-money/send-money-to-norway",
+      "https://wise.com/in/send-money/send-money-to-pakistan",
+      "https://wise.com/in/send-money/send-money-to-palau",
+      "https://wise.com/in/send-money/send-money-to-panama",
+      "https://wise.com/in/send-money/send-money-to-peru",
+      "https://wise.com/in/send-money/send-money-to-philippines",
+      "https://wise.com/in/send-money/send-money-to-poland",
+      "https://wise.com/in/send-money/send-money-to-portugal",
+      "https://wise.com/in/send-money/send-money-to-reunion",
+      "https://wise.com/in/send-money/send-money-to-romania",
+      "https://wise.com/in/send-money/send-money-to-saint-barthelemy",
+      "https://wise.com/in/send-money/send-money-to-saint-martin-french-part",
+      "https://wise.com/in/send-money/send-money-to-saint-pierre-and-miquelon",
+      "https://wise.com/in/send-money/send-money-to-san-marino",
+      "https://wise.com/in/send-money/send-money-to-singapore",
+      "https://wise.com/in/send-money/send-money-to-slovakia",
+      "https://wise.com/in/send-money/send-money-to-slovenia",
+      "https://wise.com/in/send-money/send-money-to-south-africa",
+      "https://wise.com/in/send-money/send-money-to-south-korea",
+      "https://wise.com/in/send-money/send-money-to-spain",
+      "https://wise.com/in/send-money/send-money-to-sri-lanka",
+      "https://wise.com/in/send-money/send-money-to-sweden",
+      "https://wise.com/in/send-money/send-money-to-switzerland",
+      "https://wise.com/in/send-money/send-money-to-taiwan",
+      "https://wise.com/in/send-money/send-money-to-tanzania",
+      "https://wise.com/in/send-money/send-money-to-thailand",
+      "https://wise.com/in/send-money/send-money-to-east-timor",
+      "https://wise.com/in/send-money/send-money-to-turkey",
+      "https://wise.com/in/send-money/send-money-to-uganda",
+      "https://wise.com/in/send-money/send-money-to-ukraine",
+      "https://wise.com/in/send-money/send-money-to-united-arab-emirates",
+      "https://wise.com/in/send-money/send-money-to-the-uk",
+      "https://wise.com/in/send-money/send-money-to-the-usa",
+      "https://wise.com/in/send-money/send-money-to-uruguay",
+      "https://wise.com/in/send-money/send-money-to-vatican",
+      "https://wise.com/in/send-money/send-money-to-vietnam",
+      "https://wise.com/in/send-money/send-money-to-zambia",
+      "https://wise.com/in/send-money#coverage-section",
+      "https://wise.com/",
+      "https://wise.com/in/business/",
+      "https://wise.com/platform/",
+      "https://wise.com/in/send-money/",
+      "https://wise.com/in/large-amounts/",
+      "https://wise.com/in/card/",
+      "https://wise.com/in/currency-converter/",
+      "https://wise.com/in/stock/",
+      "https://wise.com/in/swift-codes/",
+      "https://wise.com/in/iban/",
+      "https://wise.com/tools/exchange-rate-alerts/",
+      "https://wise.com/in/compare/",
+      "https://wise.com/in/availability/",
+      "https://wise.com/in/about/our-story",
+      "https://wise.com/in/blog/",
+      "https://wise.com/in/safety-and-security/",
+      "https://wise.com/in/press",
+      "https://www.wise.jobs/",
+      "https://wise.com/owners/",
+      "https://wise.com/our-mission",
+      "https://wise.com/in/partnerwise",
+      "https://wise.com/gb/about/wise-reviews",
+      "https://wise.com/help/",
+      "https://status.wise.com/",
+      "https://www.facebook.com/wise",
+      "https://x.com/wise",
+      "https://www.instagram.com/wiseaccount",
+      "https://www.youtube.com/@wise",
+      "https://uk.linkedin.com/company/wiseaccount",
+      "https://wise.com/terms-and-conditions",
+      "https://wise.com/gb/legal/privacy-notices",
+      "https://wise.com/cookie-policy",
+      "https://wise.com/p/research-privacy-policy",
+      "https://wise.com/help/articles/2235393/how-do-i-make-a-complaint",
+      "https://wise.com/local-sites",
+      "https://wise.com/public-resources/assets/global-navigation/pdf/modern_slavery_26.pdf",
+      "https://wise.com/help/articles/473W1lKUiKkVFMNeBQgrAG/accessibility-at-wise",
+      "https://wise.com/help/articles/79CxCv9Qj1r7mDPJuIwUA3/wise-intellectual-property"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_personal_v3.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_business_v2.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/public-resources/assets/global-navigation/gn_platform_v2.jpg",
+        "poster": "",
+        "width": 784,
+        "height": 440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/in.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-hero-xl.133fd015.jpg",
+        "poster": "",
+        "width": 2784,
+        "height": 1680
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-save-xl.f593f4c9.jpg",
+        "poster": "",
+        "width": 1210,
+        "height": 1612
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/in-transfer-xl.fb1862cb.jpg",
+        "poster": "",
+        "width": 1210,
+        "height": 1612
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/inr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/usd.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/illustrations/lock-large@1x.webp",
+        "poster": "",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/google-play.7b3d30c3.png",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,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",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/static-assets/app/_next/static/media/app-xl.af636f0d.jpg",
+        "poster": "",
+        "width": 1210,
+        "height": 1612
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ad.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ar.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/au.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/at.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/bd.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/be.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/bw.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/br.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/vg.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/bg.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ca.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/cl.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/cn.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/co.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/cr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/hr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/cy.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/cz.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/dk.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/aed.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ec.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/eg.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/sv.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ee.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/eur.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/fj.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/fi.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/fr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ge.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/de.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gh.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gi.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gp.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gg.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/hk.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/hu.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/in.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/id.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ie.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/im.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/il.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/it.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/jp.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/je.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ke.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/lv.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/li.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/lt.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/lu.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/my.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mt.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mh.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mq.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/yt.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mx.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/fm.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mc.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/me.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ma.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/nr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/np.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/nl.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/nz.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ng.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/no.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pk.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pw.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pa.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pe.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ph.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pl.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pt.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/re.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ro.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/bl.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/mf.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/pm.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/sm.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/sg.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/sk.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/si.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/za.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/kr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/es.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/lk.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/se.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ch.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/tw.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/tz.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/th.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/tl.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/tr.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ug.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ua.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/ae.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/gb.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/us.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/uy.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/va.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/vn.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://wise.com/web-art/assets/flags/zm.svg",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://16544908.fls.doubleclick.net/activityi;src=16544908;type=invmedia;cat=ex-li0;rcb=19;ord=8135118753174;npa=0;auiddc=1812896294.1794480412;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ba1v9244856016z86881521za20gzb6881521zd6881521xeaxf1;gcs=G111;gcd=13n3n3n2n5l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~118897920~118897930~119860442~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~121284210~123329125~123785233~124170881;epver=2;dc_random=1794480413_rbI6fkTgv9cBWAxKS2O1aZhrUv0WESD2jQ;_dc_test=1;~oref=https%3A%2F%2Fwise.com%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=5990948&tm=gtm002&Ver=2&mid=1b7fefaf-092f-4a47-a29f-00cce109a356&bo=1&sid=5fa8a600de8611f1beba0706bc72a685&vid=5fa8a7c0de8611f1939a399222555125&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Wise%3A%20The%20international%20account%20%7C%20Money%20without%20borders%20%7C%20Wise%20India&p=https%3A%2F%2Fwise.com%2F&r=&lt=1546&evt=pageLoad&sv=2&cdb=AQAS&rn=904372",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=jkdnggb&cookie_sync=1&upv=3.0.0&upid=zbv7lgp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=jkdnggb&cookie_sync=1&upv=3.0.0&upid=zbv7lgp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://insight.adsrvr.org/track/cei?advertiser_id=ay3869r&cookie_sync=1&upv=3.0.0&upid=64p74hp&ref=https%3A%2F%2Fwise.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=5990948&tm=gtm002&Ver=2&mid=1b7fefaf-092f-4a47-a29f-00cce109a356&bo=1&sid=5fa8a600de8611f1beba0706bc72a685&vid=5fa8a7c0de8611f1939a399222555125&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Wise%3A%20The%20international%20account%20%7C%20Money%20without%20borders%20%7C%20Wise%20India&p=https%3A%2F%2Fwise.com%2F&r=&lt=1546&evt=pageLoad&sv=2&cdb=AQAS&rn=904372",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 7547,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

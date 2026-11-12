@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "source": "https://lusion.co/",
-  "count": 57,
+  "source": "https://lusion.co/ and brand homepages discovered via https://styles.refero.design/",
+  "count": 93,
   "items": [
     {
       "id": "lusion-home",
@@ -29,6 +29,7 @@
       "checkpointCount": 6,
       "resourceCount": 105,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/lusion-home/checkpoint-00.jpg",
       "video": "captures/lusion/lusion-home/traversal.mp4"
     },
@@ -58,6 +59,7 @@
       "checkpointCount": 6,
       "resourceCount": 112,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/lusion-home-mobile/checkpoint-00.jpg",
       "video": "captures/lusion/lusion-home-mobile/traversal.mp4"
     },
@@ -87,6 +89,7 @@
       "checkpointCount": 6,
       "resourceCount": 36,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-ion/checkpoint-01.jpg",
       "video": "captures/lusion/live-ion/traversal.mp4"
     },
@@ -116,6 +119,7 @@
       "checkpointCount": 6,
       "resourceCount": 89,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/lusion-about/checkpoint-00.jpg",
       "video": "captures/lusion/lusion-about/traversal.mp4"
     },
@@ -145,6 +149,7 @@
       "checkpointCount": 6,
       "resourceCount": 79,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/lusion-projects/checkpoint-00.jpg",
       "video": "captures/lusion/lusion-projects/traversal.mp4"
     },
@@ -174,6 +179,7 @@
       "checkpointCount": 6,
       "resourceCount": 148,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-1105-ddd2024-homepage/checkpoint-00.jpg",
       "video": "captures/lusion/live-1105-ddd2024-homepage/traversal.mp4"
     },
@@ -203,8 +209,96 @@
       "checkpointCount": 6,
       "resourceCount": 26,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-abduction/checkpoint-00.jpg",
       "video": "captures/lusion/labs-abduction/traversal.mp4"
+    },
+    {
+      "id": "refero-anthropic",
+      "name": "Anthropic — homepage",
+      "url": "https://www.anthropic.com/",
+      "source": "https://styles.refero.design/style/d469cba4-c448-4a43-a033-883f8bfcdc42",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:49:27.997Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-anthropic/page.json",
+      "guide": "docs/reference-library/pages/refero-anthropic.md",
+      "checkpointCount": 6,
+      "resourceCount": 67,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-anthropic/checkpoint-00.jpg",
+      "video": "captures/refero/refero-anthropic/traversal.mp4"
+    },
+    {
+      "id": "refero-apple",
+      "name": "Apple — homepage",
+      "url": "https://www.apple.com/",
+      "source": "https://styles.refero.design/style/aecac5da-f397-4ddf-b71f-de1efc434cb8",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:53:11.136Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-apple/page.json",
+      "guide": "docs/reference-library/pages/refero-apple.md",
+      "checkpointCount": 6,
+      "resourceCount": 73,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-apple/checkpoint-00.jpg",
+      "video": "captures/refero/refero-apple/traversal.mp4"
+    },
+    {
+      "id": "refero-arc",
+      "name": "Arc — homepage",
+      "url": "https://arc.net/",
+      "source": "https://styles.refero.design/style/acfb6fa1-3aed-4e64-8522-7f332a796de8",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:46:34.862Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-arc/page.json",
+      "guide": "docs/reference-library/pages/refero-arc.md",
+      "checkpointCount": 6,
+      "resourceCount": 85,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-arc/checkpoint-00.jpg",
+      "video": "captures/refero/refero-arc/traversal.mp4"
     },
     {
       "id": "project-atlas-motion",
@@ -232,8 +326,38 @@
       "checkpointCount": 6,
       "resourceCount": 40,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-atlas-motion/checkpoint-00.jpg",
       "video": "captures/lusion/project-atlas-motion/traversal.mp4"
+    },
+    {
+      "id": "refero-awwwards",
+      "name": "Awwwards — homepage",
+      "url": "https://www.awwwards.com/",
+      "source": "https://styles.refero.design/style/a77a7289-3438-46ba-8194-214739e47514",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:55:17.578Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-awwwards/page.json",
+      "guide": "docs/reference-library/pages/refero-awwwards.md",
+      "checkpointCount": 6,
+      "resourceCount": 58,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-awwwards/checkpoint-00.jpg",
+      "video": "captures/refero/refero-awwwards/traversal.mp4"
     },
     {
       "id": "project-choo-choo-world",
@@ -261,6 +385,7 @@
       "checkpointCount": 6,
       "resourceCount": 52,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-choo-choo-world/checkpoint-00.jpg",
       "video": "captures/lusion/project-choo-choo-world/traversal.mp4"
     },
@@ -290,6 +415,7 @@
       "checkpointCount": 6,
       "resourceCount": 27,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-choochoo/checkpoint-00.jpg",
       "video": "captures/lusion/labs-choochoo/traversal.mp4"
     },
@@ -319,8 +445,39 @@
       "checkpointCount": 6,
       "resourceCount": 26,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-cineshader/checkpoint-00.jpg",
       "video": "captures/lusion/labs-cineshader/traversal.mp4"
+    },
+    {
+      "id": "refero-clerk",
+      "name": "Clerk — homepage",
+      "url": "https://clerk.com/",
+      "source": "https://styles.refero.design/style/ed10ae04-24ec-4e42-9bf2-ea12a4b58d67",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:51:26.111Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-clerk/page.json",
+      "guide": "docs/reference-library/pages/refero-clerk.md",
+      "checkpointCount": 6,
+      "resourceCount": 213,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-clerk/checkpoint-00.jpg",
+      "video": "captures/refero/refero-clerk/traversal.mp4"
     },
     {
       "id": "live-client-zero-tech",
@@ -348,6 +505,7 @@
       "checkpointCount": 6,
       "resourceCount": 85,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-client-zero-tech/checkpoint-00.jpg",
       "video": "captures/lusion/live-client-zero-tech/traversal.mp4"
     },
@@ -377,8 +535,38 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-covid-spike/checkpoint-00.jpg",
       "video": "captures/lusion/labs-covid-spike/traversal.mp4"
+    },
+    {
+      "id": "refero-cursor",
+      "name": "Cursor — homepage",
+      "url": "https://cursor.com/",
+      "source": "https://styles.refero.design/style/4e3b4717-84c8-4599-baaf-a343c3d619b6",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:50:43.590Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-cursor/page.json",
+      "guide": "docs/reference-library/pages/refero-cursor.md",
+      "checkpointCount": 6,
+      "resourceCount": 147,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-cursor/checkpoint-00.jpg",
+      "video": "captures/refero/refero-cursor/traversal.mp4"
     },
     {
       "id": "project-ddd-2024",
@@ -406,6 +594,7 @@
       "checkpointCount": 6,
       "resourceCount": 37,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-ddd-2024/checkpoint-00.jpg",
       "video": "captures/lusion/project-ddd-2024/traversal.mp4"
     },
@@ -435,6 +624,7 @@
       "checkpointCount": 6,
       "resourceCount": 38,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-devin-ai/checkpoint-00.jpg",
       "video": "captures/lusion/project-devin-ai/traversal.mp4"
     },
@@ -464,8 +654,96 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-digital-city/checkpoint-00.jpg",
       "video": "captures/lusion/labs-digital-city/traversal.mp4"
+    },
+    {
+      "id": "refero-discord",
+      "name": "Discord — homepage",
+      "url": "https://discord.com/",
+      "source": "https://styles.refero.design/style/faec4b0c-cf93-4150-97de-0a8e7eed1840",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:47:37.675Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-discord/page.json",
+      "guide": "docs/reference-library/pages/refero-discord.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-discord/checkpoint-00.jpg",
+      "video": "captures/refero/refero-discord/traversal.mp4"
+    },
+    {
+      "id": "refero-dollar-shave-club",
+      "name": "Dollar Shave Club — homepage",
+      "url": "https://www.dollarshaveclub.com/",
+      "source": "https://styles.refero.design/style/6d72f05e-dce6-43ad-9532-f61bf211ed46",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:55:38.134Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-dollar-shave-club/page.json",
+      "guide": "docs/reference-library/pages/refero-dollar-shave-club.md",
+      "checkpointCount": 6,
+      "resourceCount": 227,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-dollar-shave-club/checkpoint-00.jpg",
+      "video": "captures/refero/refero-dollar-shave-club/traversal.mp4"
+    },
+    {
+      "id": "refero-duolingo",
+      "name": "Duolingo — homepage",
+      "url": "https://www.duolingo.com/",
+      "source": "https://styles.refero.design/style/95b472c5-fc07-46a8-a11f-c5432e290fcd",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:47:58.521Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-duolingo/page.json",
+      "guide": "docs/reference-library/pages/refero-duolingo.md",
+      "checkpointCount": 6,
+      "resourceCount": 8,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-duolingo/checkpoint-00.jpg",
+      "video": "captures/refero/refero-duolingo/traversal.mp4"
     },
     {
       "id": "project-everswap",
@@ -493,6 +771,7 @@
       "checkpointCount": 6,
       "resourceCount": 43,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-everswap/checkpoint-00.jpg",
       "video": "captures/lusion/project-everswap/traversal.mp4"
     },
@@ -522,6 +801,7 @@
       "checkpointCount": 6,
       "resourceCount": 29,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-abduction/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-abduction/traversal.mp4"
     },
@@ -551,6 +831,7 @@
       "checkpointCount": 6,
       "resourceCount": 21,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-covid-spike/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-covid-spike/traversal.mp4"
     },
@@ -580,6 +861,7 @@
       "checkpointCount": 6,
       "resourceCount": 34,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-gemini/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-gemini/traversal.mp4"
     },
@@ -609,6 +891,7 @@
       "checkpointCount": 6,
       "resourceCount": 27,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-infinite-passerella/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-infinite-passerella/traversal.mp4"
     },
@@ -638,6 +921,7 @@
       "checkpointCount": 6,
       "resourceCount": 24,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-mind-flayer/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-mind-flayer/traversal.mp4"
     },
@@ -667,8 +951,38 @@
       "checkpointCount": 6,
       "resourceCount": 26,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-small-world/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-small-world/traversal.mp4"
+    },
+    {
+      "id": "refero-framer",
+      "name": "Framer — homepage",
+      "url": "https://www.framer.com/",
+      "source": "https://styles.refero.design/style/242db326-a6f3-482a-b12e-5e7f8af94981",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:46:01.303Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-framer/page.json",
+      "guide": "docs/reference-library/pages/refero-framer.md",
+      "checkpointCount": 6,
+      "resourceCount": 14,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-framer/checkpoint-00.jpg",
+      "video": "captures/refero/refero-framer/traversal.mp4"
     },
     {
       "id": "labs-gemini-car",
@@ -696,8 +1010,68 @@
       "checkpointCount": 6,
       "resourceCount": 25,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-gemini-car/checkpoint-00.jpg",
       "video": "captures/lusion/labs-gemini-car/traversal.mp4"
+    },
+    {
+      "id": "refero-github",
+      "name": "GitHub — homepage",
+      "url": "https://github.com/",
+      "source": "https://styles.refero.design/style/c3ceca5c-d329-4559-b947-016172941ba2",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:47:21.993Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-github/page.json",
+      "guide": "docs/reference-library/pages/refero-github.md",
+      "checkpointCount": 6,
+      "resourceCount": 4,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-github/checkpoint-00.jpg",
+      "video": "captures/refero/refero-github/traversal.mp4"
+    },
+    {
+      "id": "refero-grafana-labs",
+      "name": "Grafana Labs — homepage",
+      "url": "https://grafana.com/",
+      "source": "https://styles.refero.design/style/03e0e30c-4c0f-4879-948a-9b501e530207",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:53:27.102Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-grafana-labs/page.json",
+      "guide": "docs/reference-library/pages/refero-grafana-labs.md",
+      "checkpointCount": 6,
+      "resourceCount": 90,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-grafana-labs/checkpoint-00.jpg",
+      "video": "captures/refero/refero-grafana-labs/traversal.mp4"
     },
     {
       "id": "labs-hair-simulation",
@@ -725,6 +1099,7 @@
       "checkpointCount": 6,
       "resourceCount": 25,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-hair-simulation/checkpoint-00.jpg",
       "video": "captures/lusion/labs-hair-simulation/traversal.mp4"
     },
@@ -754,6 +1129,7 @@
       "checkpointCount": 6,
       "resourceCount": 14,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-hair-simulation/checkpoint-00.jpg",
       "video": "captures/lusion/live-hair-simulation/traversal.mp4"
     },
@@ -783,6 +1159,7 @@
       "checkpointCount": 6,
       "resourceCount": 25,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-infinite-passerella/checkpoint-00.jpg",
       "video": "captures/lusion/labs-infinite-passerella/traversal.mp4"
     },
@@ -812,8 +1189,38 @@
       "checkpointCount": 6,
       "resourceCount": 43,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-infinite-passerella/checkpoint-00.jpg",
       "video": "captures/lusion/project-infinite-passerella/traversal.mp4"
+    },
+    {
+      "id": "refero-intercom",
+      "name": "Intercom — homepage",
+      "url": "https://www.intercom.com/",
+      "source": "https://styles.refero.design/style/12255b63-e506-4bc1-a4cd-d05487de32f3",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:48:56.559Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-intercom/page.json",
+      "guide": "docs/reference-library/pages/refero-intercom.md",
+      "checkpointCount": 6,
+      "resourceCount": 62,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-intercom/checkpoint-00.jpg",
+      "video": "captures/refero/refero-intercom/traversal.mp4"
     },
     {
       "id": "labs-ion-speaker",
@@ -841,6 +1248,7 @@
       "checkpointCount": 6,
       "resourceCount": 25,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-ion-speaker/checkpoint-00.jpg",
       "video": "captures/lusion/labs-ion-speaker/traversal.mp4"
     },
@@ -870,8 +1278,38 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-lazy-plot/checkpoint-00.jpg",
       "video": "captures/lusion/labs-lazy-plot/traversal.mp4"
+    },
+    {
+      "id": "refero-linear",
+      "name": "Linear — homepage",
+      "url": "https://linear.app/",
+      "source": "https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:43:47.629Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-linear/page.json",
+      "guide": "docs/reference-library/pages/refero-linear.md",
+      "checkpointCount": 6,
+      "resourceCount": 524,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-linear/checkpoint-00.jpg",
+      "video": "captures/refero/refero-linear/traversal.mp4"
     },
     {
       "id": "project-lusion-labs",
@@ -899,6 +1337,7 @@
       "checkpointCount": 6,
       "resourceCount": 52,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-lusion-labs/checkpoint-00.jpg",
       "video": "captures/lusion/project-lusion-labs/traversal.mp4"
     },
@@ -928,6 +1367,7 @@
       "checkpointCount": 6,
       "resourceCount": 32,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/lusion-labs/checkpoint-00.jpg",
       "video": "captures/lusion/lusion-labs/traversal.mp4"
     },
@@ -957,8 +1397,39 @@
       "checkpointCount": 6,
       "resourceCount": 50,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-maxmara-bearings-gifts/checkpoint-00.jpg",
       "video": "captures/lusion/project-maxmara-bearings-gifts/traversal.mp4"
+    },
+    {
+      "id": "refero-mercury",
+      "name": "Mercury — homepage",
+      "url": "https://mercury.com/",
+      "source": "https://styles.refero.design/style/3172cd4d-118a-4a16-a259-6b634d32322e",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:49:42.066Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-mercury/page.json",
+      "guide": "docs/reference-library/pages/refero-mercury.md",
+      "checkpointCount": 6,
+      "resourceCount": 134,
+      "scrollCoverage": 0.901,
+      "group": "refero",
+      "preview": "captures/refero/refero-mercury/checkpoint-00.jpg",
+      "video": "captures/refero/refero-mercury/traversal.mp4"
     },
     {
       "id": "project-spatial-fusion",
@@ -986,8 +1457,68 @@
       "checkpointCount": 6,
       "resourceCount": 50,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-spatial-fusion/checkpoint-00.jpg",
       "video": "captures/lusion/project-spatial-fusion/traversal.mp4"
+    },
+    {
+      "id": "refero-modern-treasury",
+      "name": "Modern Treasury — homepage",
+      "url": "https://www.moderntreasury.com/",
+      "source": "https://styles.refero.design/style/2e9b3dcb-f937-488d-891c-351c7366188f",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:54:57.303Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-modern-treasury/page.json",
+      "guide": "docs/reference-library/pages/refero-modern-treasury.md",
+      "checkpointCount": 6,
+      "resourceCount": 77,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-modern-treasury/checkpoint-00.jpg",
+      "video": "captures/refero/refero-modern-treasury/traversal.mp4"
+    },
+    {
+      "id": "refero-mollie",
+      "name": "Mollie — homepage",
+      "url": "https://www.mollie.com/",
+      "source": "https://styles.refero.design/style/73ec75d6-edec-4ed2-bc09-debb261b6ee0",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:54:12.096Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-mollie/page.json",
+      "guide": "docs/reference-library/pages/refero-mollie.md",
+      "checkpointCount": 6,
+      "resourceCount": 3,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-mollie/checkpoint-00.jpg",
+      "video": "captures/refero/refero-mollie/traversal.mp4"
     },
     {
       "id": "labs-my-little-story-book",
@@ -1015,6 +1546,7 @@
       "checkpointCount": 6,
       "resourceCount": 27,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-my-little-story-book/checkpoint-00.jpg",
       "video": "captures/lusion/labs-my-little-story-book/traversal.mp4"
     },
@@ -1044,8 +1576,67 @@
       "checkpointCount": 6,
       "resourceCount": 49,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-my-little-story-book/checkpoint-00.jpg",
       "video": "captures/lusion/project-my-little-story-book/traversal.mp4"
+    },
+    {
+      "id": "refero-notion",
+      "name": "Notion — homepage",
+      "url": "https://www.notion.com/",
+      "source": "https://styles.refero.design/style/f58e99d1-940d-4254-8822-5d856bba6505",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:45:18.102Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-notion/page.json",
+      "guide": "docs/reference-library/pages/refero-notion.md",
+      "checkpointCount": 6,
+      "resourceCount": 146,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-notion/checkpoint-00.jpg",
+      "video": "captures/refero/refero-notion/traversal.mp4"
+    },
+    {
+      "id": "refero-nuxt",
+      "name": "Nuxt — homepage",
+      "url": "https://nuxt.com/",
+      "source": "https://styles.refero.design/style/d9a19632-e9ee-4c9c-849b-ed48b1c43ee7",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:53:42.847Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-nuxt/page.json",
+      "guide": "docs/reference-library/pages/refero-nuxt.md",
+      "checkpointCount": 6,
+      "resourceCount": 296,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-nuxt/checkpoint-00.jpg",
+      "video": "captures/refero/refero-nuxt/traversal.mp4"
     },
     {
       "id": "project-of-the-oak",
@@ -1073,6 +1664,7 @@
       "checkpointCount": 6,
       "resourceCount": 39,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-of-the-oak/checkpoint-00.jpg",
       "video": "captures/lusion/project-of-the-oak/traversal.mp4"
     },
@@ -1102,6 +1694,7 @@
       "checkpointCount": 6,
       "resourceCount": 41,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-oryzo-ai/checkpoint-00.jpg",
       "video": "captures/lusion/project-oryzo-ai/traversal.mp4"
     },
@@ -1131,8 +1724,39 @@
       "checkpointCount": 6,
       "resourceCount": 25,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-particle-love/checkpoint-00.jpg",
       "video": "captures/lusion/labs-particle-love/traversal.mp4"
+    },
+    {
+      "id": "refero-perplexity-ai",
+      "name": "Perplexity AI — homepage",
+      "url": "https://www.perplexity.ai/",
+      "source": "https://styles.refero.design/style/7c4e9339-591c-46c3-ac3d-20c1b5b5a568",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:52:09.269Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-perplexity-ai/page.json",
+      "guide": "docs/reference-library/pages/refero-perplexity-ai.md",
+      "checkpointCount": 6,
+      "resourceCount": 148,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-perplexity-ai/checkpoint-00.jpg",
+      "video": "captures/refero/refero-perplexity-ai/traversal.mp4"
     },
     {
       "id": "project-porsche-dream-machine",
@@ -1160,8 +1784,156 @@
       "checkpointCount": 6,
       "resourceCount": 50,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-porsche-dream-machine/checkpoint-00.jpg",
       "video": "captures/lusion/project-porsche-dream-machine/traversal.mp4"
+    },
+    {
+      "id": "refero-ramp",
+      "name": "Ramp — homepage",
+      "url": "https://ramp.com/",
+      "source": "https://styles.refero.design/style/b38702a0-75ab-474c-9106-00b624535825",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:49:57.216Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-ramp/page.json",
+      "guide": "docs/reference-library/pages/refero-ramp.md",
+      "checkpointCount": 6,
+      "resourceCount": 111,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-ramp/checkpoint-00.jpg",
+      "video": "captures/refero/refero-ramp/traversal.mp4"
+    },
+    {
+      "id": "refero-raycast",
+      "name": "Raycast — homepage",
+      "url": "https://www.raycast.com/",
+      "source": "https://styles.refero.design/style/3b6a17f0-3bdf-418c-a95e-0b89e5a8b2f8",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:45:32.382Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-raycast/page.json",
+      "guide": "docs/reference-library/pages/refero-raycast.md",
+      "checkpointCount": 6,
+      "resourceCount": 159,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-raycast/checkpoint-00.jpg",
+      "video": "captures/refero/refero-raycast/traversal.mp4"
+    },
+    {
+      "id": "refero-resend",
+      "name": "Resend — homepage",
+      "url": "https://resend.com/",
+      "source": "https://styles.refero.design/style/0d914ef0-fa84-4c60-a9aa-cef0b5eb6e5d",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:51:02.259Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-resend/page.json",
+      "guide": "docs/reference-library/pages/refero-resend.md",
+      "checkpointCount": 6,
+      "resourceCount": 153,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-resend/checkpoint-00.jpg",
+      "video": "captures/refero/refero-resend/traversal.mp4"
+    },
+    {
+      "id": "refero-shopify",
+      "name": "Shopify — homepage",
+      "url": "https://www.shopify.com/",
+      "source": "https://styles.refero.design/style/1a8ba699-24cb-4b35-8db1-c595c578199c",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:48:36.394Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-shopify/page.json",
+      "guide": "docs/reference-library/pages/refero-shopify.md",
+      "checkpointCount": 6,
+      "resourceCount": 175,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-shopify/checkpoint-00.jpg",
+      "video": "captures/refero/refero-shopify/traversal.mp4"
+    },
+    {
+      "id": "refero-slack",
+      "name": "Slack — homepage",
+      "url": "https://slack.com/",
+      "source": "https://styles.refero.design/style/e26cb9b0-f876-41ff-9f24-fd67a6b9776c",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:48:14.583Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-slack/page.json",
+      "guide": "docs/reference-library/pages/refero-slack.md",
+      "checkpointCount": 6,
+      "resourceCount": 2,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-slack/checkpoint-00.jpg",
+      "video": "captures/refero/refero-slack/traversal.mp4"
     },
     {
       "id": "labs-small-world",
@@ -1189,6 +1961,7 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-small-world/checkpoint-00.jpg",
       "video": "captures/lusion/labs-small-world/traversal.mp4"
     },
@@ -1218,6 +1991,7 @@
       "checkpointCount": 6,
       "resourceCount": 41,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-soda-experience/checkpoint-00.jpg",
       "video": "captures/lusion/project-soda-experience/traversal.mp4"
     },
@@ -1247,8 +2021,128 @@
       "checkpointCount": 6,
       "resourceCount": 40,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-spaace/checkpoint-00.jpg",
       "video": "captures/lusion/project-spaace/traversal.mp4"
+    },
+    {
+      "id": "refero-spline",
+      "name": "Spline — homepage",
+      "url": "https://spline.design/",
+      "source": "https://styles.refero.design/style/b36d5c7c-9b28-4c99-b5a8-69ce03621410",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:52:47.506Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-spline/page.json",
+      "guide": "docs/reference-library/pages/refero-spline.md",
+      "checkpointCount": 6,
+      "resourceCount": 81,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-spline/checkpoint-00.jpg",
+      "video": "captures/refero/refero-spline/traversal.mp4"
+    },
+    {
+      "id": "refero-stripe",
+      "name": "Stripe — homepage",
+      "url": "https://stripe.com/",
+      "source": "https://styles.refero.design/style/48e5de76-05d5-4c4e-a269-c7c245b291ec",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:44:59.374Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-stripe/page.json",
+      "guide": "docs/reference-library/pages/refero-stripe.md",
+      "checkpointCount": 6,
+      "resourceCount": 7,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-stripe/checkpoint-00.jpg",
+      "video": "captures/refero/refero-stripe/traversal.mp4"
+    },
+    {
+      "id": "refero-supabase",
+      "name": "Supabase — homepage",
+      "url": "https://supabase.com/",
+      "source": "https://styles.refero.design/style/632249f1-fd78-4c77-9b34-7bae37ff3e9b",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:46:18.080Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-supabase/page.json",
+      "guide": "docs/reference-library/pages/refero-supabase.md",
+      "checkpointCount": 6,
+      "resourceCount": 170,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-supabase/checkpoint-00.jpg",
+      "video": "captures/refero/refero-supabase/traversal.mp4"
+    },
+    {
+      "id": "refero-superhuman",
+      "name": "Superhuman — homepage",
+      "url": "https://superhuman.com/",
+      "source": "https://styles.refero.design/style/418b374a-be64-44f0-b17e-1d45308c7e62",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:47:04.357Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-superhuman/page.json",
+      "guide": "docs/reference-library/pages/refero-superhuman.md",
+      "checkpointCount": 6,
+      "resourceCount": 2,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-superhuman/checkpoint-00.jpg",
+      "video": "captures/refero/refero-superhuman/traversal.mp4"
     },
     {
       "id": "labs-surface-floater",
@@ -1276,6 +2170,7 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-surface-floater/checkpoint-00.jpg",
       "video": "captures/lusion/labs-surface-floater/traversal.mp4"
     },
@@ -1305,6 +2200,7 @@
       "checkpointCount": 6,
       "resourceCount": 18,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-surface-floater/checkpoint-00.jpg",
       "video": "captures/lusion/live-surface-floater/traversal.mp4"
     },
@@ -1334,8 +2230,38 @@
       "checkpointCount": 6,
       "resourceCount": 40,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-synthetic-human/checkpoint-00.jpg",
       "video": "captures/lusion/project-synthetic-human/traversal.mp4"
+    },
+    {
+      "id": "refero-teenage-engineering",
+      "name": "teenage engineering — homepage",
+      "url": "https://teenage.engineering/",
+      "source": "https://styles.refero.design/style/aecf9dda-5cba-4dc7-9e73-59b65d895cdf",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:52:33.410Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-teenage-engineering/page.json",
+      "guide": "docs/reference-library/pages/refero-teenage-engineering.md",
+      "checkpointCount": 6,
+      "resourceCount": 76,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-teenage-engineering/checkpoint-00.jpg",
+      "video": "captures/refero/refero-teenage-engineering/traversal.mp4"
     },
     {
       "id": "project-the-turn-of-the-screw",
@@ -1363,6 +2289,7 @@
       "checkpointCount": 6,
       "resourceCount": 47,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-the-turn-of-the-screw/checkpoint-00.jpg",
       "video": "captures/lusion/project-the-turn-of-the-screw/traversal.mp4"
     },
@@ -1392,8 +2319,39 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-trappist-1d/checkpoint-00.jpg",
       "video": "captures/lusion/labs-trappist-1d/traversal.mp4"
+    },
+    {
+      "id": "refero-vercel",
+      "name": "Vercel — homepage",
+      "url": "https://vercel.com/",
+      "source": "https://styles.refero.design/style/f24daf3a-d43f-4dec-85a9-8ac1d5148a03",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:44:42.670Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-vercel/page.json",
+      "guide": "docs/reference-library/pages/refero-vercel.md",
+      "checkpointCount": 6,
+      "resourceCount": 125,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-vercel/checkpoint-00.jpg",
+      "video": "captures/refero/refero-vercel/traversal.mp4"
     },
     {
       "id": "labs-webxr-sneakers",
@@ -1421,6 +2379,7 @@
       "checkpointCount": 6,
       "resourceCount": 26,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-webxr-sneakers/checkpoint-00.jpg",
       "video": "captures/lusion/labs-webxr-sneakers/traversal.mp4"
     },
@@ -1450,8 +2409,38 @@
       "checkpointCount": 6,
       "resourceCount": 30,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/live-webxr-sneakers/checkpoint-00.jpg",
       "video": "captures/lusion/live-webxr-sneakers/traversal.mp4"
+    },
+    {
+      "id": "refero-wise",
+      "name": "Wise — homepage",
+      "url": "https://wise.com/",
+      "source": "https://styles.refero.design/style/367c0c6e-73a7-441c-a8ff-91d139ac60dc",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T10:46:49.542Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-wise/page.json",
+      "guide": "docs/reference-library/pages/refero-wise.md",
+      "checkpointCount": 6,
+      "resourceCount": 178,
+      "scrollCoverage": 1,
+      "group": "refero",
+      "preview": "captures/refero/refero-wise/checkpoint-00.jpg",
+      "video": "captures/refero/refero-wise/traversal.mp4"
     },
     {
       "id": "project-worldcoin",
@@ -1479,6 +2468,7 @@
       "checkpointCount": 6,
       "resourceCount": 35,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-worldcoin/checkpoint-00.jpg",
       "video": "captures/lusion/project-worldcoin/traversal.mp4"
     },
@@ -1508,6 +2498,7 @@
       "checkpointCount": 6,
       "resourceCount": 47,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/project-zero-tech/checkpoint-00.jpg",
       "video": "captures/lusion/project-zero-tech/traversal.mp4"
     },
@@ -1537,6 +2528,7 @@
       "checkpointCount": 6,
       "resourceCount": 41,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-akari/checkpoint-00.jpg",
       "video": "captures/lusion/live-akari/traversal.mp4"
     },
@@ -1566,6 +2558,7 @@
       "checkpointCount": 6,
       "resourceCount": 33,
       "scrollCoverage": 0,
+      "group": "lusion",
       "preview": "captures/lusion/live-archive-devin-ai/checkpoint-00.jpg",
       "video": "captures/lusion/live-archive-devin-ai/traversal.mp4"
     },
@@ -1595,6 +2588,7 @@
       "checkpointCount": 6,
       "resourceCount": 33,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-digital-city/checkpoint-00.jpg",
       "video": "captures/lusion/live-exp-digital-city/traversal.mp4"
     },
@@ -1624,8 +2618,38 @@
       "checkpointCount": 6,
       "resourceCount": 112,
       "scrollCoverage": null,
+      "group": "lusion",
       "preview": "captures/lusion/live-exp-my-little-storybook/checkpoint-02.jpg",
       "video": "captures/lusion/live-exp-my-little-storybook/traversal.mp4"
+    },
+    {
+      "id": "refero-mailchimp",
+      "name": "Mailchimp — homepage",
+      "url": "https://mailchimp.com/",
+      "source": "https://styles.refero.design/style/24929007-7e62-4c96-a940-7de65438a578",
+      "kind": "landing-page",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T10:49:11.844Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "virtual-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-mailchimp/page.json",
+      "guide": "docs/reference-library/pages/refero-mailchimp.md",
+      "checkpointCount": 6,
+      "resourceCount": 105,
+      "scrollCoverage": 0,
+      "group": "refero",
+      "preview": "captures/refero/refero-mailchimp/checkpoint-00.jpg",
+      "video": "captures/refero/refero-mailchimp/traversal.mp4"
     },
     {
       "id": "labs-mind-flayer",
@@ -1653,8 +2677,94 @@
       "checkpointCount": 6,
       "resourceCount": 23,
       "scrollCoverage": 1,
+      "group": "lusion",
       "preview": "captures/lusion/labs-mind-flayer/checkpoint-00.jpg",
       "video": "captures/lusion/labs-mind-flayer/traversal.mp4"
+    },
+    {
+      "id": "refero-monzo",
+      "name": "Monzo — homepage",
+      "url": "https://monzo.com/",
+      "source": "https://styles.refero.design/style/e8a1d114-6924-4f03-acd2-996dd30f15a6",
+      "kind": "landing-page",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T10:52:19.699Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-monzo/page.json",
+      "guide": "docs/reference-library/pages/refero-monzo.md",
+      "checkpointCount": 6,
+      "resourceCount": 49,
+      "scrollCoverage": 0,
+      "group": "refero",
+      "preview": "captures/refero/refero-monzo/checkpoint-00.jpg",
+      "video": "captures/refero/refero-monzo/traversal.mp4"
+    },
+    {
+      "id": "refero-retool",
+      "name": "Retool — homepage",
+      "url": "https://retool.com/",
+      "source": "https://styles.refero.design/style/c45b115b-dcb5-446d-8952-85aef740f8e4",
+      "kind": "landing-page",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T10:51:51.841Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/refero/refero-retool/page.json",
+      "guide": "docs/reference-library/pages/refero-retool.md",
+      "checkpointCount": 6,
+      "resourceCount": 111,
+      "scrollCoverage": 0.811,
+      "group": "refero",
+      "preview": "captures/refero/refero-retool/checkpoint-00.jpg",
+      "video": "captures/refero/refero-retool/traversal.mp4"
+    },
+    {
+      "id": "refero-webflow",
+      "name": "Webflow — homepage",
+      "url": "https://webflow.com/",
+      "source": "https://styles.refero.design/style/31471407-598a-45fd-a505-d921980d8855",
+      "kind": "landing-page",
+      "status": "failed",
+      "capturedAt": "2026-11-12T10:56:30.808Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "refero",
+        "landing-page",
+        "unknown-scroll"
+      ],
+      "record": "captures/refero/refero-webflow/page.json",
+      "guide": "docs/reference-library/pages/refero-webflow.md",
+      "checkpointCount": 0,
+      "resourceCount": 0,
+      "scrollCoverage": null,
+      "group": "refero"
     }
   ]
 }

@@ -26,6 +26,9 @@ const META = {
   captures: ['Captured landing pages', 'Lusion · recorded', 'capture'],
   transitions: ['UI micro-transitions', 'transitions.dev', 'gif:sliding-tabs'],
   lusion: ['3D case studies & labs', 'Lusion', 'capture'],
+  'google-fonts': ['Open-source font families', 'Google Fonts', 'type'],
+  threejs: ['Three.js examples', 'threejs.org', 'text'],
+  icons: ['Open icon sets', 'Lucide · Tabler', 'text'],
 };
 
 /* ── 0. nav backdrop once the page scrolls ──────────────────── */
@@ -38,7 +41,6 @@ const track = $('#hero');
 const stage = $('.stage');
 const canvas = $('.stage-canvas');
 const heroCopy = $('.hero-copy');
-const chapters = $$('.chapters li');
 const bar = $('.progress-bar');
 const label = $('[data-progress-label]');
 let shelf = null;
@@ -66,15 +68,64 @@ async function initScene() {
   }
 }
 
+/* Kinetic type. Every word gets its own scroll window: it spawns (rise + unblur + tracking in)
+ * and later dissolves (rise out + blur + tracking out), staggered by word order, so lines build
+ * and break apart in step with the WebGL scene driven by the same progress value. */
+const smooth = (t) => t * t * (3 - 2 * t);
+const win = (p, a, b) => smooth(clamp((p - a) / (b - a)));
+function splitWords(el) {
+  const words = [];
+  const walk = (n) => [...n.childNodes].forEach((c) => {
+    if (c.nodeType === 3) {
+      const frag = document.createDocumentFragment();
+      c.textContent.split(/(\s+)/).forEach((part) => {
+        if (!part) return;
+        if (/^\s+$/.test(part)) { frag.append(part); return; }
+        const w = document.createElement('span'); w.className = 'kw'; w.textContent = part; frag.append(w); words.push(w);
+      });
+      c.replaceWith(frag);
+    } else walk(c);
+  });
+  walk(el);
+  return words;
+}
+function paintWord(w, enter, exit) {
+  const v = enter * (1 - exit);
+  w.style.opacity = v.toFixed(3);
+  w.style.filter = v > 0.995 ? '' : `blur(${((1 - v) * 14).toFixed(1)}px)`;
+  w.style.transform = `translate3d(0, ${((1 - enter) * 0.55 - exit * 0.5).toFixed(3)}em, 0) scale(${(0.92 + 0.08 * enter + 0.06 * exit).toFixed(3)})`;
+  w.style.letterSpacing = `${((1 - v) * 0.12).toFixed(3)}em`;
+}
+// headline: already on screen; its words dissolve between 4% and 28% of the hero scroll
+const titleWords = splitWords($('.hero-title'));
+const extras = [...heroCopy.querySelectorAll('.eyebrow, .hero-sub, .hero-actions')];
+// scene lines: words spawn over the first part of their range and dissolve near its end
+const lines = $$('.k-line').map((line) => {
+  const [a, b] = line.dataset.range.split(' ').map(Number);
+  const words = splitWords(line.querySelector('.k-words'));
+  return { line, a, b, words, tag: line.querySelector('.k-tag'), sub: line.querySelector('.k-sub') };
+});
+
 function heroProgress(p) {
   shelf?.setProgress(p);
-  const fade = clamp((p - 0.24) / 0.1);
-  heroCopy.style.opacity = String(1 - fade);
-  heroCopy.style.transform = `translateY(${-fade * 40}px)`;
-  heroCopy.style.visibility = fade >= 1 ? 'hidden' : 'visible';
-  const active = p < 0.32 ? 0 : p < 0.68 ? 1 : 2;
-  stage.classList.toggle('show-chapters', p > 0.3);
-  chapters.forEach((li, i) => li.classList.toggle('is-active', i === active));
+  const n = titleWords.length;
+  titleWords.forEach((w, i) => { const s = 0.04 + (i / n) * 0.16; paintWord(w, 1, win(p, s, s + 0.08)); });
+  const extraFade = win(p, 0.02, 0.1);
+  extras.forEach((e) => { e.style.opacity = String(1 - extraFade); e.style.transform = `translateY(${-extraFade * 24}px)`; });
+  heroCopy.style.visibility = p > 0.3 ? 'hidden' : 'visible';
+  heroCopy.style.pointerEvents = extraFade > 0.6 ? 'none' : '';
+  for (const ln of lines) {
+    const span = ln.b - ln.a, m = ln.words.length;
+    const last = ln.b > 1;
+    ln.words.forEach((w, i) => {
+      const es = ln.a + (i / m) * span * 0.3, xs = ln.b - span * 0.25 + (i / m) * span * 0.18;
+      paintWord(w, win(p, es, es + span * 0.12), last ? 0 : win(p, xs, xs + span * 0.08));
+    });
+    const tagV = win(p, ln.a, ln.a + span * 0.1) * (last ? 1 : 1 - win(p, ln.b - span * 0.12, ln.b));
+    ln.tag.style.opacity = tagV.toFixed(3);
+    if (ln.sub) ln.sub.style.opacity = win(p, ln.a + span * 0.35, ln.a + span * 0.5).toFixed(3);
+    ln.line.style.visibility = p > ln.a - 0.02 && (last || p < ln.b + 0.02) ? 'visible' : 'hidden';
+  }
   bar.style.transform = `scaleX(${p})`;
   label.textContent = String(Math.round(p * 100)).padStart(3, '0');
 }

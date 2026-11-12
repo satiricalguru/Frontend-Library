@@ -253,6 +253,9 @@ def build_sources(entries):
     out += "| [godly.design](https://godly.design/) | Websites, sections, templates, tools, resources | Links only; designs © their owners |\n"
     out += "| [elements.envato.com/fonts/awards](https://elements.envato.com/fonts/awards) | Premium award fonts | Names + links only; fonts need an Envato licence |\n"
     out += "| [Codrops](https://tympanus.net/codrops/tag/webgl/) / [official demos](https://github.com/codrops) | WebGL article links and creative demo repository metadata | AI crawl restriction respected; licences vary by demo repository |\n"
+    out += "| [Google Fonts](https://fonts.google.com/) | Open-source font families with designers, styles and axes | Metadata only; each family keeps its own open licence |\n"
+    out += "| [three.js examples](https://threejs.org/examples/) | Official WebGL/WebGPU/WebXR examples, pinned commit | MIT; previews and demos link to threejs.org |\n"
+    out += "| [Lucide](https://lucide.dev/) · [Tabler Icons](https://tabler.io/icons) | Icon names, categories and tags at pinned npm versions | ISC / MIT; SVGs linked, not copied |\n"
     out += "| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Attributed, commit-pinned DESIGN.md analyses | Upstream MIT licence retained; website assets/brands are separate |\n"
     out += "| [Brad Traversy's design resources](https://github.com/bradtraversy/design-resources-for-developers#stock-videos) | Stock-video, media, motion and design-resource links | List MIT; check each provider and asset licence before reuse |\n"
     out += "\nCapture packages overlap the Lusion link catalog; tracked rows are not unique websites. [Source crawling policies](data/source-policies.json) distinguish public Lusion captures from Refero's existing metadata index.\n"
@@ -269,12 +272,15 @@ if __name__ == "__main__":
     entries = [build_lusion(), build_refero(), build_motion(), build_transitions(), *build_godly(), build_envato()]
     for filename, guide in [("codrops-webgl.json", "inspiration/codrops/README.md"),
                             ("design-md.json", "styles/design-md/README.md"),
-                            ("video-resources.json", "images/video-resources/README.md")]:
+                            ("video-resources.json", "images/video-resources/README.md"),
+                            ("google-fonts.json", "fonts/google-fonts/README.md"),
+                            ("threejs-examples.json", "animations/threejs-examples/README.md"),
+                            ("open-icons.json", "icons/open-icons/README.md")]:
         path = DATA / filename
         if path.exists():
             dataset = json.loads(path.read_text())
             for item in dataset["items"]:
-                track(guide, item["name"], item["url"], item["source"], item.get("collected", dataset["collected"]))
+                track(guide, item["name"], item["url"], item["source"], item.get("collected", dataset.get("collected", "")))
             entries.append((guide, len(dataset["items"]), sorted({item["source"] for item in dataset["items"]})))
     captures = DATA / "landing-pages.json"
     if captures.exists():

@@ -1,0 +1,2879 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-intercom",
+  "name": "Intercom — homepage",
+  "url": "https://www.intercom.com/",
+  "source": "https://styles.refero.design/style/12255b63-e506-4bc1-a4cd-d05487de32f3",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:48:56.559Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.intercom.com/robots.txt",
+    "checkedAt": "2026-11-12T10:48:56.559Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/assets/books"
+      },
+      {
+        "allow": false,
+        "path": "/early-stage/*"
+      },
+      {
+        "allow": false,
+        "path": "/blogtest"
+      },
+      {
+        "allow": false,
+        "path": "/beta/*"
+      },
+      {
+        "allow": false,
+        "path": "/roi/*"
+      },
+      {
+        "allow": false,
+        "path": "/legacy-drlp/*"
+      },
+      {
+        "allow": false,
+        "path": "/6sense-personalisation"
+      },
+      {
+        "allow": false,
+        "path": "/p13n-copies/*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 0,
+        "contentTop": 112,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header",
+          "hero",
+          "two-products"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 825,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 0,
+        "contentTop": 112,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header",
+          "hero",
+          "two-products"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2212,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 2290,
+        "contentTop": -2178,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header",
+          "helpdesk"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4743,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 5103,
+        "contentTop": -4991,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header",
+          "together"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6340,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 7231,
+        "contentTop": -7119,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header",
+          "integrations",
+          "pricing"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 8091,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.intercom.com/",
+        "scrollY": 8753,
+        "contentTop": -8641,
+        "pageTransform": "none",
+        "visibleIds": [
+          "shared-header"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://api-visitor-analytics.intercom.com/visitor_analytics/events",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://api-visitor-analytics.intercom.com/visitor_analytics/geo_location",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://api-visitor-analytics.intercom.com/visitor_analytics/metrics",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://api-visitor-analytics.intercom.com/visitor_analytics/pageviews",
+      "status": 201,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0--orjsco263e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/049wxu5y7ku_-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0eo-jl5p5l6w7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0jdhmnxlrx5k_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0t-9xq-7c7gj0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0zs57pdg8li34.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/0zuo6xe4899-8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/13s01_0oaw51f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/17-dzw6yii8h2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/18bu-_qx726uo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/19afosqzgc8ly.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/19fkwyhw02q36.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/1dtp2yj_si9vl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/1k9_-knqadmer.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/1nkji8typllat.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/1pg1d0e1nhhwx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/1rpmbvu3a48ia.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/25rvw_a85ljv3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/26fefstrrjnr7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/29ptp56amt_1h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2ap42vif6j40l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2gsovnqzhc07l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2nofgia-xw1q3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2qujo8f3kksy9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2ulqzvoyx6a8t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/2z1s2u4ldq3s4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/37ppeavdnkipc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3bj9635u9q0tt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3btd46bviz5z3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3fojrlw2sfvj4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3frtj1lbmp7_-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3hw8_whm83urp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3pgvd52v51r0k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3tn3acvxpcjhl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3wds6i3f9va9g.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/3wln_gy8x1c10.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/40s156xaubes_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/chunks/turbopack-2_04ewhudzrza.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/media/Saans_Regular-s.0y32wrc-1quhd.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/media/SaansMono_Regular-s.2_pi34rl7_j33.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.intercom.com/_next/static/immutable/media/Serrif_Light_subset-s.0xcw-beyjla6z.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.intercom.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.intercom.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/changes/en",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/contact-sales",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/helpdesk/copilot",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/helpdesk/inbox",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/helpdesk/outbound",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/helpdesk/tickets",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/ims-image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.intercom.com/intercom-marketing-site/favicons/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.intercom.com/legal/terms-and-policies",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/live-chat",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/riv/3bc62dc16d311cfd017c646c9220941e14227efb.riv",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/riv/5deb3f0f80c14166994123c4ac3e867a2e692b58.riv",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.intercom.com/view-demos",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 85520,
+      "sha256": "7b7c7c8e3f621b53cbcaf1baac6940b39cf81565951dd6c666750320075e46e1"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 85520,
+      "sha256": "7b7c7c8e3f621b53cbcaf1baac6940b39cf81565951dd6c666750320075e46e1"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 101425,
+      "sha256": "02c0224107c481025b3449080fbeec8b4e362e41476fd56260ad570833efacd2"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 132628,
+      "sha256": "bae7a1dad76a40bb6c999f1cdb256a98a7bf099019c415f3371f9ed860f51dff"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 72153,
+      "sha256": "1f468b22be19b0896336143052e93035890ce6bf4f2fd2f22ee4d0f9c2422558"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 75892,
+      "sha256": "8e35b63ed329787dd525a76baea8bfb8525b48150bfc2cf889b3598d740276cb"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 361955,
+      "sha256": "c931288dfe2175fcfee963ca13a5b59acb2d39cccc10eb0a6d70635677bfbd79"
+    }
+  ],
+  "initial": {
+    "url": "https://www.intercom.com/",
+    "title": "Intercom | A complete system for human and AI customer service",
+    "documentHeight": 9651,
+    "contentHeight": 9651,
+    "contentTop": 112,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "homepage-2026-schema",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 349,
+          "y": 236,
+          "width": 742,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "80px",
+          "lineHeight": "80px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 135,
+          "y": 846,
+          "width": 1171,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 135,
+          "y": 2226,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 191,
+          "y": 3130,
+          "width": 310,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 581,
+          "y": 3130,
+          "width": 310,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 971,
+          "y": 3130,
+          "width": 310,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 135,
+          "y": 3590,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 893,
+          "y": 3979,
+          "width": 388,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 893,
+          "y": 4213,
+          "width": 388,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 893,
+          "y": 4447,
+          "width": 388,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 357,
+          "y": 4753,
+          "width": 364,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Serrif, \"Serrif Fallback\", \"Hiragino Mincho ProN\", \"Yu Mincho\", \"Noto Serif JP\", ui-serif, Georgia, serif",
+          "fontSize": "40px",
+          "lineHeight": "40px",
+          "fontWeight": "300",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 135,
+          "y": 5126,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 135,
+          "y": 5889,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 530,
+          "y": 5889,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 926,
+          "y": 5889,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 135,
+          "y": 7025,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 16,
+          "y": 7564,
+          "width": 1408,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 538,
+          "y": 7754,
+          "width": 364,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://fin.ai/",
+      "https://www.intercom.com/",
+      "https://www.intercom.com/pricing",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://fin.ai/",
+      "https://www.intercom.com/helpdesk",
+      "https://fin.ai/",
+      "https://www.intercom.com/helpdesk/omnichannel",
+      "https://www.intercom.com/integrations",
+      "https://www.intercom.com/security",
+      "https://www.intercom.com/helpdesk/inbox",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/help-center",
+      "https://www.intercom.com/helpdesk/reporting",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://www.intercom.com/helpdesk/knowledge-hub",
+      "https://www.intercom.com/customers",
+      "https://www.intercom.com/solutions/technology",
+      "https://www.intercom.com/solutions/ecommerce",
+      "https://www.intercom.com/solutions/fintech",
+      "https://www.intercom.com/solutions/gaming",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/small-business",
+      "https://www.intercom.com/enterprise",
+      "https://www.intercom.com/why-choose-intercom",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/blog",
+      "https://events.intercom.com/",
+      "https://academy.fin.ai/",
+      "https://www.intercom.com/customer-transformation-report",
+      "https://fin.ai/blueprint",
+      "https://www.intercom.com/help/en/",
+      "https://www.intercom.com/changes/en",
+      "https://community.intercom.com/",
+      "https://fin.ai/about",
+      "https://fin.ai/careers",
+      "https://fin.ai/",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://fin.ai/",
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/helpdesk/inbox",
+      "https://www.intercom.com/live-chat",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/omnichannel",
+      "https://www.intercom.com/helpdesk/help-center",
+      "https://www.intercom.com/app-store",
+      "https://www.intercom.com/helpdesk/reporting",
+      "https://www.intercom.com/helpdesk/knowledge-hub",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://fin.ai/",
+      "https://fin.ai/capabilities",
+      "https://fin.ai/ai-engine",
+      "https://www.intercom.com/pricing",
+      "https://fin.ai/pricing",
+      "https://www.intercom.com/solutions/technology",
+      "https://www.intercom.com/solutions/ecommerce",
+      "https://www.intercom.com/solutions/fintech",
+      "https://www.intercom.com/solutions/gaming",
+      "https://events.intercom.com/",
+      "https://www.intercom.com/blog",
+      "https://academy.fin.ai/",
+      "https://www.youtube.com/channel/UCJG0MvLP03kyzzAkD-w98aQ",
+      "https://fin.ai/blueprint",
+      "https://www.intercom.com/learning-center",
+      "https://www.intercom.com/customer-transformation-report",
+      "https://www.intercom.com/why-choose-intercom",
+      "https://trust.intercom.com/",
+      "https://fin.ai/roi-calculator",
+      "https://www.intercom.com/customers",
+      "https://www.intercom.com/changes/en",
+      "https://www.intercom.com/help/en/",
+      "https://developers.intercom.com/",
+      "https://community.intercom.com/",
+      "https://www.finstatus.com/",
+      "https://www.intercom.com/about",
+      "https://fin.ai/careers",
+      "https://www.intercom.com/solution-partner-program",
+      "https://www.intercom.com/technology-partner-program",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup",
+      "https://www.intercom.com/contact-sales",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/",
+      "https://www.intercom.com/fr-fr",
+      "https://www.intercom.com/es-la",
+      "https://www.intercom.com/de-de",
+      "https://www.intercom.com/pt-br",
+      "https://www.intercom.com/legal/terms-and-policies",
+      "https://www.intercom.com/legal/privacy",
+      "https://trust.intercom.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff3537134afdca56c6c95cc7e598af56bbc3dfd87-600x825.webp&w=256&q=75",
+        "poster": "",
+        "width": 187,
+        "height": 257
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F33589346d03d1fe689cc38aaa4cfad8d7b849cb0-600x750.webp&w=256&q=75",
+        "poster": "",
+        "width": 201,
+        "height": 252
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe1f962d29283402d20e6202001651a7130751ec0-600x783.webp&w=256&q=75",
+        "poster": "",
+        "width": 158,
+        "height": 206
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F987d4efd962d3f6813c2c066ccdeaa74f2774231-600x398.webp&w=384&q=75",
+        "poster": "",
+        "width": 288,
+        "height": 191
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe816b66f5bea05d715c01902b842bd3f672837b-1800x936.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 621
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F059c3c0967b844a45fff7dfd28ba680d29d189d7-1480x1240.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fea5258c6b885508f00caafacfd62f040900f8561-6400x2800.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe816b66f5bea05d715c01902b842bd3f672837b-1800x936.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 621
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F74131fc60fbfa8f1acf63696645b2fcd14f81c9e-1480x1240.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Febe96eeb07f59fd9f0c885a6e468a5acddf54748-6400x2800.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/5ad3852bafffaaab74434f1265525b801611b4de-640x622.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb2fafa55a6aeb143f4d00712679ef4617705e232-1800x936.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa225a87833a2473d17d65296aed823ab15254bea-1464x1456.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F023a075a7061bc83a8e0fb38955d3242a0d3d82c-4952x2236.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe90a0ecf503cb15b5041a09054ebcdf7a9d8d5e-1800x936.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fd0e58b8d4351a28ecc58cfb6244f2c0304f2459d-1098x1098.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff90345730b8aeeb67178c7bafb0fffecd722f178-3714x1677.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fea1afc9ecd2ebfae160fff1884dc58a73919addd-2498x1300.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F4968e440035db9a1b64d46cb8ccd92c592a57442-1098x1128.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa78f1e62fff0f7e0b8288a798133c2526f336d14-3714x1677.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb2fafa55a6aeb143f4d00712679ef4617705e232-1800x936.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa225a87833a2473d17d65296aed823ab15254bea-1464x1456.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F023a075a7061bc83a8e0fb38955d3242a0d3d82c-4952x2236.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/6065644106ab643608d5c2bdb83f8a495958d3f0-640x623.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F60238bbffe9711cb3b957dadc2807d4e87b9adf6-1098x1098.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F23daa8a658d81cbda4ec00f0559fb6dba0f4853d-3044x3044.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa370395864037e00e998983a510ee1477640c573-2544x1904.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/44648da73d7cb10ff763b2f6868ed6c8cf2c2cf9-640x640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F3de1f9a102582303825899725b6e24de4f186519-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F3de1f9a102582303825899725b6e24de4f186519-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F01831fc9b275a0d6947a0d0b756fbc90ad39881a-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F01831fc9b275a0d6947a0d0b756fbc90ad39881a-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe36358115db8192727d4b8206fbdd126ac695767-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe36358115db8192727d4b8206fbdd126ac695767-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=1080&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F1e8e53fa0f4da5397450f4043f82d7b6501cf700-1467x1350.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2c4d4c23cb6427f422f41645141866fe058ba19b-2000x1501.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F6775acd906358b4ae5febbcf12407af091c08109-600x600.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F5253ae86ee17a6e951782b763cb0643603b6dc3c-600x658.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F4199bec6da45a129a6906c939a88d89177da048f-600x600.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff9a00b7510ef64e724c69a4d0165c716501b4ee9-600x858.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F6e5b20b70600bb25366e6bd67b01e3b0c1f43efe-600x554.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F8cfdda737b6cc309c239b719d503743246941cb1-600x622.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 8591,
+    "actualTravel": 8753,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.intercom.com/",
+    "title": "Intercom | A complete system for human and AI customer service",
+    "documentHeight": 9653,
+    "contentHeight": 9653,
+    "contentTop": -8641,
+    "scrollY": 8753,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "homepage-2026-schema",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 349,
+          "y": -8517,
+          "width": 742,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "80px",
+          "lineHeight": "80px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 135,
+          "y": -7907,
+          "width": 1171,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 135,
+          "y": -6527,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 191,
+          "y": -5623,
+          "width": 310,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 581,
+          "y": -5623,
+          "width": 310,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 971,
+          "y": -5623,
+          "width": 310,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 135,
+          "y": -5163,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 893,
+          "y": -4774,
+          "width": 388,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 893,
+          "y": -4540,
+          "width": 388,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 893,
+          "y": -4306,
+          "width": 388,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 357,
+          "y": -4000,
+          "width": 364,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Serrif, \"Serrif Fallback\", \"Hiragino Mincho ProN\", \"Yu Mincho\", \"Noto Serif JP\", ui-serif, Georgia, serif",
+          "fontSize": "40px",
+          "lineHeight": "40px",
+          "fontWeight": "300",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 135,
+          "y": -3627,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 135,
+          "y": -2864,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 530,
+          "y": -2864,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 926,
+          "y": -2864,
+          "width": 348,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 135,
+          "y": -1728,
+          "width": 696,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 16,
+          "y": -1189,
+          "width": 1408,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "54px",
+          "lineHeight": "54px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 538,
+          "y": -999,
+          "width": 364,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Saans, \"Saans Fallback\", \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", Meiryo, \"Noto Sans JP\", ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(17, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 700,
+        "height": 700,
+        "rect": {
+          "x": 136,
+          "y": -4797,
+          "width": 700,
+          "height": 700
+        }
+      },
+      {
+        "id": "",
+        "width": 700,
+        "height": 700,
+        "rect": {
+          "x": 1542,
+          "y": -4797,
+          "width": 700,
+          "height": 700
+        }
+      }
+    ],
+    "links": [
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://fin.ai/",
+      "https://www.intercom.com/",
+      "https://www.intercom.com/pricing",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://fin.ai/",
+      "https://www.intercom.com/helpdesk",
+      "https://fin.ai/",
+      "https://www.intercom.com/helpdesk/omnichannel",
+      "https://www.intercom.com/integrations",
+      "https://www.intercom.com/security",
+      "https://www.intercom.com/helpdesk/inbox",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/help-center",
+      "https://www.intercom.com/helpdesk/reporting",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://www.intercom.com/helpdesk/knowledge-hub",
+      "https://www.intercom.com/customers",
+      "https://www.intercom.com/solutions/technology",
+      "https://www.intercom.com/solutions/ecommerce",
+      "https://www.intercom.com/solutions/fintech",
+      "https://www.intercom.com/solutions/gaming",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/small-business",
+      "https://www.intercom.com/enterprise",
+      "https://www.intercom.com/why-choose-intercom",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/blog",
+      "https://events.intercom.com/",
+      "https://academy.fin.ai/",
+      "https://www.intercom.com/customer-transformation-report",
+      "https://fin.ai/blueprint",
+      "https://www.intercom.com/help/en/",
+      "https://www.intercom.com/changes/en",
+      "https://community.intercom.com/",
+      "https://fin.ai/about",
+      "https://fin.ai/careers",
+      "https://fin.ai/",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://fin.ai/",
+      "https://fin.ai/fin4",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/contact-sales",
+      "https://www.intercom.com/signup?solution_id=29",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/helpdesk/inbox",
+      "https://www.intercom.com/live-chat",
+      "https://www.intercom.com/helpdesk/copilot",
+      "https://www.intercom.com/helpdesk/tickets",
+      "https://www.intercom.com/helpdesk/omnichannel",
+      "https://www.intercom.com/helpdesk/help-center",
+      "https://www.intercom.com/app-store",
+      "https://www.intercom.com/helpdesk/reporting",
+      "https://www.intercom.com/helpdesk/knowledge-hub",
+      "https://www.intercom.com/helpdesk/outbound",
+      "https://fin.ai/",
+      "https://fin.ai/capabilities",
+      "https://fin.ai/ai-engine",
+      "https://www.intercom.com/pricing",
+      "https://fin.ai/pricing",
+      "https://www.intercom.com/solutions/technology",
+      "https://www.intercom.com/solutions/ecommerce",
+      "https://www.intercom.com/solutions/fintech",
+      "https://www.intercom.com/solutions/gaming",
+      "https://events.intercom.com/",
+      "https://www.intercom.com/blog",
+      "https://academy.fin.ai/",
+      "https://www.youtube.com/channel/UCJG0MvLP03kyzzAkD-w98aQ",
+      "https://fin.ai/blueprint",
+      "https://www.intercom.com/learning-center",
+      "https://www.intercom.com/customer-transformation-report",
+      "https://www.intercom.com/why-choose-intercom",
+      "https://trust.intercom.com/",
+      "https://fin.ai/roi-calculator",
+      "https://www.intercom.com/customers",
+      "https://www.intercom.com/changes/en",
+      "https://www.intercom.com/help/en/",
+      "https://developers.intercom.com/",
+      "https://community.intercom.com/",
+      "https://www.finstatus.com/",
+      "https://www.intercom.com/about",
+      "https://fin.ai/careers",
+      "https://www.intercom.com/solution-partner-program",
+      "https://www.intercom.com/technology-partner-program",
+      "https://www.intercom.com/early-stage",
+      "https://www.intercom.com/view-demos",
+      "https://www.intercom.com/signup",
+      "https://www.intercom.com/contact-sales",
+      "https://app.intercom.com/admins/sign_in",
+      "https://www.intercom.com/",
+      "https://www.intercom.com/fr-fr",
+      "https://www.intercom.com/es-la",
+      "https://www.intercom.com/de-de",
+      "https://www.intercom.com/pt-br",
+      "https://www.intercom.com/legal/terms-and-policies",
+      "https://www.intercom.com/legal/privacy",
+      "https://trust.intercom.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff3537134afdca56c6c95cc7e598af56bbc3dfd87-600x825.webp&w=256&q=75",
+        "poster": "",
+        "width": 187,
+        "height": 257
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F33589346d03d1fe689cc38aaa4cfad8d7b849cb0-600x750.webp&w=256&q=75",
+        "poster": "",
+        "width": 201,
+        "height": 252
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe1f962d29283402d20e6202001651a7130751ec0-600x783.webp&w=256&q=75",
+        "poster": "",
+        "width": 158,
+        "height": 206
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F987d4efd962d3f6813c2c066ccdeaa74f2774231-600x398.webp&w=384&q=75",
+        "poster": "",
+        "width": 288,
+        "height": 191
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe816b66f5bea05d715c01902b842bd3f672837b-1800x936.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 621
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F059c3c0967b844a45fff7dfd28ba680d29d189d7-1480x1240.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fea5258c6b885508f00caafacfd62f040900f8561-6400x2800.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe816b66f5bea05d715c01902b842bd3f672837b-1800x936.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 621
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F74131fc60fbfa8f1acf63696645b2fcd14f81c9e-1480x1240.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Febe96eeb07f59fd9f0c885a6e468a5acddf54748-6400x2800.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/5ad3852bafffaaab74434f1265525b801611b4de-640x622.webp",
+        "poster": "",
+        "width": 640,
+        "height": 622
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb2fafa55a6aeb143f4d00712679ef4617705e232-1800x936.webp&w=1920&q=75",
+        "poster": "",
+        "width": 1350,
+        "height": 702
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa225a87833a2473d17d65296aed823ab15254bea-1464x1456.webp&w=1920&q=75",
+        "poster": "",
+        "width": 1098,
+        "height": 1092
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F023a075a7061bc83a8e0fb38955d3242a0d3d82c-4952x2236.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 539
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe90a0ecf503cb15b5041a09054ebcdf7a9d8d5e-1800x936.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fd0e58b8d4351a28ecc58cfb6244f2c0304f2459d-1098x1098.webp&w=1920&q=75",
+        "poster": "",
+        "width": 823,
+        "height": 823
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff90345730b8aeeb67178c7bafb0fffecd722f178-3714x1677.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 539
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fea1afc9ecd2ebfae160fff1884dc58a73919addd-2498x1300.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F4968e440035db9a1b64d46cb8ccd92c592a57442-1098x1128.webp&w=1920&q=75",
+        "poster": "",
+        "width": 823,
+        "height": 846
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa78f1e62fff0f7e0b8288a798133c2526f336d14-3714x1677.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 539
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb2fafa55a6aeb143f4d00712679ef4617705e232-1800x936.webp&w=1920&q=75",
+        "poster": "",
+        "width": 1350,
+        "height": 702
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa225a87833a2473d17d65296aed823ab15254bea-1464x1456.webp&w=1920&q=75",
+        "poster": "",
+        "width": 1098,
+        "height": 1092
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F023a075a7061bc83a8e0fb38955d3242a0d3d82c-4952x2236.webp&w=1200&q=75",
+        "poster": "",
+        "width": 1195,
+        "height": 539
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/6065644106ab643608d5c2bdb83f8a495958d3f0-640x623.webp",
+        "poster": "",
+        "width": 640,
+        "height": 623
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F60238bbffe9711cb3b957dadc2807d4e87b9adf6-1098x1098.webp&w=1920&q=75",
+        "poster": "",
+        "width": 823,
+        "height": 823
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F23daa8a658d81cbda4ec00f0559fb6dba0f4853d-3044x3044.webp&w=750&q=75",
+        "poster": "",
+        "width": 720,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fa370395864037e00e998983a510ee1477640c573-2544x1904.webp&w=3840&q=75",
+        "poster": "",
+        "width": 1431,
+        "height": 1071
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/44648da73d7cb10ff763b2f6868ed6c8cf2c2cf9-640x640.webp",
+        "poster": "",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F3de1f9a102582303825899725b6e24de4f186519-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F3de1f9a102582303825899725b6e24de4f186519-1612x1612.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 403
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F01831fc9b275a0d6947a0d0b756fbc90ad39881a-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 379
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F01831fc9b275a0d6947a0d0b756fbc90ad39881a-1612x1612.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 403
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 379
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe36358115db8192727d4b8206fbdd126ac695767-1612x1612.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 379
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe36358115db8192727d4b8206fbdd126ac695767-1612x1612.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 403
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F71ecec6f7367b6b9555becd154668d8e62f681e2-1232x1160.webp&w=640&q=75",
+        "poster": "",
+        "width": 403,
+        "height": 379
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb74422e2810cec5a7a9629cdff2a2eaf1f432fe2-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fe4d04adb9dde26fb3b0a2632151fc1c980d9ca56-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2dcaeebc2955b38c99681a4f39bce61138bf703a-423x525.webp&w=640&q=75",
+        "poster": "",
+        "width": 423,
+        "height": 525
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F1e8e53fa0f4da5397450f4043f82d7b6501cf700-1467x1350.webp&w=640&q=75",
+        "poster": "",
+        "width": 576,
+        "height": 530
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F2c4d4c23cb6427f422f41645141866fe058ba19b-2000x1501.webp&w=1920&q=75",
+        "poster": "",
+        "width": 1440,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F6775acd906358b4ae5febbcf12407af091c08109-600x600.webp&w=256&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F5253ae86ee17a6e951782b763cb0643603b6dc3c-600x658.webp&w=128&q=75",
+        "poster": "",
+        "width": 115,
+        "height": 126
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F4199bec6da45a129a6906c939a88d89177da048f-600x600.webp&w=128&q=75",
+        "poster": "",
+        "width": 115,
+        "height": 115
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Ff9a00b7510ef64e724c69a4d0165c716501b4ee9-600x858.webp&w=128&q=75",
+        "poster": "",
+        "width": 100,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F6e5b20b70600bb25366e6bd67b01e3b0c1f43efe-600x554.webp&w=128&q=75",
+        "poster": "",
+        "width": 115,
+        "height": 106
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2F8cfdda737b6cc309c239b719d503743246941cb1-600x622.webp&w=256&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 149
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://15045323.fls.doubleclick.net/activityi;src=15045323;type=conv00;cat=monks008;rcb=14;ord=228536592395;npa=0;auiddc=439529196.1794480544;u1=https%3A%2F%2Fwww.intercom.com%2F;u2=%2F;u3=undefined;u4=;u5=25;u6=percent;u7=vertical;u8=undefined;u9=undefined;u10=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ba1v9200561601z879446940za20gzb79446940zd79446940xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170883;epver=2;dc_random=1794480544_vnk5399oFLveSoBORCZw1YA_D2alxNt9RA;_dc_test=1;~oref=https%3A%2F%2Fwww.intercom.com%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://insight.adsrvr.org/track/pxl/?adv=ba38llw&ct=0:z7rnznv&fmt=3",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://15045323.fls.doubleclick.net/activityi;src=15045323;type=conv00;cat=monks007;rcb=14;ord=4478557050091;npa=0;auiddc=439529196.1794480544;u1=https%3A%2F%2Fwww.intercom.com%2F;u2=%2F;u3=undefined;u4=;u5=50;u6=percent;u7=vertical;u8=undefined;u9=undefined;u10=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ba1v9200561601z879446940za20gzb79446940zd79446940xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938468~117776796~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170883;epver=2;dc_random=1794480546_boB2O_9Ftt3Srlf5-0LiN7ujcYVzy1peGA;_dc_test=1;~oref=https%3A%2F%2Fwww.intercom.com%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://insight.adsrvr.org/track/pxl/?adv=ba38llw&ct=0:ay9f6er&fmt=3",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 16500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 16500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 29999,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 29999,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 7500,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 8091,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

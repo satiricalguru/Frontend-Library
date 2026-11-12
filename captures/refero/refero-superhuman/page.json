@@ -1,0 +1,2693 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-superhuman",
+  "name": "Superhuman — homepage",
+  "url": "https://superhuman.com/",
+  "source": "https://styles.refero.design/style/418b374a-be64-44f0-b17e-1d45308c7e62",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:47:04.357Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://superhuman.com/robots.txt",
+    "checkedAt": "2026-11-12T10:47:04.357Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/api/initLoad?*"
+      },
+      {
+        "allow": false,
+        "path": "/*?"
+      },
+      {
+        "allow": false,
+        "path": "/*@"
+      },
+      {
+        "allow": false,
+        "path": "/tag/"
+      },
+      {
+        "allow": false,
+        "path": "/admin"
+      },
+      {
+        "allow": false,
+        "path": "/refer"
+      },
+      {
+        "allow": false,
+        "path": "/refer/"
+      },
+      {
+        "allow": false,
+        "path": "/invite/"
+      },
+      {
+        "allow": false,
+        "path": "/mail/invite/"
+      },
+      {
+        "allow": false,
+        "path": "/tagged/"
+      },
+      {
+        "allow": false,
+        "path": "/signup"
+      },
+      {
+        "allow": false,
+        "path": "/welcome"
+      },
+      {
+        "allow": false,
+        "path": "/profile"
+      },
+      {
+        "allow": false,
+        "path": "/onboarding"
+      },
+      {
+        "allow": false,
+        "path": "/mail/settings"
+      },
+      {
+        "allow": false,
+        "path": "/book/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 0,
+        "contentTop": 123,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 2795,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 0,
+        "contentTop": 123,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 5087,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 1808,
+        "contentTop": -1685,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "sectionGroup_4ScPrUqBk9O4IiWZHFOfqO",
+          "sectionSingleColumn_51SH79ZMrXDnxBI8qBNvrR",
+          "sectionTwoColumns_3ctiqOPRs1niTO4kbHFDlI"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 7089,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 4031,
+        "contentTop": -3908,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "sectionTwoColumns_5VdLTj4rUIIeWZb5fXSfMB",
+          "sectionGroup_73BiQUprFOcUjIRIiqf50m"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8410,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 5712,
+        "contentTop": -5589,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "sectionGroup_73BiQUprFOcUjIRIiqf50m",
+          "sectionSingleColumn_5a9ygwr00w4XMwwlPMEL7f",
+          "sectionTwoColumns_6cCIripjMWKdotjst7UW4F",
+          "sectionTwoColumns_5sIy1xJJCnIdbVtrY070Uj"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10128,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://superhuman.com/",
+        "scrollY": 6947,
+        "contentTop": -6824,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "sectionTwoColumns_6vwUbLx1hDEdXlEr8NpmSS"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://mail.superhuman.com/~backend/v3/metrics.write",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://superhuman.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 99854,
+      "sha256": "c8cead42423102ffaf6e67ed5038c14543673d20a84c4816a2a84d128f2fd057"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 100243,
+      "sha256": "1806f7bed0ea02ee4ef6dbc4c5e3be325a5cd73c657b297ba8299df0a03b8cd7"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 104768,
+      "sha256": "1b5cc34322a01acf9e3e235363c01082dbed963535aef7cadbce60ce92b16d71"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 111531,
+      "sha256": "cae00d4d2ce4e82157e3d2bac6fb99c7c993b6e55971f58537cc9e45df3e9b44"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 100945,
+      "sha256": "78ec9b188f9fcbb3dca4dcd41aa1480fa857f9e878c650236ae6c41957033569"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 75899,
+      "sha256": "c46acdb3131e3d7d766d522031c6916a5d93fcf64ab9266f32acca7a0ba9b133"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 349071,
+      "sha256": "ed0a632a2f71a232c9138891ed985d00860bc4690b8d072be988da2703e7b180"
+    }
+  ],
+  "initial": {
+    "url": "https://superhuman.com/",
+    "title": "Superhuman: Docs, Mail, and AI That Work Everywhere",
+    "documentHeight": 7846,
+    "contentHeight": 7846,
+    "contentTop": 123,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "19.2px",
+      "fontWeight": "360",
+      "color": "rgb(41, 40, 39)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "sectionSingleColumn_38u7mvRfaQjY5pAVOp9CNQ",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1110,
+          "width": 1440,
+          "height": 338
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionGroup_4ScPrUqBk9O4IiWZHFOfqO",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 1448,
+          "width": 1440,
+          "height": 1634
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionSingleColumn_5I73yc9zVtMEJaR6vjwGey",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3082,
+          "width": 1440,
+          "height": 466
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(232, 224, 255)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_5VdLTj4rUIIeWZb5fXSfMB",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3548,
+          "width": 1440,
+          "height": 1284
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionGroup_73BiQUprFOcUjIRIiqf50m",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 4833,
+          "width": 1440,
+          "height": 1308
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_5sIy1xJJCnIdbVtrY070Uj",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 6141,
+          "width": 1440,
+          "height": 602
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(40, 22, 71)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_6vwUbLx1hDEdXlEr8NpmSS",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 6743,
+          "width": 1440,
+          "height": 251
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(40, 22, 71)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 270,
+          "y": 171,
+          "width": 900,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "61.44px",
+          "fontWeight": "440",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 434,
+          "y": 318,
+          "width": 571,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "33.8px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 284,
+          "y": 1593,
+          "width": 872,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 64,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 533,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 1003,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 64,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 533,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 1003,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 64,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 533,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 1003,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 51,
+        "rect": {
+          "x": 64,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 533,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 1003,
+          "y": 2838,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 64,
+          "y": 2838,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 533,
+          "y": 2838,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 1003,
+          "y": 2838,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 134,
+        "rect": {
+          "x": 270,
+          "y": 3178,
+          "width": 900,
+          "height": 140
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "39px",
+          "lineHeight": "46.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 270,
+          "y": 3693,
+          "width": 900,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 102,
+        "rect": {
+          "x": 64,
+          "y": 4645,
+          "width": 720,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 79,
+        "rect": {
+          "x": 880,
+          "y": 4198,
+          "width": 496,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 111,
+        "rect": {
+          "x": 880,
+          "y": 4615,
+          "width": 496,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 270,
+          "y": 4978,
+          "width": 900,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1440,
+        "height": 954,
+        "rect": {
+          "x": 32,
+          "y": 155,
+          "width": 1376,
+          "height": 912
+        }
+      }
+    ],
+    "links": [
+      "https://superhuman.com/",
+      "https://superhuman.com/products/testimonials",
+      "https://www.superhuman.com/contact-sales",
+      "https://superhuman.com/",
+      "https://superhuman.com/go",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/mail",
+      "https://superhuman.com/mail/calendar",
+      "https://superhuman.com/docs",
+      "https://superhuman.com/databases",
+      "https://superhuman.com/store",
+      "https://superhuman.com/enterprise",
+      "https://superhuman.com/edu",
+      "https://superhuman.com/teams/marketing",
+      "https://superhuman.com/teams/sales",
+      "https://superhuman.com/teams/it",
+      "https://superhuman.com/teams/epd",
+      "https://superhuman.com/go/use-cases/ai-work-assistant",
+      "https://superhuman.com/go/use-cases/ai-study-assistant",
+      "https://superhuman.com/docs/use-cases/project-management",
+      "https://superhuman.com/docs/use-cases/knowledge-hubs",
+      "https://superhuman.com/docs/use-cases/collaborative-docs",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/agents/grammarly",
+      "https://superhuman.com/agents/email-assistant",
+      "https://superhuman.com/store/agents",
+      "https://superhuman.com/store/connectors",
+      "https://superhuman.com/mail/features/email-mcp",
+      "https://superhuman.com/docs/features/docs-mcp",
+      "https://superhuman.com/products/whats-new",
+      "https://superhuman.com/customer-stories",
+      "https://help.superhuman.com/",
+      "https://blog.superhuman.com/",
+      "https://superhuman.com/business/resources",
+      "https://superhuman.com/legal/trust",
+      "https://superhuman.com/partners",
+      "https://superhuman.com/plans/go",
+      "https://superhuman.com/plans/mail",
+      "https://superhuman.com/plans/docs",
+      "https://superhuman.com/plans",
+      "https://superhuman.com/products/testimonials",
+      "https://www.superhuman.com/contact-sales",
+      "https://go.superhuman.com/",
+      "https://superhuman.com/mail/admin",
+      "https://docs.superhuman.com/",
+      "https://superhuman.com/products/mail",
+      "https://superhuman.com/auth/signin",
+      "https://go.superhuman.com/",
+      "https://superhuman.com/go",
+      "https://superhuman.com/customer-stories",
+      "https://superhuman.com/mail/signup",
+      "https://superhuman.com/mail",
+      "https://docs.superhuman.com/docs",
+      "https://superhuman.com/docs",
+      "https://www.superhuman.com/contact-sales",
+      "https://superhuman.com/enterprise",
+      "https://superhuman.com/auth/signup?screen_hint=signup",
+      "https://superhuman.com/go",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/mail",
+      "https://superhuman.com/mail/calendar",
+      "https://superhuman.com/docs",
+      "https://superhuman.com/databases",
+      "https://superhuman.com/store",
+      "https://superhuman.com/contact",
+      "https://superhuman.com/company/about",
+      "https://superhuman.com/stand-with-ukraine",
+      "https://superhuman.com/company/values",
+      "https://superhuman.com/company/careers",
+      "https://blog.superhuman.com/",
+      "https://academy.superhuman.com/",
+      "https://help.superhuman.com/",
+      "https://superhuman.com/status",
+      "https://superhuman.com/partners",
+      "https://superhuman.com/community",
+      "https://superhuman.com/superhuman-platform",
+      "https://gptzero.me/",
+      "https://www.grammarly.com/",
+      "https://superhuman.com/legal/terms",
+      "https://superhuman.com/legal/privacy-policy",
+      "https://superhuman.com/legal/trust",
+      "https://superhuman.com/legal/terms/customer-business-agreement",
+      "https://superhuman.com/legal/notices",
+      "https://www.linkedin.com/company/superhumanhq",
+      "https://x.com/Superhuman",
+      "https://www.tiktok.com/@superhumanhq?lang=en",
+      "https://www.instagram.com/superhuman__hq/?hl=en",
+      "https://www.threads.com/@superhuman__hq",
+      "https://www.facebook.com/SuperhumanCo"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.mp4",
+        "poster": "",
+        "width": 3320,
+        "height": 2488
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/5638budzR16gFR9CjmQwf6/4254a1638f76a23f30e1119022e76671/person-1.webp?w=720&fm=avif",
+        "poster": "",
+        "width": 720,
+        "height": 581
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3o9KBsy0FTz56L8uOCq2bX/0cb5b2c112fae46c0b9fc03f65e426e9/open_ai__1_.svg",
+        "poster": "",
+        "width": 229,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/799zeTC1GdyqsVV6KwWtyk/145b2a86547662c31577568d920e85ec/logo-alpha-figma__2__1__1_.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/7mYcQRcz1ERBZHhqAWh5UW/3207cc803101343242abba97a0eda156/cursor.svg",
+        "poster": "",
+        "width": 228,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3HjkThxbyzqoRYMyxmlP65/8cfe5ff4ce2d0d209c923cfd5107cf84/retool.svg",
+        "poster": "",
+        "width": 230,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6x1pzWgPoEKybdMtROyg0f/56980897f7c7b3c3eb6e5f4d58fb6d72/logo-alpha-zapier.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2ZxgVaxzuoYgHqd5MI6St4/0c9ff269758909c323a8b170d747a6be/logo-alpha-doordash.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4skOJd1NDnS2L9Pz2x944f/e4cac35103c8e636f89d8adf66cf071f/Logo-Go.svg",
+        "poster": "",
+        "width": 195,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/11sX23AwujdMh1r7DhwRjG/a4aaed695be871cd91ebc8df4a4ab16c/card-go-inline-suggestions-bento-21x9-dark-2x__1_.png?w=864&fm=avif",
+        "poster": "",
+        "width": 864,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6aiTMVQ29xy9GSd58Oaa3w/63fca2bb913e1621d0010f2001ab640c/image.png?w=648",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3CxpTAuLGiNYzLqPPWBbh0/3f2a2750d37dbe4638900ef14f2ee9e9/image_copy.png?w=648",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1E178XBIWyQF03b3jHZaeG/fb356c53ca64f22f158c5e0313c0869f/Property_1_Default.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/79HFNXGPIHuZLUERHTLcij/dfc249c7e5a8c1c7c5cfeca83ae64010/Property_1_Variant2.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GgK2fgoWp7T5xo3cQzkVV/3320832b26b524e8fc5d2f28931960ea/Property_1_Variant3.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3JgdmoUvRcrL2bX44fxVT4/4d75358154358d683c68a5f179a4f582/Added_to_cal___purple_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2GTh86rmJtyrmxarVE9EId/ac11265d21310c95abf2d0ba729ba56b/Sparkle___green_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/GIjyw3PU88WC96ElBnAl5/86b090d830f41fe9c4dd2f60e92014a4/Sparkle___orange_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/5tRkcXlFo9ukOEUw8pRNmC/3e28a38ae1673ba0267fdfcb39d0f910/Heart___orange_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1u1DC3mD8otTmBY95whLz9/f16185d064fe7c297a1f89328fe9f197/Check_in_circle___purple_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6YHQ6HjztyW4TTd3gyCmAo/a3b71faaa1cb43542e1e293fac2dec53/Sparkle_contained___purple_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/15RZztRJbxQfwV0HtVW5nT/a3280686534d0f0f0bcb014090235daf/Tag___Purple.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/PPriKZ5KMGNv2XaJmzpeV/5e4bbd2b0f475345876de0eaf90be4f4/Folder___green_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1eZg1bEW4qPNRu5VrPgnxP/9ec3442a2803b0571f0ccf301fad54a4/Note___purple_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2VrlRhiKg9fCY9UcyesAGo/81b7acf9a15720152de1d1a0d5a2b72a/Lightning___green_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6y8KWB6c074hgTmI3fPisR/f64c6ece63de60ca5cfc66e87828835a/Share___purple.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/60XOqHEdeTqKKleMxb8UIm/14976b0c740128e468dad1969aef2095/Agents___orange_gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3GJk0mOIJUzjbK5jVm4RTE/13a34f2c9308b3b880921be8ace121fa/superhuman_mail.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2PXYytTbdTTsofvaucz0cB/4dd134c6c6ddf458580dce8133da07e4/Image.png?w=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3EJO2qAArsJ5PC7ktfmNHp/8b3c8db8ded73bf80043416672f49adb/Content_card.png?w=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1W0YxvZ2IvwfLxLIUxjJAW/aeb08940a92ea84f49fe615131179d5e/Image_16_9.png?w=1080",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3rlwg568H9HX3JOWW8rPWN/1aad9ba306c37f8e53ab32325a2017d9/Logo-Docs.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4p5IDJ7HSxvvUEXBCDooPe/1925032308506fd52cab1b9676ff8261/Frame_2147264536_copy.png?w=903",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/40IpWObcE1Igyx76Bnb22Y/3d6a10ad0af0a5725c3824f1d9b8a946/Frame_2147264537.png?w=539",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/a6eLypK7mJ8FTWYFo46ni/0384ba0840e5dcc6adfe71d1781ca2c8/Frame_2147264538.png?w=539",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6AFHoiAsAN7f8aNg9Uit6U/c263ec0c82cca099d47782861737b059/module-go-enterprise-16x9-dark-2x.png?w=878",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4iN95vb4UqWxz2OpGRR091/dabe0e748b66e1b0fc7cf0f256299b34/bg-module-cta-tonal12.gif?w=850",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.pdscrb.com/tag?action=view&user_id=d8656980-7862-4277-ac8d-6a5f81a2dc01&advertiser=superhuman&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fsuperhuman.com%2F&device_id=pscrb_5174719d-0d5a-4c16-97bb-c1a36c50cbb5&first_visited_at=1794480428401&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fsuperhuman.com%2F&event_url=https%3A%2F%2Fsuperhuman.com%2F&source=js-tag+v1.2.3&cachebust=1794480429450",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6786,
+    "actualTravel": 6947,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://superhuman.com/",
+    "title": "Superhuman: Docs, Mail, and AI That Work Everywhere",
+    "documentHeight": 7847,
+    "contentHeight": 7847,
+    "contentTop": -6824,
+    "scrollY": 6947,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "19.2px",
+      "fontWeight": "360",
+      "color": "rgb(41, 40, 39)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "sectionSingleColumn_38u7mvRfaQjY5pAVOp9CNQ",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5837,
+          "width": 1440,
+          "height": 338
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionGroup_4ScPrUqBk9O4IiWZHFOfqO",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -5499,
+          "width": 1440,
+          "height": 1634
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionSingleColumn_5I73yc9zVtMEJaR6vjwGey",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -3865,
+          "width": 1440,
+          "height": 466
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(232, 224, 255)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_5VdLTj4rUIIeWZb5fXSfMB",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -3399,
+          "width": 1440,
+          "height": 1285
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionGroup_73BiQUprFOcUjIRIiqf50m",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -2114,
+          "width": 1440,
+          "height": 1308
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgb(247, 245, 242)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_5sIy1xJJCnIdbVtrY070Uj",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -806,
+          "width": 1440,
+          "height": 602
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(40, 22, 71)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "sectionTwoColumns_6vwUbLx1hDEdXlEr8NpmSS",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -204,
+          "width": 1440,
+          "height": 251
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "19.2px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(40, 22, 71)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 270,
+          "y": -6776,
+          "width": 900,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "61.44px",
+          "fontWeight": "440",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 434,
+          "y": -6629,
+          "width": 571,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "33.8px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 284,
+          "y": -5354,
+          "width": 872,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 64,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 533,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 1003,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 64,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 533,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 1003,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 64,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 533,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 1003,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 51,
+        "rect": {
+          "x": 64,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 533,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 43,
+        "rect": {
+          "x": 1003,
+          "y": -4109,
+          "width": 373,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 64,
+          "y": -4109,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 533,
+          "y": -4109,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 1003,
+          "y": -4109,
+          "width": 373,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 134,
+        "rect": {
+          "x": 270,
+          "y": -3769,
+          "width": 900,
+          "height": 140
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "39px",
+          "lineHeight": "46.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 270,
+          "y": -3254,
+          "width": 900,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 102,
+        "rect": {
+          "x": 64,
+          "y": -2302,
+          "width": 720,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 79,
+        "rect": {
+          "x": 880,
+          "y": -2749,
+          "width": 496,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 111,
+        "rect": {
+          "x": 880,
+          "y": -2332,
+          "width": 496,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "25px",
+          "lineHeight": "30px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 47,
+        "rect": {
+          "x": 270,
+          "y": -1969,
+          "width": 900,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "\"Super Sans VF\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "49px",
+          "lineHeight": "58.8px",
+          "fontWeight": "360",
+          "color": "rgb(41, 40, 39)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1440,
+        "height": 954,
+        "rect": {
+          "x": 32,
+          "y": -6792,
+          "width": 1376,
+          "height": 912
+        }
+      }
+    ],
+    "links": [
+      "https://superhuman.com/",
+      "https://superhuman.com/products/testimonials",
+      "https://www.superhuman.com/contact-sales",
+      "https://superhuman.com/",
+      "https://superhuman.com/go",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/mail",
+      "https://superhuman.com/mail/calendar",
+      "https://superhuman.com/docs",
+      "https://superhuman.com/databases",
+      "https://superhuman.com/store",
+      "https://superhuman.com/enterprise",
+      "https://superhuman.com/edu",
+      "https://superhuman.com/teams/marketing",
+      "https://superhuman.com/teams/sales",
+      "https://superhuman.com/teams/it",
+      "https://superhuman.com/teams/epd",
+      "https://superhuman.com/go/use-cases/ai-work-assistant",
+      "https://superhuman.com/go/use-cases/ai-study-assistant",
+      "https://superhuman.com/docs/use-cases/project-management",
+      "https://superhuman.com/docs/use-cases/knowledge-hubs",
+      "https://superhuman.com/docs/use-cases/collaborative-docs",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/agents/grammarly",
+      "https://superhuman.com/agents/email-assistant",
+      "https://superhuman.com/store/agents",
+      "https://superhuman.com/store/connectors",
+      "https://superhuman.com/mail/features/email-mcp",
+      "https://superhuman.com/docs/features/docs-mcp",
+      "https://superhuman.com/products/whats-new",
+      "https://superhuman.com/customer-stories",
+      "https://help.superhuman.com/",
+      "https://blog.superhuman.com/",
+      "https://superhuman.com/business/resources",
+      "https://superhuman.com/legal/trust",
+      "https://superhuman.com/partners",
+      "https://superhuman.com/plans/go",
+      "https://superhuman.com/plans/mail",
+      "https://superhuman.com/plans/docs",
+      "https://superhuman.com/plans",
+      "https://superhuman.com/products/testimonials",
+      "https://www.superhuman.com/contact-sales",
+      "https://go.superhuman.com/",
+      "https://superhuman.com/mail/admin",
+      "https://docs.superhuman.com/",
+      "https://superhuman.com/products/mail",
+      "https://superhuman.com/auth/signin",
+      "https://go.superhuman.com/",
+      "https://superhuman.com/go",
+      "https://superhuman.com/customer-stories",
+      "https://superhuman.com/mail/signup",
+      "https://superhuman.com/mail",
+      "https://docs.superhuman.com/docs",
+      "https://superhuman.com/docs",
+      "https://www.superhuman.com/contact-sales",
+      "https://superhuman.com/enterprise",
+      "https://superhuman.com/auth/signup?screen_hint=signup",
+      "https://superhuman.com/go",
+      "https://superhuman.com/agents",
+      "https://superhuman.com/mail",
+      "https://superhuman.com/mail/calendar",
+      "https://superhuman.com/docs",
+      "https://superhuman.com/databases",
+      "https://superhuman.com/store",
+      "https://superhuman.com/contact",
+      "https://superhuman.com/company/about",
+      "https://superhuman.com/stand-with-ukraine",
+      "https://superhuman.com/company/values",
+      "https://superhuman.com/company/careers",
+      "https://blog.superhuman.com/",
+      "https://academy.superhuman.com/",
+      "https://help.superhuman.com/",
+      "https://superhuman.com/status",
+      "https://superhuman.com/partners",
+      "https://superhuman.com/community",
+      "https://superhuman.com/superhuman-platform",
+      "https://gptzero.me/",
+      "https://www.grammarly.com/",
+      "https://superhuman.com/legal/terms",
+      "https://superhuman.com/legal/privacy-policy",
+      "https://superhuman.com/legal/trust",
+      "https://superhuman.com/legal/terms/customer-business-agreement",
+      "https://superhuman.com/legal/notices",
+      "https://www.linkedin.com/company/superhumanhq",
+      "https://x.com/Superhuman",
+      "https://www.tiktok.com/@superhumanhq?lang=en",
+      "https://www.instagram.com/superhuman__hq/?hl=en",
+      "https://www.threads.com/@superhuman__hq",
+      "https://www.facebook.com/SuperhumanCo"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.mp4",
+        "poster": "",
+        "width": 3320,
+        "height": 2488
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://superhumanstatic.com/super-funnel/main/public/videos/v1/shared/hero-background.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/5638budzR16gFR9CjmQwf6/4254a1638f76a23f30e1119022e76671/person-1.webp?w=720&fm=avif",
+        "poster": "",
+        "width": 720,
+        "height": 581
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3o9KBsy0FTz56L8uOCq2bX/0cb5b2c112fae46c0b9fc03f65e426e9/open_ai__1_.svg",
+        "poster": "",
+        "width": 229,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/799zeTC1GdyqsVV6KwWtyk/145b2a86547662c31577568d920e85ec/logo-alpha-figma__2__1__1_.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/7mYcQRcz1ERBZHhqAWh5UW/3207cc803101343242abba97a0eda156/cursor.svg",
+        "poster": "",
+        "width": 228,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3HjkThxbyzqoRYMyxmlP65/8cfe5ff4ce2d0d209c923cfd5107cf84/retool.svg",
+        "poster": "",
+        "width": 230,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6x1pzWgPoEKybdMtROyg0f/56980897f7c7b3c3eb6e5f4d58fb6d72/logo-alpha-zapier.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2ZxgVaxzuoYgHqd5MI6St4/0c9ff269758909c323a8b170d747a6be/logo-alpha-doordash.svg",
+        "poster": "",
+        "width": 213,
+        "height": 80
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4skOJd1NDnS2L9Pz2x944f/e4cac35103c8e636f89d8adf66cf071f/Logo-Go.svg",
+        "poster": "",
+        "width": 195,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/11sX23AwujdMh1r7DhwRjG/a4aaed695be871cd91ebc8df4a4ab16c/card-go-inline-suggestions-bento-21x9-dark-2x__1_.png?w=864&fm=avif",
+        "poster": "",
+        "width": 864,
+        "height": 370
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6aiTMVQ29xy9GSd58Oaa3w/63fca2bb913e1621d0010f2001ab640c/image.png?w=539&fm=avif",
+        "poster": "",
+        "width": 539,
+        "height": 449
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3CxpTAuLGiNYzLqPPWBbh0/3f2a2750d37dbe4638900ef14f2ee9e9/image_copy.png?w=539&fm=avif",
+        "poster": "",
+        "width": 539,
+        "height": 449
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1E178XBIWyQF03b3jHZaeG/fb356c53ca64f22f158c5e0313c0869f/Property_1_Default.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/79HFNXGPIHuZLUERHTLcij/dfc249c7e5a8c1c7c5cfeca83ae64010/Property_1_Variant2.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GgK2fgoWp7T5xo3cQzkVV/3320832b26b524e8fc5d2f28931960ea/Property_1_Variant3.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3JgdmoUvRcrL2bX44fxVT4/4d75358154358d683c68a5f179a4f582/Added_to_cal___purple_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2GTh86rmJtyrmxarVE9EId/ac11265d21310c95abf2d0ba729ba56b/Sparkle___green_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/GIjyw3PU88WC96ElBnAl5/86b090d830f41fe9c4dd2f60e92014a4/Sparkle___orange_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/5tRkcXlFo9ukOEUw8pRNmC/3e28a38ae1673ba0267fdfcb39d0f910/Heart___orange_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1u1DC3mD8otTmBY95whLz9/f16185d064fe7c297a1f89328fe9f197/Check_in_circle___purple_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6YHQ6HjztyW4TTd3gyCmAo/a3b71faaa1cb43542e1e293fac2dec53/Sparkle_contained___purple_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/15RZztRJbxQfwV0HtVW5nT/a3280686534d0f0f0bcb014090235daf/Tag___Purple.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/PPriKZ5KMGNv2XaJmzpeV/5e4bbd2b0f475345876de0eaf90be4f4/Folder___green_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1eZg1bEW4qPNRu5VrPgnxP/9ec3442a2803b0571f0ccf301fad54a4/Note___purple_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2VrlRhiKg9fCY9UcyesAGo/81b7acf9a15720152de1d1a0d5a2b72a/Lightning___green_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6y8KWB6c074hgTmI3fPisR/f64c6ece63de60ca5cfc66e87828835a/Share___purple.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4GDiVG0B99EHlhwxUpG5Q/481ea3adbfa0658f3b0e6742ee39271f/Tonal_background.svg",
+        "poster": "",
+        "width": 435,
+        "height": 281
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/60XOqHEdeTqKKleMxb8UIm/14976b0c740128e468dad1969aef2095/Agents___orange_gradient.svg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3GJk0mOIJUzjbK5jVm4RTE/13a34f2c9308b3b880921be8ace121fa/superhuman_mail.svg",
+        "poster": "",
+        "width": 208,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/2PXYytTbdTTsofvaucz0cB/4dd134c6c6ddf458580dce8133da07e4/Image.png?w=840&fm=avif",
+        "poster": "",
+        "width": 840,
+        "height": 561
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3EJO2qAArsJ5PC7ktfmNHp/8b3c8db8ded73bf80043416672f49adb/Content_card.png?w=600&fm=avif",
+        "poster": "",
+        "width": 600,
+        "height": 266
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/1W0YxvZ2IvwfLxLIUxjJAW/aeb08940a92ea84f49fe615131179d5e/Image_16_9.png?w=600&fm=avif",
+        "poster": "",
+        "width": 600,
+        "height": 270
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/3rlwg568H9HX3JOWW8rPWN/1aad9ba306c37f8e53ab32325a2017d9/Logo-Docs.svg",
+        "poster": "",
+        "width": 211,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4p5IDJ7HSxvvUEXBCDooPe/1925032308506fd52cab1b9676ff8261/Frame_2147264536_copy.png?w=864&fm=avif",
+        "poster": "",
+        "width": 864,
+        "height": 377
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/40IpWObcE1Igyx76Bnb22Y/3d6a10ad0af0a5725c3824f1d9b8a946/Frame_2147264537.png?w=539&fm=avif",
+        "poster": "",
+        "width": 539,
+        "height": 378
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/a6eLypK7mJ8FTWYFo46ni/0384ba0840e5dcc6adfe71d1781ca2c8/Frame_2147264538.png?w=539&fm=avif",
+        "poster": "",
+        "width": 539,
+        "height": 455
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/6AFHoiAsAN7f8aNg9Uit6U/c263ec0c82cca099d47782861737b059/module-go-enterprise-16x9-dark-2x.png?w=840&fm=avif",
+        "poster": "",
+        "width": 840,
+        "height": 473
+      },
+      {
+        "tag": "IMG",
+        "url": "https://superhumanstatic.com/vwfkeyj6n9ac/4iN95vb4UqWxz2OpGRR091/dabe0e748b66e1b0fc7cf0f256299b34/bg-module-cta-tonal12.gif?w=850&fm=avif",
+        "poster": "",
+        "width": 1440,
+        "height": 958
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.pdscrb.com/tag?action=view&user_id=d8656980-7862-4277-ac8d-6a5f81a2dc01&advertiser=superhuman&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fsuperhuman.com%2F&device_id=pscrb_5174719d-0d5a-4c16-97bb-c1a36c50cbb5&first_visited_at=1794480428401&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Fsuperhuman.com%2F&event_url=https%3A%2F%2Fsuperhuman.com%2F&source=js-tag+v1.2.3&cachebust=1794480429450",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10128,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

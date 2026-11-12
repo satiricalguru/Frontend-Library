@@ -1,0 +1,2910 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-awwwards",
+  "name": "Awwwards — homepage",
+  "url": "https://www.awwwards.com/",
+  "source": "https://styles.refero.design/style/a77a7289-3438-46ba-8194-214739e47514",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:55:17.578Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.awwwards.com/robots.txt",
+    "checkedAt": "2026-11-12T10:55:17.577Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/feed"
+      },
+      {
+        "allow": false,
+        "path": "/vote/"
+      },
+      {
+        "allow": false,
+        "path": "/tag/"
+      },
+      {
+        "allow": false,
+        "path": "/11d12designs/"
+      },
+      {
+        "allow": false,
+        "path": "/publicclass/"
+      },
+      {
+        "allow": false,
+        "path": "/design-products/"
+      },
+      {
+        "allow": false,
+        "path": "/submission/"
+      },
+      {
+        "allow": false,
+        "path": "/app.php/"
+      },
+      {
+        "allow": false,
+        "path": "/gallery/"
+      },
+      {
+        "allow": false,
+        "path": "/search-websites"
+      },
+      {
+        "allow": false,
+        "path": "/events/tag/"
+      },
+      {
+        "allow": false,
+        "path": "*favourites?page"
+      },
+      {
+        "allow": false,
+        "path": "/preview/"
+      },
+      {
+        "allow": false,
+        "path": "/search-articles"
+      },
+      {
+        "allow": false,
+        "path": "/inspiration/search"
+      },
+      {
+        "allow": false,
+        "path": "/websites/?"
+      },
+      {
+        "allow": false,
+        "path": "/directory/search/?"
+      },
+      {
+        "allow": false,
+        "path": "/*/likes$"
+      },
+      {
+        "allow": false,
+        "path": "/*/awards$"
+      },
+      {
+        "allow": false,
+        "path": "/*/follow$"
+      },
+      {
+        "allow": false,
+        "path": "/*/votes$"
+      },
+      {
+        "allow": false,
+        "path": "/*/favorites$"
+      },
+      {
+        "allow": false,
+        "path": "/elements/*"
+      },
+      {
+        "allow": false,
+        "path": "/inspiration_search/?"
+      },
+      {
+        "allow": false,
+        "path": "/*/mobile-excellence-report"
+      },
+      {
+        "allow": false,
+        "path": "/academy/new/courses/*"
+      },
+      {
+        "allow": false,
+        "path": "/profile/user-project/show-project/*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "sotd"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 982,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "sotd"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3189,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 3069,
+        "contentTop": -3069,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "winners"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5569,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 6844,
+        "contentTop": -6844,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "collections",
+          "directory"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7452,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 9698,
+        "contentTop": -9698,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "blog",
+          "market"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 11504,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.awwwards.com/",
+        "scrollY": 11591,
+        "contentTop": -11591,
+        "pageTransform": "none",
+        "visibleIds": [
+          "content",
+          "recomendations",
+          "footer"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://assets.awwwards.com/assets/fonts/inter-tight/InterTight-VariableFont_wght.ttf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://assets.awwwards.com/assets/images/favicon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    },
+    {
+      "url": "https://assets.awwwards.com/assets/redesign/images/lottie/laurel-wreath.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://assets.awwwards.com/assets/redesign/images/lottie/thinking-face.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://assets.awwwards.com/assets/redesign/images/pages/home/member.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/assets/redesign/images/pages/home/submit.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/external/2018/03/5ab5ae47b60fd.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/images/2020/09/parallax-scrolling-thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/images/2021/05/gradients-trends-thumb-2.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/images/2024/04/pastel.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/images/2025/07/free-fonts-2025.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/images/2025/07/shopifyvswoocommerce.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6aedc7663f055999393670.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6af213049e4e3703514229.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6af4126069046064615820.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/674d91f79cf25496129366.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/67bf066b62dd7624361533.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/67fd1f105b711140307572.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/08/6a85aef725236326579664.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aa120efaba15027332213.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aa7fcc33a28e094057489.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aad95a1585a1398750089.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6ab46da86e036198149047.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6ab4a45ed1eae579756505.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/10/6ad88dcb17e5d924005958.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/10/6ad9d61a88793895583115.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1105577/6714a0f2a4b24277585131.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1339888/64257612a76ab282488713.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2047767/68683f9ff2094152044241.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/214176/54b5857184727.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2274052/65e426a4bba1f427579583.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/237203/60231c64ede15878488619.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2424286/6a3bef2e01f56429748525.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2471098/67becff99c0c2992192334.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/250950/538c4ed159b91.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2639122/6ae5104903c0e879610311.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2721486/69b1316a2e8b5382090457.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/321/6154547516d1c940446659.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/425843/69249963cce79922519951.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/44785/54d1f29b63e0d.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/495220/58fa228413418.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user1.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user4.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/1146610/60c6708b1aef5530497173.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user1.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user4.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/awards/submissions/2026/09/6ab695ee12e89641139763.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/2378.c565cc8a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/2440.0fa3c533.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/3495.b5702178.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/5880.7efd7b75.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/7199.20df3d42.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/home_homepage.43c15d61.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://assets.awwwards.com/dist/js/runtime.bf71a965.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.awwwards.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.awwwards.com/assets/redesign/images/sprite-icons.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 72308,
+      "sha256": "286ade99101302f5525b9b6d5a4215fea3cbbc5aafbc921dea465dbab70835a9"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 72308,
+      "sha256": "286ade99101302f5525b9b6d5a4215fea3cbbc5aafbc921dea465dbab70835a9"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 73649,
+      "sha256": "3229471a831ec0c10ea702f797ad8ef8164ece77ea33700f732fdc086cd25e8b"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 52761,
+      "sha256": "1ecdc8357b97924f59e8253ab3b70cb29ab7cedecd0b61003efcde9092f1c046"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 50007,
+      "sha256": "6bbe230461b196abc82a2371ec908e8834e72c5155f87515e556421ec2622435"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 58363,
+      "sha256": "c97685cb3e1b2c6fb6ffd946d81ee8221ccb611c14acafca4bfe52422ffab94d"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 298146,
+      "sha256": "5eadab1434ccb6b6eebbd459b714733f0650a4309f8d5fe26b8def63cbaaa6ce"
+    }
+  ],
+  "initial": {
+    "url": "https://www.awwwards.com/",
+    "title": "Awwwards - Website Awards - Best Web Design Trends",
+    "documentHeight": 12580,
+    "contentHeight": 12580,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Tight\"",
+      "fontSize": "14px",
+      "lineHeight": "28px",
+      "fontWeight": "300",
+      "color": "rgb(34, 34, 34)",
+      "backgroundColor": "rgb(248, 248, 248)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 109,
+        "rect": {
+          "x": 52,
+          "y": 105,
+          "width": 1336,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 170,
+          "y": 158,
+          "width": 1100,
+          "height": 127
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "126.732px",
+          "lineHeight": "126.732px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 52,
+          "y": 1609,
+          "width": 1336,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 403,
+          "y": 1661,
+          "width": 634,
+          "height": 127
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "126.732px",
+          "lineHeight": "126.732px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 85,
+          "y": 2370,
+          "width": 214,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 52,
+          "y": 2452,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 763,
+          "y": 2370,
+          "width": 152,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 730,
+          "y": 2452,
+          "width": 155,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 52,
+          "y": 2782,
+          "width": 1336,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 52,
+          "y": 2824,
+          "width": 1336,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "41.8873px",
+          "lineHeight": "50.2648px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 85,
+          "y": 3434,
+          "width": 163,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 52,
+          "y": 3516,
+          "width": 167,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 763,
+          "y": 3434,
+          "width": 241,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 730,
+          "y": 3516,
+          "width": 246,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 85,
+          "y": 4013,
+          "width": 160,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 52,
+          "y": 4095,
+          "width": 165,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 763,
+          "y": 4013,
+          "width": 104,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 730,
+          "y": 4095,
+          "width": 107,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 85,
+          "y": 4593,
+          "width": 146,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 52,
+          "y": 4675,
+          "width": 150,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 763,
+          "y": 4593,
+          "width": 56,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 730,
+          "y": 4675,
+          "width": 34,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/websites/sites_of_the_month/",
+      "https://www.awwwards.com/websites/sites_of_the_year/",
+      "https://www.awwwards.com/honors/winners",
+      "https://www.awwwards.com/winner-list/",
+      "https://www.awwwards.com/jury/2026/",
+      "https://www.awwwards.com/annual-awards/",
+      "https://www.awwwards.com/websites/portfolio/",
+      "https://www.awwwards.com/awwwards/collections/free-fonts/",
+      "https://www.awwwards.com/websites/animation/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/scrolling/",
+      "https://www.awwwards.com/websites/single-page/",
+      "https://www.awwwards.com/websites/ui-design/",
+      "https://www.awwwards.com/websites/e-commerce/",
+      "https://www.awwwards.com/websites/architecture/",
+      "https://www.awwwards.com/websites/photography/",
+      "https://www.awwwards.com/websites/e-commerce/",
+      "https://www.awwwards.com/websites/architecture/",
+      "https://www.awwwards.com/websites/hotel-restaurant/",
+      "https://www.awwwards.com/websites/design-agencies/",
+      "https://www.awwwards.com/websites/business-corporate/",
+      "https://www.awwwards.com/websites/fashion/",
+      "https://www.awwwards.com/websites/mobile-apps/",
+      "https://www.awwwards.com/websites/interaction-design/",
+      "https://www.awwwards.com/websites/illustration/",
+      "https://www.awwwards.com/websites/header-design/",
+      "https://www.awwwards.com/awwwards/collections/css-js-animations/",
+      "https://www.awwwards.com/websites/wordpress/",
+      "https://www.awwwards.com/websites/shopify/",
+      "https://www.awwwards.com/websites/webgl/",
+      "https://www.awwwards.com/websites/react/",
+      "https://www.awwwards.com/websites/3d/",
+      "https://www.awwwards.com/websites/figma/",
+      "https://www.awwwards.com/websites/gsap-animation/",
+      "https://www.awwwards.com/websites/framer-motion/",
+      "https://www.awwwards.com/websites/webflow/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/directory/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jobs/",
+      "https://www.awwwards.com/market/",
+      "https://www.facebook.com/awwwards",
+      "https://www.instagram.com/awwwards",
+      "https://twitter.com/awwwards",
+      "https://www.instagram.com/awwwards",
+      "https://www.youtube.com/awwwardstv",
+      "https://www.tiktok.com/@awwwards.com",
+      "https://www.awwwards.com/pro",
+      "https://www.awwwards.com/submit/",
+      "https://www.awwwards.com/sites/auge-experience",
+      "https://www.awwwards.com/auge-xp/",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://midnightvideo.cuchillo.rocks/",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://www.awwwards.com/Cuchillo/",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://no.merci-michel.com/",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://www.awwwards.com/Merci-Michel/",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://cinetic-creatives.com/",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://www.awwwards.com/BONHOMME/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/sites/cyera-ai-guardian",
+      "https://secure-the-unknown.cyera.com/",
+      "https://www.awwwards.com/sites/cyera-ai-guardian",
+      "https://www.awwwards.com/active_theory/",
+      "https://www.awwwards.com/sites/creative-reference-library",
+      "https://crl-2026.webflow.io/",
+      "https://www.awwwards.com/sites/creative-reference-library",
+      "https://www.awwwards.com/bamoj/",
+      "https://www.awwwards.com/sites/zirka-interceptor",
+      "https://www.zrk.technology/",
+      "https://www.awwwards.com/sites/zirka-interceptor",
+      "https://www.awwwards.com/qream-design/",
+      "https://www.awwwards.com/sites/extrafazant",
+      "https://www.extrafazant.nl/",
+      "https://www.awwwards.com/sites/extrafazant",
+      "https://www.awwwards.com/dylanbrouwer/",
+      "https://www.awwwards.com/sites/justin-jefferson",
+      "https://jjettas.com/",
+      "https://www.awwwards.com/sites/justin-jefferson",
+      "https://www.awwwards.com/cameron-duncalfe/",
+      "https://www.awwwards.com/sites/viv",
+      "https://vivmgmt.com/",
+      "https://www.awwwards.com/sites/viv",
+      "https://www.awwwards.com/sam-dallyn/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jessica/collections/gradient-gradients/",
+      "https://www.awwwards.com/jessica/collections/gradient-gradients/",
+      "https://www.awwwards.com/Mixallo/collections/pastel-colors/",
+      "https://www.awwwards.com/Mixallo/collections/pastel-colors/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/fetadvexodode/",
+      "https://www.awwwards.com/fetadvexodode/",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/charlesbaker/",
+      "https://www.awwwards.com/charlesbaker/",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/Refokus/",
+      "https://www.awwwards.com/Refokus/",
+      "https://www.refokus.com/",
+      "https://www.awwwards.com/creative-apes-design-india/",
+      "https://www.awwwards.com/creative-apes-design-india/",
+      "https://www.awwwards.com/Lumina-Design/",
+      "https://www.awwwards.com/Lumina-Design/",
+      "https://www.awwwards.com/sitebychinmay/",
+      "https://www.awwwards.com/sitebychinmay/",
+      "https://www.awwwards.com/TheFinchDesign/",
+      "https://www.awwwards.com/TheFinchDesign/",
+      "https://www.awwwards.com/directory/",
+      "https://www.awwwards.com/shopify-vs-woocommerce.html",
+      "https://www.awwwards.com/shopify-vs-woocommerce.html",
+      "https://www.awwwards.com/best-free-fonts.html",
+      "https://www.awwwards.com/best-free-fonts.html",
+      "https://www.awwwards.com/gradients-in-web-design-elements.html",
+      "https://www.awwwards.com/gradients-in-web-design-elements.html",
+      "https://www.awwwards.com/30-great-websites-with-parallax-scrolling.html",
+      "https://www.awwwards.com/30-great-websites-with-parallax-scrolling.html",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/submit/",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/plans/user-plans",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/websites/sites_of_the_month/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/elements/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/directory/homepage/",
+      "https://www.awwwards.com/directory/international/",
+      "https://www.awwwards.com/directory/freelance/",
+      "https://www.awwwards.com/directory/agency-studio/",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/jobs/",
+      "https://www.awwwards.com/jury/",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/honors/nominees",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/#nominees",
+      "https://www.awwwards.com/#courses",
+      "https://www.awwwards.com/#collections",
+      "https://www.awwwards.com/#directory",
+      "https://www.awwwards.com/#market",
+      "https://auge-xp.com/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/collections/search/",
+      "https://www.awwwards.com/elements/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jobs/search/",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/directory/search/",
+      "https://conference.awwwards.com/",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/about-us/",
+      "https://www.awwwards.com/contact-us/",
+      "https://www.awwwards.com/cookies-policy/",
+      "https://www.awwwards.com/#",
+      "https://www.awwwards.com/terms/",
+      "https://www.awwwards.com/privacy-policy/",
+      "https://www.instagram.com/awwwards",
+      "https://www.linkedin.com/company/awwwards",
+      "https://twitter.com/awwwards",
+      "https://www.facebook.com/awwwards",
+      "https://www.youtube.com/awwwardstv",
+      "https://www.tiktok.com/@awwwards.com",
+      "https://www.pinterest.es/awwwards/",
+      "https://www.awwwards.com/cookies-policy/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2721486/69b1316a2e8b5382090457.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/submissions/2026/09/6ab695ee12e89641139763.jpg",
+        "poster": "",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/495220/58fa228413418.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/250950/538c4ed159b91.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/214176/54b5857184727.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/237203/60231c64ede15878488619.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1105577/6714a0f2a4b24277585131.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1339888/64257612a76ab282488713.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/425843/69249963cce79922519951.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2639122/6ae5104903c0e879610311.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/44785/54d1f29b63e0d.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12' %3E%3C/svg%3E",
+        "poster": "",
+        "width": 200,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user1.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12' %3E%3C/svg%3E",
+        "poster": "",
+        "width": 200,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/321/6154547516d1c940446659.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user4.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user4.jpg",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user1.jpg",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/1146610/60c6708b1aef5530497173.png",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2274052/65e426a4bba1f427579583.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2471098/67becff99c0c2992192334.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2424286/6a3bef2e01f56429748525.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2047767/68683f9ff2094152044241.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2025/07/shopifyvswoocommerce.jpg",
+        "poster": "",
+        "width": 810,
+        "height": 540
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2025/07/free-fonts-2025.jpg",
+        "poster": "",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2021/05/gradients-trends-thumb-2.jpg",
+        "poster": "",
+        "width": 918,
+        "height": 656
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2020/09/parallax-scrolling-thumb.jpg",
+        "poster": "",
+        "width": 918,
+        "height": 656
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12' %3E%3C/svg%3E",
+        "poster": "",
+        "width": 200,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12' %3E%3C/svg%3E",
+        "poster": "",
+        "width": 200,
+        "height": 150
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdYct0kAAAAAHlky5jhQhrvSRt_4vOJkzbVs2Oa&co=aHR0cHM6Ly93d3cuYXd3d2FyZHMuY29tOjQ0Mw..&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=w56cenr6juxe",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 11520,
+    "actualTravel": 11591,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.awwwards.com/",
+    "title": "Awwwards - Website Awards - Best Web Design Trends",
+    "documentHeight": 12491,
+    "contentHeight": 12491,
+    "contentTop": -11591,
+    "scrollY": 11591,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Tight\"",
+      "fontSize": "14px",
+      "lineHeight": "28px",
+      "fontWeight": "300",
+      "color": "rgb(34, 34, 34)",
+      "backgroundColor": "rgb(248, 248, 248)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 109,
+        "rect": {
+          "x": 52,
+          "y": -11486,
+          "width": 1336,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 170,
+          "y": -11433,
+          "width": 1100,
+          "height": 127
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "126.732px",
+          "lineHeight": "126.732px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 52,
+          "y": -9982,
+          "width": 1336,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 403,
+          "y": -9930,
+          "width": 634,
+          "height": 127
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "126.732px",
+          "lineHeight": "126.732px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 85,
+          "y": -9221,
+          "width": 214,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 52,
+          "y": -9139,
+          "width": 220,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 763,
+          "y": -9221,
+          "width": 152,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 730,
+          "y": -9139,
+          "width": 155,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 52,
+          "y": -8809,
+          "width": 1336,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "14px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 52,
+          "y": -8767,
+          "width": 1336,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "41.8873px",
+          "lineHeight": "50.2648px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 85,
+          "y": -8157,
+          "width": 163,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 52,
+          "y": -8075,
+          "width": 167,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 763,
+          "y": -8157,
+          "width": 241,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 730,
+          "y": -8075,
+          "width": 246,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 85,
+          "y": -7578,
+          "width": 160,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 52,
+          "y": -7496,
+          "width": 165,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 763,
+          "y": -7578,
+          "width": 104,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 730,
+          "y": -7496,
+          "width": 107,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 85,
+          "y": -6998,
+          "width": 146,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 52,
+          "y": -6916,
+          "width": 150,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 763,
+          "y": -6998,
+          "width": 56,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "24.7775px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 3,
+        "rect": {
+          "x": 730,
+          "y": -6916,
+          "width": 34,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Tight\"",
+          "fontSize": "20.6479px",
+          "lineHeight": "28px",
+          "fontWeight": "600",
+          "color": "rgb(34, 34, 34)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/websites/sites_of_the_month/",
+      "https://www.awwwards.com/websites/sites_of_the_year/",
+      "https://www.awwwards.com/honors/winners",
+      "https://www.awwwards.com/winner-list/",
+      "https://www.awwwards.com/jury/2026/",
+      "https://www.awwwards.com/annual-awards/",
+      "https://www.awwwards.com/websites/portfolio/",
+      "https://www.awwwards.com/awwwards/collections/free-fonts/",
+      "https://www.awwwards.com/websites/animation/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/scrolling/",
+      "https://www.awwwards.com/websites/single-page/",
+      "https://www.awwwards.com/websites/ui-design/",
+      "https://www.awwwards.com/websites/e-commerce/",
+      "https://www.awwwards.com/websites/architecture/",
+      "https://www.awwwards.com/websites/photography/",
+      "https://www.awwwards.com/websites/e-commerce/",
+      "https://www.awwwards.com/websites/architecture/",
+      "https://www.awwwards.com/websites/hotel-restaurant/",
+      "https://www.awwwards.com/websites/design-agencies/",
+      "https://www.awwwards.com/websites/business-corporate/",
+      "https://www.awwwards.com/websites/fashion/",
+      "https://www.awwwards.com/websites/mobile-apps/",
+      "https://www.awwwards.com/websites/interaction-design/",
+      "https://www.awwwards.com/websites/illustration/",
+      "https://www.awwwards.com/websites/header-design/",
+      "https://www.awwwards.com/awwwards/collections/css-js-animations/",
+      "https://www.awwwards.com/websites/wordpress/",
+      "https://www.awwwards.com/websites/shopify/",
+      "https://www.awwwards.com/websites/webgl/",
+      "https://www.awwwards.com/websites/react/",
+      "https://www.awwwards.com/websites/3d/",
+      "https://www.awwwards.com/websites/figma/",
+      "https://www.awwwards.com/websites/gsap-animation/",
+      "https://www.awwwards.com/websites/framer-motion/",
+      "https://www.awwwards.com/websites/webflow/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/directory/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jobs/",
+      "https://www.awwwards.com/market/",
+      "https://www.facebook.com/awwwards",
+      "https://www.instagram.com/awwwards",
+      "https://twitter.com/awwwards",
+      "https://www.instagram.com/awwwards",
+      "https://www.youtube.com/awwwardstv",
+      "https://www.tiktok.com/@awwwards.com",
+      "https://www.awwwards.com/pro",
+      "https://www.awwwards.com/submit/",
+      "https://www.awwwards.com/sites/auge-experience",
+      "https://www.awwwards.com/auge-xp/",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://midnightvideo.cuchillo.rocks/",
+      "https://www.awwwards.com/sites/cuchillo-midnight-video",
+      "https://www.awwwards.com/Cuchillo/",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://no.merci-michel.com/",
+      "https://www.awwwards.com/sites/no-mercy-michel",
+      "https://www.awwwards.com/Merci-Michel/",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://cinetic-creatives.com/",
+      "https://www.awwwards.com/sites/cinetic-creatives",
+      "https://www.awwwards.com/BONHOMME/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/sites/cyera-ai-guardian",
+      "https://secure-the-unknown.cyera.com/",
+      "https://www.awwwards.com/sites/cyera-ai-guardian",
+      "https://www.awwwards.com/active_theory/",
+      "https://www.awwwards.com/sites/creative-reference-library",
+      "https://crl-2026.webflow.io/",
+      "https://www.awwwards.com/sites/creative-reference-library",
+      "https://www.awwwards.com/bamoj/",
+      "https://www.awwwards.com/sites/zirka-interceptor",
+      "https://www.zrk.technology/",
+      "https://www.awwwards.com/sites/zirka-interceptor",
+      "https://www.awwwards.com/qream-design/",
+      "https://www.awwwards.com/sites/extrafazant",
+      "https://www.extrafazant.nl/",
+      "https://www.awwwards.com/sites/extrafazant",
+      "https://www.awwwards.com/dylanbrouwer/",
+      "https://www.awwwards.com/sites/justin-jefferson",
+      "https://jjettas.com/",
+      "https://www.awwwards.com/sites/justin-jefferson",
+      "https://www.awwwards.com/cameron-duncalfe/",
+      "https://www.awwwards.com/sites/viv",
+      "https://vivmgmt.com/",
+      "https://www.awwwards.com/sites/viv",
+      "https://www.awwwards.com/sam-dallyn/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/ui-design-for-beginners-with-figma",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/nordic-design-intensive-course-complete-branding",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/innovative-web-design-in-figma-a-step-by-step-process",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/course/learn-figma-from-a-to-z",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jessica/collections/gradient-gradients/",
+      "https://www.awwwards.com/jessica/collections/gradient-gradients/",
+      "https://www.awwwards.com/Mixallo/collections/pastel-colors/",
+      "https://www.awwwards.com/Mixallo/collections/pastel-colors/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/fetadvexodode/",
+      "https://www.awwwards.com/fetadvexodode/",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/charlesbaker/",
+      "https://www.awwwards.com/charlesbaker/",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/Refokus/",
+      "https://www.awwwards.com/Refokus/",
+      "https://www.refokus.com/",
+      "https://www.awwwards.com/creative-apes-design-india/",
+      "https://www.awwwards.com/creative-apes-design-india/",
+      "https://www.awwwards.com/Lumina-Design/",
+      "https://www.awwwards.com/Lumina-Design/",
+      "https://www.awwwards.com/sitebychinmay/",
+      "https://www.awwwards.com/sitebychinmay/",
+      "https://www.awwwards.com/TheFinchDesign/",
+      "https://www.awwwards.com/TheFinchDesign/",
+      "https://www.awwwards.com/directory/",
+      "https://www.awwwards.com/shopify-vs-woocommerce.html",
+      "https://www.awwwards.com/shopify-vs-woocommerce.html",
+      "https://www.awwwards.com/best-free-fonts.html",
+      "https://www.awwwards.com/best-free-fonts.html",
+      "https://www.awwwards.com/gradients-in-web-design-elements.html",
+      "https://www.awwwards.com/gradients-in-web-design-elements.html",
+      "https://www.awwwards.com/30-great-websites-with-parallax-scrolling.html",
+      "https://www.awwwards.com/30-great-websites-with-parallax-scrolling.html",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af40f958c11d844714034",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6af210f8ed16e302097730",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6aedc4a92b1b0530238063",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/product_6ade022371392764356910",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/submit/",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/plans/user-plans",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/websites/nominees/",
+      "https://www.awwwards.com/websites/sites_of_the_day/",
+      "https://www.awwwards.com/websites/sites_of_the_month/",
+      "https://www.awwwards.com/collections/",
+      "https://www.awwwards.com/elements/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/directory/homepage/",
+      "https://www.awwwards.com/directory/international/",
+      "https://www.awwwards.com/directory/freelance/",
+      "https://www.awwwards.com/directory/agency-studio/",
+      "https://www.awwwards.com/blog/",
+      "https://www.awwwards.com/jobs/",
+      "https://www.awwwards.com/jury/",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/honors/nominees",
+      "https://www.awwwards.com/",
+      "https://www.awwwards.com/#nominees",
+      "https://www.awwwards.com/#courses",
+      "https://www.awwwards.com/#collections",
+      "https://www.awwwards.com/#directory",
+      "https://www.awwwards.com/#market",
+      "https://auge-xp.com/",
+      "https://www.awwwards.com/websites/",
+      "https://www.awwwards.com/collections/search/",
+      "https://www.awwwards.com/elements/",
+      "https://www.awwwards.com/academy/",
+      "https://www.awwwards.com/jobs/search/",
+      "https://www.awwwards.com/market/",
+      "https://www.awwwards.com/directory/search/",
+      "https://conference.awwwards.com/",
+      "https://www.awwwards.com/faqs/",
+      "https://www.awwwards.com/about-us/",
+      "https://www.awwwards.com/contact-us/",
+      "https://www.awwwards.com/cookies-policy/",
+      "https://www.awwwards.com/#",
+      "https://www.awwwards.com/terms/",
+      "https://www.awwwards.com/privacy-policy/",
+      "https://www.instagram.com/awwwards",
+      "https://www.linkedin.com/company/awwwards",
+      "https://twitter.com/awwwards",
+      "https://www.facebook.com/awwwards",
+      "https://www.youtube.com/awwwardstv",
+      "https://www.tiktok.com/@awwwards.com",
+      "https://www.pinterest.es/awwwards/",
+      "https://www.awwwards.com/cookies-policy/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2721486/69b1316a2e8b5382090457.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/submissions/2026/09/6ab695ee12e89641139763.jpg",
+        "poster": "",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/10/6ad88dcb17e5d924005958.png",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/495220/58fa228413418.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/10/6ad9d61a88793895583115.jpg",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/250950/538c4ed159b91.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/214176/54b5857184727.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6ab46da86e036198149047.png",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/237203/60231c64ede15878488619.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6ab4a45ed1eae579756505.png",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1105577/6714a0f2a4b24277585131.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aa120efaba15027332213.jpg",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1339888/64257612a76ab282488713.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aa7fcc33a28e094057489.jpg",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/425843/69249963cce79922519951.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/09/6aad95a1585a1398750089.jpg",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2639122/6ae5104903c0e879610311.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2026/08/6a85aef725236326579664.jpg",
+        "poster": "",
+        "width": 880,
+        "height": 660
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/44785/54d1f29b63e0d.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/67fd1f105b711140307572.jpg",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/67bf066b62dd7624361533.jpg",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/course/674d91f79cf25496129366.webp",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/external/2018/03/5ab5ae47b60fd.jpg",
+        "poster": "",
+        "width": 918,
+        "height": 656
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user1.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2024/04/pastel.jpg",
+        "poster": "",
+        "width": 1836,
+        "height": 1312
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/321/6154547516d1c940446659.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user4.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user4.jpg",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/default/user1.jpg",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/1146610/60c6708b1aef5530497173.png",
+        "poster": "",
+        "width": 140,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2274052/65e426a4bba1f427579583.jpg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2471098/67becff99c0c2992192334.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2424286/6a3bef2e01f56429748525.jpeg",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2047767/68683f9ff2094152044241.png",
+        "poster": "",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2025/07/shopifyvswoocommerce.jpg",
+        "poster": "",
+        "width": 810,
+        "height": 540
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2025/07/free-fonts-2025.jpg",
+        "poster": "",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2021/05/gradients-trends-thumb-2.jpg",
+        "poster": "",
+        "width": 918,
+        "height": 656
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/images/2020/09/parallax-scrolling-thumb.jpg",
+        "poster": "",
+        "width": 918,
+        "height": 656
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6af4126069046064615820.png",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6af213049e4e3703514229.jpg",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/awards/media/cache/academy_thumb/asset/2026/11/6aedc7663f055999393670.jpg",
+        "poster": "",
+        "width": 439,
+        "height": 263
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII=",
+        "poster": "",
+        "width": 16,
+        "height": 12
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/assets/redesign/images/pages/home/submit.jpg?v=2",
+        "poster": "",
+        "width": 898,
+        "height": 595
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.awwwards.com/assets/redesign/images/pages/home/member.jpg?v=2",
+        "poster": "",
+        "width": 898,
+        "height": 595
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdYct0kAAAAAHlky5jhQhrvSRt_4vOJkzbVs2Oa&co=aHR0cHM6Ly93d3cuYXd3d2FyZHMuY29tOjQ0Mw..&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=w56cenr6juxe",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 11504,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

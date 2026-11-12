@@ -1,0 +1,4815 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-raycast",
+  "name": "Raycast — homepage",
+  "url": "https://www.raycast.com/",
+  "source": "https://styles.refero.design/style/3b6a17f0-3bdf-418c-a95e-0b89e5a8b2f8",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:45:32.382Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.raycast.com/robots.txt",
+    "checkedAt": "2026-11-12T10:45:32.382Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/upgrade"
+      },
+      {
+        "allow": false,
+        "path": "/settings/sessions"
+      },
+      {
+        "allow": false,
+        "path": "/handles/new"
+      },
+      {
+        "allow": false,
+        "path": "/users/confirmation"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 10254,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 14741,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 3982,
+        "contentTop": -3982,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 16715,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 8878,
+        "contentTop": -8878,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 18494,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 12580,
+        "contentTop": -12580,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 20626,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.raycast.com/",
+        "scrollY": 15104,
+        "contentTop": -15104,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://misc-assets.raycast.com/releases/0d8906a14e956d31d9975df906654f6913fdc078d9efa164a7e31349997e3901.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://misc-assets.raycast.com/releases/113d3edb0f2ab8ad7e0e8d14bb3a079fa7006263c74f876537d82dd048c01e4a.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://misc-assets.raycast.com/releases/75d9b7d748ea24f600413fd5f872ffd48ae1aec18c9f3550b48379af6b9c1c20.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://misc-assets.raycast.com/releases/7ca3ded82c6f5c36d87dffbdf713b40731fb092af06857bee2e1ae24a6304864.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.raycast.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0-qc35x__bjj-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0326t_wdecql0.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/082fr_vie6s4d.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/09hoewholbu37.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0bw1z28pre927.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0g9me6ox1p3e7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0hi1-dgzxbbc9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0htk3djlkiijj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0o-9t_s7w6-t8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0rjm8otq_93wn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0s2ao98ajk9m6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0sx3jqtpfr760.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0sytkhcddxxy8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0tg0vlpzjck6o.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0viz8i7td0mgm.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0w-zcro936gd1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/0z_4-1awkukn3.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1_t0pgbhm2f0b.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1-wkbpbfqzujs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/13oi-z5jqnix9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1b26487y1-pls.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1d7om6ewyjx3k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1hd3fbfxrjvra.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1hou9tc4froor.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1iydl_o_tlx9c.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1kwvn7z5txa8c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1kz0ro13z5-6d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1m3luzlhgmem4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1nf3-pin6l544.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1q3ho0q6j8-dh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1rzc2rnmfzu9q.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1tb_ejsszs279.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1vk049xhs19wq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1w8l5mtz1na20.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1y85nokpl3jp9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1ye0rwkz2_15e.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1yoe4-recs5gq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/1zv2l95hbxr7h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2-_fld0__jjkt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/20_7thrx681d6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/206voq71swo_y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/21-6q_8-a1ssj.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/225vflwkid2hj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/240o8mfregnpe.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/253j_kir0wfam.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/29y-63n5757v-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2arhj164u1qss.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2ih9y5b36t7sh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2jbxsyqj3u141.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2lz2b-lyex9o5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2ooa-mwf6yjm7.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2p2msflg1sykk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2q38gze4h8urd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2wb-3-t0bj5jm.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2wpmt94kh8vub.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/2yfjy3n5qt-el.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3_ntm541davlq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3-2h39ojwmguo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/327rhipracuv3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/32ukw8v6vinyt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/341gx3o7fbkix.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/36myukbtn2orr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/39divz567d6ak.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3aypw-ogam2_b.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3azireu4huwng.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3duimb2c61gwt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3i2uxsiax7qf4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3nw5ur-ctxndl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3opgutjxrrc2s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3qvud_5w6e0s3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3t8s_xxirgyzz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3to_4ehmxdka0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3v363d0z3sxbt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3w8uhz8uigsvx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3z5u1z3cndgrb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/3zes08_xx_9jd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/40pxy-iuzzjrk.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/41oq_se-c6a7s.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/43rxm-e0so33v.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/4571gnc3co4xl.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/chunks/turbopack-2_04ewhudzrza.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/0c8c4ded07fff55c-s.p.0bh8ttrlmx6iv.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/1bffadaabf893a1e-s.0szrwpqb9mkwe.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-figma.2k_1c83299c9w.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-github.1wn1e6-5844w1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-granola.3hnpqga1fvkr8.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/app-vscode.0sc7r-qd4ry79.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/command-ai-quickai.1di0xfzyyg3mk.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/command-general-dark.3m1fa9a930vjj.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/e41d5df559864f9e-s.p.2rlzm4mj5kw8e.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/extension-file-search.2n506wjhj8e0r.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/extension-notes.418hcralurlrq.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/extension-snippets.26-0tqi2gatd7.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/GeistMono_Variable.p.2u63thiw2vdry.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/JetBrainsMono_Variable-s.p.3vxh1q15renkm.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-blue.3vvrokydhvozm.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-green.1wlse_p1r8hec.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-red.3ujnxnzs2yons.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-white.2vhc6nbwo4uaf.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-yellow.0c1abqe71sr36.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.raycast.com/_r/array/phc_ufAVDrqtNrZvSEYSBqc69o8tgvwLoA2ulCHDe0NFvLg/config.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/_vercel/insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/08f6dc5eab646201/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.raycast.com/ambassadors",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/aup",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/browser-extension",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/careers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/changelog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/community-stories",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/ai",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/calendar",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/clipboard-history",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/emoji-picker",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/focus",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/notes",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/core-features/window-management",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/customers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/developers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/dpa",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/enterprise",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/faq",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/favicon-production.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.raycast.com/feedback",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/frontend_api/session",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/gebeto/translate",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/ios",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/keyboard",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/linear/linear",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/mattisssa/spotify-player",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/new",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/press",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/privacy",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/pro",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/raycast-vs-alfred",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/store",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/store/category/time-management",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/store/category/transcript",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/store/category/translation",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/store/category/work-from-home",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/teams",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/terms-of-service",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/the-browser-company/arc",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/users/sign_in",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/wallpapers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/why",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.raycast.com/windows",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 67406,
+      "sha256": "0452a8c1613bebebe27d7014c37e2e6ce0135734bc9f2512046ceffef04c9139"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 75654,
+      "sha256": "edb3b98d071859ebc3b3dd3810fc107db11e3242efa40b8cff097d50446b47a8"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 38471,
+      "sha256": "427e0a18793989fc5467ba9e53816149e168642dcbdc4bd18a7daade5a4aae82"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 56647,
+      "sha256": "466d91da249513711292023a44615e94c37de0140d49ec32d02a43a8d4021cf5"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 36724,
+      "sha256": "77fa326e5dd8d69408702a85c4b1bfe80049f3768acb5096b1426d7bb14d7b01"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 59546,
+      "sha256": "a87387aa2558ec389b43301259bd74c41be1959f12af104f269200c873204a6b"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 317838,
+      "sha256": "977e179cb43955e7b40fa982a44dd02cc28de9406186ddea5c41e15b8bad90da"
+    }
+  ],
+  "initial": {
+    "url": "https://www.raycast.com/",
+    "title": "Raycast - Your shortcut to everything",
+    "documentHeight": 16004,
+    "contentHeight": 16004,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "ec5Qua_variable _3XfLhG_variable iaM1Ya_variable",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(7, 8, 10)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "root",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 16004
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "profitwell-js",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 450,
+          "y": 370,
+          "width": 540,
+          "height": 141
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "70.4px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 545,
+          "y": 1415,
+          "width": 350,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 142,
+          "y": 2848,
+          "width": 272,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 118,
+          "y": 3510,
+          "width": 432,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 7237,
+          "y": 4107,
+          "width": 267,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 494,
+          "y": 4817,
+          "width": 453,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 234,
+          "y": 5420,
+          "width": 450,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 234,
+          "y": 5963,
+          "width": 447,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 759,
+          "y": 5963,
+          "width": 447,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 520,
+          "y": 6536,
+          "width": 400,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 527,
+          "y": 7636,
+          "width": 387,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 143,
+          "y": 7791,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 143,
+          "y": 8223,
+          "width": 130,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 765,
+          "y": 8223,
+          "width": 216,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 881,
+          "y": 8904,
+          "width": 278,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "27.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 881,
+          "y": 9010,
+          "width": 278,
+          "height": 18
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "22.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 477,
+          "y": 9543,
+          "width": 486,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 336,
+          "y": 9696,
+          "width": 227,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 805,
+          "y": 9696,
+          "width": 211,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 211,
+          "y": 10782,
+          "width": 307,
+          "height": 197
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "65.52px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 923,
+          "y": 11620,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 567,
+          "y": 11976,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 211,
+          "y": 12455,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 923,
+          "y": 12912,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 2400,
+        "height": 1934,
+        "rect": {
+          "x": 120,
+          "y": 0,
+          "width": 1200,
+          "height": 967
+        }
+      }
+    ],
+    "links": [
+      "https://www.raycast.com/",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/pro",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/ios",
+      "https://www.raycast.com/windows",
+      "https://www.raycast.com/teams",
+      "https://www.raycast.com/enterprise",
+      "https://www.raycast.com/blog",
+      "https://www.raycast.com/pricing",
+      "https://www.raycast.com/users/sign_in",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/users/sign_in",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/keyboard",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/#productivity",
+      "https://www.raycast.com/#engineering",
+      "https://www.raycast.com/#design",
+      "https://www.raycast.com/#writing",
+      "https://www.raycast.com/linear/linear",
+      "https://www.raycast.com/gebeto/translate",
+      "https://www.raycast.com/mattisssa/spotify-player",
+      "https://www.raycast.com/the-browser-company/arc",
+      "https://www.raycast.com/kawamataryo/tinypng",
+      "https://www.raycast.com/khasbilegt/1password",
+      "https://www.raycast.com/raycast/jira",
+      "https://www.raycast.com/mommertf/slack",
+      "https://www.raycast.com/raycast/zoom",
+      "https://www.raycast.com/ThatNerd/timers",
+      "https://www.raycast.com/asubbotin/pomodoro",
+      "https://www.raycast.com/notion/notion",
+      "https://www.raycast.com/doist/todoist",
+      "https://www.raycast.com/mblode/google-search",
+      "https://www.raycast.com/marcjulian/obsidian",
+      "https://www.raycast.com/Codely/google-chrome",
+      "https://www.raycast.com/Aayush9029/cleanshotx",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/core-features/notes",
+      "https://www.raycast.com/community",
+      "https://twitter.com/raycast",
+      "https://www.youtube.com/watch?v=NZwqx_dS-k0",
+      "https://www.youtube.com/watch?v=W9FPWzorLyI",
+      "https://www.youtube.com/watch?v=6knS3y39f7k",
+      "https://www.youtube.com/watch?v=A4bewhG4724",
+      "https://www.youtube.com/watch?v=yR2hnn7Ghko",
+      "https://www.youtube.com/watch?v=NuIpZoQwuVY",
+      "https://www.youtube.com/watch?v=qobDloop1bg",
+      "https://www.youtube.com/watch?v=HDQIvbLCF7Y",
+      "https://www.youtube.com/watch?v=_DxukQdW1yg",
+      "https://www.youtube.com/watch?v=m5MDv9qwhU8",
+      "https://www.youtube.com/watch?v=4Hi21ZpdrOc",
+      "https://www.youtube.com/watch?v=_P1b00n12PU",
+      "https://www.youtube.com/watch?v=RFwumqHLc8Y",
+      "https://www.youtube.com/watch?v=OHuLnaY7Nxs",
+      "https://www.youtube.com/watch?v=Xc262WTsZoU",
+      "https://www.youtube.com/watch?v=UUPStiOLKlU",
+      "https://www.youtube.com/watch?v=9KvmDCy23g0",
+      "https://www.youtube.com/watch?v=oy8jtxl7c2I",
+      "https://www.youtube.com/@raycastapp",
+      "https://developers.raycast.com/",
+      "https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast",
+      "https://developers.raycast.com/api-reference/user-interface/list",
+      "https://developers.raycast.com/information/tools/cli",
+      "https://developers.raycast.com/basics/prepare-an-extension-for-store",
+      "https://developers.raycast.com/basics/getting-started",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/pro",
+      "https://www.raycast.com/teams",
+      "https://www.raycast.com/pricing",
+      "https://www.raycast.com/changelog",
+      "https://www.raycast.com/browser-extension",
+      "https://www.raycast.com/developers",
+      "https://www.raycast.com/ios",
+      "https://www.raycast.com/windows",
+      "https://www.raycast.com/new",
+      "https://developers.raycast.com/",
+      "https://www.raycast.com/manual",
+      "https://www.raycast.com/troubleshooting",
+      "https://www.raycast.com/raycast-vs-alfred",
+      "https://www.raycast.com/faq",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/core-features/notes",
+      "https://www.raycast.com/core-features/focus",
+      "https://www.raycast.com/core-features/clipboard-history",
+      "https://www.raycast.com/core-features/window-management",
+      "https://www.raycast.com/core-features/snippets",
+      "https://www.raycast.com/core-features/file-search",
+      "https://www.raycast.com/core-features/quicklinks",
+      "https://www.raycast.com/core-features/calculator",
+      "https://www.raycast.com/core-features/calendar",
+      "https://www.raycast.com/core-features/system",
+      "https://www.raycast.com/core-features/emoji-picker",
+      "https://www.raycast.com/store/category/design-tools",
+      "https://www.raycast.com/store/category/developer-tools",
+      "https://www.raycast.com/store/category/pomodoro-timer",
+      "https://www.raycast.com/store/category/productivity",
+      "https://www.raycast.com/store/category/project-management",
+      "https://www.raycast.com/store/category/time-management",
+      "https://www.raycast.com/store/category/transcript",
+      "https://www.raycast.com/store/category/translation",
+      "https://www.raycast.com/store/category/work-from-home",
+      "https://www.raycast.com/store/category/ai",
+      "https://www.raycast.com/why",
+      "https://www.raycast.com/customers",
+      "https://www.raycast.com/careers",
+      "https://www.raycast.com/terms-of-service",
+      "https://www.raycast.com/privacy",
+      "https://www.raycast.com/aup",
+      "https://www.raycast.com/dpa",
+      "https://trust.raycast.com/",
+      "https://www.raycast.com/press",
+      "https://www.raycast.com/feedback",
+      "https://www.raycast.com/community-stories",
+      "https://www.raycast.com/ambassadors",
+      "https://www.raycast.com/community",
+      "https://twitter.com/raycast",
+      "https://github.com/raycast",
+      "https://www.dribbble.com/raycastapp",
+      "https://www.raycast.com/keyboard",
+      "https://glaze.app/",
+      "https://ray.so/snippets",
+      "https://ray.so/quicklinks",
+      "https://ray.so/prompts",
+      "https://ray.so/presets",
+      "https://www.ray.so/",
+      "https://ray.so/icon",
+      "https://merch.raycast.com/",
+      "https://www.raycast.com/wallpapers",
+      "https://www.raycast.com/privacy"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=1920&q=100",
+        "poster": "",
+        "width": 1225,
+        "height": 690
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-github.1wn1e6-5844w1.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-vscode.0sc7r-qd4ry79.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-notes.418hcralurlrq.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-general-dark.3m1fa9a930vjj.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-file-search.2n506wjhj8e0r.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-snippets.26-0tqi2gatd7.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-ai-quickai.1di0xfzyyg3mk.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-emoji-picker.41c8rdxbsiehf.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-store.2cuxgu_9oq_mi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-file-search.2n506wjhj8e0r.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calendar.2fx52rbafn4ke.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-dictionary.0tt0fu9r26bk8.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calculator.290-pqxhwq31s.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calendar.2fx52rbafn4ke.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-left-half.0ngi6bz-5divk.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-right-half.0lf_fiiawcvzi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-almost-maximize.3ow6oy4u4gjyr.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-layout-command.3ddxzyu70nxia.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-last-one-third.28xo5xrpzot8i.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-last-two-third.3pb2psduwr5wn.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-toggle-fullscreen.07uwmqol280gn.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-top-right.2h_zz77xirt9z.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-top-left.0eer165wrl1gb.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-bottom-half.3h0x049ryapa6.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmore-extensions.3zzk4y--pp9zu.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 441
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkoen.1xb9vpdchb9b3.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Favstorm.2pq0kurbwqcso.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fadamwathan.33i8fz5y_7ful.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwesbos.0l5k6c_jw7s8p.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fridd.3n22sqo95ec7s.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmxstbr.05qeg4078czy2.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fzachholman.39x9pg5pv4kxn.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjustansub.3htnf11a7df9u.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fthekitze.0hejzuji1k85p.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflornkm.1h6mokpamzpt8.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpugson.3h8cvd-ovyo2e.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freece_dev.0_7ik91goooa4.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmrncst.3p8m-u2-k5e89.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FUltraLinx.3r6cm_cyv6ya3.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fupinthezone.0xv1sxeai_x60.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsulco.089dqyg9mj2er.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fiamneubert.1kbe6z9zktk25.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebjac.02ooc-fq6ov8x.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgavmn.3o-90kigp6986.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fisabelsoasa.2nvgwwbq-8owq.jpg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsteventey.41xwmqisog7n9.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FAdamWhitcroft.1s8uxhzi9623z.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fnotion.3w9opi3qbx14w.png&w=256&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=1920&q=90",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-figma.2k_1c83299c9w.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-red.3ujnxnzs2yons.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-yellow.0c1abqe71sr36.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-blue.3vvrokydhvozm.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-white.2vhc6nbwo4uaf.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-green.1wlse_p1r8hec.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=1920&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/m5MDv9qwhU8/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/4Hi21ZpdrOc/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/_P1b00n12PU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/RFwumqHLc8Y/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/OHuLnaY7Nxs/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/UUPStiOLKlU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/9KvmDCy23g0/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/oy8jtxl7c2I/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=1920&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 14944,
+    "actualTravel": 15104,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.raycast.com/",
+    "title": "Raycast - Your shortcut to everything",
+    "documentHeight": 16004,
+    "contentHeight": 16004,
+    "contentTop": -15104,
+    "scrollY": 15104,
+    "ready": "ec5Qua_variable _3XfLhG_variable iaM1Ya_variable",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(7, 8, 10)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "root",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -15104,
+          "width": 1440,
+          "height": 16004
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "profitwell-js",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 450,
+          "y": -14734,
+          "width": 540,
+          "height": 141
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "70.4px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 545,
+          "y": -13689,
+          "width": 350,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 142,
+          "y": -12256,
+          "width": 272,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 118,
+          "y": -11594,
+          "width": 432,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 7237,
+          "y": -10997,
+          "width": 267,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 494,
+          "y": -10287,
+          "width": 453,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 234,
+          "y": -9684,
+          "width": 450,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 234,
+          "y": -9141,
+          "width": 447,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 759,
+          "y": -9141,
+          "width": 447,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 520,
+          "y": -8568,
+          "width": 400,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 527,
+          "y": -7468,
+          "width": 387,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 143,
+          "y": -7313,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 143,
+          "y": -6881,
+          "width": 130,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 765,
+          "y": -6881,
+          "width": 216,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 881,
+          "y": -6200,
+          "width": 278,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "27.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 881,
+          "y": -6094,
+          "width": 278,
+          "height": 18
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "22.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 477,
+          "y": -5561,
+          "width": 486,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 336,
+          "y": -5408,
+          "width": 227,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 805,
+          "y": -5408,
+          "width": 211,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 211,
+          "y": -4322,
+          "width": 307,
+          "height": 197
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "65.52px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 923,
+          "y": -3484,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 567,
+          "y": -3128,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 211,
+          "y": -2649,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 923,
+          "y": -2192,
+          "width": 307,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "38.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1920,
+        "height": 1547,
+        "rect": {
+          "x": 120,
+          "y": -15104,
+          "width": 1200,
+          "height": 967
+        }
+      }
+    ],
+    "links": [
+      "https://www.raycast.com/",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/pro",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/ios",
+      "https://www.raycast.com/windows",
+      "https://www.raycast.com/teams",
+      "https://www.raycast.com/enterprise",
+      "https://www.raycast.com/blog",
+      "https://www.raycast.com/pricing",
+      "https://www.raycast.com/users/sign_in",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/users/sign_in",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/keyboard",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/#productivity",
+      "https://www.raycast.com/#engineering",
+      "https://www.raycast.com/#design",
+      "https://www.raycast.com/#writing",
+      "https://www.raycast.com/linear/linear",
+      "https://www.raycast.com/gebeto/translate",
+      "https://www.raycast.com/mattisssa/spotify-player",
+      "https://www.raycast.com/the-browser-company/arc",
+      "https://www.raycast.com/kawamataryo/tinypng",
+      "https://www.raycast.com/khasbilegt/1password",
+      "https://www.raycast.com/raycast/jira",
+      "https://www.raycast.com/mommertf/slack",
+      "https://www.raycast.com/raycast/zoom",
+      "https://www.raycast.com/ThatNerd/timers",
+      "https://www.raycast.com/asubbotin/pomodoro",
+      "https://www.raycast.com/notion/notion",
+      "https://www.raycast.com/doist/todoist",
+      "https://www.raycast.com/mblode/google-search",
+      "https://www.raycast.com/marcjulian/obsidian",
+      "https://www.raycast.com/Codely/google-chrome",
+      "https://www.raycast.com/Aayush9029/cleanshotx",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/core-features/notes",
+      "https://www.raycast.com/community",
+      "https://twitter.com/raycast",
+      "https://www.youtube.com/watch?v=NZwqx_dS-k0",
+      "https://www.youtube.com/watch?v=W9FPWzorLyI",
+      "https://www.youtube.com/watch?v=6knS3y39f7k",
+      "https://www.youtube.com/watch?v=A4bewhG4724",
+      "https://www.youtube.com/watch?v=yR2hnn7Ghko",
+      "https://www.youtube.com/watch?v=NuIpZoQwuVY",
+      "https://www.youtube.com/watch?v=qobDloop1bg",
+      "https://www.youtube.com/watch?v=HDQIvbLCF7Y",
+      "https://www.youtube.com/watch?v=_DxukQdW1yg",
+      "https://www.youtube.com/watch?v=m5MDv9qwhU8",
+      "https://www.youtube.com/watch?v=4Hi21ZpdrOc",
+      "https://www.youtube.com/watch?v=_P1b00n12PU",
+      "https://www.youtube.com/watch?v=RFwumqHLc8Y",
+      "https://www.youtube.com/watch?v=OHuLnaY7Nxs",
+      "https://www.youtube.com/watch?v=Xc262WTsZoU",
+      "https://www.youtube.com/watch?v=UUPStiOLKlU",
+      "https://www.youtube.com/watch?v=9KvmDCy23g0",
+      "https://www.youtube.com/watch?v=oy8jtxl7c2I",
+      "https://www.youtube.com/@raycastapp",
+      "https://developers.raycast.com/",
+      "https://www.raycast.com/blog/a-technical-deep-dive-into-the-new-raycast",
+      "https://developers.raycast.com/api-reference/user-interface/list",
+      "https://developers.raycast.com/information/tools/cli",
+      "https://developers.raycast.com/basics/prepare-an-extension-for-store",
+      "https://developers.raycast.com/basics/getting-started",
+      "https://www.raycast.com/download/mac",
+      "https://www.raycast.com/store",
+      "https://www.raycast.com/pro",
+      "https://www.raycast.com/teams",
+      "https://www.raycast.com/pricing",
+      "https://www.raycast.com/changelog",
+      "https://www.raycast.com/browser-extension",
+      "https://www.raycast.com/developers",
+      "https://www.raycast.com/ios",
+      "https://www.raycast.com/windows",
+      "https://www.raycast.com/new",
+      "https://developers.raycast.com/",
+      "https://www.raycast.com/manual",
+      "https://www.raycast.com/troubleshooting",
+      "https://www.raycast.com/raycast-vs-alfred",
+      "https://www.raycast.com/faq",
+      "https://www.raycast.com/core-features/ai",
+      "https://www.raycast.com/core-features/notes",
+      "https://www.raycast.com/core-features/focus",
+      "https://www.raycast.com/core-features/clipboard-history",
+      "https://www.raycast.com/core-features/window-management",
+      "https://www.raycast.com/core-features/snippets",
+      "https://www.raycast.com/core-features/file-search",
+      "https://www.raycast.com/core-features/quicklinks",
+      "https://www.raycast.com/core-features/calculator",
+      "https://www.raycast.com/core-features/calendar",
+      "https://www.raycast.com/core-features/system",
+      "https://www.raycast.com/core-features/emoji-picker",
+      "https://www.raycast.com/store/category/design-tools",
+      "https://www.raycast.com/store/category/developer-tools",
+      "https://www.raycast.com/store/category/pomodoro-timer",
+      "https://www.raycast.com/store/category/productivity",
+      "https://www.raycast.com/store/category/project-management",
+      "https://www.raycast.com/store/category/time-management",
+      "https://www.raycast.com/store/category/transcript",
+      "https://www.raycast.com/store/category/translation",
+      "https://www.raycast.com/store/category/work-from-home",
+      "https://www.raycast.com/store/category/ai",
+      "https://www.raycast.com/why",
+      "https://www.raycast.com/customers",
+      "https://www.raycast.com/careers",
+      "https://www.raycast.com/terms-of-service",
+      "https://www.raycast.com/privacy",
+      "https://www.raycast.com/aup",
+      "https://www.raycast.com/dpa",
+      "https://trust.raycast.com/",
+      "https://www.raycast.com/press",
+      "https://www.raycast.com/feedback",
+      "https://www.raycast.com/community-stories",
+      "https://www.raycast.com/ambassadors",
+      "https://www.raycast.com/community",
+      "https://twitter.com/raycast",
+      "https://github.com/raycast",
+      "https://www.dribbble.com/raycastapp",
+      "https://www.raycast.com/keyboard",
+      "https://glaze.app/",
+      "https://ray.so/snippets",
+      "https://ray.so/quicklinks",
+      "https://ray.so/prompts",
+      "https://ray.so/presets",
+      "https://www.ray.so/",
+      "https://ray.so/icon",
+      "https://merch.raycast.com/",
+      "https://www.raycast.com/wallpapers",
+      "https://www.raycast.com/privacy"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FfeatureBackground.3bxd817ow3sdx.png&w=1920&q=100",
+        "poster": "",
+        "width": 1225,
+        "height": 690
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwallpaper.0abiqd6ysuhu6.png&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-github.1wn1e6-5844w1.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmangos.062tyil4el1n0.jpeg&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic.0zwq2z389cq09.jpeg&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmagic-at-your-fingertips.1v4xjucno2nvv.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-vscode.0sc7r-qd4ry79.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-notes.418hcralurlrq.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-general-dark.3m1fa9a930vjj.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-file-search.2n506wjhj8e0r.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-snippets.26-0tqi2gatd7.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-ai-quickai.1di0xfzyyg3mk.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-emoji-picker.41c8rdxbsiehf.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/command-store.2cuxgu_9oq_mi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-file-search.2n506wjhj8e0r.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calendar.2fx52rbafn4ke.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-dictionary.0tt0fu9r26bk8.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calculator.290-pqxhwq31s.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-calendar.2fx52rbafn4ke.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/extension-clipboard-history.0n828y2ycp7qu.webp",
+        "poster": "",
+        "width": 88,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-left-half.0ngi6bz-5divk.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-right-half.0lf_fiiawcvzi.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-almost-maximize.3ow6oy4u4gjyr.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-layout-command.3ddxzyu70nxia.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-last-one-third.28xo5xrpzot8i.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-last-two-third.3pb2psduwr5wn.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-toggle-fullscreen.07uwmqol280gn.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-top-right.2h_zz77xirt9z.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-top-left.0eer165wrl1gb.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/window-manager-bottom-half.3h0x049ryapa6.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Flinear-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-translate-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fspotify-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Farc-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftiny-png-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2F1password-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fjira-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fslack-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fzoom-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftimers-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fpomodoro-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fnotion-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Ftodoist-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-search-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fobsidian-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fgoogle-chrome-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-icon.png&w=64&q=70",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=https%3A%2F%2Fmisc-assets.raycast.com%2Fextension-cards%2Fcleanshotx-web.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 384
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmore-extensions.3zzk4y--pp9zu.png&w=384&q=70",
+        "poster": "",
+        "width": 384,
+        "height": 441
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-linear.14403iqs_49z0.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-things.431g4_1xy5twk.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fguillermo.43ehvzlb1iwru.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmkbhd.1csz04eivoyhz.jpg&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fkoen.1xb9vpdchb9b3.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Favstorm.2pq0kurbwqcso.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fadamwathan.33i8fz5y_7ful.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwesbos.0l5k6c_jw7s8p.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fridd.3n22sqo95ec7s.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmxstbr.05qeg4078czy2.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fzachholman.39x9pg5pv4kxn.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fjustansub.3htnf11a7df9u.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fthekitze.0hejzuji1k85p.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fflornkm.1h6mokpamzpt8.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fpugson.3h8cvd-ovyo2e.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Freece_dev.0_7ik91goooa4.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fmrncst.3p8m-u2-k5e89.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FUltraLinx.3r6cm_cyv6ya3.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fupinthezone.0xv1sxeai_x60.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsulco.089dqyg9mj2er.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fiamneubert.1kbe6z9zktk25.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwebjac.02ooc-fq6ov8x.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fgavmn.3o-90kigp6986.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fisabelsoasa.2nvgwwbq-8owq.jpg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsteventey.41xwmqisog7n9.jpeg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FAdamWhitcroft.1s8uxhzi9623z.jpeg&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fnotion.3w9opi3qbx14w.png&w=128&q=70",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fsnippets-blue-glass.12b4c3jsxgqqw.png&w=828&q=90",
+        "poster": "",
+        "width": 801,
+        "height": 644
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/app-figma.2k_1c83299c9w.webp",
+        "poster": "",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-red.3ujnxnzs2yons.webp",
+        "poster": "",
+        "width": 840,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-yellow.0c1abqe71sr36.webp",
+        "poster": "",
+        "width": 840,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-blue.3vvrokydhvozm.webp",
+        "poster": "",
+        "width": 840,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-white.2vhc6nbwo4uaf.webp",
+        "poster": "",
+        "width": 840,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/static/immutable/media/ribbon-green.1wlse_p1r8hec.webp",
+        "poster": "",
+        "width": 840,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcommunity-background.20de4iisgwlf-.png&w=828&q=70",
+        "poster": "",
+        "width": 828,
+        "height": 665
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/NZwqx_dS-k0/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/W9FPWzorLyI/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/6knS3y39f7k/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/A4bewhG4724/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/yR2hnn7Ghko/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/NuIpZoQwuVY/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/qobDloop1bg/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/HDQIvbLCF7Y/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/_DxukQdW1yg/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/m5MDv9qwhU8/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/4Hi21ZpdrOc/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/_P1b00n12PU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/RFwumqHLc8Y/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/OHuLnaY7Nxs/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/UUPStiOLKlU/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/9KvmDCy23g0/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://i.ytimg.com/vi/oy8jtxl7c2I/hqdefault.jpg",
+        "poster": "",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.raycast.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2FisolatedCube.06utybfu6soit.png&w=828&q=70",
+        "poster": "",
+        "width": 828,
+        "height": 828
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 400,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 5000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 5000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1500,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 20626,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

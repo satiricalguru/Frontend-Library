@@ -29,6 +29,9 @@ FILES = [
     "codrops-webgl.json",
     "design-md.json",
     "video-resources.json",
+    "google-fonts.json",
+    "threejs-examples.json",
+    "open-icons.json",
 ]
 
 REQUIRED_FIELDS = ("name", "url", "source")

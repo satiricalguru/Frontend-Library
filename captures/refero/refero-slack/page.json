@@ -1,0 +1,4847 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-slack",
+  "name": "Slack — homepage",
+  "url": "https://slack.com/",
+  "source": "https://styles.refero.design/style/e26cb9b0-f876-41ff-9f24-fd67a6b9776c",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:48:14.583Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://slack.com/robots.txt",
+    "checkedAt": "2026-11-12T10:48:14.583Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/messages"
+      },
+      {
+        "allow": false,
+        "path": "/quickstart"
+      },
+      {
+        "allow": false,
+        "path": "/go/"
+      },
+      {
+        "allow": false,
+        "path": "/unsub/"
+      },
+      {
+        "allow": false,
+        "path": "/answers/"
+      },
+      {
+        "allow": false,
+        "path": "/help/requests/new?app_id=*"
+      },
+      {
+        "allow": false,
+        "path": "/what-is-slack"
+      },
+      {
+        "allow": false,
+        "path": "/lp/three"
+      },
+      {
+        "allow": false,
+        "path": "/documents/slack_pilot_dpa"
+      },
+      {
+        "allow": false,
+        "path": "/openid"
+      },
+      {
+        "allow": false,
+        "path": "/oauth"
+      },
+      {
+        "allow": false,
+        "path": "/careers/"
+      },
+      {
+        "allow": false,
+        "path": "/join/shared_invite"
+      },
+      {
+        "allow": false,
+        "path": "/files-pri/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.",
+    "Traversal navigated to https://slack.com/intl/en-in/; inspect checkpoint URLs before comparing."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "hero-videos-container"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 3201,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "hero-videos-container"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 6249,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 2527,
+        "contentTop": -2527,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "swiper-wrapper-b44b9a8a71d578e2",
+          "section-knowledge",
+          "timed-carousel-1"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 9088,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 5635,
+        "contentTop": -5635,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "section-process",
+          "timed-carousel-3",
+          "section-platform",
+          "timed-carousel-4"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 10760,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 7986,
+        "contentTop": -7986,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 12491,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://slack.com/intl/en-in/",
+        "scrollY": 9740,
+        "contentTop": -9740,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "footer_product",
+          "footer_why_slack",
+          "footer_features",
+          "footer_solutions",
+          "footer_resources",
+          "footer_company"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://slack.com/clog/track/",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://slack.com/intl/en-in/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 79698,
+      "sha256": "6fb771d446eb5eafa09ac648dab2c163fa8f334cf3c9b246b1626d42f06a57c2"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 72306,
+      "sha256": "6c1d4a02331a5886024e230e4ea8878b0e0f3db0ff73c08c1c498f025f16a724"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 101930,
+      "sha256": "cf9abcd28b8bb43b2dd41e9e3d71a978086b3561c4c07f1487c1423c8f0493f3"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 83169,
+      "sha256": "c9c5e5e32cca72cbc714a8df2f485c2c16253a4cae664ab43724c7fa9a4fec21"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 70656,
+      "sha256": "06e129042bdc67cec9b7b51a60869f8c3d6acf90e900b6d643194a6bd938590e"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 62308,
+      "sha256": "69917c59fad8ee4169b6f6805772ab107885b5c971916a3d5fc41f0c9133573f"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 394470,
+      "sha256": "d4b225d015f794047212189a424947561fa76f5c8507d97b62c71618a38ae25b"
+    }
+  ],
+  "initial": {
+    "url": "https://slack.com/intl/en-in/",
+    "title": "Slack | AI work platform and productivity tools",
+    "documentHeight": 10545,
+    "contentHeight": 10545,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 259,
+          "y": 104,
+          "width": 923,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 320,
+          "y": 1311,
+          "width": 801,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "50px",
+          "lineHeight": "56px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 105,
+          "y": 2173,
+          "width": 298,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 55,
+        "rect": {
+          "x": 130,
+          "y": 2566,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 562,
+          "y": 2566,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 994,
+          "y": 2566,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 1426,
+          "y": 2566,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 1858,
+          "y": 2566,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 2290,
+          "y": 2566,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 2722,
+          "y": 2566,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 3154,
+          "y": 2566,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 57,
+        "rect": {
+          "x": 270,
+          "y": 6536,
+          "width": 900,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 144,
+          "y": 6896,
+          "width": 407,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 815,
+          "y": 6830,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 1022,
+          "y": 6830,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 1229,
+          "y": 6830,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://slack.com/intl/en-in/#main_focusable",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/code-channels",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/crm",
+      "https://slack.com/intl/en-in/features/crm",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/features/agentic-platform",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/features",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/human-resources",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/education",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/solutions",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://slack.com/intl/en-in/blog",
+      "https://slackdemo.com/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/compare/slack-vs-teams",
+      "https://api.slack.com/",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/partner-offers",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/#",
+      "https://slack.com/signin",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/get-started?entry_point=nav_menu",
+      "https://slack.com/get-started?entry_point=nav_menu",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/code-channels",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/crm",
+      "https://slack.com/intl/en-in/features/crm",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/features/agentic-platform",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/human-resources",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/education",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://slack.com/intl/en-in/blog",
+      "https://slackdemo.com/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/compare/slack-vs-teams",
+      "https://api.slack.com/",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/partner-offers",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/intl/en-in/get-started?entry_point=page_home#/createnew",
+      "https://slack.com/mweb-signin-start?dest=signin",
+      "https://slack.com/intl/en-in/get-started?entry_point=home_page",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_crm",
+      "https://slack.com/intl/en-in/whats-new#093026_slackbot_in",
+      "https://slack.com/intl/en-in/whats-new#093026_work_object",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_lists",
+      "https://slack.com/intl/en-in/whats-new#093026_gmail_domain",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_mcp",
+      "https://slack.com/intl/en-in/whats-new#093026_html_file",
+      "https://slack.com/intl/en-in/whats-new#093026_slackbot_analytics",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/features/crm/small-business",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.dev/",
+      "https://slack.com/intl/en-in/trust/security",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://www.youtube.com/embed/Ewosu5ec75Y",
+      "https://www.youtube.com/embed/o2c2_EGP8w4",
+      "https://www.youtube.com/embed/EijCmK9Bzg0",
+      "https://www.youtube.com/embed/8NjVIWfje1o",
+      "https://www.youtube.com/embed/Ewosu5ec75Y",
+      "https://www.youtube.com/embed/o2c2_EGP8w4",
+      "https://www.youtube.com/embed/EijCmK9Bzg0",
+      "https://www.youtube.com/embed/8NjVIWfje1o",
+      "https://slack.com/intl/en-in/get-started?entry_point=home_page",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/events/introducing-agentforce-in-slack",
+      "https://slack.com/intl/en-in/blog/news/limitless-workforce-with-agentforce-in-slack",
+      "https://slack.com/intl/en-in/resources/using-slack/ten-ways-to-replace-ineffective-meetings-with-slack-2",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/events/introducing-agentforce-in-slack",
+      "https://slack.com/intl/en-in/blog/news/limitless-workforce-with-agentforce-in-slack",
+      "https://slack.com/intl/en-in/resources/using-slack/ten-ways-to-replace-ineffective-meetings-with-slack-2",
+      "https://slack.com/intl/en-in/get-started?entry_point=footer",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/intl/es-la/",
+      "https://slack.com/intl/pt-br/",
+      "https://slack.com/",
+      "https://slack.com/intl/de-de/",
+      "https://slack.com/intl/es-es/",
+      "https://slack.com/intl/fr-fr/",
+      "https://slack.com/intl/it-it/",
+      "https://slack.com/intl/en-gb/",
+      "https://slack.com/intl/zh-cn/",
+      "https://slack.com/intl/zh-tw/",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/ja-jp/",
+      "https://slack.com/intl/ko-kr/",
+      "https://www.linkedin.com/company/tiny-spec-inc/",
+      "https://www.instagram.com/slackhq/",
+      "https://facebook.com/slackhq",
+      "https://twitter.com/slackhq",
+      "https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw",
+      "https://www.tiktok.com/@slackhq",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/pricing/paid-vs-free",
+      "https://slack.com/intl/en-in/accessibility",
+      "https://slack.com/intl/en-in/innovations",
+      "https://slack.com/intl/en-in/changelog",
+      "https://slack-status.com/?_gl=1*6cfpp0*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+      "https://slack.com/intl/en-in/compare/slack-vs-email",
+      "https://slack.com/intl/en-in/compare/slack-vs-teams",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/engage-users",
+      "https://slack.com/intl/en-in/solutions/task-management",
+      "https://slack.com/intl/en-in/scale",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/features/team-chat",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/clips",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/features/document-sharing",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/trust/security",
+      "https://slack.com/intl/en-in/enterprise-key-management",
+      "https://slack.com/intl/en-in/features/atlas",
+      "https://slack.com/intl/en-in/features",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/distance-learning",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/solutions",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/intl/en-in/innovations",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/blog",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/intl/en-in/partner-offers",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slackcertified.com/",
+      "https://slack.com/intl/en-in/about",
+      "https://slack.com/intl/en-in/blog/news",
+      "https://slack.com/intl/en-in/media-kit",
+      "https://brand.slackhq.com/",
+      "https://slack.com/intl/en-in/careers",
+      "https://www.salesforcestore.com/Slack-C124.aspx",
+      "https://slack.engineering/",
+      "https://slack.design/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/get?utm_source=website&utm_medium=global&utm_term=download-slack&utm_content=footer",
+      "https://slack.com/intl/en-in/trust/privacy/privacy-policy",
+      "https://slack.com/intl/en-in/legal",
+      "https://slack.com/intl/en-in/#",
+      "https://www.salesforce.com/form/other/privacy-request/",
+      "https://slack.com/cookie-policy",
+      "https://www.onetrust.com/solutions/consent-and-preferences/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/e3d847e/marketing/img/nav/slack-salesforce-logo-nav-white.png",
+        "poster": "",
+        "width": 100,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/98078a4/marketing/img/nav/slack-salesforce-logo-nav-black.png",
+        "poster": "",
+        "width": 101,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-whats-new-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-marketplace-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/feature-template-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/compete-teams-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/98078a4/marketing/img/nav/slack-salesforce-logo-nav-black.png",
+        "poster": "",
+        "width": 101,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/ada16e6/marketing/img/nav/mobile-opened.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-whats-new-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-marketplace-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/feature-template-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/compete-teams-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-gm-small.png",
+        "poster": "",
+        "width": 37,
+        "height": 36
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/0530554/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-openai-small.png",
+        "poster": "",
+        "width": 281,
+        "height": 76
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/b161f1f/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-target-small.png",
+        "poster": "",
+        "width": 38,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/62e58ce/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-paramount-small.png",
+        "poster": "",
+        "width": 257,
+        "height": 153
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-stripe-small.png",
+        "poster": "",
+        "width": 69,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-ibm-small.png",
+        "poster": "",
+        "width": 66,
+        "height": 26
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/1d29d3f/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.jpg",
+        "width": 2920,
+        "height": 2000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/0f89944/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/602d468/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.jpg",
+        "width": 2628,
+        "height": 1800
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/11f90b0/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/e518805/marketing/img/homepage/revamped-25/hero/icons/icon-slackbot.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5082f7d/marketing/img/homepage/revamped-25/hero/icons/icon-list.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/d957279/marketing/img/homepage/revamped-25/hero/icons/icon-pencil.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/2f8ba79/marketing/img/homepage/revamped-25/hero/icons/icon-chat.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/2840e1b/marketing/img/homepage/revamped-25/hero/icons/icon-zap.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/f303b23/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.webm",
+        "poster": "https://a.slack-edge.com/1d29d3f/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/0f89944/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/f303b23/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7066812/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1a97308/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.webm",
+        "poster": "https://a.slack-edge.com/602d468/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.jpg",
+        "width": 1752,
+        "height": 1200
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/11f90b0/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1a97308/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/4f9fc76/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "https://a.slack-edge.com/994be9b/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fdcbab2/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/a84c69a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "https://a.slack-edge.com/662c040/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/5c55426/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/8851930/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/dbe7ac7/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9703f4f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/e79517f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/d482eac/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.jpg",
+        "width": 730,
+        "height": 500
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "https://a.slack-edge.com/994be9b/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fdcbab2/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/a84c69a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "https://a.slack-edge.com/662c040/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/5c55426/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/8851930/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/dbe7ac7/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9703f4f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/e79517f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/d482eac/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.jpg",
+        "width": 730,
+        "height": 500
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slack-CRM_-Generate-meeting-insights-Salesforce-tasks.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slackbot-in-Lightning.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Gmail-Domain-Wide-Auth-DWA.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/HTML-file-rendering-on-mobile.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slackbot-Analytics.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cfa8e6e/marketing/img/homepage/revamped-25/carousels/img-slackbot-multiplayer.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-knowledge-1.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/773fc4f/marketing/img/homepage/revamped-25/carousels/img-slack-crm.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/0a7f124/marketing/img/features/ai/lp/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-1.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-2.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-3.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-2.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-1.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-3.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/38141b7/marketing/img/homepage/revamped-25/logos/logo-vercel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-1.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-2.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-3.IN.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/anthropic-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/615444b/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/box-web-trailer@2x.jpg",
+        "width": 586,
+        "height": 330
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-box.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/notion-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/88ca7fe/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-notion.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/rivian-web-trailer@2x.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-rivian.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/anthropic-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/615444b/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/box-web-trailer@2x.jpg",
+        "width": 586,
+        "height": 330
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-box.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/notion-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/88ca7fe/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-notion.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/rivian-web-trailer@2x.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-rivian.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Best_Results_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Best_Usability_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Highest_User_Adoption_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_SMB_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_MM_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_ENT_fall_2026.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5903307/marketing/img/thought-leadership/slack-vs-teams/compete-teams-promo.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-1.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-2.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/938f265/marketing/img/promos/promo-10-ways.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5903307/marketing/img/thought-leadership/slack-vs-teams/compete-teams-promo.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-1.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-2.jpg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/938f265/marketing/img/promos/promo-10-ways.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.youtube-nocookie.com/embed/?showinfo=0&cc_load_policy=1&cc_lang_pref=en&rel=0&enablejsapi=1&origin=https%3A%2F%2Fslack.com&widgetid=1&forigin=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F&aoriginsup=1&vf=1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/1f40066/marketing/img/nav/logo.svg",
+        "poster": "",
+        "width": 54,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/1f40066/marketing/img/nav/logo.svg",
+        "poster": "",
+        "width": 54,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/46e7977/marketing/img/nav/download.svg",
+        "poster": "",
+        "width": 19,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/b74a44d/marketing/img/nav/ccpa.svg",
+        "poster": "",
+        "width": 30,
+        "height": 14
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://a11179690159.cdn.optimizely.com/client_storage/a11179690159.html",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/1ce30484-b023-4ff1-a118-3a9dc53fce45/f83dd0bf-3d5c-47ca-b065-8f247adfeacd/rsz_slack_rgb.png",
+        "poster": "",
+        "width": 400,
+        "height": 146
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "poster": "",
+        "width": 568,
+        "height": 53
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://s.company-target.com/s/sync?exc=lr",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://id.rlcdn.com/464526.gif",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://12632256.fls.doubleclick.net/activityi;src=12632256;type=prosp;cat=prosp0;rcb=14;ord=4255011027187;npa=0;auiddc=2136045947.1794480497;u3=prospect;u4=1778b9182f7479675565254a81a2479d;u5=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6ba1v9190096797z86984921za20gzb6984921zd6984921xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~119860442~120213116~120385423~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170881;epver=2;em=tv.1;emd=tvd.1;dc_random=1794480498_q_hClWsshIXcYgvxASZvg2aAuBIjeIAffQ;_dc_test=1;~oref=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://12632256.fls.doubleclick.net/activityi;src=12632256;type=sfrefer;cat=sales0;rcb=14;ord=4306600511941;npa=0;auiddc=2136045947.1794480497;u3=prospect;u4=1778b9182f7479675565254a81a2479d;u5=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6ba1v9190096797z86984921za20gzb6984921zd6984921xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~119860442~120213116~120385423~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170881;epver=2;em=tv.1;emd=tvd.1;dc_random=1794480500_a0b9GspsfQTd4TvyZeLt4Elwi2iU9ERO9Q;_dc_test=1;~oref=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://csxd.contentsquare.net/uxa/xdframe-single-domain-1.3.4.html?pid=5540",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 9485,
+    "actualTravel": 9740,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://slack.com/intl/en-in/",
+    "title": "Slack | AI work platform and productivity tools",
+    "documentHeight": 11000,
+    "contentHeight": 11000,
+    "contentTop": -9740,
+    "scrollY": 9740,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 259,
+          "y": -9636,
+          "width": 923,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 320,
+          "y": -8429,
+          "width": 801,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "50px",
+          "lineHeight": "56px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 105,
+          "y": -7567,
+          "width": 298,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 55,
+        "rect": {
+          "x": 130,
+          "y": -7174,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 562,
+          "y": -7174,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 994,
+          "y": -7174,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 1426,
+          "y": -7174,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 1858,
+          "y": -7174,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 2290,
+          "y": -7174,
+          "width": 350,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 2722,
+          "y": -7174,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 3154,
+          "y": -7174,
+          "width": 350,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Sans, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "lineHeight": "17.5px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 57,
+        "rect": {
+          "x": 270,
+          "y": -2749,
+          "width": 900,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 143,
+          "y": -2455,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 351,
+          "y": -2389,
+          "width": 407,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 954,
+          "y": -2436,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 1161,
+          "y": -2453,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "31.992px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 46,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Salesforce-Avant-Garde, system-ui, -apple-system, blinkmacsystemfont, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://slack.com/intl/en-in/#main_focusable",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/code-channels",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/crm",
+      "https://slack.com/intl/en-in/features/crm",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/features/agentic-platform",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/features",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/human-resources",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/education",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/solutions",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://slack.com/intl/en-in/blog",
+      "https://slackdemo.com/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/compare/slack-vs-teams",
+      "https://api.slack.com/",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/partner-offers",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/downloads",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/#",
+      "https://slack.com/signin",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/get-started?entry_point=nav_menu",
+      "https://slack.com/get-started?entry_point=nav_menu",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/code-channels",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/crm",
+      "https://slack.com/intl/en-in/features/crm",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/features/agentic-platform",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/human-resources",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/education",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://slack.com/intl/en-in/blog",
+      "https://slackdemo.com/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/compare/slack-vs-teams",
+      "https://api.slack.com/",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/partner-offers",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/intl/en-in/get-started?entry_point=page_home#/createnew",
+      "https://slack.com/mweb-signin-start?dest=signin",
+      "https://slack.com/intl/en-in/get-started?entry_point=home_page",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/whats-new",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_crm",
+      "https://slack.com/intl/en-in/whats-new#093026_slackbot_in",
+      "https://slack.com/intl/en-in/whats-new#093026_work_object",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_lists",
+      "https://slack.com/intl/en-in/whats-new#093026_gmail_domain",
+      "https://slack.com/intl/en-in/whats-new#093026_slack_mcp",
+      "https://slack.com/intl/en-in/whats-new#093026_html_file",
+      "https://slack.com/intl/en-in/whats-new#093026_slackbot_analytics",
+      "https://slack.com/intl/en-in/features/slackbot",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/features/crm/small-business",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/templates/gallery",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slack.dev/",
+      "https://slack.com/intl/en-in/trust/security",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://www.youtube.com/embed/Ewosu5ec75Y",
+      "https://www.youtube.com/embed/o2c2_EGP8w4",
+      "https://www.youtube.com/embed/EijCmK9Bzg0",
+      "https://www.youtube.com/embed/8NjVIWfje1o",
+      "https://www.youtube.com/embed/Ewosu5ec75Y",
+      "https://www.youtube.com/embed/o2c2_EGP8w4",
+      "https://www.youtube.com/embed/EijCmK9Bzg0",
+      "https://www.youtube.com/embed/8NjVIWfje1o",
+      "https://slack.com/intl/en-in/get-started?entry_point=home_page",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/events/introducing-agentforce-in-slack",
+      "https://slack.com/intl/en-in/blog/news/limitless-workforce-with-agentforce-in-slack",
+      "https://slack.com/intl/en-in/resources/using-slack/ten-ways-to-replace-ineffective-meetings-with-slack-2",
+      "https://slack.com/intl/en-in/resources/why-use-slack/rethinking-email-ai-conversations-work",
+      "https://slack.com/intl/en-in/events/introducing-agentforce-in-slack",
+      "https://slack.com/intl/en-in/blog/news/limitless-workforce-with-agentforce-in-slack",
+      "https://slack.com/intl/en-in/resources/using-slack/ten-ways-to-replace-ineffective-meetings-with-slack-2",
+      "https://slack.com/intl/en-in/get-started?entry_point=footer",
+      "https://slack.com/intl/en-in/contact-sales",
+      "https://slack.com/intl/es-la/",
+      "https://slack.com/intl/pt-br/",
+      "https://slack.com/",
+      "https://slack.com/intl/de-de/",
+      "https://slack.com/intl/es-es/",
+      "https://slack.com/intl/fr-fr/",
+      "https://slack.com/intl/it-it/",
+      "https://slack.com/intl/en-gb/",
+      "https://slack.com/intl/zh-cn/",
+      "https://slack.com/intl/zh-tw/",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/ja-jp/",
+      "https://slack.com/intl/ko-kr/",
+      "https://www.linkedin.com/company/tiny-spec-inc/",
+      "https://www.instagram.com/slackhq/",
+      "https://facebook.com/slackhq",
+      "https://twitter.com/slackhq",
+      "https://www.youtube.com/channel/UCY3YECgeBcLCzIrFLP4gblw",
+      "https://www.tiktok.com/@slackhq",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/demo",
+      "https://slack.com/intl/en-in/pricing",
+      "https://slack.com/intl/en-in/pricing/paid-vs-free",
+      "https://slack.com/intl/en-in/accessibility",
+      "https://slack.com/intl/en-in/innovations",
+      "https://slack.com/intl/en-in/changelog",
+      "https://slack-status.com/?_gl=1*6cfpp0*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+      "https://slack.com/intl/en-in/compare/slack-vs-email",
+      "https://slack.com/intl/en-in/compare/slack-vs-teams",
+      "https://slack.com/intl/en-in/enterprise",
+      "https://slack.com/intl/en-in/solutions/small-business",
+      "https://slack.com/intl/en-in/engage-users",
+      "https://slack.com/intl/en-in/solutions/task-management",
+      "https://slack.com/intl/en-in/scale",
+      "https://slack.com/intl/en-in/trust",
+      "https://slack.com/intl/en-in/features/channels",
+      "https://slack.com/intl/en-in/connect",
+      "https://slack.com/intl/en-in/features/workflow-automation",
+      "https://slack.com/intl/en-in/features/team-chat",
+      "https://slack.com/intl/en-in/features/huddles",
+      "https://slack.com/intl/en-in/features/canvas",
+      "https://slack.com/intl/en-in/features/task-list",
+      "https://slack.com/intl/en-in/features/clips",
+      "https://slack.com/intl/en-in/integrations",
+      "https://slack.com/intl/en-in/features/document-sharing",
+      "https://slack.com/intl/en-in/features/ai",
+      "https://slack.com/intl/en-in/ai-agents",
+      "https://slack.com/intl/en-in/features/enterprise-search",
+      "https://slack.com/intl/en-in/trust/security",
+      "https://slack.com/intl/en-in/enterprise-key-management",
+      "https://slack.com/intl/en-in/features/atlas",
+      "https://slack.com/intl/en-in/features",
+      "https://slack.com/intl/en-in/enterprise/frontline",
+      "https://slack.com/intl/en-in/solutions/engineering",
+      "https://slack.com/intl/en-in/solutions/information-technology",
+      "https://slack.com/intl/en-in/solutions/customer-service",
+      "https://slack.com/intl/en-in/solutions/sales",
+      "https://slack.com/intl/en-in/solutions/project-management",
+      "https://slack.com/intl/en-in/solutions/marketing",
+      "https://slack.com/intl/en-in/solutions/security",
+      "https://slack.com/intl/en-in/solutions/manufacturing",
+      "https://slack.com/intl/en-in/solutions/technology",
+      "https://slack.com/intl/en-in/solutions/media",
+      "https://slack.com/intl/en-in/solutions/financial-services",
+      "https://slack.com/intl/en-in/solutions/retail",
+      "https://slack.com/intl/en-in/solutions/public-sector",
+      "https://slack.com/intl/en-in/solutions/distance-learning",
+      "https://slack.com/intl/en-in/solutions/healthcare",
+      "https://slack.com/intl/en-in/solutions",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/intl/en-in/innovations",
+      "https://slack.com/intl/en-in/resources",
+      "https://slack.com/intl/en-in/blog",
+      "https://slack.com/intl/en-in/community",
+      "https://slack.com/intl/en-in/customer-stories",
+      "https://slack.com/intl/en-in/events",
+      "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+      "https://slack.com/intl/en-in/partners",
+      "https://slack.com/intl/en-in/partner-offers",
+      "https://slack.com/intl/en-in/marketplace",
+      "https://slackcertified.com/",
+      "https://slack.com/intl/en-in/about",
+      "https://slack.com/intl/en-in/blog/news",
+      "https://slack.com/intl/en-in/media-kit",
+      "https://brand.slackhq.com/",
+      "https://slack.com/intl/en-in/careers",
+      "https://www.salesforcestore.com/Slack-C124.aspx",
+      "https://slack.engineering/",
+      "https://slack.design/",
+      "https://slack.com/intl/en-in/help",
+      "https://slack.com/intl/en-in/",
+      "https://slack.com/intl/en-in/get?utm_source=website&utm_medium=global&utm_term=download-slack&utm_content=footer",
+      "https://slack.com/intl/en-in/trust/privacy/privacy-policy",
+      "https://slack.com/intl/en-in/legal",
+      "https://slack.com/intl/en-in/#",
+      "https://www.salesforce.com/form/other/privacy-request/",
+      "https://slack.com/cookie-policy",
+      "https://www.onetrust.com/solutions/consent-and-preferences/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/e3d847e/marketing/img/nav/slack-salesforce-logo-nav-white.png",
+        "poster": "",
+        "width": 100,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/98078a4/marketing/img/nav/slack-salesforce-logo-nav-black.png",
+        "poster": "",
+        "width": 101,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-whats-new-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-marketplace-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/feature-template-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/compete-teams-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/98078a4/marketing/img/nav/slack-salesforce-logo-nav-black.png",
+        "poster": "",
+        "width": 101,
+        "height": 38
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/ada16e6/marketing/img/nav/mobile-opened.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-whats-new-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/img-marketplace-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/feature-template-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/522d799/marketing/img/nav/compete-teams-nav.png",
+        "poster": "",
+        "width": 315,
+        "height": 165
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-gm-small.png",
+        "poster": "",
+        "width": 37,
+        "height": 36
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/0530554/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-openai-small.png",
+        "poster": "",
+        "width": 281,
+        "height": 76
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/b161f1f/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-target-small.png",
+        "poster": "",
+        "width": 38,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/62e58ce/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-paramount-small.png",
+        "poster": "",
+        "width": 257,
+        "height": 153
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-stripe-small.png",
+        "poster": "",
+        "width": 69,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/84f9021/marketing/img/homepage/true-prospects/hero-revamp/logos/logo-ibm-small.png",
+        "poster": "",
+        "width": 66,
+        "height": 26
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/1d29d3f/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.jpg",
+        "width": 2920,
+        "height": 2000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/0f89944/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/602d468/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.jpg",
+        "width": 2628,
+        "height": 1800
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/11f90b0/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.jpg",
+        "width": 1200,
+        "height": 820
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/e518805/marketing/img/homepage/revamped-25/hero/icons/icon-slackbot.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5082f7d/marketing/img/homepage/revamped-25/hero/icons/icon-list.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/d957279/marketing/img/homepage/revamped-25/hero/icons/icon-pencil.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/2f8ba79/marketing/img/homepage/revamped-25/hero/icons/icon-chat.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/2840e1b/marketing/img/homepage/revamped-25/hero/icons/icon-zap.svg",
+        "poster": "",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/f303b23/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.webm",
+        "poster": "https://a.slack-edge.com/1d29d3f/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/0f89944/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/56a9198/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/f303b23/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7066812/marketing/img/homepage/revamped-25/hero/video-slackbot-big-mode.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1a97308/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.webm",
+        "poster": "https://a.slack-edge.com/602d468/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.jpg",
+        "width": 1752,
+        "height": 1200
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/11f90b0/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/7d16f95/marketing/img/homepage/revamped-25/hero/video-close-deals.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1a97308/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/4f9fc76/marketing/img/homepage/revamped-25/hero/video-close-deals.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-hero.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.webm",
+        "poster": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "https://a.slack-edge.com/994be9b/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fdcbab2/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/a84c69a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "https://a.slack-edge.com/662c040/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/5c55426/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/8851930/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/dbe7ac7/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9703f4f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/e79517f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/d482eac/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.jpg",
+        "width": 730,
+        "height": 500
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "https://a.slack-edge.com/994be9b/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fdcbab2/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/386894a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/a84c69a/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-surfaces.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "https://a.slack-edge.com/662c040/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/5c55426/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/fa76225/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/8851930/marketing/img/homepage/revamped-25/dark-component/uis/video-slackbot-skills.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/dbe7ac7/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.jpg",
+        "width": 1460,
+        "height": 1000
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9703f4f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/c5999ee/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/e79517f/marketing/img/homepage/code-channels/video-code-channels-for-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "https://a.slack-edge.com/d482eac/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.jpg",
+        "width": 730,
+        "height": 500
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/1c15fc0/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/931efb4/marketing/img/homepage/revamped-25/dark-component/uis/video-crm-in-slack.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.jpg",
+        "width": 600,
+        "height": 410
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/61d31f7/marketing/img/homepage/revamped-25/dark-component/uis/claude-AI.IN.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slack-CRM_-Generate-meeting-insights-Salesforce-tasks.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slackbot-in-Lightning.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Gmail-Domain-Wide-Auth-DWA.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/6dfe43d/marketing/img/homepage/revamped-25/placeholders/img-whats-new-placeholder.png",
+        "poster": "",
+        "width": 600,
+        "height": 424
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/HTML-file-rendering-on-mobile.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/Slackbot-Analytics.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cfa8e6e/marketing/img/homepage/revamped-25/carousels/img-slackbot-multiplayer.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-knowledge-1.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/773fc4f/marketing/img/homepage/revamped-25/carousels/img-slack-crm.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/0a7f124/marketing/img/features/ai/lp/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 152,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-1.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-2.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-people-3.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-2.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-1.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-process-3.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/38141b7/marketing/img/homepage/revamped-25/logos/logo-vercel.png",
+        "poster": "",
+        "width": 91,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-1.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-2.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/carousels/img-platform-3.IN.png",
+        "poster": "",
+        "width": 1095,
+        "height": 750
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/anthropic-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/615444b/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 240,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/box-web-trailer@2x.jpg",
+        "width": 586,
+        "height": 330
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-box.png",
+        "poster": "",
+        "width": 59,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/notion-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/88ca7fe/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-notion.png",
+        "poster": "",
+        "width": 240,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/rivian-web-trailer@2x.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-rivian.png",
+        "poster": "",
+        "width": 146,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/anthropic-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/615444b/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/anthropic.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-anthropic.png",
+        "poster": "",
+        "width": 240,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/box-web-trailer@2x.jpg",
+        "width": 586,
+        "height": 330
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/box-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-box.png",
+        "poster": "",
+        "width": 59,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-posters/notion-poster@2x.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/88ca7fe/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/9556f45/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/preview-clips/notion.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/efbd118/marketing/img/homepage/revamped-24/customer-videos/logos/logo-notion.png",
+        "poster": "",
+        "width": 240,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-posters/rivian-web-trailer@2x.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer@2x.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/preview-clips/rivian-web-trailer.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/66e1519/marketing/img/homepage/revamped-24/customer-videos/logos/logo-rivian.png",
+        "poster": "",
+        "width": 146,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/play-button.png",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Best_Results_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Best_Usability_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Highest_User_Adoption_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_SMB_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_MM_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/7b45c83/marketing/img/homepage/revamped-25/badges/G2_Leader_ENT_fall_2026.png",
+        "poster": "",
+        "width": 868,
+        "height": 1000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5903307/marketing/img/thought-leadership/slack-vs-teams/compete-teams-promo.png",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-1.jpg",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-2.jpg",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/938f265/marketing/img/promos/promo-10-ways.png",
+        "poster": "",
+        "width": 335,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/5903307/marketing/img/thought-leadership/slack-vs-teams/compete-teams-promo.png",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-1.jpg",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/cd054cc/marketing/img/agentforce/lp/updated-img-promo-2.jpg",
+        "poster": "",
+        "width": 260,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/938f265/marketing/img/promos/promo-10-ways.png",
+        "poster": "",
+        "width": 335,
+        "height": 250
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.youtube-nocookie.com/embed/?showinfo=0&cc_load_policy=1&cc_lang_pref=en&rel=0&enablejsapi=1&origin=https%3A%2F%2Fslack.com&widgetid=1&forigin=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F&aoriginsup=1&vf=1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/1f40066/marketing/img/nav/logo.svg",
+        "poster": "",
+        "width": 54,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/1f40066/marketing/img/nav/logo.svg",
+        "poster": "",
+        "width": 54,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/46e7977/marketing/img/nav/download.svg",
+        "poster": "",
+        "width": 19,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a.slack-edge.com/b74a44d/marketing/img/nav/ccpa.svg",
+        "poster": "",
+        "width": 30,
+        "height": 14
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://a11179690159.cdn.optimizely.com/client_storage/a11179690159.html",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/1ce30484-b023-4ff1-a118-3a9dc53fce45/f83dd0bf-3d5c-47ca-b065-8f247adfeacd/rsz_slack_rgb.png",
+        "poster": "",
+        "width": 400,
+        "height": 146
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "poster": "",
+        "width": 568,
+        "height": 53
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://s.company-target.com/s/sync?exc=lr",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://id.rlcdn.com/464526.gif",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://12632256.fls.doubleclick.net/activityi;src=12632256;type=prosp;cat=prosp0;rcb=14;ord=4255011027187;npa=0;auiddc=2136045947.1794480497;u3=prospect;u4=1778b9182f7479675565254a81a2479d;u5=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6ba1v9190096797z86984921za20gzb6984921zd6984921xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~119860442~120213116~120385423~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170881;epver=2;em=tv.1;emd=tvd.1;dc_random=1794480498_q_hClWsshIXcYgvxASZvg2aAuBIjeIAffQ;_dc_test=1;~oref=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://12632256.fls.doubleclick.net/activityi;src=12632256;type=sfrefer;cat=sales0;rcb=14;ord=4306600511941;npa=0;auiddc=2136045947.1794480497;u3=prospect;u4=1778b9182f7479675565254a81a2479d;u5=undefined;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Not-A.Brand%3B99.0.0.0%7CGoogle%2520Chrome%3B157.0.8103.51%7CChromium%3B157.0.8103.51;uamb=0;uam=;uap=macOS;uapv=27.2.1;uaw=0;pscdl=noapi;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6ba1v9190096797z86984921za20gzb6984921zd6984921xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938469~117776795~118897920~118897930~119860442~120213116~120385423~120412528~120420414~120469145~120469153~121191155~121246026~121246034~123329123~124170881;epver=2;em=tv.1;emd=tvd.1;dc_random=1794480500_a0b9GspsfQTd4TvyZeLt4Elwi2iU9ERO9Q;_dc_test=1;~oref=https%3A%2F%2Fslack.com%2Fintl%2Fen-in%2F?",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://csxd.contentsquare.net/uxa/xdframe-single-domain-1.3.4.html?pid=5540",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 12491,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

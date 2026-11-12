@@ -18,6 +18,9 @@ COLLECTIONS = {
     "codrops": "codrops-webgl.json",
     "design-md": "design-md.json",
     "media-resources": "video-resources.json",
+    "google-fonts": "google-fonts.json",
+    "threejs": "threejs-examples.json",
+    "icons": "open-icons.json",
 }
 
 

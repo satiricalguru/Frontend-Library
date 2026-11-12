@@ -33,7 +33,10 @@
       "url": "https://tympanus.net/codrops/tag/webgl/",
       "robots": "https://tympanus.net/robots.txt",
       "result": "ai-crawlers-disallowed-and-http-403",
-      "capture": "18 already observed public listing links; no blocked article crawl. Additional demo metadata from official github.com/codrops repositories."
+      "capture": "18 already observed public listing links; no blocked article crawl. Additional demo metadata from official github.com/codrops repositories.",
+      "previews": "Repository previews come from the official github.com/codrops repositories via the authenticated GitHub API: committed images pinned to the default-branch commit on raw.githubusercontent.com, README image URLs on other hosts stored for browser hotlinking without being fetched, otherwise GitHub-generated social cards (opengraph.githubassets.com).",
+      "tympanusAccessed": false,
+      "videos": "Not collected: the hosted demos live on tympanus.net, which disallows AI crawlers and returned HTTP 403."
     },
     {
       "url": "https://github.com/VoltAgent/awesome-design-md",
@@ -44,6 +47,66 @@
       "url": "https://github.com/bradtraversy/design-resources-for-developers#stock-videos",
       "result": "public-git-repository",
       "capture": "297 metadata rows across 9 sections under list MIT; provider sites/assets not crawled."
+    },
+    {
+      "url": "https://fonts.google.com/",
+      "robots": "https://fonts.google.com/robots.txt",
+      "result": "public-metadata-endpoint (robots disallows /license/ only)",
+      "capture": "Family metadata from https://fonts.google.com/metadata/fonts; no font files downloaded."
+    },
+    {
+      "url": "https://github.com/mrdoob/three.js",
+      "result": "public-git-repository (MIT)",
+      "capture": "Example index from https://github.com/mrdoob/three.js/blob/5ec3113785ff183027f320335b1907a4be6bcd0a/examples/files.json; previews/demos link to threejs.org."
+    },
+    {
+      "url": "https://lucide.dev/",
+      "result": "public-npm-package (ISC)",
+      "capture": "Icon names and tags from https://unpkg.com/lucide-static@1.72.0/tags.json; SVGs linked, not copied."
+    },
+    {
+      "url": "https://tabler.io/icons",
+      "result": "public-npm-package (MIT)",
+      "capture": "Icon names, categories and tags from https://unpkg.com/@tabler/icons@3.51.0/icons.json; SVGs linked, not copied."
+    },
+    {
+      "url": "https://styles.refero.design/ (brand homepages)",
+      "result": "brand-homepages-captured-where-robots-allow",
+      "checkedOn": "2026-11-12",
+      "capture": "Refero itself was not crawled (AI crawlers are disallowed there). Brands already present in the existing Refero index were captured on their own public homepages, only when that site's robots.txt allows ClaudeBot/anthropic-ai/GPTBot (or, with no AI-specific group, the * group) on '/'. Consent banners were not accepted. Each capture's `source` is the brand's Refero style URL.",
+      "skipped": {
+        "robots disallows AI crawlers": [
+          "Figma",
+          "Airbnb",
+          "Loom",
+          "Canva",
+          "Lovable"
+        ],
+        "HTTP 403 to an automated request (not bypassed)": [
+          "Revolut",
+          "Tesla",
+          "Coinbase",
+          "OpenAI",
+          "Lego",
+          "Dyson"
+        ],
+        "other access failure": {
+          "Uber": "HTTP 406",
+          "Pitch": "TLS handshake error",
+          "Rive": "TLS handshake error",
+          "14islands": "robots.txt redirect (308)"
+        },
+        "excluded on review": {
+          "Netflix": "redirects automated browsers to an unsupported-browser page",
+          "Spotify": "redirects to the web player, not a homepage"
+        },
+        "no matching Refero entry": [
+          "Dropbox",
+          "Miro",
+          "Sentry",
+          "Nike"
+        ]
+      }
     }
   ]
 }

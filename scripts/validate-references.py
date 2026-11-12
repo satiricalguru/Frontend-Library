@@ -26,7 +26,7 @@ def validate():
     catalog = json.loads((ROOT / "data/landing-pages.json").read_text())
     check(catalog["count"] == len(catalog["items"]), "Capture count is stale")
     seen = set()
-    expected_records = {path.relative_to(ROOT).as_posix() for path in (ROOT / "captures/lusion").glob("*/page.json")}
+    expected_records = {path.relative_to(ROOT).as_posix() for path in (ROOT / "captures").glob("*/*/page.json")}
     check(expected_records == {item["record"] for item in catalog["items"]}, "Capture index omits records or includes stale paths; rebuild it")
     for item in catalog["items"]:
         ident = item["id"]
@@ -57,7 +57,10 @@ def validate():
                 check(hashlib.sha256(content).hexdigest() == media["sha256"], f"{ident}: media hash mismatch: {media['file']}")
         for resource in record.get("resources", []):
             url = urlparse(resource["url"])
-            check(url.hostname in ("lusion.co", "lusion.dev") or bool(url.hostname and url.hostname.endswith(".lusion.co")), f"{ident}: unexpected resource host")
+            site = ".".join(urlparse(record["url"]).hostname.removeprefix("www.").split(".")[-2:])
+            allowed = url.hostname in ("lusion.co", "lusion.dev") or bool(url.hostname and url.hostname.endswith(".lusion.co")) if site == "lusion.co" \
+                else bool(url.hostname and (url.hostname == site or url.hostname.endswith("." + site)))
+            check(allowed, f"{ident}: unexpected resource host")
             check(not url.query and not url.fragment, f"{ident}: query/fragment leaked into resource inventory")
         if item.get("video"):
             check(item["video"].endswith("/" + record["video"]["file"]), f"{ident}: mismatched video path")

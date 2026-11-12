@@ -1,0 +1,54 @@
+# Modern Treasury — homepage
+
+[Source](https://www.moderntreasury.com/) · [Discovery page](https://styles.refero.design/style/2e9b3dcb-f937-488d-891c-351c7366188f) · [Raw record](../../../captures/refero/refero-modern-treasury/page.json)
+
+Captured `2026-11-12T10:54:57.303Z` at **1440 × 900**. Type: **landing-page**. Status: **captured**.
+
+[Play/download the recorded browser traversal](../../../captures/refero/refero-modern-treasury/traversal.mp4) (11.0 seconds, muted). This is a browser recording, not an extracted source video.
+
+## Visual checkpoints
+
+Each percentage is requested capture progress, not a verified animation timeline. Check the recorded URL and visible section IDs.
+
+![Checkpoint 0 at 0.0s](../../../captures/refero/refero-modern-treasury/checkpoint-00.jpg)
+
+Frame `0` · `0.0s` · requested progress `0` · [actual route](https://www.moderntreasury.com/).
+
+![Checkpoint 5 at 1.0s](../../../captures/refero/refero-modern-treasury/checkpoint-01.jpg)
+
+Frame `5` · `1.0s` · requested progress `0.22` · [actual route](https://www.moderntreasury.com/).
+
+![Checkpoint 9 at 3.9s](../../../captures/refero/refero-modern-treasury/checkpoint-02.jpg)
+
+Frame `9` · `3.9s` · requested progress `0.39` · [actual route](https://www.moderntreasury.com/).
+
+![Checkpoint 14 at 6.6s](../../../captures/refero/refero-modern-treasury/checkpoint-03.jpg)
+
+Frame `14` · `6.6s` · requested progress `0.61` · [actual route](https://www.moderntreasury.com/).
+
+![Checkpoint 18 at 8.5s](../../../captures/refero/refero-modern-treasury/checkpoint-04.jpg)
+
+Frame `18` · `8.5s` · requested progress `0.78` · [actual route](https://www.moderntreasury.com/).
+
+![Checkpoint 23 at 11.0s](../../../captures/refero/refero-modern-treasury/checkpoint-05.jpg)
+
+Frame `23` · `11.0s` · requested progress `1` · [actual route](https://www.moderntreasury.com/).
+
+## Observed structure
+
+| Section ID | Initial y | Height |
+|:--|--:|--:|
+
+## Implementation boundary
+
+This package records the route above. A studio case study may show videos of a client website; it does not establish that client's runtime or interactions. Inspect the outbound links in the record before choosing a live project as a target.
+
+- A recorded browser traversal, not an offline copy of the site.
+- Shader source, models, textures and original media are inventoried by URL only.
+- Audio is muted. Scroll checkpoints do not enumerate every possible interaction.
+- A canvas does not by itself prove Three.js or any particular rendering technique.
+- Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.
+
+Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.
+
+[Agent workflow](../../../.agents/skills/frontend-library/SKILL.md) · [Implementation guidance](../../../.agents/skills/frontend-library/references/implementation.md)

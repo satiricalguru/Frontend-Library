@@ -18,7 +18,21 @@
     "repositoryRecordsIncluded": 297,
     "repositorySelection": "Name/description/topics match WebGL, Three.js, shader, scroll, transition, hover, 3D, particle, gallery, slideshow, distortion, cursor or animation patterns.",
     "notFullTagArchive": true,
-    "pageCapturesBundled": false
+    "pageCapturesBundled": false,
+    "previews": {
+      "resolvedOn": "2026-11-12",
+      "bySource": {
+        "github-social-card": 118,
+        "readme-remote": 176,
+        "repository-file": 3
+      },
+      "withoutPreview": 18,
+      "method": "Authenticated GitHub REST API (repository, default-branch commit, recursive tree, README), at most 4 repositories at a time. Repository files are pinned to the default-branch commit SHA on raw.githubusercontent.com. README images on other hosts are stored as URLs for the visitor's browser and were not fetched. Remaining repositories use GitHub's generated social card.",
+      "imagesDownloaded": false,
+      "tympanusRequested": false,
+      "videosCollected": false,
+      "articleReferences": "No preview unless a repository records the identical article URL; none were inferred."
+    }
   },
   "access": {
     "robotsUrl": "https://tympanus.net/robots.txt",
@@ -27,7 +41,8 @@
     "namedAiCrawlerRestriction": "GPTBot and other named AI crawlers disallowed.",
     "directTagRequest": "HTTP 403; no bypass attempted.",
     "articleBodiesCrawled": false,
-    "alternative": "Official Codrops public GitHub repository API metadata, fetched sequentially via observed Link pagination."
+    "alternative": "Official Codrops public GitHub repository API metadata, fetched sequentially via observed Link pagination.",
+    "previewImagesFetched": false
   },
   "items": [
     {
@@ -413,7 +428,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b18acdc8900f46302bf1601ace47eee87f418e1c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2025/05/scroll3dcarousel_featured_final-1536x1152.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-3dgridcontentpreview",
@@ -440,7 +460,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=54253"
+      "article": "https://tympanus.net/codrops/?p=54253",
+      "previewCollected": "2026-11-12",
+      "commit": "f16ca5d074526037393065fb621edb0e93fff52b",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/04/3DGridContentPreview.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-3dlettersmenuhover",
@@ -466,7 +491,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "60871b7427885160b3ffe395a9f1db010f272a03",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/04/3DLettersHoverMenu.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-3drestaurantmenu",
@@ -490,7 +520,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b43d5d3c93b6f5a9e2c9d8eb82cb3bf802350eae",
+      "preview": "https://opengraph.githubassets.com/1/codrops/3DRestaurantMenu",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-3dstackmotion",
@@ -516,7 +550,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "75cbda91ed26d31aeeb5a5b9887848e5a7005c7f",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/03/3dstackmotion.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedanimals",
@@ -541,7 +580,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Tutorials/AnimatedAnimals/"
+      "demo": "http://tympanus.net/Tutorials/AnimatedAnimals/",
+      "previewCollected": "2026-11-12",
+      "commit": "b3e6c6e4e114272cca37409242814b767e76b466",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedAnimals",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedbordermenus",
@@ -565,7 +608,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7f6f143a9f473f37648263d31d8b5fb14d3b8ac9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedBorderMenus",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedcodebackground",
@@ -591,7 +638,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b22a68671bae0f059fcfd10d279a9e8a7d966fd9",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/05/gradientmask.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedcustomcursor",
@@ -617,7 +669,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=48725"
+      "article": "https://tympanus.net/codrops/?p=48725",
+      "previewCollected": "2026-11-12",
+      "commit": "27dd6c4da069829c5773f7dcbc87a5fac5bc7fda",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/03/AnimatedCursor_featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedframeslideshow",
@@ -644,7 +701,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33037"
+      "article": "https://tympanus.net/codrops/?p=33037",
+      "previewCollected": "2026-11-12",
+      "commit": "96babc6b02e7c74606b29c2bccf3f9b43a0b2847",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/11/AnimatedFrameSlideshow_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedgridlayout",
@@ -669,7 +731,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "faed393932f2c0cfc42242b1bd40b624f5423c23",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedGridLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedgridpreviews",
@@ -695,7 +761,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36291"
+      "article": "https://tympanus.net/codrops/?p=36291",
+      "previewCollected": "2026-11-12",
+      "commit": "5865ebb3cea0e62de3897964acfec3c64ea944b3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/10/Animated-Grids-Layout_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedheader",
@@ -721,7 +792,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "be97aba6bdf98e212e885845393675ab1cd3f271",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedHeader",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedimagecolumns",
@@ -746,7 +821,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=40486"
+      "article": "https://tympanus.net/codrops/?p=40486",
+      "previewCollected": "2026-11-12",
+      "commit": "299c49dd6a51eafabb304743943ba8f7015c0995",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/05/AnimatedColumns_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedimagepieces",
@@ -770,7 +850,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "4739ed26947188ef18e66e40fa2bde567ee930e6",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/07/AnimatedImagePieces_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animatedletters",
@@ -794,7 +879,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "631b92ab350f6da1619aabf57c23edf03a686658",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedLetters",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedmenuicon",
@@ -819,7 +908,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Tutorials/AnimatedMenuIcon/"
+      "demo": "http://tympanus.net/Tutorials/AnimatedMenuIcon/",
+      "previewCollected": "2026-11-12",
+      "commit": "d289185350e587ca43725a855f18b4758f6b1630",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedMenuIcon",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedresponsiveimagegrid",
@@ -845,7 +938,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "60aa60b8871a2d822f7128e5f2157b8a477995c1",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedResponsiveImageGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatedsvgicons",
@@ -869,7 +966,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c44b8c3b153bbd0f7d0262034170e5232ae6190e",
+      "preview": "https://opengraph.githubassets.com/1/codrops/AnimatedSVGIcons",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-animatesvgtextpath",
@@ -903,7 +1004,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=47831"
+      "article": "https://tympanus.net/codrops/?p=47831",
+      "previewCollected": "2026-11-12",
+      "commit": "984c2f6812d93c2bae0717b7098e4d801a260a55",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/02/TextPath_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-animocons",
@@ -927,7 +1033,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "36a9d1ba0b6dff2996f004ac46b2df607d3d047c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Animocons",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-arrownavigationstyles",
@@ -953,7 +1063,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2e7c8868f44814bb80ce74e1b669984c417345bd",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ArrowNavigationStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-astro-shop-view-transitions",
@@ -980,7 +1094,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=73418"
+      "article": "https://tympanus.net/codrops/?p=73418",
+      "previewCollected": "2026-11-12",
+      "commit": "0b431f92e10c693e156ee7644ac0f9f179407b04",
+      "preview": "https://opengraph.githubassets.com/1/codrops/astro-shop-view-transitions",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-backgroundscalehovereffect",
@@ -1006,7 +1124,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=48414"
+      "article": "https://tympanus.net/codrops/?p=48414",
+      "previewCollected": "2026-11-12",
+      "commit": "5ec048fcd4d43d7ec80260c2037065e6f77d6011",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/03/BackgroundScaleClip_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-backgroundshift",
@@ -1030,7 +1153,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d0e38dc7d04413b931b36b68ba0a78b1cb682f69",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/01/BackgroundShift_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-blockrevealers",
@@ -1055,7 +1183,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=29372"
+      "article": "https://tympanus.net/codrops/?p=29372",
+      "previewCollected": "2026-11-12",
+      "commit": "f8bc11a648756c32701106a33f19f0b795f1d794",
+      "preview": "https://opengraph.githubassets.com/1/codrops/BlockRevealers",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-blueprint-backgroundslideshow",
@@ -1079,7 +1211,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "786c8a390d4cb6d0d40e5f1cc9befb6c749067b4",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-BackgroundSlideshow",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-blueprint-elasticcontentslider",
@@ -1103,7 +1239,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "6fb1df3013ae0ceb26620199f4f264a8f8bb8b29",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-ElasticContentSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-blueprint-fixedbackgroundscrollinglayout",
@@ -1127,7 +1267,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b55ab13f7b1e9b24f6000bbed26847f2a2e77b0d",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-FixedBackgroundScrollingLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-blueprint-fullwidthimageslider",
@@ -1151,7 +1295,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f69efd5832eaa18a2a82b099bacee65d8876c16b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-FullWidthImageSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-blueprint-responsivefullwidthgrid",
@@ -1175,7 +1323,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f79a80cb04ab3f5d6db5e0b39c9a11331ffc8083",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Blueprint-ResponsiveFullWidthGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-bookpreview",
@@ -1200,7 +1352,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "29c446ba5e87a71965882862f89b090cca6d2226",
+      "preview": "https://opengraph.githubassets.com/1/codrops/BookPreview",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-buttoncomponentmorph",
@@ -1224,7 +1380,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "6d2e37e33cdb215da676cd0f6fee9e3e42d95ef1",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ButtonComponentMorph",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-buttonhoverstyles",
@@ -1249,7 +1409,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3976fa1b65dced5d330db43c51081787c3e7b46e",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/02/buttonstyles.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-buttonstylesinspiration",
@@ -1273,7 +1438,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c5c92baed93810b3b131e4b140ed2474779ef62c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ButtonStylesInspiration",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-captionhovereffects",
@@ -1298,7 +1467,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c4a983c0e547bec34562b2323f0fb7defe680b87",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CaptionHoverEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-cardstackeffects",
@@ -1322,7 +1495,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "09c82dfed5bb533bae1d4a55d0f0bffdbd95b67d",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CardStackEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-cinemaseatpreview",
@@ -1349,7 +1526,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Demos/CinemaSeatPreview/"
+      "demo": "https://tympanus.net/Demos/CinemaSeatPreview/",
+      "previewCollected": "2026-11-12",
+      "commit": "3d9c6ae4decea570852ded9993014dec0ee200fc",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CinemaSeatPreview",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-circulartexteffect",
@@ -1373,7 +1554,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fcd9aaa5d55d0d6ce5f9d1b6795e4c3d45dd93b2",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/03/circletext_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-clickeffects",
@@ -1397,7 +1583,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2f7175b2e84647aa1378d34a13ef0baada6b39a9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ClickEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-cliphovereffect",
@@ -1422,7 +1612,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "57b5cc1b6cc375e69dd915bdd307f2645e1dabb7",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/06/cliphoverslices_featured.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-collapsinglogo",
@@ -1447,7 +1642,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35022"
+      "article": "https://tympanus.net/codrops/?p=35022",
+      "previewCollected": "2026-11-12",
+      "commit": "19aa664eac7944f4720af8831bdfeb36e59787ce",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/06/CollapsingLogoEffect_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-columnscroll",
@@ -1472,7 +1672,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f9211e8bcb5b0a55f08e0cfff3f71da450cef4e6",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/12/columscroll_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-connectedgrid",
@@ -1498,7 +1703,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ef710e30eaac190be2b9eda0c4765a16fcbb22b6",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/08/ConnectedGrid_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-contentlayouttransition",
@@ -1524,7 +1734,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=63558"
+      "article": "https://tympanus.net/codrops/?p=63558",
+      "previewCollected": "2026-11-12",
+      "commit": "ef96cdc22f1d7b8b426f73283c6c70e163eb9b29",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/05/StackLayoutTransition_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-contextawarelogoanimationscroll",
@@ -1549,7 +1764,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2c717fbf374d5751ae0c2ba2d0b0bb533520e427",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/10/contextawarefeat.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-coverpagetransition",
@@ -1573,7 +1793,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "28b793b46454d4af382803d082e7e7009574248d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/07/CoverTransition.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-creativebuttons",
@@ -1597,7 +1822,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ce39ae40827229a0a94767f169037984f3cd5a7c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeButtons",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-creativegooeyeffects",
@@ -1622,7 +1851,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/?p=23487"
+      "article": "http://tympanus.net/codrops/?p=23487",
+      "previewCollected": "2026-11-12",
+      "commit": "1ecf43af90c725d150e0986364475edd4487b5e7",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeGooeyEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-creativelinkeffects",
@@ -1647,7 +1880,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "61ff3ec23019418df6b5cc935bd3f976e35b1e2c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/CreativeLinkEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-crosshairdistortion",
@@ -1674,7 +1911,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "e8d3c5578c935ad881afe6fe3a45782e79ae31b3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/05/crosshair.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-crossroadsslideshow",
@@ -1699,7 +1941,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=39863"
+      "article": "https://tympanus.net/codrops/?p=39863",
+      "previewCollected": "2026-11-12",
+      "commit": "39a5a3dd9a42a8ace16c9526f55e85ef26de5dd7",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/04/CrossroadsSlideshow_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-cssglitcheffect",
@@ -1724,7 +1971,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33498"
+      "article": "https://tympanus.net/codrops/?p=33498",
+      "previewCollected": "2026-11-12",
+      "commit": "1c5caf538111e8a1c82a11f72065fa6eea01e464",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/12/ImageGlitchEffect_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-cssmarqueemenu",
@@ -1749,7 +2001,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=48796"
+      "article": "https://tympanus.net/codrops/?p=48796",
+      "previewCollected": "2026-11-12",
+      "commit": "e7cea3a6762261e1e196d893bc2f5a1e50720dc1",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/03/Marquee_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-cubesadventcalendar",
@@ -1776,7 +2033,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/2016/11/09/cubes-advent-calendar/"
+      "article": "http://tympanus.net/codrops/2016/11/09/cubes-advent-calendar/",
+      "previewCollected": "2026-11-12",
+      "commit": "45b4d6770398c5b6e5d029c6419f63407dae3554",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/11/BoxesAdventCalendar.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-decorativeletteranimations",
@@ -1807,7 +2069,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33640"
+      "article": "https://tympanus.net/codrops/?p=33640",
+      "previewCollected": "2026-11-12",
+      "commit": "eb27c6bd821a11f8e4b4b4c29b1db44d15880764",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/01/DecorativeLetterEffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-developerdesignerpagelayout",
@@ -1831,7 +2098,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "33772efab5c43c7c17c271b25f30a7c1d49dec33",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/04/DeveloperDesignerPageLayout_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-diagonalslideshow",
@@ -1856,7 +2128,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35765"
+      "article": "https://tympanus.net/codrops/?p=35765",
+      "previewCollected": "2026-11-12",
+      "commit": "696368100d80efa10a42eaf37c166318bce6e559",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/08/DiagonalSlideshow.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-diagonalthumbnails",
@@ -1881,7 +2158,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50811"
+      "article": "https://tympanus.net/codrops/?p=50811",
+      "previewCollected": "2026-11-12",
+      "commit": "02db756f418d11dfb265c06b2787fb0f3b98f9ef",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/09/DiagonalThumbnailsSlideshow_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-dialogeffects",
@@ -1905,7 +2187,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "e20e20d3f509b06299030e245abf5ba6f64f1f46",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DialogEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-directionawarehovereffect",
@@ -1931,7 +2217,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "15f35fd6feeba60030811534b34179712fca977f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DirectionAwareHoverEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-distortedbuttoneffects",
@@ -1957,7 +2247,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Development/DistortedButtonEffects/"
+      "demo": "http://tympanus.net/Development/DistortedButtonEffects/",
+      "previewCollected": "2026-11-12",
+      "commit": "e45285afb2a3a8b4cb31fe6c0c069880f17c05d2",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DistortedButtonEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-distortedlinkeffects",
@@ -1988,7 +2282,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=48230"
+      "article": "https://tympanus.net/codrops/?p=48230",
+      "previewCollected": "2026-11-12",
+      "commit": "c2bee9f6f761f904ca7079e03a4725b05c7451e1",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/03/linkline.2020-03-04-11_11_21.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-distortedmenulinkeffects",
@@ -2014,7 +2313,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2020/03/18/ideas-for-distorted-link-effects-on-menus/"
+      "article": "https://tympanus.net/codrops/2020/03/18/ideas-for-distorted-link-effects-on-menus/",
+      "previewCollected": "2026-11-12",
+      "commit": "5f2f934d8f56845932f6b042af99a9ef81c199d4",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/03/LinkEffects_featured.png",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-dotnavigationstyles",
@@ -2038,7 +2342,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f923f05be59842cf61d75ddb3c1348852d08e95e",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DotNavigationStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-doubleimagehovereffects",
@@ -2063,7 +2371,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "93cfbce9cb65b3bfe941284ab3a360b9e7cb81ff",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/03/clippath.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-doubleslideshow",
@@ -2087,7 +2400,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "394c0a7083f96be6b576224b443262e0d3a00330",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/06/DoubleSlideshow-800x445.jpg?x43291",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-draggabledualviewslideshow",
@@ -2111,7 +2429,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "041ee7c8717fa75b423321110477634e2955b3a2",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DraggableDualViewSlideshow",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-draggablemenu",
@@ -2144,7 +2466,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=40926"
+      "article": "https://tympanus.net/codrops/?p=40926",
+      "previewCollected": "2026-11-12",
+      "commit": "c943b24ee1c33405f91c4614217612d99edcc665",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/06/DraggableMenu_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-dynamicgrid",
@@ -2169,7 +2496,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fe50c03055671a930b8e9582486c27e2d5ad45d2",
+      "preview": "https://opengraph.githubassets.com/1/codrops/DynamicGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-elasticcircleslideshow",
@@ -2194,7 +2525,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "958f02e235a86ad5ca92dc6309b8265a409c1353",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ElasticCircleSlideshow",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-elasticgridscroll",
@@ -2220,7 +2555,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "40e474582ae72df26cd9d90b05d5b15fed423abd",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2025/06/ElasticGridScroll.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-elasticprogress",
@@ -2245,7 +2585,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/2015/09/23/elastic-progress/"
+      "article": "http://tympanus.net/codrops/2015/09/23/elastic-progress/",
+      "previewCollected": "2026-11-12",
+      "commit": "2055f0e6533efdeb3ba3b6ca6419c3ecaa7ed551",
+      "preview": "https://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/elasticprogress.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "codropspz.tympanus.netdna-cdn.com"
     },
     {
       "id": "codrops-repo-elasticsvgelements",
@@ -2269,7 +2614,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "733bfc20d164f262622dcd47c7905d762c8804db",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ElasticSVGElements",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-exhibition",
@@ -2294,7 +2643,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "e10dca0ae1d32ca808e41fef0788e815b6539af7",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Exhibition",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-expandinggriditemanimation",
@@ -2320,7 +2673,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=32944"
+      "article": "https://tympanus.net/codrops/?p=32944",
+      "previewCollected": "2026-11-12",
+      "commit": "af38df3e4f5d04c151e09f40e08acedeb3cf54b5",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/11/expandinggrid_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-expandingroundedmenu",
@@ -2344,7 +2702,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "9f8174aaca176a0e4b31e1330f9049b45fd02758",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/03/ExpandingRoundedMenu.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-fancyletteranimation",
@@ -2368,7 +2731,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b30550d99313d4403cb0b7392d43c5586567e9a8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/09/FancySVGLetterAnimation_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-filterableproductgrid",
@@ -2392,7 +2760,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3cc6094fc92259140117e9d8950d8e6bf4bb72fe",
+      "preview": "https://opengraph.githubassets.com/1/codrops/FilterableProductGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-folderpreviewideas",
@@ -2417,7 +2789,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Development/FolderPreviewIdeas/"
+      "demo": "https://tympanus.net/Development/FolderPreviewIdeas/",
+      "previewCollected": "2026-11-12",
+      "commit": "6af671c9d61dbfb4d554043852e32814adbd8efa",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/05/FolderPreviewIdeas_Featured.png",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-fourboxes",
@@ -2441,7 +2818,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f90ea18ca5ecfe016b98c17fe695a7cedcb9fd24",
+      "preview": "https://opengraph.githubassets.com/1/codrops/FourBoxes",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-fullimagereveal",
@@ -2466,7 +2847,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35087"
+      "article": "https://tympanus.net/codrops/?p=35087",
+      "previewCollected": "2026-11-12",
+      "commit": "209056c1772a565b1f57547057ad65d2d5a6a976",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/06/FullImageReveal_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-fullscreenclipeffect",
@@ -2491,7 +2877,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c0a27bffdeb0ba066babeec46f1231581e15274b",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/03/ClipAnimation_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-fullscreenform",
@@ -2515,7 +2906,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0fea38a0024f25bedcba185423ef96bf1dd5dc7f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenForm",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-fullscreenhoverloop",
@@ -2547,7 +2942,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36172"
+      "article": "https://tympanus.net/codrops/?p=36172",
+      "previewCollected": "2026-11-12",
+      "commit": "8ffe8aa95e048a1e99d8d414bf0e79068f84a8ed",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/10/FullscreenLoop.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-fullscreenlayoutpagetransitions",
@@ -2572,7 +2972,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "1dfb62faf91a9f548240438622161d407db6c05f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenLayoutPageTransitions",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-fullscreenoverlaystyles",
@@ -2596,7 +3000,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c8ec821c031a2de83a66909077b2c34b7f76f80a",
+      "preview": "https://opengraph.githubassets.com/1/codrops/FullscreenOverlayStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-fullscreenscroll",
@@ -2621,7 +3029,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "797ae92855cde470624e3377ded58c64730384e2",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/08/fullscreenscroll_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gammagallery",
@@ -2646,7 +3059,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "775f1a7ccae89b31f6105ca98c48c398bb6b638f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/GammaGallery",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-glitchperspective",
@@ -2671,7 +3088,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "80f9295118011ad55691398d2cec220ecf8c8f74",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/09/GlitchPers_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-glitchslideshow",
@@ -2702,7 +3124,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=34273"
+      "article": "https://tympanus.net/codrops/?p=34273",
+      "previewCollected": "2026-11-12",
+      "commit": "b678d6c67ed71ccc2a95cc45a092cf1d09e468a4",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/03/GlitchSlideshow_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-glitchygrid",
@@ -2737,7 +3164,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50258"
+      "article": "https://tympanus.net/codrops/?p=50258",
+      "previewCollected": "2026-11-12",
+      "commit": "ba0b1b4239be04532718ada0baaa84626f922927",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/06/glitchygrid.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gooeycursor",
@@ -2762,7 +3194,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ca463d0ac4953cc1d22790968fb0e06d7b789d63",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/06/gooeycursor_2.2023-06-07-10_54_11.gif?x99136",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gooeytexthovereffect",
@@ -2793,7 +3230,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=49166"
+      "article": "https://tympanus.net/codrops/?p=49166",
+      "previewCollected": "2026-11-12",
+      "commit": "6db15b76e7425c2bca6f746da367bd927641fa48",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/04/GooeyMenu_featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gradienttopographyanimation",
@@ -2818,7 +3260,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33779"
+      "article": "https://tympanus.net/codrops/?p=33779",
+      "previewCollected": "2026-11-12",
+      "commit": "736758834ad426f8a638997b30f0931a04120be0",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/01/GradientTopographyAnimation_Featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridfloweffect",
@@ -2843,7 +3290,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "70ad0ca5dc6920e5fd5c6fa51aab1706c0001fa3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/07/gridflow_featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridgallery",
@@ -2868,7 +3320,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3c0fb4373e74597fed3d02c532d4c3014a5b8650",
+      "preview": "https://opengraph.githubassets.com/1/codrops/GridGallery",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-griditemhovereffect",
@@ -2894,7 +3350,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c9a29492d52134d52b3206efb594b69fedfe153d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/09/griditemhover.gif?x39121",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridlayoutanimation",
@@ -2927,7 +3388,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=64172"
+      "article": "https://tympanus.net/codrops/?p=64172",
+      "previewCollected": "2026-11-12",
+      "commit": "fa8dbedd1810da4eece1ad5d36baa0e026bb0729",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/07/GridAnimation.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridlayoutmotion",
@@ -2954,7 +3420,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=34922"
+      "article": "https://tympanus.net/codrops/?p=34922",
+      "previewCollected": "2026-11-12",
+      "commit": "9e517426df9ce045c91851df8b3ae3cb0ca396ec",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/05/GridLayoutMotion_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridlayoutscrollablecontent",
@@ -2982,7 +3453,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35959"
+      "article": "https://tympanus.net/codrops/?p=35959",
+      "previewCollected": "2026-11-12",
+      "commit": "a953a79b07b6a54ba7902d36611a0069051f7ba6",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/09/GridLayout_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridlayoutslideshow",
@@ -3009,7 +3485,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=31774"
+      "article": "https://tympanus.net/codrops/?p=31774",
+      "previewCollected": "2026-11-12",
+      "commit": "7fc2f9c05085a46c7a8d8166ec1d31f943226404",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/07/GridLayoutSlideshow_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridloadinganimations",
@@ -3034,7 +3515,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fa2b283504590e92ef25c717ba989870ada7217c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/GridLoadingAnimations",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-gridloadingeffects",
@@ -3059,7 +3544,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "6f50926ddebedabd04d9fc71264237550085e59b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/GridLoadingEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-gridmenu",
@@ -3085,7 +3574,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=34419"
+      "article": "https://tympanus.net/codrops/?p=34419",
+      "previewCollected": "2026-11-12",
+      "commit": "f1449f834aedf1d85c67e07ce57df77e12f13ded",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/03/GridMenu_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridrevealeffects",
@@ -3116,7 +3610,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=38214"
+      "article": "https://tympanus.net/codrops/?p=38214",
+      "previewCollected": "2026-11-12",
+      "commit": "b8a05526995dd7e4ab92edbb08c1244d7cc90057",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/02/GridRevealEffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridtoslider",
@@ -3142,7 +3641,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "1d8b2abb52ba9207459d1b2ee6ac372f429ef8de",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/05/gridtoslider_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridviewswitch",
@@ -3168,7 +3672,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "530cc792a07daec6ce84c7988c02ee5a12aa9ebd",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/04/pixeltransition.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-gridzoom",
@@ -3192,7 +3701,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "a02368f353587619a873380da8e2b7278e4e9583",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/12/GridZoom_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-horizontalslideoutmenu",
@@ -3216,7 +3730,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "428f07d25a52e3b28fa03fb661ac4fe91855bbf4",
+      "preview": "https://opengraph.githubassets.com/1/codrops/HorizontalSlideOutMenu",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-horizontalsmoothscrolllayout",
@@ -3241,7 +3759,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "bc0bbec7cf1c92fe1bd5ba8d537150f53acfebac",
+      "preview": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2020/12/HorizontalScroll_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "i7x7p5b7.stackpathcdn.com"
     },
     {
       "id": "codrops-repo-hovereffectideas",
@@ -3266,7 +3789,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3bf44a3aab6f2baadbefebfa432fdaae9d12dbf0",
+      "preview": "https://opengraph.githubassets.com/1/codrops/HoverEffectIdeas",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-hovergrid",
@@ -3292,7 +3819,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0a59474715182c0d0bc2219c48f9cdd4f570cf9b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/HoverGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-hoverpreviewminimap",
@@ -3320,7 +3851,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "6fec83273afb652a55cb2c76b5cdeef5d32c6c94",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/03/HoverPreviewMiniMap.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-iconhovereffects",
@@ -3346,7 +3882,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "89311da793c21141cb5b13e8f0d29107fee510fb",
+      "preview": "https://opengraph.githubassets.com/1/codrops/IconHoverEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-imagedraggingeffects",
@@ -3371,7 +3911,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=47024"
+      "article": "https://tympanus.net/codrops/?p=47024",
+      "previewCollected": "2026-11-12",
+      "commit": "a1faf9fcb5975bf356501236ae987bf89486b412",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/02/ImageDragging_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imageexpansiontypography",
@@ -3395,7 +3940,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0d614791f94198bcab655762b26a3cb85da851f4",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/04/expandimage_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagegrideffects",
@@ -3421,7 +3971,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/"
+      "article": "http://tympanus.net/codrops/2015/10/15/effect-ideas-for-image-grids/",
+      "previewCollected": "2026-11-12",
+      "commit": "30c994b612900be1174d4c1535b1d6d8932cba1b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ImageGridEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-imagegridmotioneffect",
@@ -3455,7 +4009,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50073"
+      "article": "https://tympanus.net/codrops/?p=50073",
+      "previewCollected": "2026-11-12",
+      "commit": "210f9703661b0547d8c16c91fee5df942f816846",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/06/MotionGrid_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagepixelloading",
@@ -3480,7 +4039,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "672443ebbb4f784150b15e40088b1bf96d110aac",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/05/pixelloading.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagerevealhover",
@@ -3506,7 +4070,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36588"
+      "article": "https://tympanus.net/codrops/?p=36588",
+      "previewCollected": "2026-11-12",
+      "commit": "b78daf9c452630e6c2fccf8366a7b4ad790b1e00",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/11/HoverImageReveal_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagestackgrid",
@@ -3538,7 +4107,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=52018"
+      "article": "https://tympanus.net/codrops/?p=52018",
+      "previewCollected": "2026-11-12",
+      "commit": "0113fac4877a3a6b2db33a7f118faef2df979078",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/11/IntroImageStackAnimation_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagetilesmenu",
@@ -3562,7 +4136,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ed861a855e5efa6ba68eb3153b2692ce8a6ec9e8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/04/imagetilesmenuanimation.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagetilteffect",
@@ -3586,7 +4165,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2d2d489b5d2018dc12a2e3d2aa6aaf92cce4ba3a",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ImageTiltEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-imagetocontent",
@@ -3612,7 +4195,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b4bbdc7b1809e56ee129ac296c5dcf1849a00c2d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/08/ImageToContent_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagetogridtransition",
@@ -3644,7 +4232,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=63608"
+      "article": "https://tympanus.net/codrops/?p=63608",
+      "previewCollected": "2026-11-12",
+      "commit": "8717fcf6322b9f6341655cbf08533e6ba3e44f01",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/05/ImageToGridTransition.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-imagetraileffects",
@@ -3670,7 +4263,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=42696"
+      "article": "https://tympanus.net/codrops/?p=42696",
+      "previewCollected": "2026-11-12",
+      "commit": "5722f59a1ffb4c26292c86470aa80c1056f893ed",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/08/ImageTrailEffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-infinitetubes",
@@ -3696,7 +4294,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Development/InfiniteTubes/"
+      "demo": "https://tympanus.net/Development/InfiniteTubes/",
+      "previewCollected": "2026-11-12",
+      "commit": "a3b831b6c95bed4d803dfeed8b66ec76de333996",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/05/InfiniteTubesWithThreeJS_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-inlineanchorstyles",
@@ -3720,7 +4323,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d2696a58b3dd223455775879d2498001883a6d17",
+      "preview": "https://opengraph.githubassets.com/1/codrops/InlineAnchorStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-inlinelayoutswitch",
@@ -3744,7 +4351,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "aa7c7821ee526fd968d09dc6556f47813132a598",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/11/inlinelayoutswitch_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-inlinemenulayout",
@@ -3776,7 +4388,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=51858"
+      "article": "https://tympanus.net/codrops/?p=51858",
+      "previewCollected": "2026-11-12",
+      "commit": "ccfb1d128002efe53c83703aaa5fbb438036259f",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/11/InlineMenuLayout_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-inlinetomenulink",
@@ -3800,7 +4417,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0e047cefafbe240234c878544122986cc3dcb95a",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/06/InlinetoMenuLink_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-interactive3dmallmap",
@@ -3824,7 +4446,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0e41a531fac6d3d71374af1a4917cea9cc58d07f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Interactive3DMallMap",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-interactivepoints",
@@ -3849,7 +4475,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "8419b6377dba812c39c7610688e2b0017a1e4676",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/07/InteractivePoints_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-interlude",
@@ -3880,7 +4511,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://interlude.crnacura.workers.dev/"
+      "demo": "https://interlude.crnacura.workers.dev/",
+      "previewCollected": "2026-11-12",
+      "commit": "9754ce545a1528fdb73f7e10fdcceb29527d094f",
+      "preview": "https://github.com/user-attachments/assets/a8222d7a-c0ad-4f2b-86a3-2a8f27c4864e",
+      "previewSource": "readme-remote",
+      "previewHost": "github.com"
     },
     {
       "id": "codrops-repo-introgridmotiontransition",
@@ -3907,7 +4543,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "07ec3988e873e1710fb65b9d921c3aa6c05b16eb",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/05/hovermotion_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-introtraileffect",
@@ -3931,7 +4572,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "eec7367cbb03b052ffc683227f6ae39557e84d3f",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/05/introtrail_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-isle-thorne-collective",
@@ -3956,7 +4602,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://isle-thorne-collective.crnacura.workers.dev/"
+      "demo": "https://isle-thorne-collective.crnacura.workers.dev/",
+      "previewCollected": "2026-11-12",
+      "commit": "0d859ac0f3f69e8051e22873ba1eeb328f95c736",
+      "preview": "https://raw.githubusercontent.com/codrops/isle-thorne-collective/0d859ac0f3f69e8051e22873ba1eeb328f95c736/.github/preview.jpg",
+      "previewSource": "repository-file",
+      "previewPath": ".github/preview.jpg"
     },
     {
       "id": "codrops-repo-isometricgrids",
@@ -3981,7 +4632,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ab6aba37616c29eda294d9909a50f4d9c7b25699",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/05/IsometricGrids_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-itemrevealer",
@@ -4006,7 +4662,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f5b67c3ddc3eba63a84e4512d018ee00d60dd231",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ItemRevealer",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-itemslider",
@@ -4031,7 +4691,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5a9d5c0052ec4849b49c15f7750c7b9d76954ba3",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ItemSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-kinetictypepagetransition",
@@ -4055,7 +4719,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ebe926e2f1de42950c36ff8a678321155280c1af",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/09/KineticTypePageTransition_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-layermotionslideshow",
@@ -4088,7 +4757,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=37953"
+      "article": "https://tympanus.net/codrops/?p=37953",
+      "previewCollected": "2026-11-12",
+      "commit": "a382863bb5963d26721f86546f0ec5261cc4f7ac",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/01/LayerMotionSlideshow_featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-layersanimation",
@@ -4113,7 +4787,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fec671735be6aa68949a5fabcda1967658afc717",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/10/cliplayers_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-lettereffects",
@@ -4138,7 +4817,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Development/LetterEffects/"
+      "demo": "http://tympanus.net/Development/LetterEffects/",
+      "previewCollected": "2026-11-12",
+      "commit": "a47ced794b5d82f259942f52198f4490b86746b8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/10/LetterEffects_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-letterinteractions",
@@ -4164,7 +4848,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=31349"
+      "article": "https://tympanus.net/codrops/?p=31349",
+      "previewCollected": "2026-11-12",
+      "commit": "c8b75132155eba90127c8f322594921b70c57765",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/06/LetterInteractions_Featured.png",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-lettersanimationlayout",
@@ -4189,7 +4878,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fc72e80dbaf56556a2fe948cdd2dd57e10505d94",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/03/LettersAnimationLayout.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-lettershufflemenu",
@@ -4213,7 +4907,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "32cf37157f32f6e3f323de63d872319704429cc7",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/03/shufflemenu_feat-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-linehoverstyles",
@@ -4238,7 +4937,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5ff7fb48e2d415fb217dda5942e0cd08bc4ed768",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/02/LineHover_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-linetexthoveranimations",
@@ -4263,7 +4967,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "00fdd50a5daa48a9fcb400d19d17b1dac5935e68",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/06/terminalhover_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-linetypeeffect",
@@ -4287,7 +4996,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "a2d19f8ed4420a14fda9bbf5ecc7cf8fa80e2665",
+      "preview": "https://opengraph.githubassets.com/1/codrops/LineTypeEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-liquiddistortion",
@@ -4315,7 +5028,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=32454"
+      "article": "https://tympanus.net/codrops/?p=32454",
+      "previewCollected": "2026-11-12",
+      "commit": "d8f91ae96e4a0777385f4bb557b4484a0a22f550",
+      "preview": "https://opengraph.githubassets.com/1/codrops/LiquidDistortion",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-littlefragments",
@@ -4340,7 +5057,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2017/01/19/little-fragments-creating-a-simple-image-poster-effect/"
+      "article": "https://tympanus.net/codrops/2017/01/19/little-fragments-creating-a-simple-image-poster-effect/",
+      "previewCollected": "2026-11-12",
+      "commit": "8242016245f3080572b05a8e091d41308dd9a49a",
+      "preview": "https://opengraph.githubassets.com/1/codrops/LittleFragments",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-lookbookhovereffects",
@@ -4368,7 +5089,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Demos/LookbookHoverEffects/"
+      "demo": "https://tympanus.net/Demos/LookbookHoverEffects/",
+      "previewCollected": "2026-11-12",
+      "commit": "326c786715989f0cbf9c24422769422a6f054bfc",
+      "preview": "https://raw.githubusercontent.com/codrops/LookbookHoverEffects/326c786715989f0cbf9c24422769422a6f054bfc/og-image.jpg",
+      "previewSource": "repository-file",
+      "previewPath": "og-image.jpg"
     },
     {
       "id": "codrops-repo-loopscrolling",
@@ -4397,7 +5123,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "207bf5e2397033d18cfdc1722714c98f367cddeb",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/01/loopscroll-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-magneticbuttons",
@@ -4425,7 +5156,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50513"
+      "article": "https://tympanus.net/codrops/?p=50513",
+      "previewCollected": "2026-11-12",
+      "commit": "b2ee8ac9cd561e13198335cca5684fe1c31d543c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/08/Buttons_featured.png",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-makewaygrideffect",
@@ -4450,7 +5186,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "4c8c4321f42d9d6cdad686210214d45a82305dd1",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/06/MakeWay_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-marqueemenu",
@@ -4475,7 +5216,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "26c33b17f79f7c36f33aec9dbd5f6de17b11c326",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/06/Marquee_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-mediapopupeffect",
@@ -4500,7 +5246,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "abb5117e05ab9a7ba6dfba3c2a12965d501608d4",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MediaPopUpEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-menufullgrid",
@@ -4524,7 +5274,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c2644d0417163fa252371da3222160f662ac262e",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MenuFullGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-menuhovereffects",
@@ -4556,7 +5310,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=31887"
+      "article": "https://tympanus.net/codrops/?p=31887",
+      "previewCollected": "2026-11-12",
+      "commit": "c8080c82f2c993cf08441ac345beaf4b1e27bd4d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/08/MenuStyles_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-menuthumbstackanimation",
@@ -4580,7 +5339,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ec3710749b170e4bf1e294918557d3ac21288463",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/09/StackAnimation.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-menutogrid",
@@ -4605,7 +5369,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f94d1dadf23b7991a2f2d4921628b00ead223584",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/09/MenutoGrid.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-mirroreffect",
@@ -4630,7 +5399,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "70cc1f1406d6f4970bdcae2b4f07c286941a342c",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MirrorEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-modalwindoweffects",
@@ -4655,7 +5428,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "859d73f6f88e763ad10e698746cb94acceb870d9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ModalWindowEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-morphingbackgroundshapes",
@@ -4681,7 +5458,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=31190"
+      "article": "https://tympanus.net/codrops/?p=31190",
+      "previewCollected": "2026-11-12",
+      "commit": "a54f38afab2db0533e90b499a381f7d5305f21e0",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/05/MorphingBackgroundShapes_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-morphingdevices",
@@ -4706,7 +5488,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ff3ff88db4a637dd0cf4a7a8b2726938f16b0039",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MorphingDevices",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-morphingpagetransition",
@@ -4732,7 +5518,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=31976"
+      "article": "https://tympanus.net/codrops/?p=31976",
+      "previewCollected": "2026-11-12",
+      "commit": "e7e6db54bc37de62c16fb387a429e726b82c5d1c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/08/MorphingPageTransition_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-morphingsearch",
@@ -4756,7 +5547,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3b70e0e6f8d868026d82b60e5746477a6002e5c7",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MorphingSearch",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-motionblureffect",
@@ -4781,7 +5576,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/?p=23824"
+      "article": "http://tympanus.net/codrops/?p=23824",
+      "previewCollected": "2026-11-12",
+      "commit": "327d96ef4f7e746c0627d32634e2041ecf3b5362",
+      "preview": "https://opengraph.githubassets.com/1/codrops/MotionBlurEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-motionrevealslideshow",
@@ -4807,7 +5606,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35450"
+      "article": "https://tympanus.net/codrops/?p=35450",
+      "previewCollected": "2026-11-12",
+      "commit": "3783eefcd00c6b4c0f4f8be48b5be1159f00008d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/07/MotionRevealSlideshow_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-motiontrailanimations",
@@ -4832,7 +5636,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "de443f358094c7d027d9a7d22fbb846b545149a4",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/10/classic.2023-10-18-11_16_37-1.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-motiontransitioneffect",
@@ -4859,7 +5668,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36812"
+      "article": "https://tympanus.net/codrops/?p=36812",
+      "previewCollected": "2026-11-12",
+      "commit": "b1d49d5acc0987a6fd3f94d2f5e0413a7cb96ebe",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/12/MotionTransition_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-multiboxmenu",
@@ -4885,7 +5699,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36043"
+      "article": "https://tympanus.net/codrops/?p=36043",
+      "previewCollected": "2026-11-12",
+      "commit": "e4c5f887f2df0f7cf6c8534891a451e9258f7a71",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/10/MultiboxMenu.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-multilayoutslideshow",
@@ -4910,7 +5729,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f5b3e94d8858a3128330213d26c71bbccba242da",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/07/MultiLayoutSlideshow_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-navigationindicators",
@@ -4934,7 +5758,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7c72f118c779dc5f11bb7a72952a8f5aa4aec130",
+      "preview": "https://opengraph.githubassets.com/1/codrops/NavigationIndicators",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-notificationstyles",
@@ -4958,7 +5786,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2e8a88f4e7b7353ae1da867d4ec7595061deaf3b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/NotificationStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-offcanvasmenueffects",
@@ -4983,7 +5815,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f6d9ef2ce7f45c86244b6ff56643ed66f71a2d57",
+      "preview": "https://opengraph.githubassets.com/1/codrops/OffCanvasMenuEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-oneelementscroll",
@@ -5007,7 +5843,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "feb7ad7fbc602b8cdbb5109da83442ff5995cdaf",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/11/OneElementScroll.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollcolumnsrows",
@@ -5032,7 +5873,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "33001fa32bbc04443f9eb8e325d6ef13136fc16f",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/08/OnScrollColumns.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrolleffectlayout",
@@ -5057,7 +5903,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ec21e83fe918e942a9ee298dcbd158eb0a973c06",
+      "preview": "https://opengraph.githubassets.com/1/codrops/OnScrollEffectLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-onscrollfilter",
@@ -5081,7 +5931,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3271b3fac95df7bd224da0c6a5860e48441f17ad",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/07/onscrollfilter_feat-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrolllayoutformations",
@@ -5109,7 +5964,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/"
+      "article": "https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/",
+      "previewCollected": "2026-11-12",
+      "commit": "68910ecf85275bdd7e4d0e47013ba4bf9ec94bde",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/09/onscrolllayoutformationfeat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollletteranimations",
@@ -5134,7 +5994,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b3c14371d62efae0f7711fc378b2ba8df21687d8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/01/OnScrollLetterAnimations.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollpathanimations",
@@ -5159,7 +6024,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c8df3150540e5c2b9180553e01216a203f71f1d0",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/06/OnScrollShapeAnimation_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollshapemorph",
@@ -5184,7 +6054,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "feec0a5d32d646b798456d2bf782267ed896b7eb",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/11/ShapeMorph-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollsvgfiltertext",
@@ -5209,7 +6084,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "93fbe0ed632af03722c3af9e01f4e3cb4524f104",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/08/svgfilter_text.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrolltexthighlight",
@@ -5234,7 +6114,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "362914e60aa5284cf2d0a3c25a344a2513a059b0",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/04/TextHighlight.jpg?x32096",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrolltypoanimations",
@@ -5259,7 +6144,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5bda3a9754e657bb6a4a28622c9f8f08efe96d50",
+      "preview": "https://opengraph.githubassets.com/1/codrops/OnScrollTypoAnimations",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-onscrolltypographyanimations",
@@ -5284,7 +6173,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "af28d61d1f8d3d117f5d1e9b09d5209e20a1a212",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/01/OnScrollTypographyAnimations__feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-onscrollviewswitch",
@@ -5310,7 +6204,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "dd8941a1ea08d5892010fcf9bc7470607b024fc6",
+      "preview": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2022/10/ScrollAnim_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "i7x7p5b7.stackpathcdn.com"
     },
     {
       "id": "codrops-repo-organicshapeanimations",
@@ -5336,7 +6235,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippath/"
+      "article": "https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippath/",
+      "previewCollected": "2026-11-12",
+      "commit": "9d2d389e130e25969617521325be8588ef013f10",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/06/OrganicShapeAnimations_Featured.png",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-outdoorstemplate",
@@ -5360,7 +6264,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "8ec07d8be3a9ade6233794a6355df3a9e4932ac3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/01/outdoors_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-pagefliplayout",
@@ -5392,7 +6301,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=36406"
+      "article": "https://tympanus.net/codrops/?p=36406",
+      "previewCollected": "2026-11-12",
+      "commit": "79e085264bed1eb76937651873ae7817a41ccc3d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/11/PageFlipLayout_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-pageloadingeffects",
@@ -5416,7 +6330,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d4348fe750a3903d962775f76b77fc41d203b0d4",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PageLoadingEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-pagepreloadingeffect",
@@ -5440,7 +6358,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7a7893f4145f1dcfcf5dccd1ec893b24170fc987",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PagePreloadingEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-pagerevealeffects",
@@ -5465,7 +6387,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0939dd213a7b204c16732c9453cdf7580027a67b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PageRevealEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-pagetransitions",
@@ -5490,7 +6416,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d608c934d683cab9558608409a912ef864bba2e8",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PageTransitions",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-paranoiaslideshow",
@@ -5515,7 +6445,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0801177ffc024e22c6034e1c6035d93df0e3f5f9",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/11/Paranoia.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-particleeffectsbuttons",
@@ -5547,7 +6482,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=34685"
+      "article": "https://tympanus.net/codrops/?p=34685",
+      "previewCollected": "2026-11-12",
+      "commit": "f9f96d5581048d73629104b23194835eea325f3a",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/04/particleeffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-perspectivepageviewnavigation",
@@ -5572,7 +6512,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b473003a97e91d3d0174ac362b2b670085dc7918",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PerspectivePageViewNavigation",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-pfold",
@@ -5596,7 +6540,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "bbe5ca69a56c18f3586cdf499f58e220a08742f2",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PFold",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-photographywebsiteconcept",
@@ -5621,7 +6569,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ad4dc27082bd5e88a08670b513e98033b66ca99b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PhotographyWebsiteConcept",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-pixelgooeytooltip",
@@ -5645,7 +6597,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "60ade47c343adbe40bdfa1bb0210a898e03ca536",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/11/PixelTooltip.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-pixeltransition",
@@ -5675,7 +6632,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=71437"
+      "article": "https://tympanus.net/codrops/?p=71437",
+      "previewCollected": "2026-11-12",
+      "commit": "2651c9d5dc53d895cb7b3d721ddb9bdb1669f9ba",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/04/pixeltransition.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-playfultrampolineeffect",
@@ -5699,7 +6661,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3152559784c82598f21b4ac8b582d49725f74784",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PlayfulTrampolineEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-polaroidstackgrid",
@@ -5724,7 +6690,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5bddce27a82f9c1ea853a30beb76f163a6402548",
+      "preview": "https://opengraph.githubassets.com/1/codrops/PolaroidStackGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-previewcontenttransition",
@@ -5748,7 +6718,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "04ac51cf5093cfc0ae1e0eee5e6de6da28c66518",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/04/PreviewContentTransition_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-productcomparison",
@@ -5773,7 +6748,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0d4040cc1299c68d479d3f7cb4fff757e1fbdb1b",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ProductComparison",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-productgridlayout",
@@ -5797,7 +6776,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "45e7db3d10c61f9d18029ead8c48f54f2c79d7f1",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ProductGridLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-progressbuttonstyles",
@@ -5821,7 +6804,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "633fa0af9682123edbeee83aeef07f42e831bd76",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ProgressButtonStyles",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-proximityfeedback",
@@ -5847,7 +6834,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=34754"
+      "article": "https://tympanus.net/codrops/?p=34754",
+      "previewCollected": "2026-11-12",
+      "commit": "204cd3482c914260e5db233179746a7ec0728e4d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/05/feedback77new.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-pushgriditems",
@@ -5872,7 +6864,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7a622ebe60ac042e97b086f1f4eda63a801d447c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/06/gridremi.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-raineffect",
@@ -5898,7 +6895,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Development/RainEffect/"
+      "demo": "https://tympanus.net/Development/RainEffect/",
+      "previewCollected": "2026-11-12",
+      "commit": "5270be663903883ae585858216b656120d8d4cd5",
+      "preview": "https://opengraph.githubassets.com/1/codrops/RainEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-rapidimagehovermenu",
@@ -5924,7 +6925,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50362"
+      "article": "https://tympanus.net/codrops/?p=50362",
+      "previewCollected": "2026-11-12",
+      "commit": "f05e29e46b51c4e461d02a6317d07277713a9fc9",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/07/rapid_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-rapidimagehovermenueffects",
@@ -5950,7 +6956,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2020/07/08/exploring-animations-for-menu-hover-effects/"
+      "article": "https://tympanus.net/codrops/2020/07/08/exploring-animations-for-menu-hover-effects/",
+      "previewCollected": "2026-11-12",
+      "commit": "16efa4884dffd30d6bc1cdee6702f2528f3354dc",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/07/MenuEffects_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-rapidlayersanimation",
@@ -5976,7 +6987,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/2020/04/07/rapid-image-layers-animation/"
+      "article": "https://tympanus.net/codrops/2020/04/07/rapid-image-layers-animation/",
+      "previewCollected": "2026-11-12",
+      "commit": "ea8afcaebd6d4bbf1e757c340b50f9116e25b856",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/04/RapidLayerAnimation_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-reflectionscroll",
@@ -6001,7 +7017,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "e89432e83b3be44cb958d7f0d9303d79708f5252",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/02/reflectionscroll_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-repeatingimagetransition",
@@ -6025,7 +7046,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "a7d59ac952d31ef7bb93ad74df749621da524484",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2025/04/RepetitionEffect_featured-2.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-repetitionhovereffect",
@@ -6050,7 +7076,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "27a7dd0959e46b094e87526510b5e360b41ba2a9",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/02/RepetitionHover_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-repetitivetypography",
@@ -6075,7 +7106,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=56972"
+      "article": "https://tympanus.net/codrops/?p=56972",
+      "previewCollected": "2026-11-12",
+      "commit": "9bd910cadc638ac3a855690600eecf485504b6e1",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/10/RepetetiveTypography_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-responsiveicongrid",
@@ -6099,7 +7135,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "36610ac51f2d1a3acfbbe15e7436c10ea2a8e926",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ResponsiveIconGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-revealslideshow",
@@ -6125,7 +7165,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=35175"
+      "article": "https://tympanus.net/codrops/?p=35175",
+      "previewCollected": "2026-11-12",
+      "commit": "36178f4efa6c172c2c48bb1cf4d0db30e3b2e22c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/06/RevealSlideshow_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-roomdisplay",
@@ -6149,7 +7194,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "07050a6a585a76a26ecc8750cac7df8d48b14bb9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/RoomDisplay",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-rotatedrevealers",
@@ -6182,7 +7231,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=40167"
+      "article": "https://tympanus.net/codrops/?p=40167",
+      "previewCollected": "2026-11-12",
+      "commit": "0127791b2aa1fb5cd12bb46128b9d54ae84cafff",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/04/Revealers_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-rotatingonscrollanimations",
@@ -6208,7 +7262,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "6c6ea42d3f4f3d122240ec931871afcac80b388e",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2026/06/RotatingOnScrolAnimation_featured.png.webp",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-samsunggrid",
@@ -6233,7 +7292,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "1b24778b3d1690a47059b42844a187bc71d9e47f",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SamsungGrid",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-scatteredpolaroidsgallery",
@@ -6257,7 +7320,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d4b14ab6d0095192f8268a416508ef6e0fde73ca",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ScatteredPolaroidsGallery",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-scroll3dgrid",
@@ -6283,7 +7350,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "69718a2eff87b32ab19764b3a6d7b3773dab6af3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/08/onscroll3dgrid.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollanimationsgrid",
@@ -6314,7 +7386,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=63672"
+      "article": "https://tympanus.net/codrops/?p=63672",
+      "previewCollected": "2026-11-12",
+      "commit": "21f75c6e3b9361ddf70af5275c718a0e0ecd6cb6",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/05/scrollanimations_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollbasedlayoutanimations",
@@ -6339,7 +7416,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "729029a0f2c31e7c39e15d5c6433a0f4f2bac498",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/07/scrollbased.jpg?x27628",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollblurtypography",
@@ -6364,7 +7446,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/04/blurrytext_featured.jpg?x32096",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollinglettersanimation",
@@ -6398,7 +7485,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33990"
+      "article": "https://tympanus.net/codrops/?p=33990",
+      "previewCollected": "2026-11-12",
+      "commit": "7675a079b72a3220cbaf22f2f89b585d68508191",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/02/ScrollingLettersAnimation_Featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollloopmenu",
@@ -6423,7 +7515,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=49748"
+      "article": "https://tympanus.net/codrops/?p=49748",
+      "previewCollected": "2026-11-12",
+      "commit": "38257822c0bf1579ded7a17e6800acfd808014d3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/05/InfiniteScrollMenu_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollpanels",
@@ -6448,7 +7545,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "cb0e61a339e37178ec8a1e10c21f42c5e7e06988",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/10/ScrollPanels_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrollspiral",
@@ -6474,7 +7576,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Development/ScrollSpiral/"
+      "demo": "https://tympanus.net/Development/ScrollSpiral/",
+      "previewCollected": "2026-11-12",
+      "commit": "3889131fea11ce6b818a1f7e2299cf100f56180d",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/04/WebGLScrollSpiral_800x600.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-scrolltextmotion",
@@ -6504,7 +7611,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Development/ScrollTextMotion/"
+      "demo": "https://tympanus.net/Development/ScrollTextMotion/",
+      "previewCollected": "2026-11-12",
+      "commit": "9f05d938f7b38e76e3146f26e393118e7975b6b3",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2025/12/onscrolltextmotion.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-seamtransitions",
@@ -6530,7 +7642,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "54ce5b6480b0502e0afa8781a6130b84638b77a3",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SeamTransitions",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-searchuieffects",
@@ -6554,7 +7670,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3850d3bc99777bf9133abb34a96211f4d65f7abc",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SearchUIEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-seatpreview",
@@ -6579,7 +7699,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Development/SeatPreview/"
+      "demo": "http://tympanus.net/Development/SeatPreview/",
+      "previewCollected": "2026-11-12",
+      "commit": "a2b2104f7b9d1ef3c3ff32fc01982ee866c76ae2",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2016/01/CinemaSeatPreviewExperiment.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-segmenteffect",
@@ -6603,7 +7728,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "89879a9e87606a4785b2276d362ba9a0fc039ba3",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SegmentEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-shapehovereffectsvg",
@@ -6628,7 +7757,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d3698031b26078d2a26a3b610c12b090d2b9b97e",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ShapeHoverEffectSVG",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-shapemorphideas",
@@ -6653,7 +7786,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=32314"
+      "article": "https://tympanus.net/codrops/?p=32314",
+      "previewCollected": "2026-11-12",
+      "commit": "eeb7a4f4d7cf580bf8f0b8fb921f1af10f5ffce7",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/09/OrganicShapeMorphIdeas.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-shapesslideshow",
@@ -6678,7 +7816,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "793c6d005a897e4545a33bbd9de4cb4b013117ef",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/03/ShapeSlideshow02.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-shazambuttoneffect",
@@ -6702,7 +7845,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0f0f1d24a7a79b13b0cebc461158c291d659e837",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ShazamButtonEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-sidebartransitions",
@@ -6728,7 +7875,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Development/SidebarTransitions/"
+      "demo": "http://tympanus.net/Development/SidebarTransitions/",
+      "previewCollected": "2026-11-12",
+      "commit": "c4979de167026141cd58cc3eb166a5d34a7e26da",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SidebarTransitions",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-simpledropdowneffects",
@@ -6752,7 +7903,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "900f693bed9b5fa2fc89e6e7c7ef9e985f2d56d6",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SimpleDropDownEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-slicebox",
@@ -6777,7 +7932,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fe05654e3eb268d52d2082eb0af115b4a869e18d",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Slicebox",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-sliceddualimagelayout",
@@ -6803,7 +7962,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=32361"
+      "article": "https://tympanus.net/codrops/?p=32361",
+      "previewCollected": "2026-11-12",
+      "commit": "0c2ffc71e91506ca9fdbc41ae5ccfc59ced034d4",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2017/09/DualSlicesLayout.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-slicedtexteffect",
@@ -6828,7 +7992,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "45bbcfd96b0c87a5a5299cb4bacc583dd3b71bf8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/12/slicedtext_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-slicerevealer",
@@ -6853,7 +8022,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=33895"
+      "article": "https://tympanus.net/codrops/?p=33895",
+      "previewCollected": "2026-11-12",
+      "commit": "8aa5b3e7d3e436cda711310f421736eb865c99c7",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/02/SliceReveal.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-slideoutboxmenu",
@@ -6877,7 +8051,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d757b9ad4c5ac37fb224cc8d89d911343f8168d5",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2018/08/SlideOutBoxMenu_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-sliderpagination",
@@ -6901,7 +8080,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "ba698682091d8b0257b573ca786417de81c50e60",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SliderPagination",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-slideshowanimations",
@@ -6926,7 +8109,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d05e45915cf947e85e651296f84ab2b5364056df",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/09/slideshowanimations-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-slidingheaderlayout",
@@ -6951,7 +8139,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7eccdc5667e8265e8687d8759bd5d8c4033bdd3d",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SlidingHeaderLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-slitslider",
@@ -6977,7 +8169,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "14ccc222595de9271e13a9b2e3a04c8d321ea35e",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SlitSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-smoothscrollanimations",
@@ -7010,7 +8206,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=41030"
+      "article": "https://tympanus.net/codrops/?p=41030",
+      "previewCollected": "2026-11-12",
+      "commit": "06743813ac0a13bf94e021c56baa4419097e99fb",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/07/ScrollAnimation_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-smoothscrollingimageeffects",
@@ -7042,7 +8243,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=42459"
+      "article": "https://tympanus.net/codrops/?p=42459",
+      "previewCollected": "2026-11-12",
+      "commit": "7b033df4710b4254b9a5347af5b95d5a538b3ac0",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/07/SmoothScrollingEffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-splitlayout",
@@ -7067,7 +8273,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "2de436924a110af4c0999945ffcdd41561dadd90",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SplitLayout",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-stackmotionhovereffects",
@@ -7092,7 +8302,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5ecaae4d7fc754105c49cd89e3b32742b560dcd9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/StackMotionHoverEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-stackslider",
@@ -7117,7 +8331,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "778ed3b9963a9cae2bf41c07b292a80cf30ffbaa",
+      "preview": "https://opengraph.githubassets.com/1/codrops/StackSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-staggered3dgridanimations",
@@ -7145,7 +8363,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "7c2703d41f55005c2758e1031b593d2493d392f8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/10/staggered3d.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-stapel",
@@ -7170,7 +8393,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "07fc86021048f407415f28e9fc126c7ee73f9d88",
+      "preview": "https://opengraph.githubassets.com/1/codrops/Stapel",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-stickysections",
@@ -7194,7 +8421,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "69c788898216d94a796a21c87adc475f3a3f73f5",
+      "preview": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/01/stickycardnewfeatured.gif?x36933",
+      "previewSource": "readme-remote",
+      "previewHost": "codrops-1f606.kxcdn.com"
     },
     {
       "id": "codrops-repo-superfluidlayout",
@@ -7218,7 +8450,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "92dcc855e21bc8b843a55f37ef82e1b6e9dc227e",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/07/Superfluid_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-surfreport",
@@ -7242,7 +8479,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "e61272d3e2a0e2ea715214319f0d065d44feb44d",
+      "preview": "https://opengraph.githubassets.com/1/codrops/SurfReport",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-svgimagehover",
@@ -7269,7 +8510,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=38971"
+      "article": "https://tympanus.net/codrops/?p=38971",
+      "previewCollected": "2026-11-12",
+      "commit": "333643f9c380758b6f8f8f408ff50d17fba597e5",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/03/SVGFilterHover01.2019-03-12-17_25_08.gif",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-swatchbook",
@@ -7294,7 +8540,12 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c174bbaa5309722757c5736169d2c82eb3b00202",
+      "preview": "https://raw.githubusercontent.com/codrops/SwatchBook/c174bbaa5309722757c5736169d2c82eb3b00202/images/cover.jpg",
+      "previewSource": "repository-file",
+      "previewPath": "images/cover.jpg"
     },
     {
       "id": "codrops-repo-textblocktransitions",
@@ -7319,7 +8570,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "f26255f089e20df46a4844ab1205e3b07565889a",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/07/textbocktransitions.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-textcharacteranimations",
@@ -7345,7 +8601,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "https://tympanus.net/Demos/TextCharacterAnimations/"
+      "demo": "https://tympanus.net/Demos/TextCharacterAnimations/",
+      "previewCollected": "2026-11-12",
+      "commit": "ac0fe97a4e4f786ef5d514d7030b6eb5855da05b",
+      "preview": "https://tympanus.net/Demos/TextCharacterAnimations/og-image.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-textclipscroll",
@@ -7375,7 +8636,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=75256"
+      "article": "https://tympanus.net/codrops/?p=75256",
+      "previewCollected": "2026-11-12",
+      "commit": "79327102f7bd2e04d1b0e4786d744794b5320d0b",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2024/01/clippathtext.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-textdistortioneffects",
@@ -7409,7 +8675,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=38200"
+      "article": "https://tympanus.net/codrops/?p=38200",
+      "previewCollected": "2026-11-12",
+      "commit": "f4288dd49027f13732e4de0fcfeff748328c295b",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/02/TextDistortionEffects_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-textinputeffects",
@@ -7433,7 +8704,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "b37c4936b26779c9bff86d68cca8c8d55831a8d3",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TextInputEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-textrepetitioneffect",
@@ -7458,7 +8733,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "fabaafe0124e7bdf66906c6214f00800f5575c4c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/04/TextRep_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-textstyleshovereffects",
@@ -7483,7 +8763,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "cb8993c1a4c90d13b816829615b5a47b3f67ffd0",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TextStylesHoverEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-texttraileffect",
@@ -7514,7 +8798,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=38516"
+      "article": "https://tympanus.net/codrops/?p=38516",
+      "previewCollected": "2026-11-12",
+      "commit": "c3437c4f480eeca99034a2e37bab5fbd5237b39f",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2019/02/TextTrailEffect_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-theodore",
@@ -7544,7 +8833,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=57286"
+      "article": "https://tympanus.net/codrops/?p=57286",
+      "previewCollected": "2026-11-12",
+      "commit": "e7bfd13c67e63aac864f812d0fa0f56a3eb7ee18",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/11/Theodore_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-thumbfulltransition",
@@ -7574,7 +8868,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50733"
+      "article": "https://tympanus.net/codrops/?p=50733",
+      "previewCollected": "2026-11-12",
+      "commit": "6ae767e260e0696b9c4555832f8941d427dea33b",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/08/ThumbToFull_featured-1.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-thumbhoversvgfilter",
@@ -7603,7 +8902,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=54938"
+      "article": "https://tympanus.net/codrops/?p=54938",
+      "previewCollected": "2026-11-12",
+      "commit": "991f74f8884d51fbb81e3b57a6b9b0a2f90e8dfb",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/06/SVGThumbHover.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-thumbnailgridexpandingpreview",
@@ -7628,7 +8932,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c65348cf7caa52054aa78f9c3848e4d1a99b1983",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ThumbnailGridExpandingPreview",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-tilescroll",
@@ -7654,7 +8962,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "5b65daea2c25e4ddb09052af58c55548a56cce3c",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/10/ScrollAnimationLocomotive.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-tilthovereffects",
@@ -7680,7 +8993,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/"
+      "article": "http://tympanus.net/codrops/2016/11/23/tilt-hover-effects/",
+      "previewCollected": "2026-11-12",
+      "commit": "e232cd71190e0f43841a42a851e8049181f7a9b1",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TiltHoverEffects",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-tooltipmenu",
@@ -7704,7 +9021,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "c3f3bb4bcc9b0079d542d13fab7b64789f282b24",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TooltipMenu",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-tooltipstylesinspiration",
@@ -7729,7 +9050,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0396ae3aa8092098947b642a62605f3f8a2b3a67",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TooltipStylesInspiration",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-tooltiptransition",
@@ -7754,7 +9079,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "689dfac88af4c81f4ba11d62cacc25d268c5d789",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/12/Tooltip_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-triplepanelimageslider",
@@ -7780,7 +9110,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "53f36ecebe1f7b63244fb83ed1ce791c1a4968d5",
+      "preview": "https://opengraph.githubassets.com/1/codrops/TriplePanelImageSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-typeshuffleanimation",
@@ -7804,7 +9138,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "8f171f1f58d4ac8e1ede46109674f5c71005f166",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2023/02/typeshuffle.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-typographymotion",
@@ -7834,7 +9173,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=50136"
+      "article": "https://tympanus.net/codrops/?p=50136",
+      "previewCollected": "2026-11-12",
+      "commit": "800c4b530783565b69619b8a9033e0ca069207ec",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2020/06/TypographyMotion_featured.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-unrevealeffects",
@@ -7859,7 +9203,12 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "3459952fc60fc3c4d9fb3f6dbf9e19097659bfa8",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2022/10/UnrevealEffects_feat.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-verticalshowcaseslider",
@@ -7884,7 +9233,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "0145fbdc057a2c27165ca6a5c156ea14eb74ef18",
+      "preview": "https://opengraph.githubassets.com/1/codrops/VerticalShowcaseSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-videoopeninganimation",
@@ -7908,7 +9261,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "d888b8cd6ec01f17921745495786194f29093af9",
+      "preview": "https://opengraph.githubassets.com/1/codrops/VideoOpeningAnimation",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-viewmodeswitch",
@@ -7932,7 +9289,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "906d66f4b12bfb2bd1aee6fe86f237013b789d42",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ViewModeSwitch",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-webglblobs",
@@ -7961,7 +9322,12 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "article": "https://tympanus.net/codrops/?p=52932"
+      "article": "https://tympanus.net/codrops/?p=52932",
+      "previewCollected": "2026-11-12",
+      "commit": "613a5baea7c2169ab42e5a335887d5475ad96079",
+      "preview": "https://tympanus.net/codrops/wp-content/uploads/2021/01/blob.jpg",
+      "previewSource": "readme-remote",
+      "previewHost": "tympanus.net"
     },
     {
       "id": "codrops-repo-wobblyslideshoweffect",
@@ -7986,7 +9352,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "66ea2d7f66cbc8a69d883593445c528897e91456",
+      "preview": "https://opengraph.githubassets.com/1/codrops/WobblySlideshowEffect",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-youtubeleftsidemenu",
@@ -8010,7 +9380,11 @@
       "license": "not-declared-in-api",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "42e547b67bc45b91410c1efec278ae2e8455dc24",
+      "preview": "https://opengraph.githubassets.com/1/codrops/YouTubeLeftSideMenu",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-zoomslider",
@@ -8035,7 +9409,11 @@
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
       "animationsCaptured": false,
-      "demo": "http://tympanus.net/Blueprints/ZoomSlider/"
+      "demo": "http://tympanus.net/Blueprints/ZoomSlider/",
+      "previewCollected": "2026-11-12",
+      "commit": "3b426d0017c84a8cdaf77157ea3e0c3e35927477",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ZoomSlider",
+      "previewSource": "github-social-card"
     },
     {
       "id": "codrops-repo-zoomslideshow",
@@ -8059,7 +9437,11 @@
       "license": "MIT",
       "licenseScope": "Repository API metadata only; verify LICENSE and third-party asset notices before reuse.",
       "evidence": "linked-repository-metadata",
-      "animationsCaptured": false
+      "animationsCaptured": false,
+      "previewCollected": "2026-11-12",
+      "commit": "bc337eb4495658e783910acde9282f7ee88c8749",
+      "preview": "https://opengraph.githubassets.com/1/codrops/ZoomSlideshow",
+      "previewSource": "github-social-card"
     }
   ]
 }
