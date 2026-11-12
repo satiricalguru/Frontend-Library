@@ -2,7 +2,7 @@
 
 # 🎬 Animation snippets
 
-Ten small, dependency-free UI animations you can copy straight into a project.<br>
+Eleven small, dependency-free UI animations you can copy straight into a project.<br>
 Original MIT-licensed code written for Frontend Library. Each one is our own take on a pattern from the catalogs.
 
 <sub>Open any <code>index.html</code> in a browser to see the demo · all respect <code>prefers-reduced-motion</code> · <a href="../../README.md">← Back to library</a></sub>
@@ -29,6 +29,10 @@ Original MIT-licensed code written for Frontend Library. Each one is our own tak
   <tr>
     <td align="center"><a href="error-shake/"><img src="../../.github/assets/gifs/error-shake.gif" width="100%" alt="An invalid input shaking with a red ring"></a><br><b>Error shake</b> · CSS keyframes</td>
     <td align="center"><a href="spring-toggle/"><img src="../../.github/assets/gifs/spring-toggle.gif" width="100%" alt="Two switches snapping on and off with spring easing"></a><br><b>Spring toggle</b> · CSS + ARIA switch</td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><a href="tooltip-open-close/"><img src="../../.github/assets/gifs/tooltip-open-close.gif" width="100%" alt="A tooltip fading in above a button"></a><br><b>Tooltip open/close</b> · CSS + JS positioning</td>
+    <td align="center" width="50%"></td>
   </tr>
 </table>
 
@@ -58,5 +62,6 @@ The demos share [`_shared/demo.css`](_shared/demo.css) for the dark stage and co
 | Skeleton → content | <https://transitions.dev/transitions/skeleton-loader-and-reveal/> |
 | Error shake | <https://transitions.dev/transitions/error-state-shake/> |
 | Spring toggle | <https://transitions.dev/transitions/toggle/> |
+| Tooltip open/close | <https://transitions.dev/transitions/tooltip-open-close/> |
 
 These are clean-room versions: no code was copied from the sites above. The same mapping is in [`SOURCES.json`](SOURCES.json) and the root [SOURCES.md](../../SOURCES.md).

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tooltip open/close</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.tt-wrap { position: relative; display: inline-block; }
+.tt-trigger {
+  border: 1px solid var(--line, #24304f); background: var(--panel, #121a30); color: var(--text, #e8eeff);
+  font: 600 16px/1 var(--font, system-ui, sans-serif); padding: 12px 20px; border-radius: 12px; cursor: pointer;
+}
+.tt-trigger:focus-visible { outline: 2px solid var(--accent-2, #38bdf8); outline-offset: 3px; }
+.tt {
+  position: absolute; left: 50%; bottom: calc(100% + 10px); z-index: 5;
+  width: max-content; max-width: 260px; transform: translate(-50%, 6px) scale(.94);
+  padding: 9px 13px; border-radius: 10px;
+  background: var(--accent, #2563eb); color: #fff;
+  font: 500 14px/1.35 var(--font, system-ui, sans-serif); text-align: center;
+  opacity: 0; visibility: hidden; pointer-events: none;
+  box-shadow: 0 10px 26px -10px rgba(37, 99, 235, .9);
+  transition: opacity .18s ease, transform .22s cubic-bezier(.2, .9, .3, 1.3), visibility .22s;
+}
+.tt::after { content: ""; position: absolute; top: 100%; left: 50%; margin-left: -6px; border: 6px solid transparent; border-top-color: var(--accent, #2563eb); }
+.tt[data-open="true"] { opacity: 1; visibility: visible; transform: translate(-50%, 0) scale(1); }
+.tt[data-side="bottom"] { bottom: auto; top: calc(100% + 10px); transform: translate(-50%, -6px) scale(.94); }
+.tt[data-side="bottom"][data-open="true"] { transform: translate(-50%, 0) scale(1); }
+.tt[data-side="bottom"]::after { top: auto; bottom: 100%; border-top-color: transparent; border-bottom-color: var(--accent, #2563eb); }
+@media (prefers-reduced-motion: reduce) { .tt { transition: opacity .01s; } .tt[data-open="true"], .tt[data-side="bottom"][data-open="true"] { transform: translate(-50%, 0) scale(1); } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="tt-wrap">
+    <button class="tt-trigger" id="trigger" aria-describedby="tip">Copy install command</button>
+    <span class="tt" id="tip" role="tooltip">npm i frontend-library</span>
+  </div>
+  <div class="caption">tooltip open/close</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+// Shows a tooltip above (or below, when there is no room) its trigger.
+function attachTooltip(trigger, tip) {
+  let open = false;
+
+  const place = () => {
+    const room = trigger.getBoundingClientRect().top;
+    tip.dataset.side = room < 90 ? 'bottom' : 'top';
+  };
+
+  const show = () => { place(); open = true; tip.dataset.open = 'true'; };
+  const hide = () => { open = false; tip.dataset.open = 'false'; };
+
+  trigger.addEventListener('mouseenter', show);
+  trigger.addEventListener('mouseleave', hide);
+  trigger.addEventListener('focus', show);
+  trigger.addEventListener('blur', hide);
+  trigger.addEventListener('keydown', (e) => { if (e.key === 'Escape') hide(); });
+  window.addEventListener('scroll', place, { passive: true });
+
+  return { show, hide, get isOpen() { return open; } };
+}
+attachTooltip(document.getElementById('trigger'), document.getElementById('tip'));
+// demo loop
+const trigger = document.getElementById('trigger');
+setInterval(() => {
+  if (trigger.matches(':hover')) return;
+  const tip = document.getElementById('tip');
+  tip.dataset.open === 'true' ? tip.removeAttribute('data-open') : tip.setAttribute('data-open', 'true');
+}, 1100);
+</script>
+</body>
+</html>
