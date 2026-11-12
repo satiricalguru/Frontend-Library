@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "ai-studio-fcd45129",
+  "name": "RASTER/27 — Google AI Studio app (fcd45129)",
+  "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+  "source": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+  "kind": "interactive-experience",
+  "group": "ai-studio",
+  "capturedAt": "2026-11-12T20:15:00.000Z",
+  "viewport": {
+    "width": 1470,
+    "height": 717,
+    "deviceScaleFactor": 2,
+    "mobile": false
+  },
+  "preview": "checkpoint-00.jpg",
+  "status": "captured",
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "rights": "Google AI Studio applet and community content retain their respective owners' rights; reference capture for study and inspection only.",
+  "limitations": [
+    "Captured interactively via browser subagent with real-time mouse movement dispatch.",
+    "Hero canvas particle physics and pointer trail effects are driven by requestAnimationFrame loops.",
+    "Embedded applet uses custom 2D Canvas bitmap glyph rendering and WebGL route transitions.",
+    "Audio is muted; interactive controls (resolution scrubber, seat map tooltip, badge maker) were exercised during inspection."
+  ],
+  "initial": {
+    "title": "RASTER/27 — 15–17 September 2027, Rotterdam",
+    "documentHeight": 717,
+    "contentHeight": 717,
+    "contentTop": 0,
+    "sections": [
+      {
+        "id": "hero",
+        "rect": {
+          "y": 0,
+          "height": 261
+        }
+      },
+      {
+        "id": "speakers",
+        "rect": {
+          "y": 261,
+          "height": 300
+        }
+      },
+      {
+        "id": "tickets",
+        "rect": {
+          "y": 561,
+          "height": 156
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "hero-canvas",
+        "width": 2828,
+        "height": 522,
+        "rect": {
+          "x": 28,
+          "y": 140,
+          "width": 1414,
+          "height": 261
+        }
+      },
+      {
+        "id": "trail-canvas",
+        "width": 2940,
+        "height": 1434,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1470,
+          "height": 717
+        }
+      },
+      {
+        "id": "wipe-canvas",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1470,
+          "height": 717
+        }
+      }
+    ],
+    "links": [
+      "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true"
+    ],
+    "media": [],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "hero",
+          "hero-canvas",
+          "trail-canvas"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 1,
+      "elapsedMs": 2000,
+      "requestedProgress": 0.2,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "hero",
+          "hero-canvas",
+          "particle-physics-repel"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 2,
+      "elapsedMs": 4000,
+      "requestedProgress": 0.4,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "trail-canvas",
+          "cursor-sweep-palette-trails"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 3,
+      "elapsedMs": 6000,
+      "requestedProgress": 0.6,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true#/speakers",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "speakers",
+          "portrait-canvases"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 4,
+      "elapsedMs": 8000,
+      "requestedProgress": 0.8,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true#/speakers/detail",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "speaker-detail",
+          "resolution-scrubber"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 5,
+      "elapsedMs": 10000,
+      "requestedProgress": 1.0,
+      "state": {
+        "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true#/tickets",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "tickets",
+          "seat-map-svg-tooltip"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 12040,
+    "frames": 6,
+    "timing": "Interactive browser inspection and pointer traversal; muted."
+  },
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 107268,
+      "sha256": "26e612ff33100a8e4953e8d5f2c8c489c6fa9839fb69bb8408cf8f52a75db08a"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 119222,
+      "sha256": "7955e1a87494214fd7c28bec0c9def11fa8a1ec1ee889c67790985cde08c0b1b"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 112093,
+      "sha256": "1de0522a508f4ce394d63449cbe33118e516f63982fa2f4cf08574e6624d1ce9"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 168192,
+      "sha256": "c5f57ffc8bc7764b727e369cd16f1e73c3e4ef0e48dba4cd5ba1f7baa1b94abb"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 120613,
+      "sha256": "7230e5682ef1a82089a5ae86fa23340ec51fa36efa96ad2d8f5c325bb868ec81"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 211340,
+      "sha256": "bcf1dd47409d3df8d7053419873f25ed33e4a7ec5ccc83750542d0c90221ac28"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 124790,
+      "sha256": "256e3938e4d9316a4ce6c61848eba6b497efe0737627a4c1c6f0179328dfedc2"
+    }
+  ]
+}
