@@ -53,6 +53,7 @@ code { font-family: var(--mono); font-size: .9em; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 290px), 1fr)); gap: 28px 18px; padding-top: 28px; outline: none; }
 .card { position: relative; min-width: 0; animation: card-in .5s var(--ease-out) both; animation-delay: calc(var(--i, 0) * 18ms); }
 @keyframes card-in { from { opacity: 0; transform: translateY(14px); } }
+.card.is-shown { animation: none; }
 .card-hit { position: absolute; inset: 0; z-index: 2; border: 0; background: none; padding: 0; cursor: pointer; border-radius: 18px; }
 .card-hit:focus-visible { outline-offset: 4px; }
 .card-visual {

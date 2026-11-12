@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/fl-logo.svg" width="96" alt="Frontend Library logo: a white F and a blue L"></a>
+<a href="https://frontendlibrary.vercel.app"><img src=".github/assets/fl-logo.svg" width="96" alt="Frontend Library logo: a white F and a blue L"></a>
 
 <h3>The reference shelf for people who build interfaces.</h3>
 
 <p>Design systems, captured landing pages, Three.js &amp; WebGL demos, motion, open-source fonts and icons — <b>14,518 entries</b>, each linked to the exact page it came from. Built for developers, designers and the AI agents working alongside them.</p>
 
 <p>
-  <a href="https://frontend-library-xi-pied.vercel.app"><img src="https://img.shields.io/badge/OPEN%20THE%20WEBSITE-%E2%86%97-eef0f7?style=for-the-badge&labelColor=07080c" alt="Open the website"></a>
-  <a href="https://frontend-library-xi-pied.vercel.app/library/"><img src="https://img.shields.io/badge/BROWSE%20THE%20LIBRARY-14%2C518-4d65ff?style=for-the-badge&labelColor=07080c" alt="Browse the library: 14,518 references"></a>
+  <a href="https://frontendlibrary.vercel.app"><img src="https://img.shields.io/badge/OPEN%20THE%20WEBSITE-%E2%86%97-eef0f7?style=for-the-badge&labelColor=07080c" alt="Open the website"></a>
+  <a href="https://frontendlibrary.vercel.app/library/"><img src="https://img.shields.io/badge/BROWSE%20THE%20LIBRARY-14%2C518-4d65ff?style=for-the-badge&labelColor=07080c" alt="Browse the library: 14,518 references"></a>
   <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&label=STARS&color=4d65ff&labelColor=07080c" alt="GitHub stars"></a>
 </p>
 
@@ -26,20 +26,20 @@
   <a href="SOURCES.md">Source tracker</a>
 </p>
 
-<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
+<a href="https://frontendlibrary.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
 
 </div>
 
 ## 🌐 The website
 
-**[frontend-library-xi-pied.vercel.app](https://frontend-library-xi-pied.vercel.app)** — a Three.js scroll story where every tile is a real brand palette from the library (nebula → shelf → wall), plus a searchable viewer for all 13 collections.
+**[frontendlibrary.vercel.app](https://frontendlibrary.vercel.app)** — a Three.js scroll story where every tile is a real brand palette from the library (nebula → shelf → wall), plus a searchable viewer for all 13 collections.
 
-<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/hero-scroll.gif" width="100%" alt="Scrolling the Frontend Library homepage: thousands of colored tiles gather from a cloud into a spiral shelf, then settle into a flat wall while the headline dissolves word by word"></a>
+<a href="https://frontendlibrary.vercel.app"><img src=".github/assets/readme/hero-scroll.gif" width="100%" alt="Scrolling the Frontend Library homepage: thousands of colored tiles gather from a cloud into a spiral shelf, then settle into a flat wall while the headline dissolves word by word"></a>
 
 <table>
   <tr>
-    <td width="50%"><a href="https://frontend-library-xi-pied.vercel.app/library/?type=styles"><img src=".github/assets/readme/library-styles.jpg" width="100%" alt="Library viewer showing brand design-system tiles drawn in each brand's own colors"></a><br><sub><b>Design systems</b> · every brand drawn in its own palette, click to copy colors</sub></td>
-    <td width="50%"><a href="https://frontend-library-xi-pied.vercel.app/library/?type=threejs"><img src=".github/assets/readme/library-threejs.jpg" width="100%" alt="Library viewer showing official three.js example screenshots"></a><br><sub><b>Three.js examples</b> · live demo and pinned source for each one</sub></td>
+    <td width="50%"><a href="https://frontendlibrary.vercel.app/library/?type=styles"><img src=".github/assets/readme/library-styles.jpg" width="100%" alt="Library viewer showing brand design-system tiles drawn in each brand's own colors"></a><br><sub><b>Design systems</b> · every brand drawn in its own palette, click to copy colors</sub></td>
+    <td width="50%"><a href="https://frontendlibrary.vercel.app/library/?type=threejs"><img src=".github/assets/readme/library-threejs.jpg" width="100%" alt="Library viewer showing official three.js example screenshots"></a><br><sub><b>Three.js examples</b> · live demo and pinned source for each one</sub></td>
   </tr>
 </table>
 
@@ -83,7 +83,7 @@ No build step. With Python 3 installed, run from the checkout:
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open [the local viewer](http://127.0.0.1:8000/library/), or use the hosted one at [frontend-library-xi-pied.vercel.app/library](https://frontend-library-xi-pied.vercel.app/library/). Search names and techniques, switch collections, inspect palettes and play recordings. Press `/` to focus search.
+Open [the local viewer](http://127.0.0.1:8000/library/), or use the hosted one at [frontendlibrary.vercel.app/library](https://frontendlibrary.vercel.app/library/). Search names and techniques, switch collections, inspect palettes and play recordings. Press `/` to focus search.
 
 ### Give agents useful evidence
 
@@ -114,7 +114,7 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 
 ## ✨ Why Frontend Library
 
-- 🌐 **A real website.** Browse everything at [frontend-library-xi-pied.vercel.app](https://frontend-library-xi-pied.vercel.app) — no clone or build needed.
+- 🌐 **A real website.** Browse everything at [frontendlibrary.vercel.app](https://frontendlibrary.vercel.app) — no clone or build needed.
 - 🧭 **One place to look.** Design-and-motion sources, local page evidence and licensed design analyses, indexed into searchable Markdown tables and JSON.
 - 🧾 **Every entry is traceable.** Each row links to the original, and [SOURCES.md](SOURCES.md) plus [data/sources.csv](data/sources.csv) record the exact page it was collected from.
 - 🎨 **Real design data.** Brand palettes and typefaces for 1,342 websites, plus a ready-to-import [`palettes.css`](styles/refero-design-systems/palettes.css).
@@ -302,7 +302,7 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 
 <!-- CONTRIBUTORS:START -->
 <a href="https://github.com/satiricalguru/Frontend-Library/graphs/contributors">
-  <img src="https://frontend-library-xi-pied.vercel.app/api/contributors/" alt="Frontend Library contributors (updates automatically)">
+  <img src="https://frontendlibrary.vercel.app/api/contributors/" alt="Frontend Library contributors (updates automatically)">
 </a>
 <!-- CONTRIBUTORS:END -->
 

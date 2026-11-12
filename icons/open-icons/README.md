@@ -4,7 +4,7 @@
 
 2,052 Lucide icons (ISC, v1.72.0) and 5,233 Tabler icons (MIT, v3.51.0) — every name links to its icon page; SVG links are pinned in [`data/open-icons.json`](../../data/open-icons.json).
 
-<sub><b>7,285</b> entries · collected <b>2026-11-12</b> from <a href="https://lucide.dev/">https://lucide.dev/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontend-library-xi-pied.vercel.app/library/">Search them on the website</a></sub>
+<sub><b>7,285</b> entries · collected <b>2026-11-12</b> from <a href="https://lucide.dev/">https://lucide.dev/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontendlibrary.vercel.app/library/">Search them on the website</a></sub>
 
 </div>
 

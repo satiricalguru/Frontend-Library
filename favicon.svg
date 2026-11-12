@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="295 278 700 700" width="512" height="512" role="img" aria-label="Frontend Library FL logo">
+  <title>Frontend Library</title>
+  <rect x="295" y="278" width="700" height="700" rx="160" fill="#07080c"/>
+  <!-- F: rounded top-left elbow, angled terminals -->
+  <path fill="#eef0f7" d="M360 840V578C360 488 432 417 522 417H864L818 480C808 494 793 500 770 500H516C480 500 452 530 452 566V575H641L596 641C589 651 580 660 566 660H452V752Z"/>
+  <!-- L in brand blue -->
+  <path fill="#4d65ff" d="M683 532H741L723 733H930L862 821H617L635 612Z"/>
+</svg>

@@ -108,6 +108,13 @@
           "Nike"
         ]
       }
+    },
+    {
+      "url": "https://transitions.dev/",
+      "robots": "https://transitions.dev/robots.txt",
+      "result": "ai-crawlers-disallowed (ClaudeBot, anthropic-ai, GPTBot)",
+      "checkedOn": "2026-11-12",
+      "capture": "Site not crawled or captured. Previews are the author's own thumbnails (assets/community/thumbs/<slug>.jpg and -dark.jpg) from github.com/Jakubantalik/transitions.dev, linked at a pinned commit, not copied: the repository licence forbids redistributing the library. 39 of 44 transitions have a thumbnail."
     }
   ]
 }

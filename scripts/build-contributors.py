@@ -26,7 +26,7 @@ REPO = os.environ.get("GITHUB_REPOSITORY", "satiricalguru/Frontend-Library")
 
 # The README shows the live grid served by api/contributors.js on the website, so new
 # contributors appear without a commit. This script still writes OUT_SVG as an offline copy.
-LIVE_URL = "https://frontend-library-xi-pied.vercel.app/api/contributors/"
+LIVE_URL = "https://frontendlibrary.vercel.app/api/contributors/"
 
 START_MARKER = "<!-- CONTRIBUTORS:START -->"
 END_MARKER = "<!-- CONTRIBUTORS:END -->"

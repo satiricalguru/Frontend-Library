@@ -9,7 +9,12 @@
       "description": "Smooth card resize transition.",
       "url": "https://transitions.dev/transitions/card-resize/",
       "remix": "https://transitions.dev/studio.html?lib=card-resize",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/card-resize.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/card-resize-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Number pop-in",
@@ -17,7 +22,12 @@
       "description": "Digits swap on a 3D drum with a bounce.",
       "url": "https://transitions.dev/transitions/number-pop-in/",
       "remix": "https://transitions.dev/studio.html?lib=number-pop-in",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/number-pop-in.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/number-pop-in-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Notification badge",
@@ -25,7 +35,12 @@
       "description": "Diagonal slide with spring pop-in.",
       "url": "https://transitions.dev/transitions/notification-badge/",
       "remix": "https://transitions.dev/studio.html?lib=notification-badge",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/notification-badge.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/notification-badge-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Text states swap",
@@ -33,7 +48,12 @@
       "description": "Text swap transition with blur.",
       "url": "https://transitions.dev/transitions/text-states-swap/",
       "remix": "https://transitions.dev/studio.html?lib=text-states-swap",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/text-states-swap.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/text-states-swap-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Confetti burst",
@@ -41,7 +61,12 @@
       "description": "Physics confetti that lands on the button. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/confetti-burst/",
       "remix": "https://transitions.dev/studio.html?lib=confetti-burst",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/confetti-burst.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/confetti-burst-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Menu dropdown",
@@ -49,7 +74,12 @@
       "description": "Origin-aware open / close transition.",
       "url": "https://transitions.dev/transitions/menu-dropdown/",
       "remix": "https://transitions.dev/studio.html?lib=menu-dropdown",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/menu-dropdown.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/menu-dropdown-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Modal open/close",
@@ -57,7 +87,12 @@
       "description": "Modal transition with scale.",
       "url": "https://transitions.dev/transitions/modal-open-close/",
       "remix": "https://transitions.dev/studio.html?lib=modal-open-close",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/modal-open-close.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/modal-open-close-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Panel reveal",
@@ -65,7 +100,12 @@
       "description": "Panel open / close transition.",
       "url": "https://transitions.dev/transitions/panel-reveal/",
       "remix": "https://transitions.dev/studio.html?lib=panel-reveal",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/panel-reveal.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/panel-reveal-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Gooey plus menu",
@@ -73,7 +113,12 @@
       "description": "Liquid split into a fan of actions. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/gooey-plus-menu/",
       "remix": "https://transitions.dev/studio.html?lib=gooey-plus-menu",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/gooey-plus-menu.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/gooey-plus-menu-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Page side-by-side",
@@ -81,7 +126,12 @@
       "description": "Forward / back page transition.",
       "url": "https://transitions.dev/transitions/page-side-by-side/",
       "remix": "https://transitions.dev/studio.html?lib=page-side-by-side",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/page-side-by-side.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/page-side-by-side-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Card stack hover",
@@ -89,7 +139,12 @@
       "description": "Stack fans out with a spring on hover. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/card-stack-hover/",
       "remix": "https://transitions.dev/studio.html?lib=card-stack-hover",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/card-stack-hover.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/card-stack-hover-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Icon swap",
@@ -97,7 +152,12 @@
       "description": "Scale and blur icon swap.",
       "url": "https://transitions.dev/transitions/icon-swap/",
       "remix": "https://transitions.dev/studio.html?lib=icon-swap",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/icon-swap.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/icon-swap-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Success check",
@@ -105,7 +165,12 @@
       "description": "Succes check with blur and rotate.",
       "url": "https://transitions.dev/transitions/success-check/",
       "remix": "https://transitions.dev/studio.html?lib=success-check",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/success-check.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/success-check-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Avatar group hover",
@@ -113,7 +178,12 @@
       "description": "Distance-falloff lift with bouncy return.",
       "url": "https://transitions.dev/transitions/avatar-group-hover/",
       "remix": "https://transitions.dev/studio.html?lib=avatar-group-hover",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/avatar-group-hover.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/avatar-group-hover-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Error state shake",
@@ -121,7 +191,12 @@
       "description": "Cubic-bezier shake on error.",
       "url": "https://transitions.dev/transitions/error-state-shake/",
       "remix": "https://transitions.dev/studio.html?lib=error-state-shake",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/error-state-shake.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/error-state-shake-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Organic shimmer",
@@ -129,7 +204,12 @@
       "description": "Wavy shimmer with phase-locked edge glow. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/organic-shimmer/",
       "remix": "https://transitions.dev/studio.html?lib=organic-shimmer",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/organic-shimmer.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/organic-shimmer-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Input clear with dissolve",
@@ -137,7 +217,12 @@
       "description": "Clear with per-word dissolve.",
       "url": "https://transitions.dev/transitions/input-clear-with-dissolve/",
       "remix": "https://transitions.dev/studio.html?lib=input-clear-with-dissolve",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/input-clear-with-dissolve.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/input-clear-with-dissolve-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Skeleton loader and reveal",
@@ -145,7 +230,12 @@
       "description": "Pulse to content cross-fade.",
       "url": "https://transitions.dev/transitions/skeleton-loader-and-reveal/",
       "remix": "https://transitions.dev/studio.html?lib=skeleton-loader-and-reveal",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/skeleton-loader-and-reveal.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/skeleton-loader-and-reveal-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Texts reveal",
@@ -153,7 +243,12 @@
       "description": "Two lines rise with offset stagger.",
       "url": "https://transitions.dev/transitions/texts-reveal/",
       "remix": "https://transitions.dev/studio.html?lib=texts-reveal",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/texts-reveal.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/texts-reveal-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Tabs sliding",
@@ -161,7 +256,12 @@
       "description": "Pill indicator follows the active tab.",
       "url": "https://transitions.dev/transitions/tabs-sliding/",
       "remix": "https://transitions.dev/studio.html?lib=tabs-sliding",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/tabs-sliding.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/tabs-sliding-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Drag & drop with physics",
@@ -177,7 +277,12 @@
       "description": "iPadOS-style zoom with 3D tilt and bend. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/image-open-tilt/",
       "remix": "https://transitions.dev/studio.html?lib=image-open-tilt",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/image-open-tilt.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/image-open-tilt-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Shimmer text",
@@ -185,7 +290,12 @@
       "description": "Masked gradient sweep across text.",
       "url": "https://transitions.dev/transitions/shimmer-text/",
       "remix": "https://transitions.dev/studio.html?lib=shimmer-text",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/shimmer-text.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/shimmer-text-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Tooltip open/close",
@@ -193,7 +303,12 @@
       "description": "Delayed in, travels, instant out.",
       "url": "https://transitions.dev/transitions/tooltip-open-close/",
       "remix": "https://transitions.dev/studio.html?lib=tooltip-open-close",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/tooltip-open-close.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/tooltip-open-close-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "3D tilt",
@@ -201,7 +316,12 @@
       "description": "3D pointer tilt with cursor glare.",
       "url": "https://transitions.dev/transitions/3d-tilt/",
       "remix": "https://transitions.dev/studio.html?lib=3d-tilt",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/3d-tilt.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/3d-tilt-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Dropdown menu morph",
@@ -209,7 +329,12 @@
       "description": "Button morphs into a menu surface.",
       "url": "https://transitions.dev/transitions/dropdown-menu-morph/",
       "remix": "https://transitions.dev/studio.html?lib=dropdown-menu-morph",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/dropdown-menu-morph.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/dropdown-menu-morph-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Accordion",
@@ -217,7 +342,12 @@
       "description": "Grid-rows height with chevron morph.",
       "url": "https://transitions.dev/transitions/accordion/",
       "remix": "https://transitions.dev/studio.html?lib=accordion",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/accordion.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/accordion-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Toast open/close",
@@ -225,7 +355,12 @@
       "description": "Rises in with fade, blur and scale.",
       "url": "https://transitions.dev/transitions/toast-open-close/",
       "remix": "https://transitions.dev/studio.html?lib=toast-open-close",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/toast-open-close.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/toast-open-close-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Like button",
@@ -233,7 +368,12 @@
       "description": "Heart fills and bursts particles.",
       "url": "https://transitions.dev/transitions/like-button/",
       "remix": "https://transitions.dev/studio.html?lib=like-button",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/like-button.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/like-button-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Learn more hover",
@@ -241,7 +381,12 @@
       "description": "Chevron shifts and opens on hover.",
       "url": "https://transitions.dev/transitions/learn-more-hover/",
       "remix": "https://transitions.dev/studio.html?lib=learn-more-hover",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/learn-more-hover.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/learn-more-hover-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Checkbox check",
@@ -249,7 +394,12 @@
       "description": "Check draws on with a stroke path.",
       "url": "https://transitions.dev/transitions/checkbox-check/",
       "remix": "https://transitions.dev/studio.html?lib=checkbox-check",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/checkbox-check.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/checkbox-check-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Spinner to check morph",
@@ -265,7 +415,12 @@
       "description": "Digits roll on a 3D drum to the value.",
       "url": "https://transitions.dev/transitions/spinning-counter/",
       "remix": "https://transitions.dev/studio.html?lib=spinning-counter",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/spinning-counter.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/spinning-counter-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Number subtle change",
@@ -281,7 +436,12 @@
       "description": "Thumb slides with a double bounce.",
       "url": "https://transitions.dev/transitions/toggle/",
       "remix": "https://transitions.dev/studio.html?lib=toggle",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/toggle.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/toggle-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Pro gradient text",
@@ -289,7 +449,12 @@
       "description": "Colour washes orbit the letters on a loop. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/pro-gradient-text/",
       "remix": "https://transitions.dev/studio.html?lib=pro-gradient-text",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/pro-gradient-text.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/pro-gradient-text-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Delete with smoky dissolve",
@@ -305,7 +470,12 @@
       "description": "Status line shimmers, then swaps to the next.",
       "url": "https://transitions.dev/transitions/thinking-states/",
       "remix": "https://transitions.dev/studio.html?lib=thinking-states",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/thinking-states.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/thinking-states-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Reasoning stream",
@@ -313,7 +483,12 @@
       "description": "Agent reasoning scrolls by two lines.",
       "url": "https://transitions.dev/transitions/reasoning-stream/",
       "remix": "https://transitions.dev/studio.html?lib=reasoning-stream",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/reasoning-stream.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/reasoning-stream-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Streaming text",
@@ -321,7 +496,12 @@
       "description": "Words resolve through a soft cross-blur.",
       "url": "https://transitions.dev/transitions/streaming-text/",
       "remix": "https://transitions.dev/studio.html?lib=streaming-text",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/streaming-text.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/streaming-text-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Matrix dot loader",
@@ -329,7 +509,12 @@
       "description": "16-dot matrix pulses in four patterns.",
       "url": "https://transitions.dev/transitions/matrix-dot-loader/",
       "remix": "https://transitions.dev/studio.html?lib=matrix-dot-loader",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/matrix-dot-loader.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/matrix-dot-loader-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Banner stacking",
@@ -337,7 +522,12 @@
       "description": "Banners stack like toasts, three deep.",
       "url": "https://transitions.dev/transitions/banner-stacking/",
       "remix": "https://transitions.dev/studio.html?lib=banner-stacking",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/banner-stacking.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/banner-stacking-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     },
     {
       "name": "Image generation placeholder",
@@ -353,7 +543,25 @@
       "description": "Pro gradient glows in from the pill’s rim. A Transitions Pro recipe with CSS, React and TypeScript variants.",
       "url": "https://transitions.dev/transitions/get-pro-button/",
       "remix": "https://transitions.dev/studio.html?lib=get-pro-button",
-      "source": "https://transitions.dev/sitemap.xml"
+      "source": "https://transitions.dev/sitemap.xml",
+      "preview": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/get-pro-button.jpg",
+      "previewDark": "https://raw.githubusercontent.com/Jakubantalik/transitions.dev/20d70c1262bf721c0300c2946cbe1fc7605a555c/assets/community/thumbs/get-pro-button-dark.jpg",
+      "previewSource": "repository-thumbnail",
+      "previewCommit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+      "previewNote": "Official thumbnail from github.com/Jakubantalik/transitions.dev at previewCommit, linked (not copied). transitions.dev itself was not crawled."
     }
-  ]
+  ],
+  "previews": {
+    "repository": "https://github.com/Jakubantalik/transitions.dev",
+    "commit": "20d70c1262bf721c0300c2946cbe1fc7605a555c",
+    "linked": 39,
+    "missing": [
+      "drag-drop-with-physics",
+      "spinner-to-check-morph",
+      "number-subtle-change",
+      "delete-with-smoky-dissolve",
+      "image-generation-placeholder"
+    ],
+    "note": "Thumbnails are linked from the author's repository; the library's licence forbids redistributing the transitions themselves."
+  }
 }
