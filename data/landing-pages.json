@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "https://lusion.co/ and brand homepages discovered via https://styles.refero.design/",
-  "count": 93,
+  "count": 94,
   "items": [
     {
       "id": "lusion-home",
@@ -1816,6 +1816,36 @@
       "group": "refero",
       "preview": "captures/refero/refero-ramp/checkpoint-00.jpg",
       "video": "captures/refero/refero-ramp/traversal.mp4"
+    },
+    {
+      "id": "ai-studio-fcd45129",
+      "name": "RASTER/27 — Google AI Studio app (fcd45129)",
+      "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+      "source": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T20:15:00.000Z",
+      "viewport": {
+        "width": 1470,
+        "height": 717,
+        "deviceScaleFactor": 2,
+        "mobile": false
+      },
+      "tags": [
+        "ai-studio",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/ai-studio/ai-studio-fcd45129/page.json",
+      "guide": "docs/reference-library/pages/ai-studio-fcd45129.md",
+      "checkpointCount": 6,
+      "resourceCount": 1,
+      "scrollCoverage": null,
+      "group": "ai-studio",
+      "preview": "captures/ai-studio/ai-studio-fcd45129/checkpoint-00.jpg",
+      "video": "captures/ai-studio/ai-studio-fcd45129/traversal.mp4"
     },
     {
       "id": "refero-raycast",

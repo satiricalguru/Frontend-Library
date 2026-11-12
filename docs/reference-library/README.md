@@ -1,8 +1,8 @@
 # Landing-page and motion evidence
 
-**93 capture packages · 92 browser recordings · 552 visual checkpoints · 5147 unique observed resource URLs.**
+**94 capture packages · 93 browser recordings · 558 visual checkpoints · 5148 unique observed resource URLs.**
 
-Status: **84 captured**, **8 need review**, **1 failed**. Recordings of failed or incomplete loads are retained as diagnostics and must not be used as working-page evidence.
+Status: **85 captured**, **8 need review**, **1 failed**. Recordings of failed or incomplete loads are retained as diagnostics and must not be used as working-page evidence.
 
 This collection extends the link catalogs with visual evidence for agents and contributors. It contains landing pages, studio pages, case studies and lab experiments; the type is explicit in every row. It is not an offline mirror or a source-code recovery.
 
@@ -71,6 +71,7 @@ This collection extends the link catalogs with visual evidence for agents and co
 | [Perplexity AI — homepage](https://www.perplexity.ai/) | landing-page | captured | 6 | [MP4](../../captures/refero/refero-perplexity-ai/traversal.mp4) | [guide](pages/refero-perplexity-ai.md) · [JSON](../../captures/refero/refero-perplexity-ai/page.json) |
 | [Porsche: Dream Machine](https://lusion.co/projects/porsche_dream_machine) | case-study | captured | 6 | [MP4](../../captures/lusion/project-porsche-dream-machine/traversal.mp4) | [guide](pages/project-porsche-dream-machine.md) · [JSON](../../captures/lusion/project-porsche-dream-machine/page.json) |
 | [Ramp — homepage](https://ramp.com/) | landing-page | captured | 6 | [MP4](../../captures/refero/refero-ramp/traversal.mp4) | [guide](pages/refero-ramp.md) · [JSON](../../captures/refero/refero-ramp/page.json) |
+| [RASTER/27 — Google AI Studio app (fcd45129)](https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true) | interactive-experience | captured | 6 | [MP4](../../captures/ai-studio/ai-studio-fcd45129/traversal.mp4) | [guide](pages/ai-studio-fcd45129.md) · [JSON](../../captures/ai-studio/ai-studio-fcd45129/page.json) |
 | [Raycast — homepage](https://www.raycast.com/) | landing-page | captured | 6 | [MP4](../../captures/refero/refero-raycast/traversal.mp4) | [guide](pages/refero-raycast.md) · [JSON](../../captures/refero/refero-raycast/page.json) |
 | [Resend — homepage](https://resend.com/) | landing-page | captured | 6 | [MP4](../../captures/refero/refero-resend/traversal.mp4) | [guide](pages/refero-resend.md) · [JSON](../../captures/refero/refero-resend/page.json) |
 | [Shopify — homepage](https://www.shopify.com/) | landing-page | captured | 6 | [MP4](../../captures/refero/refero-shopify/traversal.mp4) | [guide](pages/refero-shopify.md) · [JSON](../../captures/refero/refero-shopify/page.json) |

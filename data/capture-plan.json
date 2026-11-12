@@ -901,6 +901,14 @@
       "kind": "landing-page",
       "group": "refero",
       "discovery": "Brand listed in the Refero Styles index (existing metadata); the brand homepage itself was captured, not Refero."
+    },
+    {
+      "id": "ai-studio-fcd45129",
+      "name": "RASTER/27 — Google AI Studio app (fcd45129)",
+      "url": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+      "source": "https://ai.studio/apps/fcd45129-87d8-4e4d-aa45-e63b33e93ecb?fullscreenApplet=true",
+      "kind": "interactive-experience",
+      "group": "ai-studio"
     }
   ]
 }

@@ -48,9 +48,9 @@
 **14,518 indexed references**, complemented by local capture packages (35 brand homepages discovered through the Refero index among them), 13 original animations and two reusable components. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
 
 <!-- capture-stats:start -->
-**93 evidence packages across 92 source routes · 92 browser recordings · 552 visual checkpoints · 5147 unique observed resource URLs.**
+**94 evidence packages across 93 source routes · 93 browser recordings · 558 visual checkpoints · 5148 unique observed resource URLs.**
 
-84 completed captures · 8 need review · 1 failed. Packages include desktop/mobile variants and diagnostic captures; [see coverage and limitations](docs/reference-library/README.md).
+85 completed captures · 8 need review · 1 failed. Packages include desktop/mobile variants and diagnostic captures; [see coverage and limitations](docs/reference-library/README.md).
 <!-- capture-stats:end -->
 
 <table>
