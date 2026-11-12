@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Command palette</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.palette { position: relative; width: min(420px, 84vw); }
+.palette__btn {
+  width: 100%; display: flex; align-items: center; gap: 10px;
+  border: 1px solid var(--line, #24304f); background: var(--panel, #121a30); color: var(--muted, #8a97b8);
+  font: 500 15px/1 var(--font, system-ui, sans-serif); padding: 14px 16px; border-radius: 12px; cursor: pointer;
+  transition: border-color .2s, color .2s;
+}
+.palette__btn:hover { border-color: var(--accent, #2563eb); color: var(--text, #e8eeff); }
+.palette__btn:focus-visible { outline: 2px solid var(--accent-2, #38bdf8); outline-offset: 2px; }
+.palette__btn svg { width: 17px; height: 17px; flex: none; }
+.palette__kbd { margin-left: auto; font: 600 12px/1 var(--font, system-ui, sans-serif); color: var(--muted, #8a97b8); border: 1px solid var(--line, #24304f); border-radius: 6px; padding: 4px 7px; }
+.palette__panel {
+  position: absolute; left: 0; right: 0; top: calc(100% + 8px); z-index: 10;
+  border: 1px solid var(--line, #24304f); border-radius: 14px; overflow: hidden;
+  background: var(--panel, #121a30); box-shadow: 0 24px 60px -20px rgba(0, 0, 0, .8);
+  opacity: 0; visibility: hidden; transform: translateY(-8px) scale(.98);
+  transition: opacity .18s ease, transform .2s cubic-bezier(.2, .9, .3, 1.1), visibility .2s;
+}
+.palette[data-open="true"] .palette__panel { opacity: 1; visibility: visible; transform: translateY(0) scale(1); }
+.palette__search { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--line, #24304f); padding: 13px 15px; }
+.palette__search svg { width: 16px; height: 16px; color: var(--muted, #8a97b8); flex: none; }
+.palette__input { flex: 1; border: 0; outline: 0; background: none; color: var(--text, #e8eeff); font: 500 15px/1 var(--font, system-ui, sans-serif); }
+.palette__input::placeholder { color: var(--muted, #8a97b8); }
+.palette__list { list-style: none; margin: 0; padding: 6px; max-height: 232px; overflow-y: auto; }
+.palette__item { display: flex; align-items: center; gap: 11px; padding: 10px 11px; border-radius: 9px; cursor: pointer; color: var(--text, #e8eeff); font: 500 14px/1 var(--font, system-ui, sans-serif); }
+.palette__item:hover, .palette__item[aria-selected="true"] { background: rgba(37, 99, 235, .22); }
+.palette__item svg { width: 16px; height: 16px; flex: none; color: var(--muted, #8a97b8); }
+.palette__item[aria-selected="true"] svg { color: var(--accent-2, #38bdf8); }
+.palette__item span { margin-left: auto; font: 600 11px/1 var(--font, system-ui, sans-serif); color: var(--muted, #8a97b8); }
+.palette__empty { padding: 22px 12px; text-align: center; color: var(--muted, #8a97b8); font: 500 14px/1.4 var(--font, system-ui, sans-serif); }
+.palette__foot { display: flex; gap: 14px; border-top: 1px solid var(--line, #24304f); padding: 9px 14px; color: var(--muted, #8a97b8); font: 500 11px/1 var(--font, system-ui, sans-serif); }
+.palette__foot b { color: var(--text, #e8eeff); font-weight: 600; }
+@media (prefers-reduced-motion: reduce) { .palette__panel { transition: opacity .01s; } .palette[data-open="true"] .palette__panel { transform: none; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="palette" id="palette">
+    <button class="palette__btn" id="paletteBtn" aria-haspopup="listbox" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+      Search the library…
+      <span class="palette__kbd">⌘K</span>
+    </button>
+
+    <div class="palette__panel" id="palettePanel">
+      <div class="palette__search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.2-3.2"/></svg>
+        <input class="palette__input" id="paletteInput" type="text" placeholder="Type a command…" aria-label="Type a command" aria-controls="paletteList" autocomplete="off">
+      </div>
+      <ul class="palette__list" id="paletteList" role="listbox" aria-label="Commands"></ul>
+      <div class="palette__foot">
+        <span><b>↑↓</b> navigate</span>
+        <span><b>↵</b> run</span>
+        <span><b>esc</b> close</span>
+      </div>
+    </div>
+  </div>
+  <div class="caption">command palette</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+// A filterable command palette. Pass your own commands as { label, hint, icon }.
+function commandPalette(root, commands) {
+  const btn = root.querySelector('#paletteBtn');
+  const input = root.querySelector('#paletteInput');
+  const list = root.querySelector('#paletteList');
+  let items = commands;
+  let index = 0;
+
+  const ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
+
+  const render = () => {
+    if (!items.length) {
+      list.innerHTML = '<li class="palette__empty">No matches</li>';
+      return;
+    }
+    list.innerHTML = items.map((c, i) =>
+      `<li class="palette__item" role="option" id="cmd-${i}" aria-selected="${i === index}">${ICON}${c.label}${c.hint ? `<span>${c.hint}</span>` : ''}</li>`
+    ).join('');
+    list.querySelectorAll('.palette__item').forEach((el, i) => {
+      el.addEventListener('mouseenter', () => select(i));
+      el.addEventListener('click', () => run(items[i]));
+    });
+  };
+
+  const select = (i) => {
+    index = Math.max(0, Math.min(items.length - 1, i));
+    list.querySelectorAll('.palette__item').forEach((el, j) => el.setAttribute('aria-selected', String(j === index)));
+    list.querySelector('.palette__item[aria-selected="true"]')?.scrollIntoView({ block: 'nearest' });
+  };
+
+  const open = () => {
+    root.dataset.open = 'true';
+    btn.setAttribute('aria-expanded', 'true');
+    input.focus();
+    input.value = '';
+    filter('');
+  };
+
+  const close = () => {
+    root.dataset.open = 'false';
+    btn.setAttribute('aria-expanded', 'false');
+    btn.focus();
+  };
+
+  const filter = (q) => {
+    const term = q.trim().toLowerCase();
+    items = term ? commands.filter((c) => c.label.toLowerCase().includes(term)) : commands;
+    index = 0;
+    render();
+  };
+
+  const run = (command) => {
+    close();
+    command.action?.();
+  };
+
+  btn.addEventListener('click', () => (root.dataset.open === 'true' ? close() : open()));
+  input.addEventListener('input', (e) => filter(e.target.value));
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowDown') { e.preventDefault(); select(index + 1); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); select(index - 1); }
+    else if (e.key === 'Enter') { e.preventDefault(); if (items[index]) run(items[index]); }
+    else if (e.key === 'Escape') { e.preventDefault(); close(); }
+  });
+  document.addEventListener('click', (e) => { if (!root.contains(e.target)) close(); });
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') { e.preventDefault(); open(); }
+  });
+
+  render();
+  return { open, close };
+}
+commandPalette(document.getElementById('palette'), [
+  { label: 'Browse design systems', hint: '1,342', action: () => console.log('design systems') },
+  { label: 'Browse award fonts', hint: '1,225', action: () => console.log('fonts') },
+  { label: 'Browse motion examples', hint: '616', action: () => console.log('motion') },
+  { label: 'Copy the install command', hint: 'npm', action: () => console.log('copied') },
+]);
+// demo loop
+const p = document.getElementById('palette');
+setInterval(() => {
+  const input = document.getElementById('paletteInput');
+  if (p.dataset.open === 'true') {
+    input.value = input.value ? '' : 'br';
+    input.dispatchEvent(new Event('input'));
+  } else {
+    document.getElementById('paletteBtn').click();
+  }
+}, 1600);
+</script>
+</body>
+</html>

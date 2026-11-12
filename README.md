@@ -20,6 +20,7 @@
 <p>
   <a href="#-whats-inside">What's inside</a> ·
   <a href="#-animation-snippets">Snippets</a> ·
+  <a href="#-components">Components</a> ·
   <a href="#-design-systems">Design systems</a> ·
   <a href="#-motion--transitions">Motion</a> ·
   <a href="#-fonts">Fonts</a> ·
@@ -61,6 +62,7 @@
 | ✨ UI micro-transitions | 44 | [animations/transitions-dev](animations/transitions-dev/) | [transitions.dev](https://transitions.dev/) |
 | 🪐 3D case studies & labs | 36 | [inspiration/lusion](inspiration/lusion/) | [lusion.co](https://lusion.co/projects) |
 | 🎬 Original animation snippets | 10 | [animations/snippets](animations/snippets/) | Our own code |
+| 🧩 Original UI components | 1 | [components](components/) | Our own code |
 
 ## 🎬 Animation snippets
 
@@ -90,6 +92,19 @@ open Frontend-Library/animations/snippets/sliding-tabs/index.html   # macOS; use
 Copy the blocks marked `── snippet ──` into your project and skip anything under `// demo loop`.
 
 </details>
+
+## 🧩 Components
+
+Reusable UI pieces with live demos — same rules as the snippets: one HTML file, no dependencies, and `prefers-reduced-motion` respected.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="components/command-palette/"><img src=".github/assets/gifs/command-palette.gif" width="100%" alt="A command palette opening with a search field and a filtered list of commands"></a><br><sub><b>Command palette</b> · CSS + JS, ⌘K</sub></td>
+    <td align="center" width="50%"></td>
+  </tr>
+</table>
+
+[Browse components →](components/)
 
 ## 🎨 Design systems
 
