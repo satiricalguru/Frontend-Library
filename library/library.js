@@ -87,16 +87,18 @@ function toast(msg) { const t = $('#toast'); t.textContent = msg; t.classList.ad
 async function copy(text) { try { await navigator.clipboard.writeText(text); toast(`Copied ${text}`); } catch { toast(text); } }
 
 /* ── visuals per collection ──────────────────────────── */
+const isDark = () => document.documentElement.dataset.theme ? document.documentElement.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
 function visual(item, { large = false } = {}) {
   const v = node('div', 'card-visual');
   const c = item.collection;
-  if (c === 'captures' && safeUrl(item.preview)) {
+  if ((c === 'captures' || c === 'lusion') && safeUrl(item.preview)) {
     const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Captured viewport of ${item.name}`;
     img.loading = 'lazy'; img.decoding = 'async';
     if (item.viewport?.mobile) img.className = 'mobile';
     img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
     v.append(img);
-    const b = node('span', `badge${item.status === 'captured' ? ' live' : ''}`, item.viewport ? `${item.viewport.width}×${item.viewport.height}` : item.status);
+    const label = c === 'lusion' ? (item.type === 'labs' ? 'Labs experiment' : 'Case study') : item.viewport ? `${item.viewport.width}×${item.viewport.height}` : item.status;
+    const b = node('span', `badge${(item.status || item.captureStatus) === 'captured' ? ' live' : ''}`, label);
     v.append(b);
     if (large && safeUrl(item.video)) {
       const vid = node('video'); vid.src = safeUrl(item.video); vid.muted = true; vid.loop = true; vid.playsInline = true; vid.controls = true; vid.preload = 'metadata'; vid.poster = safeUrl(item.preview); vid.autoplay = !reduced;
@@ -110,6 +112,14 @@ function visual(item, { large = false } = {}) {
     v.classList.add('v-brand'); v.style.background = bg; v.style.color = fg; v.style.borderColor = 'transparent';
     const bar = node('div', 'bar'); cs.slice(0, 6).forEach((h) => { const i = node('i'); i.style.background = h; bar.append(i); });
     v.append(node('small', '', [item.theme, item.category].filter(Boolean).join(' · ')), node('b', '', item.name), bar);
+    return v;
+  }
+  if (c === 'transitions' && safeUrl(item.preview)) {
+    const img = node('img');
+    img.src = safeUrl(isDark() && item.previewDark ? item.previewDark : item.preview);
+    img.alt = `Preview of the ${item.name} transition`; img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
+    img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
+    v.append(img, node('span', 'badge', 'transition'));
     return v;
   }
   if (c === 'codrops' && safeUrl(item.preview)) {
@@ -173,6 +183,7 @@ function typeVisual(item, v = node('div', 'card-visual')) {
 function subtitle(item) {
   const bits = [];
   if (item.collection === 'styles') bits.push((item.fonts || []).slice(0, 2).join(', '));
+  else if (item.collection === 'lusion') bits.push([(item.tags || []).slice(0, 3).join(' · '), item.video ? 'hover to play' : ''].filter(Boolean).join(' · '));
   else if (item.collection === 'captures') bits.push([item.group === 'refero' ? 'brand homepage · via Refero' : 'Lusion', ...(item.tags || []).filter((t) => t !== 'lusion' && t !== 'refero' && t !== 'landing-page').slice(0, 2)].join(' · '));
   else if (item.description) bits.push(item.description);
   else bits.push([item.category, ...(item.tags || [])].filter(Boolean).slice(0, 3).join(' · '));
@@ -180,6 +191,17 @@ function subtitle(item) {
 }
 
 /* ── cards ───────────────────────────────────────────── */
+const cardCache = new Map();
+const keyOf = (it) => `${it.collection}|${it.id || it.url}|${it.name}`;
+function cardFor(item, i) {
+  const k = keyOf(item);
+  if (!cardCache.has(k)) {
+    const el = card(item, i);
+    el.addEventListener('animationend', () => el.classList.add('is-shown'), { once: true });
+    cardCache.set(k, el);
+  }
+  return cardCache.get(k);
+}
 function card(item, i) {
   const a = node('article', 'card');
   a.style.setProperty('--i', String(i % PAGE));
@@ -190,7 +212,7 @@ function card(item, i) {
   const meta = node('div', 'card-meta');
   meta.append(node('h2', '', item.name), node('span', '', COLLECTIONS[item.collection].short));
   a.append(v, meta, node('p', 'card-sub', subtitle(item)), hit);
-  if (item.collection === 'captures' && canHover && !reduced && safeUrl(item.video)) {
+  if ((item.collection === 'captures' || item.collection === 'lusion') && canHover && !reduced && safeUrl(item.video)) {
     let vid = null;
     a.addEventListener('pointerenter', () => {
       vid = node('video'); vid.src = safeUrl(item.video); vid.muted = true; vid.loop = true; vid.playsInline = true; vid.preload = 'auto';
@@ -256,7 +278,7 @@ function openDrawer(item) {
   if (item.code) links.append(link('Source code ↗', item.code));
   if (item.svg) links.append(link('SVG ↗', item.svg));
   if (item.cssUrl) { const b = node('button', 'pill', 'Copy CSS link'); b.type = 'button'; b.addEventListener('click', () => copy(item.cssUrl)); links.append(b); }
-  if (item.guide) links.append(link('Capture notes', item.guide));
+  if (item.guide || item.captureGuide) links.append(link('Capture notes', item.guide || item.captureGuide));
   if (item.record) links.append(link('Evidence JSON', item.record));
   if (item.localDesignPath) links.append(link('Read DESIGN.md', item.localDesignPath));
   const share = node('button', 'pill', 'Copy link'); share.type = 'button';
@@ -293,9 +315,17 @@ function render({ append = false } = {}) {
   const waiting = state.type === 'all' ? !Object.keys(COLLECTIONS).every((k) => loaded[k]) : !loaded[state.type];
   if (!append) compute();
   const start = append ? grid.querySelectorAll('.card:not(.skeleton)').length : 0;
-  const slice = matching.slice(start, state.shown).map((it, i) => card(it, start + i));
-  if (append) { grid.querySelectorAll('.skeleton').forEach((s) => s.remove()); grid.append(...slice); }
-  else grid.replaceChildren(...slice);
+  const items = matching.slice(start, state.shown);
+  const keys = items.map(keyOf).join('\n');
+  const needSkeletons = waiting && matching.length < state.shown;
+  if (!append && keys && keys === rendered && needSkeletons === !!grid.querySelector('.skeleton')) {
+    // a background collection finished loading but the cards on screen are unchanged
+    updateStatus(waiting);
+    return;
+  }
+  const slice = items.map((it, i) => cardFor(it, start + i));
+  if (append) { grid.querySelectorAll('.skeleton').forEach((s) => s.remove()); grid.append(...slice); rendered += (rendered ? '\n' : '') + keys; }
+  else { grid.replaceChildren(...slice); rendered = keys; }
   if (!matching.length && !waiting) {
     const e = node('div', 'empty');
     e.append(node('b', '', 'Nothing on this shelf yet.'), node('p', '', state.q ? `No references match “${state.q}”. Try fewer words or search all collections.` : 'Try another collection.'));
@@ -304,6 +334,10 @@ function render({ append = false } = {}) {
     e.append(reset); grid.append(e);
   }
   if (waiting && matching.length < state.shown) grid.append(...skeletons(matching.length ? 3 : 9));
+  updateStatus(waiting);
+}
+let rendered = '';
+function updateStatus(waiting) {
   const total = matching.length;
   status.textContent = waiting && !total ? 'Loading…' : `${total.toLocaleString()} result${total === 1 ? '' : 's'}${waiting ? ' · loading more' : ''}`;
   more.hidden = state.shown >= total;
@@ -333,6 +367,15 @@ function buildChips() {
   chipsEl.replaceChildren(mk('all', 'Everything', total || null), ...order.map((k) => mk(k, COLLECTIONS[k].label, counts[k], COLLECTIONS[k].dot)));
   $('#total-count').textContent = total.toLocaleString();
 }
+// When the results change while you're scrolled down, the page gets shorter and the browser
+// clamps the scroll position to the new bottom. Bring the top of the results back into view.
+function toResults() {
+  const toolbar = $('.toolbar');
+  // land with the first row just below the sticky toolbar (its `top` is the nav height)
+  const stick = toolbar ? toolbar.offsetHeight + (parseFloat(getComputedStyle(toolbar).top) || 0) : 0;
+  const top = grid.getBoundingClientRect().top + scrollY - stick - 8;
+  if (scrollY > top) scrollTo({ top: Math.max(0, top), behavior: 'instant' });
+}
 function sync() {
   chipsEl.querySelectorAll('button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.type === state.type)));
   themesEl.hidden = !(state.type === 'styles' || state.type === 'all');
@@ -342,6 +385,7 @@ function sync() {
   grid.dataset.type = state.type;
   state.shown = PAGE;
   render();
+  toResults();
 }
 themesEl.addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return; state.theme = b.dataset.theme; sync(); });
 document.querySelectorAll('.view-toggle button').forEach((b) => b.addEventListener('click', () => { state.view = b.dataset.view; sync(); }));

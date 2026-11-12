@@ -15,8 +15,12 @@
         "Animation"
       ],
       "url": "https://lusion.co/projects/oryzo_ai",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-oryzo-ai/checkpoint-01.jpg",
+      "capture": "project-oryzo-ai",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-oryzo-ai.md",
+      "video": "captures/lusion/project-oryzo-ai/traversal.mp4"
     },
     {
       "name": "Atlas Motion",
@@ -30,8 +34,12 @@
         "Animation"
       ],
       "url": "https://lusion.co/projects/atlas_motion",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-atlas-motion/checkpoint-01.jpg",
+      "capture": "project-atlas-motion",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-atlas-motion.md",
+      "video": "captures/lusion/project-atlas-motion/traversal.mp4"
     },
     {
       "name": "Devin AI",
@@ -43,8 +51,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/devin_ai",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-devin-ai/checkpoint-00.jpg",
+      "capture": "project-devin-ai",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-devin-ai.md",
+      "video": "captures/lusion/project-devin-ai/traversal.mp4"
     },
     {
       "name": "Of The Oak",
@@ -57,8 +69,12 @@
         "Animation"
       ],
       "url": "https://lusion.co/projects/of_the_oak",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-of-the-oak/checkpoint-01.jpg",
+      "capture": "project-of-the-oak",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-of-the-oak.md",
+      "video": "captures/lusion/project-of-the-oak/traversal.mp4"
     },
     {
       "name": "Everswap",
@@ -72,8 +88,12 @@
         "Animation"
       ],
       "url": "https://lusion.co/projects/everswap",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-everswap/checkpoint-02.jpg",
+      "capture": "project-everswap",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-everswap.md",
+      "video": "captures/lusion/project-everswap/traversal.mp4"
     },
     {
       "name": "Porsche: Dream Machine",
@@ -85,8 +105,12 @@
         "Video"
       ],
       "url": "https://lusion.co/projects/porsche_dream_machine",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-porsche-dream-machine/checkpoint-00.jpg",
+      "capture": "project-porsche-dream-machine",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-porsche-dream-machine.md",
+      "video": "captures/lusion/project-porsche-dream-machine/traversal.mp4"
     },
     {
       "name": "Synthetic Human",
@@ -95,8 +119,12 @@
         "Web"
       ],
       "url": "https://lusion.co/projects/synthetic_human",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-synthetic-human/checkpoint-02.jpg",
+      "capture": "project-synthetic-human",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-synthetic-human.md",
+      "video": "captures/lusion/project-synthetic-human/traversal.mp4"
     },
     {
       "name": "DDD 2024",
@@ -105,8 +133,12 @@
         "Web"
       ],
       "url": "https://lusion.co/projects/ddd_2024",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-ddd-2024/checkpoint-00.jpg",
+      "capture": "project-ddd-2024",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-ddd-2024.md",
+      "video": "captures/lusion/project-ddd-2024/traversal.mp4"
     },
     {
       "name": "Spaace - NFT Marketplace",
@@ -119,8 +151,12 @@
         "WEB3"
       ],
       "url": "https://lusion.co/projects/spaace",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-spaace/checkpoint-01.jpg",
+      "capture": "project-spaace",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-spaace.md",
+      "video": "captures/lusion/project-spaace/traversal.mp4"
     },
     {
       "name": "Choo Choo World",
@@ -132,8 +168,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/choo_choo_world",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-choo-choo-world/checkpoint-00.jpg",
+      "capture": "project-choo-choo-world",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-choo-choo-world.md",
+      "video": "captures/lusion/project-choo-choo-world/traversal.mp4"
     },
     {
       "name": "Zero Tech",
@@ -145,8 +185,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/zero_tech",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-zero-tech/checkpoint-00.jpg",
+      "capture": "project-zero-tech",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-zero-tech.md",
+      "video": "captures/lusion/project-zero-tech/traversal.mp4"
     },
     {
       "name": "Meta: Spatial Fusion",
@@ -158,8 +202,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/spatial_fusion",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-spatial-fusion/checkpoint-01.jpg",
+      "capture": "project-spatial-fusion",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-spatial-fusion.md",
+      "video": "captures/lusion/project-spatial-fusion/traversal.mp4"
     },
     {
       "name": "Worldcoin Globe",
@@ -170,8 +218,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/worldcoin",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-worldcoin/checkpoint-01.jpg",
+      "capture": "project-worldcoin",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-worldcoin.md",
+      "video": "captures/lusion/project-worldcoin/traversal.mp4"
     },
     {
       "name": "Lusion Labs",
@@ -183,8 +235,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/lusion_labs",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-lusion-labs/checkpoint-01.jpg",
+      "capture": "project-lusion-labs",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-lusion-labs.md",
+      "video": "captures/lusion/project-lusion-labs/traversal.mp4"
     },
     {
       "name": "My Little Storybook",
@@ -196,8 +252,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/my_little_story_book",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-my-little-story-book/checkpoint-00.jpg",
+      "capture": "project-my-little-story-book",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-my-little-story-book.md",
+      "video": "captures/lusion/project-my-little-story-book/traversal.mp4"
     },
     {
       "name": "Soda Experience",
@@ -208,8 +268,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/soda_experience",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-soda-experience/checkpoint-00.jpg",
+      "capture": "project-soda-experience",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-soda-experience.md",
+      "video": "captures/lusion/project-soda-experience/traversal.mp4"
     },
     {
       "name": "Infinite Passerella",
@@ -221,8 +285,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/infinite_passerella",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-infinite-passerella/checkpoint-01.jpg",
+      "capture": "project-infinite-passerella",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-infinite-passerella.md",
+      "video": "captures/lusion/project-infinite-passerella/traversal.mp4"
     },
     {
       "name": "The Turn Of The Screw",
@@ -233,8 +301,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/the_turn_of_the_screw",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-the-turn-of-the-screw/checkpoint-00.jpg",
+      "capture": "project-the-turn-of-the-screw",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-the-turn-of-the-screw.md",
+      "video": "captures/lusion/project-the-turn-of-the-screw/traversal.mp4"
     },
     {
       "name": "Max Mara: Bearing Gifts",
@@ -244,8 +316,12 @@
         "3D"
       ],
       "url": "https://lusion.co/projects/maxmara_bearings_gifts",
-      "preview": "https://lusion.co/assets/meta/social_sharing.jpg",
-      "source": "https://lusion.co/projects"
+      "source": "https://lusion.co/projects",
+      "preview": "captures/lusion/project-maxmara-bearings-gifts/checkpoint-01.jpg",
+      "capture": "project-maxmara-bearings-gifts",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/project-maxmara-bearings-gifts.md",
+      "video": "captures/lusion/project-maxmara-bearings-gifts/traversal.mp4"
     },
     {
       "name": "Choochoo",
@@ -255,8 +331,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/choochoo",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-choochoo/checkpoint-02.jpg",
+      "capture": "labs-choochoo",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-choochoo.md",
+      "video": "captures/lusion/labs-choochoo/traversal.mp4"
     },
     {
       "name": "Ion Speaker",
@@ -266,8 +346,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/ion-speaker",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-ion-speaker/checkpoint-02.jpg",
+      "capture": "labs-ion-speaker",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-ion-speaker.md",
+      "video": "captures/lusion/labs-ion-speaker/traversal.mp4"
     },
     {
       "name": "My Little Story Book",
@@ -277,8 +361,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/my-little-story-book",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-my-little-story-book/checkpoint-02.jpg",
+      "capture": "labs-my-little-story-book",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-my-little-story-book.md",
+      "video": "captures/lusion/labs-my-little-story-book/traversal.mp4"
     },
     {
       "name": "Infinite Passerella",
@@ -288,8 +376,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/infinite-passerella",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-infinite-passerella/checkpoint-02.jpg",
+      "capture": "labs-infinite-passerella",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-infinite-passerella.md",
+      "video": "captures/lusion/labs-infinite-passerella/traversal.mp4"
     },
     {
       "name": "Gemini Car",
@@ -299,8 +391,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/gemini-car",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-gemini-car/checkpoint-02.jpg",
+      "capture": "labs-gemini-car",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-gemini-car.md",
+      "video": "captures/lusion/labs-gemini-car/traversal.mp4"
     },
     {
       "name": "Mind Flayer",
@@ -310,8 +406,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/mind-flayer",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-mind-flayer/checkpoint-02.jpg",
+      "capture": "labs-mind-flayer",
+      "captureStatus": "needs-review",
+      "captureGuide": "docs/reference-library/pages/labs-mind-flayer.md",
+      "video": "captures/lusion/labs-mind-flayer/traversal.mp4"
     },
     {
       "name": "Abduction",
@@ -321,8 +421,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/abduction",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-abduction/checkpoint-02.jpg",
+      "capture": "labs-abduction",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-abduction.md",
+      "video": "captures/lusion/labs-abduction/traversal.mp4"
     },
     {
       "name": "Cineshader",
@@ -332,8 +436,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/cineshader",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-cineshader/checkpoint-02.jpg",
+      "capture": "labs-cineshader",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-cineshader.md",
+      "video": "captures/lusion/labs-cineshader/traversal.mp4"
     },
     {
       "name": "Digital City",
@@ -343,8 +451,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/digital-city",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-digital-city/checkpoint-02.jpg",
+      "capture": "labs-digital-city",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-digital-city.md",
+      "video": "captures/lusion/labs-digital-city/traversal.mp4"
     },
     {
       "name": "Particle Love",
@@ -354,8 +466,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/particle-love",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-particle-love/checkpoint-02.jpg",
+      "capture": "labs-particle-love",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-particle-love.md",
+      "video": "captures/lusion/labs-particle-love/traversal.mp4"
     },
     {
       "name": "Small World",
@@ -365,8 +481,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/small-world",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-small-world/checkpoint-00.jpg",
+      "capture": "labs-small-world",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-small-world.md",
+      "video": "captures/lusion/labs-small-world/traversal.mp4"
     },
     {
       "name": "Lazy Plot",
@@ -376,8 +496,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/lazy-plot",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-lazy-plot/checkpoint-02.jpg",
+      "capture": "labs-lazy-plot",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-lazy-plot.md",
+      "video": "captures/lusion/labs-lazy-plot/traversal.mp4"
     },
     {
       "name": "Webxr Sneakers",
@@ -387,8 +511,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/webxr-sneakers",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-webxr-sneakers/checkpoint-02.jpg",
+      "capture": "labs-webxr-sneakers",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-webxr-sneakers.md",
+      "video": "captures/lusion/labs-webxr-sneakers/traversal.mp4"
     },
     {
       "name": "Hair Simulation",
@@ -398,8 +526,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/hair-simulation",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-hair-simulation/checkpoint-00.jpg",
+      "capture": "labs-hair-simulation",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-hair-simulation.md",
+      "video": "captures/lusion/labs-hair-simulation/traversal.mp4"
     },
     {
       "name": "Surface Floater",
@@ -409,8 +541,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/surface-floater",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-surface-floater/checkpoint-02.jpg",
+      "capture": "labs-surface-floater",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-surface-floater.md",
+      "video": "captures/lusion/labs-surface-floater/traversal.mp4"
     },
     {
       "name": "Covid Spike",
@@ -420,8 +556,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/covid-spike",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-covid-spike/checkpoint-02.jpg",
+      "capture": "labs-covid-spike",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-covid-spike.md",
+      "video": "captures/lusion/labs-covid-spike/traversal.mp4"
     },
     {
       "name": "Trappist 1D",
@@ -431,8 +571,12 @@
         "WebGL"
       ],
       "url": "https://labs.lusion.co/exp/trappist-1d",
-      "preview": "",
-      "source": "https://labs.lusion.co/"
+      "source": "https://labs.lusion.co/",
+      "preview": "captures/lusion/labs-trappist-1d/checkpoint-02.jpg",
+      "capture": "labs-trappist-1d",
+      "captureStatus": "captured",
+      "captureGuide": "docs/reference-library/pages/labs-trappist-1d.md",
+      "video": "captures/lusion/labs-trappist-1d/traversal.mp4"
     }
   ]
 }

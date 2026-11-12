@@ -4,7 +4,7 @@
 
 Every open-source family on Google Fonts, ordered by popularity, with designers, styles and variable axes. Free for commercial use under each family's licence.
 
-<sub><b>1,961</b> entries · collected <b>2026-11-12</b> from <a href="https://fonts.google.com/">https://fonts.google.com/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontend-library-xi-pied.vercel.app/library/">Search them on the website</a></sub>
+<sub><b>1,961</b> entries · collected <b>2026-11-12</b> from <a href="https://fonts.google.com/">https://fonts.google.com/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontendlibrary.vercel.app/library/">Search them on the website</a></sub>
 
 </div>
 

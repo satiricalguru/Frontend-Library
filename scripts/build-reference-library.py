@@ -14,6 +14,40 @@ def write(relative, content):
     path.write_text(content.rstrip() + "\n")
 
 
+def link_lusion_index(captures):
+    """Give each Lusion index entry the screenshot and recording of its own capture package.
+
+    Matches on the exact page URL (desktop captures only; a successful capture wins over one
+    that needs review). Entries without a usable capture are left untouched."""
+    path = ROOT / "data/lusion.json"
+    if not path.exists():
+        return
+    norm = lambda url: url.rstrip("/").lower()
+    rank = {"captured": 0, "needs-review": 1}
+    best = {}
+    for cap in captures:
+        if cap["status"] not in rank or cap.get("viewport", {}).get("mobile") or not cap.get("preview"):
+            continue
+        key = norm(cap["url"])
+        if key not in best or rank[cap["status"]] < rank[best[key]["status"]]:
+            best[key] = cap
+    data = json.loads(path.read_text())
+    for item in data["items"]:
+        for field in ("preview", "video", "capture", "captureStatus", "captureGuide"):
+            item.pop(field, None)
+        cap = best.get(norm(item["url"]))
+        if cap:
+            # the first frame can catch media that hasn't painted yet; use the most detailed of
+            # the first three checkpoints (largest JPEG ≈ most visual detail)
+            folder = (ROOT / cap["preview"]).parent
+            frames = sorted(folder.glob("checkpoint-0[0-2].jpg"), key=lambda p: p.stat().st_size, reverse=True)
+            preview = frames[0].relative_to(ROOT).as_posix() if frames else cap["preview"]
+            item.update({"preview": preview, "capture": cap["id"], "captureStatus": cap["status"], "captureGuide": cap["guide"]})
+            if cap.get("video"):
+                item["video"] = cap["video"]
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+
+
 def build():
     items = []
     for path in sorted((ROOT / "captures").glob("*/*/page.json")):
@@ -59,6 +93,7 @@ def build():
     items.sort(key=lambda item: (0 if item['status']=='captured' else 1, featured.get(item['id'],5), item['name'].lower()))
     catalog = {"version": 1, "source": "https://lusion.co/ and brand homepages discovered via https://styles.refero.design/", "count": len(items), "items": items}
     write("data/landing-pages.json", json.dumps(catalog, indent=2, ensure_ascii=False))
+    link_lusion_index(items)
     good = [item for item in items if item["status"] == "captured"]
     videos = sum(bool(item.get("video")) for item in items)
     checkpoints = sum(item["checkpointCount"] for item in items)

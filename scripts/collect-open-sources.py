@@ -59,7 +59,7 @@ def save(name, payload):
 def header(title, blurb, source, count, back="../../README.md"):
     return (f"<div align=\"center\">\n\n# {title}\n\n{blurb}\n\n"
             f"<sub><b>{count:,}</b> entries · collected <b>{TODAY}</b> from <a href=\"{source}\">{source}</a> · "
-            f"<a href=\"{back}\">← Back to library</a> · <a href=\"https://frontend-library-xi-pied.vercel.app/library/\">Search them on the website</a></sub>\n\n</div>\n\n")
+            f"<a href=\"{back}\">← Back to library</a> · <a href=\"https://frontendlibrary.vercel.app/library/\">Search them on the website</a></sub>\n\n</div>\n\n")
 
 
 # ───────────────────────────────────────────────────────── Google Fonts

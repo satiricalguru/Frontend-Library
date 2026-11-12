@@ -4,7 +4,7 @@
 
 All official three.js examples (WebGL, WebGPU, WebXR, physics, post-processing) with live demos and source pinned to commit `5ec3113785`.
 
-<sub><b>623</b> entries · collected <b>2026-11-12</b> from <a href="https://threejs.org/examples/">https://threejs.org/examples/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontend-library-xi-pied.vercel.app/library/">Search them on the website</a></sub>
+<sub><b>623</b> entries · collected <b>2026-11-12</b> from <a href="https://threejs.org/examples/">https://threejs.org/examples/</a> · <a href="../../README.md">← Back to library</a> · <a href="https://frontendlibrary.vercel.app/library/">Search them on the website</a></sub>
 
 </div>
 
