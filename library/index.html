@@ -3,26 +3,89 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Search Frontend Library's source-tracked design references, landing-page captures and motion recordings.">
-  <title>Explore — Frontend Library</title>
+  <meta name="description" content="Search Frontend Library's source-tracked design systems, landing-page captures, motion examples, fonts and resources.">
+  <title>Library — Frontend Library</title>
+  <link rel="icon" href="../.github/assets/fl-logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="../site/tokens.css">
   <link rel="stylesheet" href="library.css">
   <script src="library.js" defer></script>
 </head>
 <body>
-  <header class="topbar"><a class="brand" href="../README.md"><span class="brand-mark">FL</span> Frontend Library</a><a href="../CONTRIBUTING.md">Contribute <span aria-hidden="true">↗</span></a></header>
-  <main>
-    <div class="intro"><p class="eyebrow">THE REFERENCE SHELF / OPEN TO EVERY BUILDER</p><h1>Find the details.<br><span>Build with intention.</span></h1><p class="description">Real references, captured motion, and design data. A shared collection for frontend developers and the agents working alongside them.</p><div class="intro-links"><a href="../docs/reference-library/README.md">Capture documentation ↗</a><a href="../.agents/skills/frontend-library/SKILL.md">Agent skill ↗</a></div></div>
-    <form id="filters" class="filters" role="search">
-      <label class="search-label"><span class="sr-only">Search references</span><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search a name, style, technology…" autocomplete="off"><kbd>/</kbd></label>
-      <label><span class="sr-only">Collection</span><select id="collection"><option value="captures">Captured pages</option><option value="design-md">DESIGN.md analyses</option><option value="codrops">Codrops WebGL & demos</option><option value="media-resources">Media & design resources</option><option value="styles">Refero styles</option><option value="lusion">Lusion index</option><option value="motion">Motion examples</option><option value="transitions">UI transitions</option><option value="godly">Godly references</option><option value="fonts">Fonts</option><option value="all">All collections</option></select></label>
-      <label><span class="sr-only">Theme</span><select id="theme"><option value="">Any theme</option><option value="dark">Dark</option><option value="light">Light</option><option value="mixed">Mixed</option></select></label>
+  <a class="skip" href="#results">Skip to results</a>
+  <header class="nav is-scrolled">
+    <a class="brand" href="../" aria-label="Frontend Library home"><span class="brand-mark">FL</span><span class="hide-sm">Frontend Library</span></a>
+    <nav class="nav-links" aria-label="Primary">
+      <a class="pill hide-sm" href="../SOURCES.md">Sources</a>
+      <a class="pill hide-sm" href="../.agents/skills/frontend-library/SKILL.md">Agent skill</a>
+      <button class="pill pill--icon" type="button" id="theme-toggle" aria-label="Toggle color theme"><span aria-hidden="true">◐</span></button>
+      <a class="pill pill--solid" href="../CONTRIBUTING.md"><span class="dot" aria-hidden="true"></span>Contribute</a>
+    </nav>
+  </header>
+
+  <main class="lib">
+    <section class="lib-head" aria-labelledby="lib-title">
+      <div>
+        <p class="eyebrow">The library · every entry links to its exact source</p>
+        <h1 id="lib-title"><span id="total-count">4,613</span> references, <em class="serif">one shelf.</em></h1>
+      </div>
+      <p class="lib-lede">Captured landing pages, brand design systems, motion examples, WebGL demos, fonts and resources. Search everything, or pick a collection.</p>
+    </section>
+
+    <form class="toolbar" id="filters" role="search" aria-label="Filter references">
+      <div class="toolbar-row">
+        <label class="search">
+          <span class="sr-only">Search references</span>
+          <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M20 20l-3.6-3.6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <input id="search" type="search" placeholder="Search names, styles, fonts, technologies…" autocomplete="off" spellcheck="false">
+          <kbd aria-hidden="true">/</kbd>
+        </label>
+        <div class="view-toggle" role="group" aria-label="Layout">
+          <button type="button" data-view="grid" aria-pressed="true" aria-label="Grid view"><svg aria-hidden="true" viewBox="0 0 20 20" width="16" height="16"><rect x="2" y="2" width="7" height="7" rx="1.5"/><rect x="11" y="2" width="7" height="7" rx="1.5"/><rect x="2" y="11" width="7" height="7" rx="1.5"/><rect x="11" y="11" width="7" height="7" rx="1.5"/></svg></button>
+          <button type="button" data-view="list" aria-pressed="false" aria-label="List view"><svg aria-hidden="true" viewBox="0 0 20 20" width="16" height="16"><rect x="2" y="3" width="16" height="3" rx="1.5"/><rect x="2" y="8.5" width="16" height="3" rx="1.5"/><rect x="2" y="14" width="16" height="3" rx="1.5"/></svg></button>
+        </div>
+      </div>
+      <div class="chips" id="collections" role="radiogroup" aria-label="Collection"></div>
+      <div class="subfilters">
+        <div class="chips chips--small" id="themes" role="radiogroup" aria-label="Theme" hidden>
+          <button type="button" role="radio" data-theme="" aria-checked="true">Any theme</button>
+          <button type="button" role="radio" data-theme="light" aria-checked="false">Light</button>
+          <button type="button" role="radio" data-theme="dark" aria-checked="false">Dark</button>
+          <button type="button" role="radio" data-theme="mixed" aria-checked="false">Mixed</button>
+        </div>
+        <p id="status" class="status" role="status" aria-live="polite">Loading…</p>
+      </div>
     </form>
-    <div class="results-bar"><p id="status" role="status" aria-live="polite">Loading the collection…</p><p class="evidence-note">Captures show evidence. Index entries link to the original.</p></div>
-    <div id="error" class="error" hidden></div>
-    <div id="grid" class="grid"></div>
-    <div class="pagination"><button id="more" type="button" hidden>Load more references <span aria-hidden="true">↓</span></button></div>
-    <noscript>This viewer requires JavaScript. Use the Markdown catalogs or run python3 scripts/query-library.py from the repository.</noscript>
+
+    <div id="error" class="error" role="alert" hidden></div>
+    <div id="results" class="grid" data-view="grid" tabindex="-1"></div>
+    <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+    <div class="more-wrap"><button id="more" class="pill" type="button" hidden>Load more <span aria-hidden="true">↓</span></button></div>
+    <noscript><p class="error">This viewer needs JavaScript. Use the Markdown catalogs or run <code>python3 scripts/query-library.py</code>.</p></noscript>
   </main>
-  <footer><span>A growing collection, built together.</span><a href="https://github.com/satiricalguru/Frontend-Library">Frontend Library on GitHub ↗</a><p>Third-party designs and media retain their creators' rights. Captured case studies and client websites are distinct references.</p></footer>
+
+  <dialog class="drawer" id="drawer" aria-labelledby="drawer-title">
+    <div class="drawer-inner">
+      <div class="drawer-top">
+        <span class="eyebrow" id="drawer-kind"></span>
+        <button type="button" class="pill pill--icon" id="drawer-close" aria-label="Close details"><span aria-hidden="true">✕</span></button>
+      </div>
+      <div class="drawer-visual" id="drawer-visual"></div>
+      <h2 id="drawer-title"></h2>
+      <p class="drawer-desc" id="drawer-desc"></p>
+      <dl class="drawer-meta" id="drawer-meta"></dl>
+      <div class="drawer-links" id="drawer-links"></div>
+      <p class="drawer-note">Third-party designs, fonts and media belong to their creators. Open the original to view, license or buy.</p>
+    </div>
+  </dialog>
+  <p class="toast" id="toast" role="status" aria-live="polite"></p>
+
+  <footer class="footer">
+    <span>Frontend Library — built together, in the open.</span>
+    <span>Captures are evidence of what shipped. Index entries link to the original.</span>
+    <a href="https://github.com/satiricalguru/Frontend-Library">GitHub ↗</a>
+  </footer>
 </body>
 </html>
