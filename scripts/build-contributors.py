@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Generate circular-avatar contributor SVGs and update the Contributors block in README.md.
+"""Generate a single circular-avatar contributors SVG and update README.md.
 
     python3 scripts/build-contributors.py
 
-Reads contributors from the GitHub REST API (or ``gh`` CLI locally) plus
-``Co-authored-by:`` trailers in git history so both human contributors and AI/bot
-accounts appear cleanly without waiting on external image caches.
+Reads contributors from the GitHub REST API plus ``Co-authored-by:`` trailers
+in git history so every human and AI/bot contributor appears in one combined
+12-column circular avatar grid without waiting on external image caches.
 """
 from __future__ import annotations
 
@@ -20,27 +20,18 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT_DIR = ROOT / ".github/assets/generated"
+OUT_SVG = ROOT / ".github/assets/generated/contributors.svg"
 README_PATH = ROOT / "README.md"
 REPO = os.environ.get("GITHUB_REPOSITORY", "satiricalguru/Frontend-Library")
 
 START_MARKER = "<!-- CONTRIBUTORS:START -->"
 END_MARKER = "<!-- CONTRIBUTORS:END -->"
 
-AI_BOT_LOGINS = {
-    "codex",
-    "cursoragent",
-    "copilot",
-    "claude",
-    "dependabot[bot]",
-    "github-actions[bot]",
-}
-
 TRAILER_ALIASES = [
-    (re.compile(r"claude|anthropic", re.I), "claude", "https://github.com/claude"),
-    (re.compile(r"copilot", re.I), "Copilot", "https://github.com/apps/copilot-swe-agent"),
-    (re.compile(r"codex|openai", re.I), "codex", "https://github.com/codex"),
-    (re.compile(r"cursor", re.I), "cursoragent", "https://github.com/cursoragent"),
+    (re.compile(r"claude|anthropic", re.I), "claude"),
+    (re.compile(r"copilot", re.I), "Copilot"),
+    (re.compile(r"codex|openai", re.I), "codex"),
+    (re.compile(r"cursor", re.I), "cursoragent"),
 ]
 
 AVATAR_SIZE = 64
@@ -87,65 +78,45 @@ def fetch_avatar_data_uri(avatar_url: str) -> str:
         return f"data:{ctype};base64,{encoded}"
 
 
-def is_ai_or_bot(login: str, account_type: str) -> bool:
-    """Return True if the contributor is a bot or AI coding agent."""
-    lower = login.lower()
-    return account_type == "Bot" or lower.endswith("[bot]") or lower in AI_BOT_LOGINS
-
-
-def profile_url_for(login: str, html_url: str | None) -> str:
-    """Return a clean GitHub profile or app URL for a contributor."""
-    if html_url and html_url.startswith("https://"):
-        return html_url
-    if login == "Copilot":
-        return "https://github.com/features/copilot"
-    if login.endswith("[bot]"):
-        return f"https://github.com/apps/{login[:-5]}"
-    return f"https://github.com/{login}"
-
-
-def collect_coauthors() -> list[tuple[str, str | None]]:
+def collect_coauthors() -> list[str]:
     """Scan git commit trailers for Co-authored-by contributors."""
     out = subprocess.check_output(
         ["git", "-C", str(ROOT), "log", "--format=%b"],
         text=True,
     )
-    found: dict[str, str | None] = {}
+    found: dict[str, None] = {}
     noreply_re = re.compile(r"^\s*Co-authored-by:\s*.+?<\d+\+([^@>]+)@users\.noreply\.github\.com>", re.I)
     generic_re = re.compile(r"^\s*Co-authored-by:\s*(.+)$", re.I)
 
     for line in out.splitlines():
         m = noreply_re.match(line)
         if m:
-            login = m.group(1).strip()
-            found.setdefault(login.lower(), None)
+            found.setdefault(m.group(1).strip(), None)
             continue
         gm = generic_re.match(line)
         if not gm:
             continue
         trailer = gm.group(1)
-        for pattern, login, url in TRAILER_ALIASES:
+        for pattern, login in TRAILER_ALIASES:
             if pattern.search(trailer):
-                found.setdefault(login, url)
+                found.setdefault(login, None)
                 break
-    return list(found.items())
+    return list(found.keys())
 
 
-def gather_contributors() -> tuple[list[dict], list[dict]]:
-    """Collect and split contributors into (humans, ai_and_bots)."""
+def gather_contributors() -> list[dict]:
+    """Collect all contributors (humans + AI/bots) sorted by commit count."""
     raw = github_get_json(f"https://api.github.com/repos/{REPO}/contributors?per_page=100") or []
     by_lower: dict[str, dict] = {}
     for item in raw:
         login = item["login"]
         by_lower[login.lower()] = {
             "login": login,
-            "type": item.get("type", "User"),
             "contributions": item.get("contributions", 1),
             "avatar_url": item["avatar_url"],
-            "html_url": profile_url_for(login, item.get("html_url")),
         }
 
-    for login_hint, fallback_url in collect_coauthors():
+    for login_hint in collect_coauthors():
         if login_hint.lower() in by_lower:
             continue
         user = github_get_json(f"https://api.github.com/users/{login_hint}")
@@ -154,24 +125,16 @@ def gather_contributors() -> tuple[list[dict], list[dict]]:
         login = user["login"]
         by_lower[login.lower()] = {
             "login": login,
-            "type": user.get("type", "User"),
             "contributions": 1,
             "avatar_url": user["avatar_url"],
-            "html_url": profile_url_for(login, fallback_url or user.get("html_url")),
         }
 
-    humans: list[dict] = []
-    bots: list[dict] = []
-    for entry in by_lower.values():
+    entries = list(by_lower.values())
+    for entry in entries:
         entry["data_uri"] = fetch_avatar_data_uri(entry["avatar_url"])
-        if is_ai_or_bot(entry["login"], entry["type"]):
-            bots.append(entry)
-        else:
-            humans.append(entry)
 
-    humans.sort(key=lambda x: (-x["contributions"], x["login"].lower()))
-    bots.sort(key=lambda x: (-x["contributions"], x["login"].lower()))
-    return humans, bots
+    entries.sort(key=lambda x: (-x["contributions"], x["login"].lower()))
+    return entries
 
 
 def render_grid_svg(items: list[dict], title: str) -> str:
@@ -215,29 +178,17 @@ def render_grid_svg(items: list[dict], title: str) -> str:
     )
 
 
-def format_links(items: list[dict]) -> str:
-    """Format compact inline profile links for a list of contributors."""
-    return " · ".join(f'<a href="{escape(x["html_url"])}">@{escape(x["login"])}</a>' for x in items)
-
-
-def update_readme(humans: list[dict], bots: list[dict]) -> None:
-    """Replace the Contributors marker block in README.md."""
+def update_readme() -> None:
+    """Replace the Contributors marker block in README.md with the avatar grid only."""
     text = README_PATH.read_text(encoding="utf-8")
     if START_MARKER not in text or END_MARKER not in text:
         raise RuntimeError(f"README.md must contain {START_MARKER} and {END_MARKER}")
 
     block = (
         f"{START_MARKER}\n"
-        f"**Humans ({len(humans)})**\n\n"
         f'<a href="https://github.com/{REPO}/graphs/contributors">\n'
-        f'  <img src=".github/assets/generated/contributors-humans.svg" alt="Human contributors to Frontend Library">\n'
-        f"</a>\n\n"
-        f"<sub>{format_links(humans)}</sub>\n\n"
-        f"**AI & Bots ({len(bots)})**\n\n"
-        f'<a href="https://github.com/{REPO}/graphs/contributors">\n'
-        f'  <img src=".github/assets/generated/contributors-bots.svg" alt="AI and bot contributors to Frontend Library">\n'
-        f"</a>\n\n"
-        f"<sub>{format_links(bots)}</sub>\n"
+        f'  <img src=".github/assets/generated/contributors.svg" alt="Frontend Library contributors">\n'
+        f"</a>\n"
         f"{END_MARKER}"
     )
 
@@ -250,18 +201,14 @@ def update_readme(humans: list[dict], bots: list[dict]) -> None:
 
 
 def main() -> None:
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    humans, bots = gather_contributors()
-    (OUT_DIR / "contributors-humans.svg").write_text(
-        render_grid_svg(humans, f"Human contributors ({len(humans)})"),
+    OUT_SVG.parent.mkdir(parents=True, exist_ok=True)
+    contributors = gather_contributors()
+    OUT_SVG.write_text(
+        render_grid_svg(contributors, f"Frontend Library contributors ({len(contributors)})"),
         encoding="utf-8",
     )
-    (OUT_DIR / "contributors-bots.svg").write_text(
-        render_grid_svg(bots, f"AI and bot contributors ({len(bots)})"),
-        encoding="utf-8",
-    )
-    update_readme(humans, bots)
-    print(f"updated contributors: {len(humans)} humans, {len(bots)} AI/bots")
+    update_readme()
+    print(f"updated contributors: {len(contributors)} total")
 
 
 if __name__ == "__main__":
