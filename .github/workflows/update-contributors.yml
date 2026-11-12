@@ -36,7 +36,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if git diff --quiet -- README.md .github/assets/generated/contributors-humans.svg .github/assets/generated/contributors-bots.svg; then
+          if git diff --quiet -- README.md .github/assets/generated/contributors.svg; then
             echo "Contributors already up to date."
             exit 0
           fi
@@ -45,7 +45,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -B "$BRANCH"
-          git add README.md .github/assets/generated/contributors-humans.svg .github/assets/generated/contributors-bots.svg
+          git add README.md .github/assets/generated/contributors.svg
           git commit -m "docs: update README contributors"
           git push --force origin "$BRANCH"
 
@@ -55,7 +55,7 @@ jobs:
               --base main \
               --head "$BRANCH" \
               --title "docs: update README contributors" \
-              --body "Automatically updates \`.github/assets/generated/contributors-*.svg\` and the Contributors section in \`README.md\` from GitHub contributors and commit trailers.")
+              --body "Automatically updates \`.github/assets/generated/contributors.svg\` and \`README.md\` from GitHub contributors and commit trailers.")
             gh pr merge "$PR_URL" --auto --squash || true
           else
             echo "Updated existing PR #$EXISTING"
