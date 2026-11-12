@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Accordion</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.acc { width: min(420px, 78vw); border: 1px solid var(--line, #24304f); border-radius: 16px; overflow: hidden; background: var(--panel, #121a30); }
+.acc__item + .acc__item { border-top: 1px solid var(--line, #24304f); }
+.acc__btn {
+  width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  border: 0; background: none; color: var(--text, #e8eeff); cursor: pointer;
+  font: 600 16px/1.3 var(--font, system-ui, sans-serif); padding: 18px 20px; text-align: left;
+}
+.acc__btn:hover { background: rgba(56, 189, 248, .06); }
+.acc__btn:focus-visible { outline: 2px solid var(--accent-2, #38bdf8); outline-offset: -2px; }
+.acc__icon { flex: none; width: 20px; height: 20px; color: var(--muted, #8a97b8); transition: transform .3s cubic-bezier(.3, 1.3, .5, 1); }
+.acc__btn[aria-expanded="true"] .acc__icon { transform: rotate(45deg); color: var(--accent-2, #38bdf8); }
+.acc__panel { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .35s cubic-bezier(.4, 0, .2, 1); }
+.acc__item.is-open .acc__panel { grid-template-rows: 1fr; }
+.acc__inner { overflow: hidden; }
+.acc__inner > div { padding: 0 20px 18px; color: var(--muted, #8a97b8); font: 500 15px/1.6 var(--font, system-ui, sans-serif); }
+@media (prefers-reduced-motion: reduce) { .acc__panel, .acc__icon { transition: none; } }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="acc" id="acc">
+    <div class="acc__item is-open">
+      <button class="acc__btn" aria-expanded="true">What is this library?<svg class="acc__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+      <div class="acc__panel"><div class="acc__inner"><div>A source-tracked index of design systems, motion, fonts and inspiration — every entry links back to the page it came from.</div></div></div>
+    </div>
+    <div class="acc__item">
+      <button class="acc__btn" aria-expanded="false">Can I use the assets?<svg class="acc__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+      <div class="acc__panel"><div class="acc__inner"><div>Catalog entries are links and short facts. Every linked design, font and photo stays with its creator.</div></div></div>
+    </div>
+    <div class="acc__item">
+      <button class="acc__btn" aria-expanded="false">How do I contribute?<svg class="acc__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></button>
+      <div class="acc__panel"><div class="acc__inner"><div>Open a pull request with an original asset in its own kebab-case folder, plus a short usage note.</div></div></div>
+    </div>
+  </div>
+  <div class="caption">accordion</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+// One panel open at a time; the open one animates via grid-template-rows.
+function accordion(root, { multiple = false } = {}) {
+  const items = [...root.querySelectorAll('.acc__item')];
+
+  const setState = (item, open) => {
+    item.classList.toggle('is-open', open);
+    item.querySelector('.acc__btn').setAttribute('aria-expanded', String(open));
+  };
+
+  items.forEach((item) => {
+    const btn = item.querySelector('.acc__btn');
+    btn.addEventListener('click', () => {
+      const open = item.classList.contains('is-open');
+      if (!multiple) items.forEach((other) => other !== item && setState(other, false));
+      setState(item, !open);
+    });
+  });
+
+  return { open: (i) => setState(items[i], true), closeAll: () => items.forEach((i) => setState(i, false)) };
+}
+accordion(document.getElementById('acc'));
+// demo loop
+const buttons = [...document.querySelectorAll('#acc .acc__btn')];
+let i = 0;
+setInterval(() => buttons[i = (i + 1) % buttons.length].click(), 1500);
+</script>
+</body>
+</html>

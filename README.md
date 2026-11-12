@@ -8,7 +8,7 @@
 
 <img src=".github/assets/generated/hero.svg" width="100%" alt="Frontend Library: 3,860 curated entries from Refero Styles, Envato Elements, motion.dev, godly.design, transitions.dev and lusion.co">
 
-<p><b>A source-tracked library for frontend builders: 1,342 brand design systems, 1,225 award fonts, 616 Motion examples, 600 Godly picks, 44 UI transitions, Lusion's 3D work, and 11 copy-paste animations.</b></p>
+<p><b>A source-tracked library for frontend builders: 1,342 brand design systems, 1,225 award fonts, 616 Motion examples, 600 Godly picks, 44 UI transitions, Lusion's 3D work, and 12 copy-paste animations.</b></p>
 
 <p>
   <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&color=2563EB" alt="GitHub stars"></a>
@@ -45,7 +45,7 @@
 - 🧭 **One place to look.** Six of the best design-and-motion sources, indexed into searchable Markdown tables and JSON.
 - 🧾 **Every entry is traceable.** Each row links to the original, and [SOURCES.md](SOURCES.md) plus [data/sources.csv](data/sources.csv) record the exact page it was collected from.
 - 🎨 **Real design data.** Brand palettes and typefaces for 1,342 websites, plus a ready-to-import [`palettes.css`](styles/refero-design-systems/palettes.css).
-- 🎬 **Code you can paste today.** Eleven original, dependency-free animations with live demos. All of them respect `prefers-reduced-motion`.
+- 🎬 **Code you can paste today.** Twelve original, dependency-free animations with live demos. All of them respect `prefers-reduced-motion`.
 - ♻️ **Rebuildable.** The catalogs and the charts on this page are generated from [`data/`](data/) by two small Python scripts.
 
 ## 📦 What's inside
@@ -61,12 +61,12 @@
 | 🧩 Website templates | 163 | [templates/godly-templates](templates/godly-templates/) | [godly.design/templates](https://godly.design/templates) |
 | ✨ UI micro-transitions | 44 | [animations/transitions-dev](animations/transitions-dev/) | [transitions.dev](https://transitions.dev/) |
 | 🪐 3D case studies & labs | 36 | [inspiration/lusion](inspiration/lusion/) | [lusion.co](https://lusion.co/projects) |
-| 🎬 Original animation snippets | 11 | [animations/snippets](animations/snippets/) | Our own code |
+| 🎬 Original animation snippets | 12 | [animations/snippets](animations/snippets/) | Our own code |
 | 🧩 Original UI components | 1 | [components](components/) | Our own code |
 
 ## 🎬 Animation snippets
 
-Original, copy-paste animations. Each one is a single `index.html` you can open in a browser. [Browse all 11 →](animations/snippets/)
+Original, copy-paste animations. Each one is a single `index.html` you can open in a browser. [Browse all 12 →](animations/snippets/)
 
 <table>
   <tr>
@@ -81,7 +81,7 @@ Original, copy-paste animations. Each one is a single `index.html` you can open 
   </tr>
   <tr>
     <td align="center"><a href="animations/snippets/tooltip-open-close/"><img src=".github/assets/gifs/tooltip-open-close.gif" width="100%" alt="Tooltip fading in above a button"></a><br><sub><b>Tooltip open/close</b></sub></td>
-    <td align="center"></td>
+    <td align="center"><a href="animations/snippets/accordion/"><img src=".github/assets/gifs/accordion.gif" width="100%" alt="Accordion rows expanding one at a time"></a><br><sub><b>Accordion</b></sub></td>
     <td align="center"></td>
   </tr>
 </table>

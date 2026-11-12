@@ -9,5 +9,6 @@
   {"folder": "skeleton-reveal", "name": "Skeleton → content", "tech": "Pure CSS (class toggle)", "inspired_by": "https://transitions.dev/transitions/skeleton-loader-and-reveal/", "collected": "2026-11-12"},
   {"folder": "error-shake", "name": "Error shake", "tech": "CSS keyframes", "inspired_by": "https://transitions.dev/transitions/error-state-shake/", "collected": "2026-11-12"},
   {"folder": "spring-toggle", "name": "Spring toggle", "tech": "Pure CSS + ARIA switch", "inspired_by": "https://transitions.dev/transitions/toggle/", "collected": "2026-11-12"},
-  {"folder": "tooltip-open-close", "name": "Tooltip open/close", "tech": "CSS + JS positioning", "inspired_by": "https://transitions.dev/transitions/tooltip-open-close/", "collected": "2026-11-12"}
+  {"folder": "tooltip-open-close", "name": "Tooltip open/close", "tech": "CSS + JS positioning", "inspired_by": "https://transitions.dev/transitions/tooltip-open-close/", "collected": "2026-11-12"},
+  {"folder": "accordion", "name": "Accordion", "tech": "CSS grid-rows + ARIA", "inspired_by": "https://transitions.dev/transitions/accordion/", "collected": "2026-11-12"}
 ]
