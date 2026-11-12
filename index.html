@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frontend Library — references for people who build interfaces</title>
+  <meta name="description" content="An open, source-tracked library of design systems, captured landing pages, motion examples, fonts and original animation snippets for frontend builders and their agents.">
+  <meta name="theme-color" content="#07080c">
+  <link rel="icon" href=".github/assets/fl-logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="site/tokens.css">
+  <link rel="stylesheet" href="site/landing.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.min.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/",
+        "motion": "https://cdn.jsdelivr.net/npm/motion@11.18.2/+esm"
+      }
+    }
+  </script>
+  <script type="module" src="site/landing.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="nav">
+    <a class="brand" href="./" aria-label="Frontend Library home"><span class="brand-mark">FL</span><span class="hide-sm">Frontend Library</span></a>
+    <nav class="nav-links" aria-label="Primary">
+      <a class="pill hide-sm" href="#index">Index</a>
+      <a class="pill hide-sm" href="#snippets">Snippets</a>
+      <a class="pill hide-sm" href="SOURCES.md">Sources</a>
+      <a class="pill pill--solid" href="library/"><span class="dot" aria-hidden="true"></span>Open library</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- ── 1. Hero: sticky WebGL stage over a tall scroll track ───────────── -->
+    <section class="hero-track" id="hero" aria-labelledby="hero-title">
+      <div class="hero">
+        <div class="stage" data-phase="0">
+          <canvas class="stage-canvas" aria-hidden="true"></canvas>
+          <div class="stage-fallback" aria-hidden="true"></div>
+          <span class="corner tl" aria-hidden="true">+</span><span class="corner tr" aria-hidden="true">+</span>
+          <span class="corner bl" aria-hidden="true">+</span><span class="corner br" aria-hidden="true">+</span>
+
+          <div class="hero-copy">
+            <p class="eyebrow on-dark">Open-source · source-tracked · <span data-count="total">4,613</span> references</p>
+            <h1 id="hero-title" class="hero-title">
+              <span class="line"><span>Every great interface</span></span>
+              <span class="line"><span>starts as a <em class="serif">reference.</em></span></span>
+            </h1>
+            <p class="hero-sub">Design systems, captured landing pages, motion, fonts and copy-paste animations — collected in one shelf, every entry linked to where it came from.</p>
+            <div class="hero-actions">
+              <a class="pill pill--light" href="library/">Browse the library <span aria-hidden="true">→</span></a>
+              <a class="pill pill--ghost" href="https://github.com/satiricalguru/Frontend-Library">GitHub <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+
+          <ol class="chapters" aria-label="What the scene shows">
+            <li data-chapter="0"><span>01</span><b>The nebula</b><small>Thousands of references, scattered across the web.</small></li>
+            <li data-chapter="1"><span>02</span><b>The shelf</b><small>Collected, sorted and linked to each exact source page.</small></li>
+            <li data-chapter="2"><span>03</span><b>The wall</b><small>One tile per brand palette — <span data-count="styles">1,342</span> real color pairs.</small></li>
+          </ol>
+
+          <div class="stage-foot" aria-hidden="true">
+            <span class="eyebrow on-dark">Scroll to explore</span>
+            <span class="progress"><span class="progress-bar"></span></span>
+            <span class="eyebrow on-dark" data-progress-label>000</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 2. Source marquee ─────────────────────────────────────────────── -->
+    <section class="marquee" aria-label="Sources in the library">
+      <div class="marquee-track">
+        <span>Lusion</span><i>✦</i><span>Refero Styles</span><i>✦</i><span>Motion</span><i>✦</i><span>Godly</span><i>✦</i><span>Codrops</span><i>✦</i><span>transitions.dev</span><i>✦</i><span>Envato Elements</span><i>✦</i><span>DESIGN.md</span><i>✦</i>
+        <span aria-hidden="true">Lusion</span><i>✦</i><span aria-hidden="true">Refero Styles</span><i>✦</i><span aria-hidden="true">Motion</span><i>✦</i><span aria-hidden="true">Godly</span><i>✦</i><span aria-hidden="true">Codrops</span><i>✦</i><span aria-hidden="true">transitions.dev</span><i>✦</i><span aria-hidden="true">Envato Elements</span><i>✦</i><span aria-hidden="true">DESIGN.md</span><i>✦</i>
+      </div>
+    </section>
+
+    <!-- ── 3. The index ──────────────────────────────────────────────────── -->
+    <section class="section index" id="index" aria-labelledby="index-title">
+      <div class="section-head">
+        <p class="eyebrow">( 01 ) The index</p>
+        <h2 id="index-title" class="h2" data-reveal>Ten collections. <em class="serif">One search box.</em></h2>
+        <p class="lede" data-reveal>Pick a shelf, or search across all of them at once. Every row below opens the library already filtered.</p>
+      </div>
+      <ul class="index-list" id="index-list">
+        <!-- rows are rendered from data/library-manifest.json; these are the no-JS fallback -->
+        <li><a href="library/?type=styles"><span class="idx">01</span><span class="name">Brand design systems</span><span class="src">Refero Styles</span><span class="num">1,342</span></a></li>
+        <li><a href="library/?type=fonts"><span class="idx">02</span><span class="name">Award fonts</span><span class="src">Envato Elements</span><span class="num">1,225</span></a></li>
+        <li><a href="library/?type=motion"><span class="idx">03</span><span class="name">Motion examples</span><span class="src">motion.dev</span><span class="num">616</span></a></li>
+        <li><a href="library/?type=godly"><span class="idx">04</span><span class="name">Websites &amp; templates</span><span class="src">Godly</span><span class="num">597</span></a></li>
+      </ul>
+      <div class="index-preview" aria-hidden="true"><div class="index-preview-inner"></div></div>
+    </section>
+
+    <!-- ── 4. Captured evidence ──────────────────────────────────────────── -->
+    <section class="captures" id="captures" aria-labelledby="captures-title">
+      <div class="captures-sticky">
+        <div class="section-head on-dark">
+          <p class="eyebrow on-dark">( 02 ) Captured evidence</p>
+          <h2 id="captures-title" class="h2" data-reveal>Not just links. <em class="serif">Proof.</em></h2>
+          <p class="lede" data-reveal><span data-count="captures">57</span> landing pages and case studies recorded with viewport, scroll checkpoints and a traversal video — so you study what actually shipped.</p>
+        </div>
+        <div class="captures-rail" id="captures-rail"></div>
+      </div>
+    </section>
+
+    <!-- ── 5. Snippets ───────────────────────────────────────────────────── -->
+    <section class="section snippets" id="snippets" aria-labelledby="snippets-title">
+      <div class="section-head">
+        <p class="eyebrow">( 03 ) Copy-paste motion</p>
+        <h2 id="snippets-title" class="h2" data-reveal>Small animations, <em class="serif">no dependencies.</em></h2>
+        <p class="lede" data-reveal>Original MIT-licensed snippets. One <code>index.html</code> each, every one respects <code>prefers-reduced-motion</code>.</p>
+      </div>
+      <div class="snippet-grid" id="snippet-grid">
+        <a class="snippet" href="animations/snippets/sliding-tabs/"><img src=".github/assets/gifs/sliding-tabs.gif" alt="A gradient pill sliding between tabs" loading="lazy" width="400" height="250"><span>Sliding tabs</span></a>
+        <a class="snippet" href="animations/snippets/magnetic-button/"><img src=".github/assets/gifs/magnetic-button.gif" alt="A button pulled toward a moving cursor" loading="lazy" width="400" height="250"><span>Magnetic button</span></a>
+        <a class="snippet" href="animations/snippets/split-text-reveal/"><img src=".github/assets/gifs/split-text-reveal.gif" alt="A headline rising word by word" loading="lazy" width="400" height="250"><span>Split text reveal</span></a>
+        <a class="snippet" href="animations/snippets/number-pop-in/"><img src=".github/assets/gifs/number-pop-in.gif" alt="Digits rolling on a 3D drum" loading="lazy" width="400" height="250"><span>Number pop-in</span></a>
+        <a class="snippet" href="animations/snippets/success-check/"><img src=".github/assets/gifs/success-check.gif" alt="A checkmark drawing itself" loading="lazy" width="400" height="250"><span>Success check</span></a>
+        <a class="snippet" href="animations/snippets/like-burst/"><img src=".github/assets/gifs/like-burst.gif" alt="A heart popping with sparks" loading="lazy" width="400" height="250"><span>Like burst</span></a>
+        <a class="snippet" href="animations/snippets/accordion/"><img src=".github/assets/gifs/accordion.gif" alt="An accordion panel expanding" loading="lazy" width="400" height="250"><span>Accordion</span></a>
+        <a class="snippet" href="components/command-palette/"><img src=".github/assets/gifs/command-palette.gif" alt="A command palette filtering results" loading="lazy" width="400" height="250"><span>Command palette</span></a>
+      </div>
+      <a class="text-link" href="animations/snippets/">All snippets <span aria-hidden="true">→</span></a>
+    </section>
+
+    <!-- ── 6. Palette playground ─────────────────────────────────────────── -->
+    <section class="section palettes" id="palettes" aria-labelledby="palettes-title">
+      <div class="section-head split">
+        <div>
+          <p class="eyebrow">( 04 ) Palette playground</p>
+          <h2 id="palettes-title" class="h2" data-reveal>Steal like <em class="serif">an artist.</em></h2>
+        </div>
+        <div>
+          <p class="lede">Real color pairs from public product websites. Click a tile to copy its hex values.</p>
+          <button class="pill" type="button" id="shuffle">Shuffle palettes <span aria-hidden="true">↻</span></button>
+        </div>
+      </div>
+      <div class="palette-grid" id="palette-grid" aria-live="polite"></div>
+      <p class="toast" id="toast" role="status" aria-live="polite"></p>
+    </section>
+
+    <!-- ── 7. For agents ─────────────────────────────────────────────────── -->
+    <section class="section agents" aria-labelledby="agents-title">
+      <div class="agents-grid">
+        <div>
+          <p class="eyebrow">( 05 ) Built for you and your agent</p>
+          <h2 id="agents-title" class="h2" data-reveal>Query it like <em class="serif">a database.</em></h2>
+          <p class="lede">Every collection is plain JSON. Search it offline, wire the read-only MCP connector into your editor, or hand your coding agent the portable skill.</p>
+          <ul class="ticks">
+            <li>Offline search, zero dependencies</li>
+            <li>Every record carries its exact source URL</li>
+            <li>Captures separate observed facts from guesses</li>
+          </ul>
+        </div>
+        <figure class="terminal" aria-label="Example terminal session">
+          <div class="terminal-bar" aria-hidden="true"><i></i><i></i><i></i><span>~/Frontend-Library</span></div>
+<pre><code><span class="c">$</span> python3 scripts/query-library.py "scroll" --type motion --limit 3
+<span class="o">62 matches; showing 3</span>
+
+<span class="o">[motion] Lenis smooth scroll</span>
+<span class="o">  https://motion.dev/examples/js-lenis-smooth-scroll</span>
+
+<span class="o">[motion] Lenis smooth scroll</span>
+<span class="o">  https://motion.dev/examples/react-lenis-smooth-scroll</span>
+
+<span class="o">[motion] Svelte: Scroll progress</span>
+<span class="o">  https://motion.dev/examples/svelte-scroll</span></code></pre>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ── 8. Final call to action ───────────────────────────────────────── -->
+    <section class="cta" aria-labelledby="cta-title">
+      <p class="eyebrow">Free, open, growing</p>
+      <h2 id="cta-title" class="cta-title"><a href="library/">Open the <em class="serif">library</em> <span class="arrow" aria-hidden="true">→</span></a></h2>
+      <div class="cta-links">
+        <a class="pill" href="CONTRIBUTING.md">Contribute a reference</a>
+        <a class="pill" href="SOURCES.md">See every source</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Frontend Library — built together, in the open.</span>
+    <span>Third-party designs, fonts and media belong to their creators. Snippets are MIT.</span>
+    <a href="https://github.com/satiricalguru/Frontend-Library">GitHub ↗</a>
+  </footer>
+</body>
+</html>
