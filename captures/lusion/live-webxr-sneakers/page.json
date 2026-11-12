@@ -1,0 +1,1350 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-webxr-sneakers",
+  "name": "Webxr Sneakers — live experience",
+  "url": "https://webxr-sneakers.lusion.co/",
+  "source": "https://labs.lusion.co/exp/hair-simulation",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:19:13.723Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://webxr-sneakers.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:19:13.721Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1074,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3149,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 649,
+        "contentTop": -649,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5570,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 1444,
+        "contentTop": -1444,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7469,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 2045,
+        "contentTop": -2045,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9943,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://webxr-sneakers.lusion.co/",
+        "scrollY": 2497,
+        "contentTop": -2497,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas-3d",
+          "cover__shape"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://webxr-sneakers.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/css/index.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/data/sneakers-data.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/01.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/02.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/03.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/04.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/05.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/06.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/07.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/08.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/09.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/10.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/1280/11.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/icons/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/img/icons/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/js/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/js/three.r116.dev.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/models/backdrop.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/models/sneaker.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/patterns/patterns-0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/patterns/patterns-1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/patterns/patterns-2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/smoke_sprites/0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/smoke_sprites/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/sneaker/base.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/sneaker/normal.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://webxr-sneakers.lusion.co/assets/textures/sneaker/shadow_mask.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 94276,
+      "sha256": "c472f7b1e4e016b5f2e2c85badf054699ba5e23a9442bae49d35840d30d0558d"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 98769,
+      "sha256": "0fdad4bcfe9b67bb6a6653331647d8811605c2f9f218844b04bc2ed34966c3a3"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 74244,
+      "sha256": "3f29a2c5fb9c82b7de2388ab70f33d2de58d033ee0f1cfae24490965d784676e"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 75352,
+      "sha256": "d9abceda59516e70e95e9f6bd59f5d7a605ddbf63b93643647c4fe38043971c2"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 88425,
+      "sha256": "c56ad84ab07080dde5cf6a2ca22444d27546b9cf651524b68a6da2880c5c915e"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 89696,
+      "sha256": "efc88bd7ac50a14665dfd3d033a276aaed4bdb1c45ec40483b78981de650d348"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 536261,
+      "sha256": "ca73c565f959abfa75f50b41b482ed832db91fd04669eb653e380aa96f12bead"
+    }
+  ],
+  "initial": {
+    "url": "https://webxr-sneakers.lusion.co/",
+    "title": "AR-FAKE SNEAKERS - WebXR Demo by Lusion",
+    "documentHeight": 3491,
+    "contentHeight": 3491,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Roboto, Arial, sans-serif",
+      "fontSize": "10.9032px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(244, 244, 244)",
+      "backgroundColor": "rgb(0, 0, 153)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "cover",
+        "tag": "DIV",
+        "rect": {
+          "x": 1677,
+          "y": -2795,
+          "width": 2401,
+          "height": 2401
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "10.9032px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgb(0, 0, 255)",
+          "transform": "matrix(0.811211, 0.855898, -1.36944, 1.29794, 2156.86, -2044.25)",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 340,
+          "y": 231,
+          "width": 760,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "54.5161px",
+          "lineHeight": "57.2419px",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 100,
+          "y": 138,
+          "width": 1240,
+          "height": 247
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "130.839px",
+          "lineHeight": "111.213px",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": 995,
+          "width": 126,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 740,
+          "y": 995,
+          "width": 95,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": 1447,
+          "width": 129,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 740,
+          "y": 1447,
+          "width": 109,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 100,
+          "y": 1898,
+          "width": 117,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 740,
+          "y": 1898,
+          "width": 191,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": 2350,
+          "width": 136,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 740,
+          "y": 2350,
+          "width": 149,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": 2801,
+          "width": 150,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 740,
+          "y": 2801,
+          "width": 126,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 100,
+          "y": 3253,
+          "width": 102,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 740,
+          "y": 3253,
+          "width": 168,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 300,
+          "y": 592,
+          "width": 231,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "32.7097px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 36)",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas-3d",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://github.com/immersive-web/webxr/blob/master/explainer.md",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://webxr-sneakers.lusion.co/product/00",
+      "https://webxr-sneakers.lusion.co/product/01",
+      "https://webxr-sneakers.lusion.co/product/02",
+      "https://webxr-sneakers.lusion.co/product/03",
+      "https://webxr-sneakers.lusion.co/product/04",
+      "https://webxr-sneakers.lusion.co/product/05",
+      "https://webxr-sneakers.lusion.co/product/06",
+      "https://webxr-sneakers.lusion.co/product/07",
+      "https://webxr-sneakers.lusion.co/product/08",
+      "https://webxr-sneakers.lusion.co/product/09",
+      "https://webxr-sneakers.lusion.co/product/10",
+      "https://webxr-sneakers.lusion.co/product/11",
+      "https://lusion.co/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://caniuse.com/#search=webxr"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/01.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/02.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/03.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/04.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/05.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/06.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/07.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/08.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/09.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/10.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/11.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 2431,
+    "actualTravel": 2497,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://webxr-sneakers.lusion.co/",
+    "title": "AR-FAKE SNEAKERS - WebXR Demo by Lusion",
+    "documentHeight": 3491,
+    "contentHeight": 3491,
+    "contentTop": -2497,
+    "scrollY": 2497,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Roboto, Arial, sans-serif",
+      "fontSize": "10.9032px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(244, 244, 244)",
+      "backgroundColor": "rgb(40, 26, 12)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "cover",
+        "tag": "DIV",
+        "rect": {
+          "x": 1677,
+          "y": -2795,
+          "width": 2401,
+          "height": 2401
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "10.9032px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgb(76, 47, 19)",
+          "transform": "matrix(0.811211, 0.855898, -1.36944, 1.29794, 2156.86, -2044.25)",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 340,
+          "y": 231,
+          "width": 760,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "54.5161px",
+          "lineHeight": "57.2419px",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 100,
+          "y": -2359,
+          "width": 1240,
+          "height": 247
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "130.839px",
+          "lineHeight": "111.213px",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": -1502,
+          "width": 126,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 740,
+          "y": -1502,
+          "width": 95,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": -1050,
+          "width": 129,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 740,
+          "y": -1050,
+          "width": 109,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 100,
+          "y": -599,
+          "width": 117,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 740,
+          "y": -599,
+          "width": 191,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": -147,
+          "width": 136,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 740,
+          "y": -147,
+          "width": 149,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 100,
+          "y": 304,
+          "width": 150,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 740,
+          "y": 304,
+          "width": 126,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 100,
+          "y": 756,
+          "width": 102,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 740,
+          "y": 756,
+          "width": 168,
+          "height": 25
+        },
+        "style": {
+          "fontFamily": "Roboto, Arial, sans-serif",
+          "fontSize": "21.8065px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 300,
+          "y": 592,
+          "width": 231,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "\"Archivo Black\", Arial, sans-serif",
+          "fontSize": "32.7097px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(244, 244, 244)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 36)",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas-3d",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://github.com/immersive-web/webxr/blob/master/explainer.md",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://webxr-sneakers.lusion.co/product/00",
+      "https://webxr-sneakers.lusion.co/product/01",
+      "https://webxr-sneakers.lusion.co/product/02",
+      "https://webxr-sneakers.lusion.co/product/03",
+      "https://webxr-sneakers.lusion.co/product/04",
+      "https://webxr-sneakers.lusion.co/product/05",
+      "https://webxr-sneakers.lusion.co/product/06",
+      "https://webxr-sneakers.lusion.co/product/07",
+      "https://webxr-sneakers.lusion.co/product/08",
+      "https://webxr-sneakers.lusion.co/product/09",
+      "https://webxr-sneakers.lusion.co/product/10",
+      "https://webxr-sneakers.lusion.co/product/11",
+      "https://lusion.co/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://caniuse.com/#search=webxr"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/01.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/02.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/03.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/04.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/05.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/06.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/07.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/08.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/09.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/10.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/11.webp",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/assets/img/1280/00.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webxr-sneakers.lusion.co/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9943,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

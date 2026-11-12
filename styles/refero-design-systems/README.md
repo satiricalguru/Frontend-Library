@@ -2,7 +2,7 @@
 
 # 🎨 Refero design systems
 
-AI-readable design systems (colors, typography, spacing, DESIGN.md) of real product websites, grouped by industry.
+Palette/typeface metadata and links to Refero's design-system pages, grouped by industry. DESIGN.md files, spacing systems and animations are not bundled.
 
 <sub><b>1,342</b> entries · collected <b>2026-11-12</b> from <a href="https://styles.refero.design/">https://styles.refero.design/</a> · <a href="../../README.md">← Back to library</a></sub>
 
@@ -10,6 +10,8 @@ AI-readable design systems (colors, typography, spacing, DESIGN.md) of real prod
 
 > [!NOTE]
 > This is a **curated index of links**. Everything listed belongs to its original creators; open the link to view, license or buy it. The exact page every entry was taken from is logged in [SOURCES.md](../../SOURCES.md) and [data/sources.csv](../../data/sources.csv).
+
+**Coverage:** all 1,342 URLs in the inspected public style sitemap are indexed. Refero disallows AI crawlers; no new style detail crawl was performed. See [source policies](../../data/source-policies.json) and the [agent workflow](../../.agents/skills/frontend-library/SKILL.md).
 
 **Themes:** ☀️ 916 light · 🌙 293 dark · 🌓 133 mixed
 

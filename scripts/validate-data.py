@@ -25,6 +25,10 @@ FILES = [
     "godly.json",
     "transitions.json",
     "lusion.json",
+    "landing-pages.json",
+    "codrops-webgl.json",
+    "design-md.json",
+    "video-resources.json",
 ]
 
 REQUIRED_FIELDS = ("name", "url", "source")

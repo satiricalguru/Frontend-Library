@@ -1,0 +1,1142 @@
+{
+  "version": 1,
+  "id": "lusion-projects",
+  "name": "Lusion — Projects",
+  "url": "https://lusion.co/projects",
+  "source": "https://lusion.co/",
+  "kind": "project-index",
+  "capturedAt": "2026-11-12T07:44:57.396Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T07:44:27.224Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "projects",
+          "projects-main",
+          "projects-main-title-top",
+          "projects-main-title-wrapper",
+          "projects-main-title",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1080,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "projects",
+          "projects-main",
+          "projects-main-title-top",
+          "projects-main-title-wrapper",
+          "projects-main-title",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3606,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": -2739,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -2739.13)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "projects",
+          "projects-main",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6795,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": -5698,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -5698.45)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "projects",
+          "projects-main",
+          "page-extra-sections",
+          "end-section",
+          "end-section-outer",
+          "end-section-inner",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 9251,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": -8134,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -8133.73)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-extra-sections",
+          "end-section",
+          "end-section-outer",
+          "end-section-inner",
+          "end-section-content",
+          "end-section-content-crosses",
+          "end-section-title",
+          "end-section-title-link",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 12258,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://lusion.co/projects",
+        "scrollY": 0,
+        "contentTop": -9846,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -9846)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-extra-sections",
+          "end-section-outer",
+          "end-section-inner",
+          "end-section-content",
+          "end-section-content-crosses",
+          "end-section-title",
+          "end-section-title-link",
+          "footer-section",
+          "footer-bg",
+          "footer-top",
+          "footer-middle",
+          "footer-middle-contact",
+          "footer-contact-address",
+          "footer-contact-socials",
+          "footer-middle-newsletter",
+          "footer-newsletter-header",
+          "scroll-nav-section",
+          "scroll-nav-content",
+          "scroll-nav-main",
+          "scroll-nav-text",
+          "scroll-indicator"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://lusion.co/_astro/about.CNa9RfUh.css",
+      "status": 304,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://lusion.co/_astro/hoisted.CUO_IjfL.js",
+      "status": 304,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Medium.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Regular.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-RegularItalic.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Medium.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Regular.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/LusionMono.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/images/icons/arrow-down.svg",
+      "status": 304,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/icons/arrow-right.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://lusion.co/projects/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://lusion.co/projects/atlas_motion/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/choo_choo_world/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/ddd_2024/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/lusion_labs/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/of_the_oak/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/porsche_dream_machine/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/soda_experience/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/spatial_fusion/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.co/projects/the_turn_of_the_screw/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_3.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic_end.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/glass_broken.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/choo_choo_world/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/choo_choo_world/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/ddd_2024/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/ddd_2024/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/devin_ai/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/devin_ai/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/everswap/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/everswap/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/infinite_passerella/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/infinite_passerella/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/lusion_labs/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/lusion_labs/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/maxmara_bearings_gifts/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/maxmara_bearings_gifts/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/my_little_story_book/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/my_little_story_book/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/of_the_oak/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/of_the_oak/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/oryzo_ai/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/oryzo_ai/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/porsche_dream_machine/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/porsche_dream_machine/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/soda_experience/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/soda_experience/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/spaace/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/spaace/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/spatial_fusion/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/spatial_fusion/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/synthetic_human/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/synthetic_human/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/the_turn_of_the_screw/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/the_turn_of_the_screw/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/worldcoin/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/worldcoin/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/zero_tech/home_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/zero_tech/home.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/flip_texture.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 81339,
+      "sha256": "22e6a6706240929f1ea643db23a6b7dd86f9ca81d2694ff7c93707e5cd77e534"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 81115,
+      "sha256": "35236ba5e87e0fa55a36726247a9463617113c0c632413f432ff9d3e4be7bb1c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 77093,
+      "sha256": "78903d9867d0945d25e8eea606bfe488025af631247f7d4fda0e4b83db755a28"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 41616,
+      "sha256": "434c27bd885fdc2dcb43df0f7f84a012388272e80da6273c920331edfe728c65"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 98882,
+      "sha256": "9e0ea54e99847dd51a1916b6a9fddf1b6164399bbda9ecefefde85cc48342ef9"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 47769,
+      "sha256": "3c2c9196d5ea4f200ebcc250d81562af262fc1a425459346a53e8ece7f01ac95"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 410307,
+      "sha256": "ea9d94af0bdf9291c1bdfd835ef3e67ab6a3a6c621b897bb47cd528ee751ec5e"
+    }
+  ],
+  "initial": {
+    "url": "https://lusion.co/projects",
+    "title": "Lusion - Our Projects",
+    "documentHeight": 900,
+    "contentHeight": 10747,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready is-white-bg",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "projects-main",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 6383
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "projects-main-title",
+        "characters": 8,
+        "rect": {
+          "x": 55,
+          "y": 230,
+          "width": 1168,
+          "height": 245
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "244.8px",
+          "lineHeight": "244.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 50,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://lusion.co/projects/oryzo_ai",
+      "https://lusion.co/projects/atlas_motion",
+      "https://lusion.co/projects/devin_ai",
+      "https://lusion.co/projects/of_the_oak",
+      "https://lusion.co/projects/everswap",
+      "https://lusion.co/projects/porsche_dream_machine",
+      "https://lusion.co/projects/synthetic_human",
+      "https://lusion.co/projects/ddd_2024",
+      "https://lusion.co/projects/spaace",
+      "https://lusion.co/projects/choo_choo_world",
+      "https://lusion.co/projects/zero_tech",
+      "https://lusion.co/projects/spatial_fusion",
+      "https://lusion.co/projects/worldcoin",
+      "https://lusion.co/projects/lusion_labs",
+      "https://lusion.co/projects/my_little_story_book",
+      "https://lusion.co/projects/soda_experience",
+      "https://lusion.co/projects/infinite_passerella",
+      "https://lusion.co/projects/the_turn_of_the_screw",
+      "https://lusion.co/projects/maxmara_bearings_gifts",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 9687,
+    "actualTravel": 9846,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://lusion.co/projects",
+    "title": "Lusion - Our Projects",
+    "documentHeight": 900,
+    "contentHeight": 10747,
+    "contentTop": -9846,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready is-white-bg is-footer-in",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "projects-main",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -9846,
+          "width": 1440,
+          "height": 6383
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "projects-main-title",
+        "characters": 8,
+        "rect": {
+          "x": 55,
+          "y": -9616,
+          "width": 1168,
+          "height": 245
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "244.8px",
+          "lineHeight": "244.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 50,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://lusion.co/projects/oryzo_ai",
+      "https://lusion.co/projects/atlas_motion",
+      "https://lusion.co/projects/devin_ai",
+      "https://lusion.co/projects/of_the_oak",
+      "https://lusion.co/projects/everswap",
+      "https://lusion.co/projects/porsche_dream_machine",
+      "https://lusion.co/projects/synthetic_human",
+      "https://lusion.co/projects/ddd_2024",
+      "https://lusion.co/projects/spaace",
+      "https://lusion.co/projects/choo_choo_world",
+      "https://lusion.co/projects/zero_tech",
+      "https://lusion.co/projects/spatial_fusion",
+      "https://lusion.co/projects/worldcoin",
+      "https://lusion.co/projects/lusion_labs",
+      "https://lusion.co/projects/my_little_story_book",
+      "https://lusion.co/projects/soda_experience",
+      "https://lusion.co/projects/infinite_passerella",
+      "https://lusion.co/projects/the_turn_of_the_screw",
+      "https://lusion.co/projects/maxmara_bearings_gifts",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 12258,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

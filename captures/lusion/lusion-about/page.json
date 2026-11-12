@@ -1,0 +1,2774 @@
+{
+  "version": 1,
+  "id": "lusion-about",
+  "name": "Lusion — About",
+  "url": "https://lusion.co/about",
+  "source": "https://lusion.co/",
+  "kind": "studio-page",
+  "capturedAt": "2026-11-12T07:44:27.231Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T07:44:27.224Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "about",
+          "about-who",
+          "about-who-subsection-container",
+          "about-who-subsection-we-are",
+          "about-who-title-main",
+          "about-who-title-main-logo",
+          "about-who-title-left",
+          "about-who-title-right",
+          "about-who-subsection-details",
+          "about-who-desc-top",
+          "about-who-desc-bottom",
+          "about-who-subsection-team",
+          "about-who-team",
+          "about-who-team-faces",
+          "about-who-team-left",
+          "about-who-team-letter-container",
+          "about-who-team-right",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 2438,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "about",
+          "about-who",
+          "about-who-subsection-container",
+          "about-who-subsection-we-are",
+          "about-who-title-main",
+          "about-who-title-main-logo",
+          "about-who-title-left",
+          "about-who-title-right",
+          "about-who-subsection-details",
+          "about-who-desc-top",
+          "about-who-desc-bottom",
+          "about-who-subsection-team",
+          "about-who-team",
+          "about-who-team-faces",
+          "about-who-team-left",
+          "about-who-team-letter-container",
+          "about-who-team-right",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 6352,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": -5594,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -5593.69)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "about",
+          "about-who",
+          "about-who-subsection-container",
+          "about-who-subsection-we-are",
+          "about-who-title-main",
+          "about-who-title-main-logo",
+          "about-who-title-left",
+          "about-who-title-right",
+          "about-who-subsection-details",
+          "about-who-desc-top",
+          "about-who-desc-bottom",
+          "about-who-subsection-team",
+          "about-who-team",
+          "about-who-team-faces",
+          "about-who-team-left",
+          "about-who-team-letter-container",
+          "about-who-team-right",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 11312,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": -12598,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -12598.4)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "about",
+          "about-who",
+          "about-who-subsection-container",
+          "about-who-subsection-we-are",
+          "about-who-title-main",
+          "about-who-title-main-logo",
+          "about-who-title-left",
+          "about-who-title-right",
+          "about-who-subsection-details",
+          "about-who-desc-top",
+          "about-who-desc-bottom",
+          "about-who-subsection-team",
+          "about-who-team",
+          "about-who-team-faces",
+          "about-who-team-left",
+          "about-who-team-letter-container",
+          "about-who-team-right",
+          "about-who-face-cursor",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 14799,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": -18184,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -18184.1)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-container-inner",
+          "about",
+          "about-capability",
+          "about-capability-cards-wrapper",
+          "about-capability-cards",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 19361,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://lusion.co/about",
+        "scrollY": 0,
+        "contentTop": -24834,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, -24834)",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "page-container",
+          "page-extra-sections",
+          "end-section-outer",
+          "end-section-inner",
+          "end-section-content",
+          "end-section-content-crosses",
+          "end-section-title",
+          "end-section-title-link",
+          "footer-section",
+          "footer-bg",
+          "footer-top",
+          "footer-middle",
+          "footer-middle-contact",
+          "footer-contact-address",
+          "footer-contact-socials",
+          "footer-middle-newsletter",
+          "footer-newsletter-header",
+          "scroll-nav-section",
+          "scroll-nav-content",
+          "scroll-nav-main",
+          "scroll-nav-text",
+          "scroll-indicator"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://lusion.co/_astro/about.CNa9RfUh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://lusion.co/_astro/hoisted.CUO_IjfL.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://lusion.co/about/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Medium.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-RegularItalic.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Medium.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/LusionMono.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/images/cards/back.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/icons/arrow-down.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/meta/dark/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_3.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic_end.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/glass_broken.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/bg_box.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/camera_spline.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/letter_placements.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/logo_text.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/person_idle.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/person.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_0_low.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_0.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_1_low.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_2_low.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_3_low.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_animation_0.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_animation_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_animation_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/rock_animation_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/sphere_m.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/sphere_s.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/sphere_xs.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/terrain_lines.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/about/terrain.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/lines/line_capability.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/lines/line_office.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/andrii.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/edan.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/ffi.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/paul.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/pierre.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/sunny.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/team.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/team/yannic.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/fog.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/ground_person_shadow.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/person_light.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/person.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/rocks.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/about/terrain_shadow_light_height.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/award_gradient.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/flip_texture.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/font.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 97417,
+      "sha256": "26b2b7dfebddce06c5c73b1505d006e7813b97eda6cd829c898fbe87b50cc680"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 107342,
+      "sha256": "6f92559f9e28055d7e8c4d83f551784866409c987ea215f95834c0e4183a199c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 61983,
+      "sha256": "9e67b5bacd40f89368a2a7809ad27b779a6e7e34ef02b144646f1779e0c177cb"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 99311,
+      "sha256": "1c164f00d35950542714da5913986e766b419473d738e9556499b4a8fc7a82fb"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 136370,
+      "sha256": "5c70f3d65a856a8c41f6094f3340eb91ddb183cc7bdc22f93831fa9fbaf4de2e"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 42793,
+      "sha256": "301ea3a93605209bd9b38a1bb70a4f6d771666ef646828aeeb4239ecc77d02dc"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 906172,
+      "sha256": "67b2487f739d619120e7546ed079cd9f434e5b48ea124dd265d052711f3eabfe"
+    }
+  ],
+  "initial": {
+    "url": "https://lusion.co/about",
+    "title": "Lusion - About Us",
+    "documentHeight": 900,
+    "contentHeight": 25738,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready is-black-bg",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "about-who",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 14580
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-clients",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 14580,
+          "width": 1440,
+          "height": 1049
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-award",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 15629,
+          "width": 1440,
+          "height": 1875
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-capability",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 17504,
+          "width": 1440,
+          "height": 3871
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 0,
+          "y": 15867,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 16662,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 16969,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 67,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://newsroom.porsche.com/en_US/2023/company/porsche-great-britain-wallpaper-lusion-short-film-ferry-porsche-356-london-driven-by-dreams-30982.html",
+      "https://www.wallpaper.com/art/porsche-driven-by-dreams",
+      "https://www.operanorth.co.uk/news/cutting-edge-creeps-with-new-trailer-for-the-turn-of-the-screw/",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 24678,
+    "actualTravel": 24834,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://lusion.co/about",
+    "title": "Lusion - About Us",
+    "documentHeight": 900,
+    "contentHeight": 25738,
+    "contentTop": -24834,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready is-white-bg is-footer-in",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "about-who",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -24834,
+          "width": 1440,
+          "height": 14580
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-clients",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -10254,
+          "width": 1440,
+          "height": 1049
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-award",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -9205,
+          "width": 1440,
+          "height": 1875
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "about-capability",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -7330,
+          "width": 1440,
+          "height": 3871
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "14.4px",
+          "lineHeight": "16.56px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 0,
+          "y": -8967,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": -8172,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": -7865,
+          "width": 1440,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "57.6px",
+          "lineHeight": "57.6px",
+          "fontWeight": "400",
+          "color": "rgb(240, 241, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 50,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://newsroom.porsche.com/en_US/2023/company/porsche-great-britain-wallpaper-lusion-short-film-ferry-porsche-356-london-driven-by-dreams-30982.html",
+      "https://www.wallpaper.com/art/porsche-driven-by-dreams",
+      "https://www.operanorth.co.uk/news/cutting-edge-creeps-with-new-trailer-for-the-turn-of-the-screw/",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--maxmara.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--calvin-klein.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--porsche.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--wallpaper.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--hyundai.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--google.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--apple.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--webby-awards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--stanford.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--sony.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--awwwards.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nvidia.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--akqa.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--nexus-studios.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lusion.co/assets/images/logo/@logo--cocacola.svg",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 19361,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

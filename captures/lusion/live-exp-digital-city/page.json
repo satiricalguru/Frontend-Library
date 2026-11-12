@@ -1,0 +1,684 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-digital-city",
+  "name": "Exp Digital City \u2014 live experience",
+  "url": "https://exp-digital-city.lusion.co/",
+  "source": "https://labs.lusion.co/exp/my-little-story-book",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:20:35.388Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-digital-city.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:20:35.387Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "needs-review",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry.",
+    "Final visual QA remained on the Digital City preloader/title screen. The entered scene was not verified."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 960,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1900,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3129,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4103,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5343,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-digital-city.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-digital-city.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/audios/drafty_places.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/audios/hover.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/fonts/IBMPlexMono-Regular.woff",
+      "status": 200,
+      "mimeType": "application/font-woff",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/fonts/IBMPlexMono-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/0-buildings_geo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/0-buildings_line.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/1-buildings_geo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/1-buildings_line.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/2-buildings_geo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/buildings/2-buildings_line.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/hotspots/0-sol.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/hotspots/1-eye.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/hotspots/2-sky.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/outlines/0-outline.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/outlines/1-outline.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/outlines/2-outline.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/0-streets_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/0-streets_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/0-streets_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/1-streets_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/1-streets_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/1-streets_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/2-streets_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/2-streets_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/models/streets/2-streets_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/textures/floor.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/assets/textures/radial_gradient.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/index.157bee1a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-digital-city.lusion.co/style.c07dad31.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 10065,
+      "sha256": "e8c771074f578221b726c18375cdd9baea7914bbeeea17b18d8e49a9b11a92a1"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 10065,
+      "sha256": "e8c771074f578221b726c18375cdd9baea7914bbeeea17b18d8e49a9b11a92a1"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 10068,
+      "sha256": "e7edf0922feb28157e332d7ff9f64e3688c98a0a89cea69a33fd930cbe867b34"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 10067,
+      "sha256": "886f6535dc1fc876f966469160a6756b1e546bf122f08ad8854738d9d172d0b6"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 10067,
+      "sha256": "886f6535dc1fc876f966469160a6756b1e546bf122f08ad8854738d9d172d0b6"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 10081,
+      "sha256": "d089d04cf942ae2ed7f8b2c6cec7937ecb7de95dda551a07d9012fb78fad33c1"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 3538,
+      "sha256": "0159eacccdb4b841a8beb0b8a498e845a0f69b254429128a6290b2acfa1f1c90"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-digital-city.lusion.co/",
+    "title": "Digital City",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "IBM_plex_mono",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(11, 10, 15)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "info-wrapper-title",
+        "characters": 4,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "26px",
+          "lineHeight": "29.9px",
+          "fontWeight": "700",
+          "color": "rgb(11, 10, 15)",
+          "backgroundColor": "rgb(239, 239, 239)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://thefwa.com/cases/digital-city",
+      "https://lusion.co/",
+      "https://exp-digital-city.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/brandonXYZW",
+      "https://twitter.com/u29dc"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-digital-city.lusion.co/",
+    "title": "Digital City",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "IBM_plex_mono",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(11, 10, 15)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "info-wrapper-title",
+        "characters": 4,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono",
+          "fontSize": "26px",
+          "lineHeight": "29.9px",
+          "fontWeight": "700",
+          "color": "rgb(11, 10, 15)",
+          "backgroundColor": "rgb(239, 239, 239)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://thefwa.com/cases/digital-city",
+      "https://lusion.co/",
+      "https://exp-digital-city.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/brandonXYZW",
+      "https://twitter.com/u29dc"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5343,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

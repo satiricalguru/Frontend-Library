@@ -1,0 +1,959 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "labs-trappist-1d",
+  "name": "Trappist 1D",
+  "url": "https://labs.lusion.co/exp/trappist-1d",
+  "source": "https://labs.lusion.co/",
+  "kind": "lab-case-study",
+  "capturedAt": "2026-11-12T08:31:19.869Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://labs.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:10:30.766Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1003,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2903,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": -398,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5270,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": -1093,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7156,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": -1648,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9606,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://labs.lusion.co/exp/trappist-1d",
+        "scrollY": 0,
+        "contentTop": -2114,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content",
+          "twitter-widget-0"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://labs.lusion.co/assets/data/trappist-1d/trappist-1d.md",
+      "status": 200,
+      "mimeType": "text/markdown",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Black.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Medium.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Regular.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-RegularItalic.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/IBMPlexMono-Medium.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/akari/homepage_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/choochoo/homepage_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/infinite-passerella/small_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/trappist-1d/detail_page.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.22890b47.css",
+      "status": 304,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.f4419199.js",
+      "status": 304,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/models/lsn_logo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-area.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-search.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-16x16.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon.ico",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/trappist-1d",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 74840,
+      "sha256": "41190f259037c0c46c951c17ae7cb8722e2e7590ac8b972f53cd4bda07ab97df"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 74650,
+      "sha256": "444cbd706c7b7eca51cbc8a92891e1a9659904826fbced0be255d7b02eda083a"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 115525,
+      "sha256": "0d1e603a0f153276bf595b2a376ac34d4ba1d259411568922449bb46ee111f4c"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 147599,
+      "sha256": "56e16c1256b845803ff362a8c6d944c2f48d10f8656424989d0592b6d1b548ec"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 154253,
+      "sha256": "6226bf66d9b8f4b4ac77c11de03c2976683977a7322544f9b3b815af554b3f57"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 141722,
+      "sha256": "209690ddd09d899b6b9664e1a12494ccc0e4238630678e60c96b6d4db85a8c33"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 776874,
+      "sha256": "1cc3883d06acad6ed9daad275ade8402626b096ecaad2a973fbdc94e6d07375f"
+    }
+  ],
+  "initial": {
+    "url": "https://labs.lusion.co/exp/trappist-1d",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 3265,
+    "contentTop": 209,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 498,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 1022,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": 1158,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": 1405,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": 1724,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 729,
+          "y": 1995,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 729,
+          "y": 2217,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 2585,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 2869,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://vimeo.com/662312889",
+      "https://vimeo.com/662312889",
+      "https://surface-floater.lusion.co/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://exp-infinite-passerella.lusion.co/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1478415308952117248&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Ftrappist-1d&sessionId=d77812d4223fefcb1594350f1e0897214e09efb2&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/infinite-passerella/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 2205,
+    "actualTravel": 2323,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://labs.lusion.co/exp/trappist-1d",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 3265,
+    "contentTop": -2114,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, -2322.57)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 498,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": -1301,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": -1164,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": -918,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": -599,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 729,
+          "y": -328,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 729,
+          "y": -106,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 262,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 547,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://vimeo.com/662312889",
+      "https://vimeo.com/662312889",
+      "https://surface-floater.lusion.co/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://exp-infinite-passerella.lusion.co/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1478415308952117248&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Ftrappist-1d&sessionId=d77812d4223fefcb1594350f1e0897214e09efb2&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/infinite-passerella/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9606,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

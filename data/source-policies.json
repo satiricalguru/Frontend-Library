@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "checkedOn": "2026-11-12",
+  "sources": [
+    {
+      "url": "https://lusion.co/",
+      "robots": "https://lusion.co/robots.txt",
+      "result": "public-paths-allowed",
+      "capture": "public rendered routes only"
+    },
+    {
+      "url": "https://labs.lusion.co/",
+      "robots": "https://labs.lusion.co/robots.txt",
+      "result": "html-fallback-no-parsed-directives",
+      "capture": "public experiment routes only"
+    },
+    {
+      "url": "https://styles.refero.design/",
+      "robots": "https://styles.refero.design/robots.txt",
+      "result": "ai-crawlers-disallowed",
+      "blockedAgents": [
+        "GPTBot",
+        "ClaudeBot",
+        "anthropic-ai",
+        "Google-Extended",
+        "PerplexityBot"
+      ],
+      "capture": "existing indexed metadata only; no new style detail crawl",
+      "sitemapUrlsObserved": 1342,
+      "robotsText": "User-Agent: anthropic-ai\nUser-Agent: Applebot-Extended\nUser-Agent: Bytespider\nUser-Agent: CCBot\nUser-Agent: Claude-Web\nUser-Agent: ClaudeBot\nUser-Agent: cohere-ai\nUser-Agent: Diffbot\nUser-Agent: FacebookBot\nUser-Agent: Google-Extended\nUser-Agent: GPTBot\nUser-Agent: ImagesiftBot\nUser-Agent: meta-externalagent\nUser-Agent: Omgilibot\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-Agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin/\nDisallow: /extract/\nDisallow: /playground/\n\nSitemap: https://styles.refero.design/sitemap.xml\nSitemap: https://styles.refero.design/sitemaps/collections.xml\nSitemap: https://styles.refero.design/sitemaps/styles.xml\n"
+    },
+    {
+      "url": "https://tympanus.net/codrops/tag/webgl/",
+      "robots": "https://tympanus.net/robots.txt",
+      "result": "ai-crawlers-disallowed-and-http-403",
+      "capture": "18 already observed public listing links; no blocked article crawl. Additional demo metadata from official github.com/codrops repositories."
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "result": "public-git-repository",
+      "capture": "84 Markdown analyses imported at pinned commit under upstream MIT; no source website assets."
+    },
+    {
+      "url": "https://github.com/bradtraversy/design-resources-for-developers#stock-videos",
+      "result": "public-git-repository",
+      "capture": "297 metadata rows across 9 sections under list MIT; provider sites/assets not crawled."
+    }
+  ]
+}

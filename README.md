@@ -6,18 +6,19 @@
 
 <br>
 
-<img src=".github/assets/generated/hero.svg" width="100%" alt="Frontend Library: 3,860 curated entries from Refero Styles, Envato Elements, motion.dev, godly.design, transitions.dev and lusion.co">
+<img src=".github/assets/generated/hero.svg" width="100%" alt="Frontend Library: 4,556 source-linked design, motion, WebGL and landing-page references">
 
-<p><b>A source-tracked library for frontend builders: 1,342 brand design systems, 1,225 award fonts, 616 Motion examples, 600 Godly picks, 44 UI transitions, Lusion's 3D work, and 12 copy-paste animations.</b></p>
+<p><b>Landing-page evidence, WebGL demos, design systems, media resources and reusable frontend code—for developers, contributors and AI agents.</b></p>
 
 <p>
   <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&color=2563EB" alt="GitHub stars"></a>
-  <a href="SOURCES.md"><img src="https://img.shields.io/badge/entries-3%2C860-38BDF8?style=for-the-badge" alt="3,860 entries"></a>
+  <a href="SOURCES.md"><img src="https://img.shields.io/badge/entries-4%2C556-38BDF8?style=for-the-badge" alt="4,556 indexed references"></a>
   <a href="SOURCES.md"><img src="https://img.shields.io/badge/every%20entry-source%20linked-2563EB?style=for-the-badge" alt="Every entry is source linked"></a>
   <a href="https://github.com/satiricalguru/Frontend-Library/pulls"><img src="https://img.shields.io/badge/PRs-welcome-0EA5E9?style=for-the-badge&logo=github" alt="PRs welcome"></a>
 </p>
 
 <p>
+  <a href="#landing-page-references-for-people-and-ai-agents">Landing pages & agents</a> ·
   <a href="#-whats-inside">What's inside</a> ·
   <a href="#-animation-snippets">Snippets</a> ·
   <a href="#-components">Components</a> ·
@@ -41,9 +42,76 @@
   </tr>
 </table>
 
+## Landing-page references for people and AI agents
+
+**4,556 indexed references**, complemented by local capture packages, 12 original animations and a reusable component. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
+
+![Searchable Frontend Library viewer](.github/assets/library-desktop.jpg)
+
+<!-- capture-stats:start -->
+**57 evidence packages across 56 source routes · 57 browser recordings · 342 visual checkpoints · 1242 unique observed resource URLs.**
+
+52 completed captures · 5 need review · 0 failed. Packages include desktop/mobile variants and diagnostic captures; [see coverage and limitations](docs/reference-library/README.md).
+<!-- capture-stats:end -->
+
+<table>
+<tr>
+<td width="50%"><a href="docs/reference-library/lusion-home.md"><img src="captures/lusion/lusion-home/checkpoint-00.jpg" width="100%" alt="Lusion homepage with blue, white and black 3D forms"></a><br><sub><b>Lusion homepage</b> · desktop and mobile evidence, layout and scene guidance</sub></td>
+<td width="50%"><a href="captures/lusion/lusion-home/traversal.mp4"><img src="captures/lusion/lusion-home/checkpoint-03.jpg" width="100%" alt="Industrial tunnel in Lusion's recorded scroll journey"></a><br><sub><b>Study the motion</b> · watch the recorded traversal and inspect intermediate states</sub></td>
+</tr>
+</table>
+
+[Capture collection](docs/reference-library/README.md) · [Lusion deep dive](docs/reference-library/lusion-home.md) · [Agent setup](docs/agents.md) · [Source policies](data/source-policies.json)
+
+| New collection | Entries | What an agent can inspect |
+|:--|--:|:--|
+| [Lusion page evidence](docs/reference-library/README.md) | See capture statistics | Viewport screenshots, browser recordings, layout/type facts and resource URLs; status and limits per package |
+| [Codrops WebGL & creative demos](inspiration/codrops/) | 315 | 297 official demo repositories and 18 article links, with demo/code links where observed |
+| [DESIGN.md analyses](styles/design-md/) | 84 | Complete attributed Markdown analyses, pinned to an upstream commit under MIT |
+| [Media, motion & design resources](images/video-resources/) | 297 | 10 stock-video providers plus photos, audio, mockups, animation tools, inspiration and compression resources |
+
+Capture packages may overlap the link catalog, and different collections may describe the same website. Counts are not unique sites or completely reproduced landing pages. Case studies, Labs write-ups and live experiences have explicit types. Loading failures and incomplete states are marked for review. Captures are browser recordings, not extracted source videos or an offline website copy.
+
+### Open the visual library
+
+No build step. With Python 3 installed, run from the checkout:
+
+```bash
+python3 -m http.server 8000 --bind 127.0.0.1
+```
+
+Open [the local viewer](http://127.0.0.1:8000/library/). Search names and techniques, switch collections, inspect palettes and play recordings. Press `/` to focus search.
+
+### Give agents useful evidence
+
+The [portable Frontend Library skill](.agents/skills/frontend-library/SKILL.md) guides retrieval, visual inspection, a motion brief, implementation and comparison. The offline CLI and read-only MCP connector use the same data:
+
+```bash
+python3 scripts/query-library.py Lusion --type captures --has-video --json
+python3 scripts/query-library.py shader --type codrops --limit 6 --json
+python3 scripts/query-library.py Linear --type design-md --json
+python3 scripts/query-library.py --type media-resources --tag "Stock Videos" --limit 20 --json
+```
+
+From another project, pass `--library /absolute/path/to/Frontend-Library` or set `FRONTEND_LIBRARY_ROOT`. [Skill installation and MCP configuration →](docs/agents.md)
+
+The local MCP server exposes `list_collections`, `search_references`, `get_reference` and `read_design`. It can return an actual checkpoint JPEG to a multimodal agent or a complete local DESIGN.md analysis. It reads local evidence and performs no network requests or writes.
+
+> Use $frontend-library to study Lusion's homepage, inspect its desktop and mobile evidence, and implement that direction in this project's stack. Write the section and motion brief first, identify needed assets, and verify matching viewports and scroll states.
+
+Agents distinguish **observed facts**, **inferred techniques** and **proposed implementation**. This improves fidelity; it cannot guarantee a mistake-free, pixel-identical clone without the original models, shaders, fonts and interaction evidence. Preserve the target project's existing design rules and merge verified constraints from a chosen DESIGN.md.
+
+Refero's existing 1,342 records contain palette/typeface metadata and original links. Its complete DESIGN.md files and animations are not bundled. Refero and Codrops restrict named AI crawlers; blocked deep crawling was not bypassed. Codrops coverage expands through its official public demo repositories. Media-resource listings are not licences for individual footage.
+
+### Help grow the reference collection
+
+Contributors can upload permitted screenshots, recordings, original assets and code through pull requests. Add a clear type, discovery source, date, viewport, attribution and limitations. [Use the reference package template](docs/reference-library/contribution-template.md). A hosted upload/review service and automated visual comparison are future features.
+
+The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/LICENSE) are MIT licensed. The imported design analyses retain their [upstream licence](styles/design-md/UPSTREAM-LICENSE). Third-party branding and website assets retain their creators' rights.
+
 ## ✨ Why Frontend Library
 
-- 🧭 **One place to look.** Six of the best design-and-motion sources, indexed into searchable Markdown tables and JSON.
+- 🧭 **One place to look.** Design-and-motion sources, local page evidence and licensed design analyses, indexed into searchable Markdown tables and JSON.
 - 🧾 **Every entry is traceable.** Each row links to the original, and [SOURCES.md](SOURCES.md) plus [data/sources.csv](data/sources.csv) record the exact page it was collected from.
 - 🎨 **Real design data.** Brand palettes and typefaces for 1,342 websites, plus a ready-to-import [`palettes.css`](styles/refero-design-systems/palettes.css).
 - 🎬 **Code you can paste today.** Twelve original, dependency-free animations with live demos. All of them respect `prefers-reduced-motion`.
@@ -51,7 +119,7 @@
 
 ## 📦 What's inside
 
-<img src=".github/assets/generated/sources-chart.svg" width="100%" alt="Bar chart of entries per source: 1,342 design systems, 1,225 award fonts, 616 Motion examples, 597 Godly picks, 44 UI transitions, 36 Lusion projects and labs">
+<img src=".github/assets/generated/sources-chart.svg" width="100%" alt="Indexed references by source, including Refero, Envato, Motion, Godly, Transitions, Lusion, VoltAgent, Codrops and media resources">
 
 | Collection | Entries | Folder | Collected from |
 |:--|--:|:--|:--|
@@ -190,7 +258,12 @@ flowchart LR
 grep -i "linear" data/sources.csv | head
 
 # rebuild catalogs and charts after editing data/
-python3 scripts/build-catalog.py && python3 scripts/build-visuals.py
+python3 scripts/build-reference-library.py
+python3 scripts/build-catalog.py
+python3 scripts/build-visuals.py
+python3 scripts/validate-data.py
+python3 scripts/validate-references.py
+python3 scripts/check-library-mcp.py
 ```
 
 ## 📁 Repository layout
@@ -228,7 +301,7 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 
 ## ⚖️ Credits & licensing
 
-Catalog entries are **links and short factual metadata** (names, colors, typefaces, categories). All linked designs, fonts, code and media belong to their creators: [Lusion](https://lusion.co/), [Refero](https://styles.refero.design/), [Motion](https://motion.dev/), [Transitions.dev](https://transitions.dev/), [Godly](https://godly.design/) and [Envato](https://elements.envato.com/). Follow each source's terms before using anything you find through this library. The snippets in [animations/snippets](animations/snippets/) are original work under the [MIT licence](animations/snippets/LICENSE).
+Link catalogs store **links and short factual metadata** (names, colors, typefaces, categories). The local DESIGN.md analyses retain their upstream MIT licence and attribution. Captures are reference evidence and grant no reuse licence for underlying models, shaders, fonts or source code. All linked designs, fonts, code and media belong to their creators: [Lusion](https://lusion.co/), [Refero](https://styles.refero.design/), [Motion](https://motion.dev/), [Transitions.dev](https://transitions.dev/), [Godly](https://godly.design/) and [Envato](https://elements.envato.com/), [Codrops](https://tympanus.net/codrops/tag/webgl/), [VoltAgent](https://github.com/VoltAgent/awesome-design-md) and [Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#stock-videos). Follow each source's terms before using anything you find through this library. The snippets in [animations/snippets](animations/snippets/) are original work under the [MIT licence](animations/snippets/LICENSE).
 
 ---
 

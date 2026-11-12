@@ -1,0 +1,37 @@
+name: Add a landing-page reference
+description: Suggest a page, motion example, design analysis or permitted evidence package.
+title: "[Reference] "
+labels: []
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Reference URL
+      description: The actual page, live demo or source repository.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Reference type
+      options:
+        - Live landing page
+        - Studio or Labs case study
+        - Interactive experience
+        - Demo repository or tutorial
+        - DESIGN.md analysis
+        - Media provider or tool
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What should builders and agents study?
+      description: Describe the layout, scene, scroll animation or interaction. Include viewport/device and any screenshots or recording you may share.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Source, rights and limitations
+      description: Link the discovery source and applicable licence. Note loading failures, unavailable assets and untested states.

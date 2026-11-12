@@ -19,7 +19,9 @@ jobs:
         with:
           python-version: '3.12'
       - name: Rebuild catalogs
-        run: python3 scripts/build-catalog.py
+        run: |
+          python3 scripts/build-reference-library.py
+          python3 scripts/build-catalog.py
       - name: Rebuild visuals
         run: python3 scripts/build-visuals.py
       - name: Fail if generated files are out of date
@@ -39,4 +41,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Check every entry has a url and a source
-        run: python3 scripts/validate-data.py
+        run: |
+          python3 scripts/validate-data.py
+          python3 scripts/validate-references.py
+          python3 scripts/check-library-mcp.py

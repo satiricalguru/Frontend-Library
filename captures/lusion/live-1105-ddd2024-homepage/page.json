@@ -1,0 +1,3275 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-1105-ddd2024-homepage",
+  "name": "1105 Ddd2024 Homepage — live experience",
+  "url": "https://1105-ddd2024-homepage.lusion.co/",
+  "source": "https://lusion.co/projects/ddd_2024",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:21:14.323Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://1105-ddd2024-homepage.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:21:14.323Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero-section",
+          "home-hero__stripes",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 12418,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero-section",
+          "home-hero__stripes",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 31029,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero-section",
+          "home-hero__stripes",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "home-text-image-section",
+          "home-text-image__text01-wrapper",
+          "home-text-image__text01-image",
+          "home-text-image__text01-text",
+          "home-text-image__text02-wrapper",
+          "home-text-image__text02",
+          "home-speakers-section",
+          "home-speakers__title",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 33330,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "home-speakers-section",
+          "home-speakers__title",
+          "home-speakers__list",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 42716,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "home-speakers-section",
+          "home-speakers__list",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 49065,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://1105-ddd2024-homepage.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "tickets-overlay",
+          "tickets-overlay__wrapper",
+          "tickets-overlay__bg",
+          "tickets-overlay__scroll",
+          "tickets-overlay__grid",
+          "tickets-overlay__header",
+          "tickets-overlay__header-title",
+          "tickets-overlay__options",
+          "site-menu",
+          "site-menu__wrapper",
+          "site-menu__main",
+          "cookies-banner",
+          "cookies-banner__wrapper",
+          "cookies-banner__top",
+          "pages-container",
+          "home",
+          "home-hero__top",
+          "home-hero__top-text",
+          "home-hero__top-menu",
+          "home-hero__middle",
+          "home-hero__middle-text",
+          "home-hero__middle-paragraph",
+          "home-hero__bottom",
+          "home-hero__bottom-text",
+          "home-hero__bottom-paragraph",
+          "home-speakers-section",
+          "home-speakers__list",
+          "scroll-indicator"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/_astro/about.CpfVU-iZ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/_astro/hoisted.DFPcBL_D.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/2advancedstudios.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/alexandra_jugovic_yugen.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/alt_creative.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/cathy-hackl-spatial-dynamycs.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/cindy-mastercard.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/david-sheldon-territory.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/edan-kwan-lusion.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/elastic.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/epic.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/fantasy.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/locomotive.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/maximzhestkov.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/ouchhh-logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/rare_volume.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/spotify.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/strange_ventures.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/companyLogos/the_fabricant.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/0.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/10.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/11.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/3.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/4.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/5.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/6.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/7.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/8.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/9.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/main.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/meta/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/PARTICLE_LD.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/POINTS.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/SOLID.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/SPLINES.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/TERRAIN.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/TETS.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/models/web.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/msdf/Barlow-ExtraBold-msdf.fnt",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/msdf/Barlow-ExtraBold.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/adriana_hoppenbrouwer_the_fabricant_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/adriana_hoppenbrouwer_the_fabricant.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/adriana_hoppenbrouwer_the_fabricant.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/alexandra-jugovic_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/alexandra-jugovic.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/alexandra-jugovic.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ash_thorp_alt_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ash_thorp_alt.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ash_thorp_alt.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/burton_rast_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/burton_rast.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/burton_rast.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cathy_hackl_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cathy_hackl.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cathy_hackl.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cindy-chastain_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cindy-chastain.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/cindy-chastain.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/david_sheldon_territory_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/david_sheldon_territory.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/david_sheldon_territory.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/edan_kwan_lusion_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/edan_kwan_lusion.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/edan_kwan_lusion.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/eric_jordan_2advanced_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/eric_jordan_2advanced.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/eric_jordan_2advanced.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ferdi_alici_ouchhh_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ferdi_alici_ouchhh.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/ferdi_alici_ouchhh.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/frederic_marchand_locomotive_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/frederic_marchand_locomotive.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/frederic_marchand_locomotive.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/hazel-baird_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/hazel-baird.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/hazel-baird.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/jonathan_kim_rare_volume_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/jonathan_kim_rare_volume.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/jonathan_kim_rare_volume.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/kerry_murphy_the_fabricant_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/kerry_murphy_the_fabricant.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/kerry_murphy_the_fabricant.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mariola-bruszewska_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mariola-bruszewska.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mariola-bruszewska.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mathieu_ducharme_locomotive_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mathieu_ducharme_locomotive.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/mathieu_ducharme_locomotive.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/maxim-zhestkov_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/maxim-zhestkov.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/maxim-zhestkov.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/peter_smart_fantasy_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/peter_smart_fantasy.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/peter_smart_fantasy.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/raffaella_camera_epic_games_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/raffaella_camera_epic_games.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/raffaella_camera_epic_games.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/tony_novak_2advanced_depth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/tony_novak_2advanced.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/speakers/tony_novak_2advanced.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/all-tech.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/bbang.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/beazy.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/caffe-design.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/chateaux.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/combustion.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/confimi-industria.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/david-sheldon-territory.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/design-wanted.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/diana.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/district.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/edan-kwan-lusion.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/exe.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/jekyll-hyde.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/kos.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo_ideology_b.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo-simple_black.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/muzli.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nerdo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nexi.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/politecnico-scuola-vert-eng.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/positive.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/prompt-magazine.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/rive_logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/sketchin.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/startupbusiness.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/stash.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/talentgardenl_logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/touch_logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/visual-atelier-8.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/textures/terrain/bake.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/videos/home_hero.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/assets/videos/videoTrailer.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/fireside-chat/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/first-ai-art-in-space-the-human-cell-atlas/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/forward-never-straight/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/how-art-explorations-turn-into-business/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/interfacing-with-arrakis-and-beyond/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/the-time-when-no-man-would-dive-into-the-bottom-of-the-well-and-find-the-missing-pandora-box-2/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://1105-ddd2024-homepage.lusion.co/programs/who-broke-the-web-and-how-do-we-fix-it/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 143122,
+      "sha256": "a3c284842103098e3405ec8286acc9453bf324cced2c87ca2927e191f93a9b94"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 131883,
+      "sha256": "bbc98b6009306c80c2124b51f3fdb22f545da1fdfb60dbe742dfd3f38a0ef3a4"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 116275,
+      "sha256": "974c22e018531cfa88dbf56372b45a4e3ad181d2d4445d61bdac6a4258bd18e7"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 47986,
+      "sha256": "9f52c172fa0c3bc079f25c5cb830edae783722d738a3b0d29f26938db1b0a86d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 108183,
+      "sha256": "326d62b6e5626330d454ecbd683236163a1ec7e10a0a5f7e91c01924c6c2b984"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 122611,
+      "sha256": "57f95f8176e02c21f379efb4d201d74bce8c63215872cd8c653effaada1ef133"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 815125,
+      "sha256": "363de7414a028d82c617dc4cbe0255fa228a977f312c2e568099e5e9716a8bee"
+    }
+  ],
+  "initial": {
+    "url": "https://1105-ddd2024-homepage.lusion.co/",
+    "title": "Digital Design Days - Milan - 6-8 October 2024",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-earlybird is-desktop is-ready cookies-banner--visible",
+    "bodyStyle": {
+      "fontFamily": "neue-haas-grotesk-text, sans-serif",
+      "fontSize": "18.0006px",
+      "lineHeight": "27.001px",
+      "fontWeight": "400",
+      "color": "rgb(25, 24, 35)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "page-transition",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 255,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 650,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 1045,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -9,
+          "y": 0,
+          "width": 842,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 841,
+          "y": 285,
+          "width": 599,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": -9,
+          "y": 571,
+          "width": 842,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-text-image__text01-wrapper",
+        "characters": 156,
+        "rect": {
+          "x": 18,
+          "y": 918,
+          "width": 1404,
+          "height": 276
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "60.0006px",
+          "lineHeight": "69.0007px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-speakers__title",
+        "characters": 18,
+        "rect": {
+          "x": 18,
+          "y": 1676,
+          "width": 933,
+          "height": 596
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "160px",
+          "lineHeight": "164px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": -46,
+          "y": 2334,
+          "width": 472,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": -46,
+          "y": 2556,
+          "width": 679,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": -46,
+          "y": 2778,
+          "width": 487,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": -46,
+          "y": 3000,
+          "width": 489,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": -46,
+          "y": 3222,
+          "width": 799,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": -46,
+          "y": 3444,
+          "width": 660,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": -46,
+          "y": 3666,
+          "width": 405,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": -46,
+          "y": 3888,
+          "width": 747,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": -46,
+          "y": 4110,
+          "width": 441,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": -46,
+          "y": 4332,
+          "width": 609,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "page-transition",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://1105-ddd2024-homepage.lusion.co/",
+      "https://1105-ddd2024-homepage.lusion.co/schedule",
+      "https://1105-ddd2024-homepage.lusion.co/program",
+      "https://1105-ddd2024-homepage.lusion.co/about",
+      "https://www.facebook.com/digitaldesigndays",
+      "https://www.instagram.com/digitaldesigndays/",
+      "https://twitter.com/digitdesigndays",
+      "https://www.linkedin.com/company/digitaldesigndays/",
+      "https://www.iubenda.com/privacy-policy/23271675/cookie-policy",
+      "https://1105-ddd2024-homepage.lusion.co/schedule",
+      "https://1105-ddd2024-homepage.lusion.co/program",
+      "https://1105-ddd2024-homepage.lusion.co/about",
+      "https://www.facebook.com/digitaldesigndays",
+      "https://www.instagram.com/digitaldesigndays/",
+      "https://twitter.com/digitdesigndays",
+      "https://www.linkedin.com/company/digitaldesigndays/",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-time-when-no-man-would-dive-into-the-bottom-of-the-well-and-find-the-missing-pandora-box-2",
+      "https://1105-ddd2024-homepage.lusion.co/programs/fireside-chat",
+      "https://1105-ddd2024-homepage.lusion.co/programs/who-broke-the-web-and-how-do-we-fix-it",
+      "https://1105-ddd2024-homepage.lusion.co/programs/forward-never-straight",
+      "https://1105-ddd2024-homepage.lusion.co/programs/interfacing-with-arrakis-and-beyond",
+      "https://1105-ddd2024-homepage.lusion.co/programs/how-art-explorations-turn-into-business",
+      "https://1105-ddd2024-homepage.lusion.co/programs/first-ai-art-in-space-the-human-cell-atlas",
+      "https://1105-ddd2024-homepage.lusion.co/programs/adapt-or-die-when-design-code-and-people-converge",
+      "https://1105-ddd2024-homepage.lusion.co/programs/manifest",
+      "https://1105-ddd2024-homepage.lusion.co/programs/from-designing-features-to-designing-for-behavior-change",
+      "https://1105-ddd2024-homepage.lusion.co/programs/fusing-art-technology-and-humanity-designing-digital-narratives",
+      "https://1105-ddd2024-homepage.lusion.co/programs/adapt-or-die-when-design-code-and-people-converge",
+      "https://1105-ddd2024-homepage.lusion.co/programs/spatial-computing-%E2%80%93-temporary-or-transformative",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-digital-fashion-present-future",
+      "https://1105-ddd2024-homepage.lusion.co/programs/who-broke-the-web-and-how-do-we-fix-it",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-future-of-digital-product-design-with-ai",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-digital-fashion-present-future",
+      "https://1105-ddd2024-homepage.lusion.co/programs/crafting-iconic-titles-insights-and-challenges",
+      "https://1105-ddd2024-homepage.lusion.co/programs/when-beauty-meets-function",
+      "https://1105-ddd2024-homepage.lusion.co/programs/embracing-authenticity-in-the-age-of-filters-technology-and-perfection",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://8cce611f.sibforms.com/serve/MUIFAJHUbH9oo_OmjBuPE53rjjDXFbFp251HgtajZIqlJdGrr6zo--AW1xzzq3SJG5h-ItlKhcsLDm7A5l02cSylUaH8wENnHj35_EE4TM2dGxNqbOEzEbbsVcRf1KBKmUrSl1X2lmWWUlCZDFR05_r2v3vP63E3GPvChZaCCz6BAUOsQhlB64w-8oH-cJHUNgDTCiZsMclB0LWr",
+      "https://lusion.co/",
+      "https://www.iubenda.com/privacy-policy/23271675",
+      "https://www.iubenda.com/privacy-policy/23271675/cookie-policy",
+      "https://www.iubenda.com/terms-and-conditions/23271675",
+      "https://wa.me/393780663212"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/main.webp",
+        "poster": "",
+        "width": 725,
+        "height": 260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/4.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/8.webp",
+        "poster": "",
+        "width": 375,
+        "height": 227
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/9.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/5.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/0.webp",
+        "poster": "",
+        "width": 307,
+        "height": 201
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/1.webp",
+        "poster": "",
+        "width": 375,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/3.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/10.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/7.webp",
+        "poster": "",
+        "width": 375,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/2.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/6.webp",
+        "poster": "",
+        "width": 375,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/11.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/politecnico-scuola-vert-eng.png",
+        "poster": "",
+        "width": 400,
+        "height": 184
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo-simple_black.png",
+        "poster": "",
+        "width": 400,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/confimi-industria.png",
+        "poster": "",
+        "width": 400,
+        "height": 167
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/rive_logo.png",
+        "poster": "",
+        "width": 400,
+        "height": 73
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/edan-kwan-lusion.png",
+        "poster": "",
+        "width": 400,
+        "height": 79
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nexi.png",
+        "poster": "",
+        "width": 632,
+        "height": 287
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/kos.png",
+        "poster": "",
+        "width": 200,
+        "height": 280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/david-sheldon-territory.png",
+        "poster": "",
+        "width": 400,
+        "height": 193
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/diana.png",
+        "poster": "",
+        "width": 400,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/sketchin.png",
+        "poster": "",
+        "width": 400,
+        "height": 67
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/chateaux.png",
+        "poster": "",
+        "width": 514,
+        "height": 90
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/combustion.png",
+        "poster": "",
+        "width": 400,
+        "height": 157
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/positive.png",
+        "poster": "",
+        "width": 981,
+        "height": 218
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/district.png",
+        "poster": "",
+        "width": 289,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/all-tech.png",
+        "poster": "",
+        "width": 400,
+        "height": 157
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/bbang.png",
+        "poster": "",
+        "width": 400,
+        "height": 111
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/beazy.png",
+        "poster": "",
+        "width": 400,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/exe.png",
+        "poster": "",
+        "width": 400,
+        "height": 118
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo_ideology_b.png",
+        "poster": "",
+        "width": 200,
+        "height": 261
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/jekyll-hyde.png",
+        "poster": "",
+        "width": 400,
+        "height": 66
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nerdo.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/caffe-design.png",
+        "poster": "",
+        "width": 286,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/design-wanted.png",
+        "poster": "",
+        "width": 248,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/district.png",
+        "poster": "",
+        "width": 289,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/muzli.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/prompt-magazine.png",
+        "poster": "",
+        "width": 400,
+        "height": 135
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/startupbusiness.png",
+        "poster": "",
+        "width": 400,
+        "height": 82
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/stash.png",
+        "poster": "",
+        "width": 400,
+        "height": 81
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/talentgardenl_logo.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/touch_logo.png",
+        "poster": "",
+        "width": 833,
+        "height": 378
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/visual-atelier-8.png",
+        "poster": "",
+        "width": 400,
+        "height": 176
+      }
+    ],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://1105-ddd2024-homepage.lusion.co/",
+    "title": "Digital Design Days - Milan - 6-8 October 2024",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-earlybird is-desktop is-ready cookies-banner--visible show-menu-button",
+    "bodyStyle": {
+      "fontFamily": "neue-haas-grotesk-text, sans-serif",
+      "fontSize": "18.0006px",
+      "lineHeight": "27.001px",
+      "fontWeight": "400",
+      "color": "rgb(25, 24, 35)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "page-transition",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "18.0006px",
+          "lineHeight": "27.001px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 255,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 650,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 1045,
+          "y": 240,
+          "width": 395,
+          "height": 96
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "39.9994px",
+          "lineHeight": "39.9994px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": -9,
+          "y": 0,
+          "width": 842,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 841,
+          "y": 0,
+          "width": 599,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": -9,
+          "y": 141,
+          "width": 842,
+          "height": 194
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "190px",
+          "lineHeight": "194px",
+          "fontWeight": "400",
+          "color": "rgb(214, 213, 226)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-text-image__text01-wrapper",
+        "characters": 156,
+        "rect": {
+          "x": 18,
+          "y": -2682,
+          "width": 1404,
+          "height": 276
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "60.0006px",
+          "lineHeight": "69.0007px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-speakers__title",
+        "characters": 18,
+        "rect": {
+          "x": 18,
+          "y": -1924,
+          "width": 933,
+          "height": 596
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "160px",
+          "lineHeight": "164px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": -46,
+          "y": -1266,
+          "width": 472,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": -46,
+          "y": -1044,
+          "width": 679,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": -46,
+          "y": -822,
+          "width": 487,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": -46,
+          "y": -600,
+          "width": 489,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": -46,
+          "y": -378,
+          "width": 799,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": -46,
+          "y": -156,
+          "width": 660,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": -46,
+          "y": 66,
+          "width": 405,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 288,
+          "width": 747,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": -46,
+          "y": 510,
+          "width": 441,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": -46,
+          "y": 732,
+          "width": 609,
+          "height": 90
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "90px",
+          "lineHeight": "90px",
+          "fontWeight": "400",
+          "color": "rgb(25, 24, 35)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -46, 0)",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "page-transition",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://1105-ddd2024-homepage.lusion.co/",
+      "https://1105-ddd2024-homepage.lusion.co/schedule",
+      "https://1105-ddd2024-homepage.lusion.co/program",
+      "https://1105-ddd2024-homepage.lusion.co/about",
+      "https://www.facebook.com/digitaldesigndays",
+      "https://www.instagram.com/digitaldesigndays/",
+      "https://twitter.com/digitdesigndays",
+      "https://www.linkedin.com/company/digitaldesigndays/",
+      "https://www.iubenda.com/privacy-policy/23271675/cookie-policy",
+      "https://1105-ddd2024-homepage.lusion.co/schedule",
+      "https://1105-ddd2024-homepage.lusion.co/program",
+      "https://1105-ddd2024-homepage.lusion.co/about",
+      "https://www.facebook.com/digitaldesigndays",
+      "https://www.instagram.com/digitaldesigndays/",
+      "https://twitter.com/digitdesigndays",
+      "https://www.linkedin.com/company/digitaldesigndays/",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-time-when-no-man-would-dive-into-the-bottom-of-the-well-and-find-the-missing-pandora-box-2",
+      "https://1105-ddd2024-homepage.lusion.co/programs/fireside-chat",
+      "https://1105-ddd2024-homepage.lusion.co/programs/who-broke-the-web-and-how-do-we-fix-it",
+      "https://1105-ddd2024-homepage.lusion.co/programs/forward-never-straight",
+      "https://1105-ddd2024-homepage.lusion.co/programs/interfacing-with-arrakis-and-beyond",
+      "https://1105-ddd2024-homepage.lusion.co/programs/how-art-explorations-turn-into-business",
+      "https://1105-ddd2024-homepage.lusion.co/programs/first-ai-art-in-space-the-human-cell-atlas",
+      "https://1105-ddd2024-homepage.lusion.co/programs/adapt-or-die-when-design-code-and-people-converge",
+      "https://1105-ddd2024-homepage.lusion.co/programs/manifest",
+      "https://1105-ddd2024-homepage.lusion.co/programs/from-designing-features-to-designing-for-behavior-change",
+      "https://1105-ddd2024-homepage.lusion.co/programs/fusing-art-technology-and-humanity-designing-digital-narratives",
+      "https://1105-ddd2024-homepage.lusion.co/programs/adapt-or-die-when-design-code-and-people-converge",
+      "https://1105-ddd2024-homepage.lusion.co/programs/spatial-computing-%E2%80%93-temporary-or-transformative",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-digital-fashion-present-future",
+      "https://1105-ddd2024-homepage.lusion.co/programs/who-broke-the-web-and-how-do-we-fix-it",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-future-of-digital-product-design-with-ai",
+      "https://1105-ddd2024-homepage.lusion.co/programs/the-digital-fashion-present-future",
+      "https://1105-ddd2024-homepage.lusion.co/programs/crafting-iconic-titles-insights-and-challenges",
+      "https://1105-ddd2024-homepage.lusion.co/programs/when-beauty-meets-function",
+      "https://1105-ddd2024-homepage.lusion.co/programs/embracing-authenticity-in-the-age-of-filters-technology-and-perfection",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://ddd24milan.eventbrite.it/",
+      "https://8cce611f.sibforms.com/serve/MUIFAJHUbH9oo_OmjBuPE53rjjDXFbFp251HgtajZIqlJdGrr6zo--AW1xzzq3SJG5h-ItlKhcsLDm7A5l02cSylUaH8wENnHj35_EE4TM2dGxNqbOEzEbbsVcRf1KBKmUrSl1X2lmWWUlCZDFR05_r2v3vP63E3GPvChZaCCz6BAUOsQhlB64w-8oH-cJHUNgDTCiZsMclB0LWr",
+      "https://lusion.co/",
+      "https://www.iubenda.com/privacy-policy/23271675",
+      "https://www.iubenda.com/privacy-policy/23271675/cookie-policy",
+      "https://www.iubenda.com/terms-and-conditions/23271675",
+      "https://wa.me/393780663212"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/main.webp",
+        "poster": "",
+        "width": 725,
+        "height": 260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/4.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/8.webp",
+        "poster": "",
+        "width": 375,
+        "height": 227
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/9.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/5.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/0.webp",
+        "poster": "",
+        "width": 307,
+        "height": 201
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/1.webp",
+        "poster": "",
+        "width": 375,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/3.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/10.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/7.webp",
+        "poster": "",
+        "width": 375,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/2.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/6.webp",
+        "poster": "",
+        "width": 375,
+        "height": 249
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/images/textImage/11.webp",
+        "poster": "",
+        "width": 375,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/politecnico-scuola-vert-eng.png",
+        "poster": "",
+        "width": 400,
+        "height": 184
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo-simple_black.png",
+        "poster": "",
+        "width": 400,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/confimi-industria.png",
+        "poster": "",
+        "width": 400,
+        "height": 167
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/rive_logo.png",
+        "poster": "",
+        "width": 400,
+        "height": 73
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/edan-kwan-lusion.png",
+        "poster": "",
+        "width": 400,
+        "height": 79
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nexi.png",
+        "poster": "",
+        "width": 632,
+        "height": 287
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/kos.png",
+        "poster": "",
+        "width": 200,
+        "height": 280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/david-sheldon-territory.png",
+        "poster": "",
+        "width": 400,
+        "height": 193
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/diana.png",
+        "poster": "",
+        "width": 400,
+        "height": 75
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/sketchin.png",
+        "poster": "",
+        "width": 400,
+        "height": 67
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/chateaux.png",
+        "poster": "",
+        "width": 514,
+        "height": 90
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/combustion.png",
+        "poster": "",
+        "width": 400,
+        "height": 157
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/positive.png",
+        "poster": "",
+        "width": 981,
+        "height": 218
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/district.png",
+        "poster": "",
+        "width": 289,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/all-tech.png",
+        "poster": "",
+        "width": 400,
+        "height": 157
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/bbang.png",
+        "poster": "",
+        "width": 400,
+        "height": 111
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/beazy.png",
+        "poster": "",
+        "width": 400,
+        "height": 180
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/exe.png",
+        "poster": "",
+        "width": 400,
+        "height": 118
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/logo_ideology_b.png",
+        "poster": "",
+        "width": 200,
+        "height": 261
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/jekyll-hyde.png",
+        "poster": "",
+        "width": 400,
+        "height": 66
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/nerdo.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/caffe-design.png",
+        "poster": "",
+        "width": 286,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/design-wanted.png",
+        "poster": "",
+        "width": 248,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/district.png",
+        "poster": "",
+        "width": 289,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/muzli.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/prompt-magazine.png",
+        "poster": "",
+        "width": 400,
+        "height": 135
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/startupbusiness.png",
+        "poster": "",
+        "width": 400,
+        "height": 82
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/stash.png",
+        "poster": "",
+        "width": 400,
+        "height": 81
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/talentgardenl_logo.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/touch_logo.png",
+        "poster": "",
+        "width": 833,
+        "height": 378
+      },
+      {
+        "tag": "IMG",
+        "url": "https://1105-ddd2024-homepage.lusion.co/assets/sponsors/visual-atelier-8.png",
+        "poster": "",
+        "width": 400,
+        "height": 176
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 750,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 49065,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

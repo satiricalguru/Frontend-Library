@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "name": "styles",
+      "path": "data/refero-styles.json",
+      "count": 1342,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "lusion",
+      "path": "data/lusion.json",
+      "count": 36,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "motion",
+      "path": "data/motion-examples.json",
+      "count": 616,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "transitions",
+      "path": "data/transitions.json",
+      "count": 44,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "godly",
+      "path": "data/godly.json",
+      "count": 597,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "fonts",
+      "path": "data/envato-award-fonts.json",
+      "count": 1225,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "captures",
+      "path": "data/landing-pages.json",
+      "count": 57,
+      "evidence": "local-recordings-and-dom-facts"
+    },
+    {
+      "name": "codrops",
+      "path": "data/codrops-webgl.json",
+      "count": 315,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "design-md",
+      "path": "data/design-md.json",
+      "count": 84,
+      "evidence": "licensed-design-analysis"
+    },
+    {
+      "name": "media-resources",
+      "path": "data/video-resources.json",
+      "count": 297,
+      "evidence": "linked-metadata"
+    }
+  ],
+  "skill": ".agents/skills/frontend-library/SKILL.md",
+  "query": "scripts/query-library.py",
+  "viewer": "library/index.html",
+  "sourcePolicies": "data/source-policies.json",
+  "mcp": "scripts/library-mcp.py",
+  "note": "Capture packages and design records may overlap link catalogs. Do not sum collections as unique websites."
+}

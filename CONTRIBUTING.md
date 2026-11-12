@@ -12,7 +12,10 @@ Thanks for your interest in contributing to **Frontend Library**! Contributions 
 - **Styles (`styles/`)**: CSS/SCSS utilities, design tokens, themes, and reset/base sheets.
 - **Templates (`templates/`)**: Starter layouts and boilerplate pages.
 - **Inspiration (`inspiration/`)**: Curated links to standout websites and creative-tech work.
-- **Catalog entries (`data/*.json`)**: Linked resources from third-party sites. Every entry **must** include the item `url` and the exact `source` page you found it on. Run `python3 scripts/build-catalog.py` afterwards so the Markdown catalogs, `SOURCES.md` and `data/sources.csv` stay in sync. Never commit third-party files (fonts, paid assets, copied code); link to them instead.
+- **Catalog entries (`data/*.json`)**: Linked resources from third-party sites. Every entry **must** include the item `url` and the exact `source` page you found it on. Run `python3 scripts/build-catalog.py` afterwards so the Markdown catalogs, `SOURCES.md` and `data/sources.csv` stay in sync. Link to proprietary fonts, paid assets, models and copied website code. Explicitly permissive document/code imports need the upstream licence, attribution and immutable provenance.
+- **Landing-page evidence (`captures/`)**: Permitted screenshots, recordings, section/layout facts and source-linked resource inventories. Use the [reference package template](docs/reference-library/contribution-template.md), record viewport/date/status/limits, and distinguish live pages from case studies. Inspect actual images; flag loading and error states.
+- **Design analyses (`styles/design-md/`)**: Attributed DESIGN.md files under a redistribution-compatible licence, with upstream commit and hash. Keep existing project design rules when consuming these documents.
+- **Agent integration**: Improve the [portable skill](.agents/skills/frontend-library/SKILL.md), [offline search](scripts/query-library.py), [read-only MCP connector](scripts/library-mcp.py) or evidence validation without conflating links, analyses and captures.
 
 ## Asset Guidelines
 
@@ -47,7 +50,7 @@ Thanks for your interest in contributing to **Frontend Library**! Contributions 
 
 ## Preview GIFs
 
-Animated previews are captured from the demo page with headless Chrome, so the GIF always matches the code you shipped. The script needs Node 18+ (for the built-in `WebSocket`), Chrome or Chromium, and `ffmpeg` on your `PATH`:
+Animated previews are captured from the demo page with headless Chrome, so the GIF always matches the code you shipped. The script needs Node 22+ (for the built-in `WebSocket`), Chrome or Chromium, and `ffmpeg` on your `PATH`:
 
 ```bash
 node scripts/capture-gif.mjs animations/snippets/<name>/index.html .github/assets/gifs/<name>.gif
@@ -68,11 +71,16 @@ Direct pushes to `main` are disabled for everyone (including collaborators) — 
 Run the local checks before pushing:
 
 ```bash
-python3 scripts/build-catalog.py && python3 scripts/build-visuals.py
+python3 scripts/build-reference-library.py
+python3 scripts/build-catalog.py
+python3 scripts/build-visuals.py
 python3 scripts/validate-data.py
+python3 scripts/validate-references.py
+python3 scripts/check-library-mcp.py
 node scripts/check-code.mjs
-git diff --exit-code   # should print nothing
 ```
+
+Include generated index/source changes in the PR. CI rebuilds them and checks that the committed results stay unchanged. New source imports should preserve their upstream version and licence; live crawls must respect source access rules. See [capture methodology](docs/reference-library/methodology.md) and [source policies](data/source-policies.json).
 
 ## Need Help or Have Ideas?
 

@@ -1,0 +1,2528 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-archive-devin-ai",
+  "name": "Archive Devin Ai — live experience",
+  "url": "https://archive-devin-ai.lusion.co/",
+  "source": "https://lusion.co/projects/devin_ai",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:22:56.955Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://archive-devin-ai.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:22:56.893Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "needs-review",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Traversal did not reach 90% of measured content travel; deeper sections need a follow-up capture."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-hero",
+          "home-hero__grid",
+          "home-hero__main-visual-outer",
+          "home-hero__main-visual",
+          "home-hero__main-visual-0",
+          "home-hero__main-visual-wrapper",
+          "home-hero__main-visual-1",
+          "home-hero__main-visual-2",
+          "home-hero__main-copy",
+          "home-hero__title",
+          "home-hero__flow-visual",
+          "home-hero__flow-visual-wrapper",
+          "home-hero__flow-visual-inner",
+          "home-hero__flow-visual-item",
+          "home-hero__flow-visual-left",
+          "home-hero__flow-visual-left-top",
+          "home-hero__flow-visual-left-chat",
+          "home-hero__flow-visual-right",
+          "home-hero__flow-visual-right-box",
+          "home-hero__flow-content",
+          "home-hero__flow-copy-list-nav",
+          "home-hero__end",
+          "home-hero__end-copy",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 54031,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-hero",
+          "home-hero__grid",
+          "home-hero__main-visual-outer",
+          "home-hero__main-visual",
+          "home-hero__main-visual-0",
+          "home-hero__main-visual-wrapper",
+          "home-hero__main-visual-1",
+          "home-hero__main-visual-2",
+          "home-hero__main-copy",
+          "home-hero__title",
+          "home-hero__flow-visual",
+          "home-hero__flow-visual-wrapper",
+          "home-hero__flow-visual-inner",
+          "home-hero__flow-visual-item",
+          "home-hero__flow-visual-left",
+          "home-hero__flow-visual-left-top",
+          "home-hero__flow-visual-left-chat",
+          "home-hero__flow-visual-right",
+          "home-hero__flow-visual-right-box",
+          "home-hero__flow-content",
+          "home-hero__flow-copy-list-nav",
+          "home-hero__end",
+          "home-hero__end-copy",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 70198,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-hero",
+          "home-hero__grid",
+          "home-hero__main-visual-outer",
+          "home-hero__main-visual",
+          "home-hero__main-visual-0",
+          "home-hero__main-visual-wrapper",
+          "home-hero__main-visual-text",
+          "home-hero__main-visual-1",
+          "home-hero__main-visual-2",
+          "home-hero__main-copy",
+          "home-hero__title",
+          "home-hero__flow-visual",
+          "home-hero__flow-visual-wrapper",
+          "home-hero__flow-visual-inner",
+          "home-hero__flow-visual-item",
+          "home-hero__flow-visual-left",
+          "home-hero__flow-visual-left-top",
+          "home-hero__flow-visual-left-chat",
+          "home-hero__flow-visual-right",
+          "home-hero__flow-visual-right-box",
+          "home-hero__flow-content",
+          "home-hero__flow-copy-list-nav",
+          "home-hero__end",
+          "home-hero__end-copy",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 86075,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-hero",
+          "home-hero__grid",
+          "home-hero__main-visual-outer",
+          "home-hero__main-visual",
+          "home-hero__main-visual-0",
+          "home-hero__main-visual-wrapper",
+          "home-hero__main-visual-text",
+          "home-hero__main-visual-1",
+          "home-hero__main-visual-2",
+          "home-hero__main-copy",
+          "home-hero__title",
+          "home-hero__flow-visual",
+          "home-hero__flow-visual-wrapper",
+          "home-hero__flow-visual-inner",
+          "home-hero__flow-visual-item",
+          "home-hero__flow-visual-left",
+          "home-hero__flow-visual-left-top",
+          "home-hero__flow-visual-left-chat",
+          "home-hero__flow-visual-right",
+          "home-hero__flow-visual-right-box",
+          "home-hero__flow-content",
+          "home-hero__flow-copy-list-nav",
+          "home-hero__end",
+          "home-hero__end-copy",
+          "home-use-cases",
+          "home-use-cases__wrapper",
+          "home-use-cases__subtitle",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 91245,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-bento",
+          "home-bento__wrapper",
+          "home-bento__item-03",
+          "home-bento__item-03-hover",
+          "home-integration",
+          "home-integration__title",
+          "home-integration__title-wrapper",
+          "scroll-indicator"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 102061,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://archive-devin-ai.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "vimeo-overlay",
+          "vimeo-overlay__bg",
+          "vimeo-overlay__container",
+          "vimeo-overlay__content",
+          "vimeo-overlay__content-inner",
+          "customers-overlay",
+          "customers-overlay__bg",
+          "customers-overlay__slider",
+          "customers-overlay__content",
+          "customers-overlay__content-inner",
+          "vimeo-preview",
+          "vimeo-preview__image-wrapper",
+          "viewport-wrapper",
+          "pages-container",
+          "home",
+          "home-cta",
+          "site-footer",
+          "site-footer__top",
+          "site-footer__top-left",
+          "site-footer__top-left-title",
+          "site-footer__top-right",
+          "site-footer__top-right-wrapper",
+          "scroll-indicator"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://archive-devin-ai.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/_astro/_caseStudy_.C5ufd_-D.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/_astro/hoisted.Dadqo-kW.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/bento-hover03.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/bento01.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/bento02.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/bento03.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/card01.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/card02-line.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/card03-line.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-0-thumb.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1-thumb.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2-thumb.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3-thumb.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4-thumb.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-3.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/integration01.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/integration02.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/integration03.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases01.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases02.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases03.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://archive-devin-ai.lusion.co/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 50603,
+      "sha256": "9ce4a28c4cefa8c85cb4e6f0afc4581779c73d154804f791479faa9b682647ae"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 50496,
+      "sha256": "53cf8123b3502178ca745ccdaa280b6528ad5724a0975e12b2b3677c857d0191"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 59884,
+      "sha256": "18180a0d396290eadce0d46bd06b6edc8e67ec3cdb524f096f8f26b25247cf9f"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 52892,
+      "sha256": "4766ba310bc116bfb251a69d213d478be92c0302498a5e3a95e48c3e53d22d7f"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 40982,
+      "sha256": "d3c856e2424b81f6d7f8ec1e7cf10a7a49d6be866c5f6044e10fe5c4ade00756"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 49754,
+      "sha256": "5096f2e6a3e64f38523c17bb9d37220ace30d229ea99f923c9d485c26c12cc1e"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 321230,
+      "sha256": "c20b57e4b33e3c5bfa7e947108e09f3f41f2c4947ca6b26866dc861f7a4b7c52"
+    }
+  ],
+  "initial": {
+    "url": "https://archive-devin-ai.lusion.co/",
+    "title": "Devin | The AI Software Engineer",
+    "documentHeight": 900,
+    "contentHeight": 13074,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-ready is-desktop is-page-home theme-dark",
+    "bodyStyle": {
+      "fontFamily": "neue-haas-grotesk-text, sans-serif",
+      "fontSize": "17.3786px",
+      "lineHeight": "26.0678px",
+      "fontWeight": "400",
+      "color": "rgb(246, 246, 246)",
+      "backgroundColor": "rgb(16, 19, 28)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "17.3786px",
+          "lineHeight": "26.0678px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 13074
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "17.3786px",
+          "lineHeight": "26.0678px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 91,
+        "rect": {
+          "x": 936,
+          "y": 162,
+          "width": 518,
+          "height": 126
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 936,
+          "y": 819,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 936,
+          "y": 1238,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 936,
+          "y": 2482,
+          "width": 518,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 936,
+          "y": 3014,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "home-hero__title",
+        "characters": 34,
+        "rect": {
+          "x": 727,
+          "y": 309,
+          "width": 670,
+          "height": 231
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 173,
+          "y": 368,
+          "width": 301,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 173,
+          "y": 379,
+          "width": 301,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 173,
+          "y": 389,
+          "width": 301,
+          "height": 42
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 173,
+          "y": 389,
+          "width": 301,
+          "height": 42
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "home-hero__copy-end-title",
+        "characters": 41,
+        "rect": {
+          "x": 566,
+          "y": 537,
+          "width": 308,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-use-cases__title",
+        "characters": 9,
+        "rect": {
+          "x": 157,
+          "y": 6255,
+          "width": 1126,
+          "height": 77
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 229,
+          "y": 6676,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 13.4462)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 229,
+          "y": 6664,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 13.4462)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 229,
+          "y": 6664,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 13.4462)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 211,
+          "y": 7049,
+          "width": 142,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 591,
+          "y": 7049,
+          "width": 124,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 971,
+          "y": 7049,
+          "width": 168,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-bento__title",
+        "characters": 20,
+        "rect": {
+          "x": 157,
+          "y": 7823,
+          "width": 556,
+          "height": 154
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 213,
+          "y": 8235,
+          "width": 339,
+          "height": 72
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "28.8997px",
+          "lineHeight": "36.1247px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 783,
+          "y": 8128,
+          "width": 256,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "28.8997px",
+          "lineHeight": "36.1247px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "customers-overlay__slider",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 727,
+          "y": 0,
+          "width": 713,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://archive-devin-ai.lusion.co/pricing",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://www.cognition.ai/get-started#company",
+      "https://docs.devin.ai/",
+      "http://deepwiki.com/",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://www.cognition.ai/get-started#company",
+      "https://docs.devin.ai/",
+      "http://deepwiki.com/",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://archive-devin-ai.lusion.co/pricing",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://docs.devin.ai/",
+      "https://www.cognition.ai/get-started#company",
+      "http://deepwiki.com/",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://cognition.ai/blog/evaluating-coding-agents",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://www.cognition.ai/get-started#company",
+      "https://www.cognition.ai/pages/privacy-policy",
+      "https://www.cognition.ai/pages/terms-of-service",
+      "https://www.linkedin.com/company/cognition-ai-labs/",
+      "https://x.com/cognition_labs"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_0.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_1.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_2.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1.png",
+        "poster": "",
+        "width": 630,
+        "height": 204
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2.png",
+        "poster": "",
+        "width": 630,
+        "height": 344
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3.png",
+        "poster": "",
+        "width": 630,
+        "height": 630
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4.png",
+        "poster": "",
+        "width": 630,
+        "height": 404
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-0-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases01.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases02.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases03.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases01.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases02.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases03.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card01.png",
+        "poster": "",
+        "width": 266,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento01.png",
+        "poster": "",
+        "width": 1288,
+        "height": 722
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento01.png",
+        "poster": "",
+        "width": 1288,
+        "height": 722
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card02-line.png",
+        "poster": "",
+        "width": 264,
+        "height": 466
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento02.png",
+        "poster": "",
+        "width": 638,
+        "height": 892
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento02.png",
+        "poster": "",
+        "width": 638,
+        "height": 892
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card03-line.png",
+        "poster": "",
+        "width": 266,
+        "height": 540
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento-hover03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration01.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration03.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration02.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration03.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-1.png",
+        "poster": "",
+        "width": 718,
+        "height": 978
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-2.png",
+        "poster": "",
+        "width": 578,
+        "height": 970
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-3.png",
+        "poster": "",
+        "width": 578,
+        "height": 866
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 12014,
+    "actualTravel": 0,
+    "coverage": 0
+  },
+  "final": {
+    "url": "https://archive-devin-ai.lusion.co/",
+    "title": "Devin | The AI Software Engineer",
+    "documentHeight": 900,
+    "contentHeight": 13074,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-ready is-desktop is-page-home theme-light",
+    "bodyStyle": {
+      "fontFamily": "neue-haas-grotesk-text, sans-serif",
+      "fontSize": "17.3786px",
+      "lineHeight": "26.0678px",
+      "fontWeight": "400",
+      "color": "rgb(246, 246, 246)",
+      "backgroundColor": "rgb(16, 19, 28)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "17.3786px",
+          "lineHeight": "26.0678px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 13074
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-text, sans-serif",
+          "fontSize": "17.3786px",
+          "lineHeight": "26.0678px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 91,
+        "rect": {
+          "x": 936,
+          "y": 162,
+          "width": 518,
+          "height": 126
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 936,
+          "y": 819,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 936,
+          "y": 1238,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 62,
+        "rect": {
+          "x": 936,
+          "y": 2482,
+          "width": 518,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 936,
+          "y": 3014,
+          "width": 518,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(18, 17, 17)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "home-hero__title",
+        "characters": 34,
+        "rect": {
+          "x": 727,
+          "y": -6689,
+          "width": 670,
+          "height": 231
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 173,
+          "y": -6670,
+          "width": 301,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 173,
+          "y": -6659,
+          "width": 301,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 173,
+          "y": -6649,
+          "width": 301,
+          "height": 42
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 173,
+          "y": -6649,
+          "width": 301,
+          "height": 42
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "home-hero__copy-end-title",
+        "characters": 41,
+        "rect": {
+          "x": 566,
+          "y": -6461,
+          "width": 308,
+          "height": 84
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-use-cases__title",
+        "characters": 9,
+        "rect": {
+          "x": 157,
+          "y": -5918,
+          "width": 1126,
+          "height": 77
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 229,
+          "y": -5511,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 343,
+          "y": -5509,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 13.4462)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 457,
+          "y": -5509,
+          "width": 226,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(246, 246, 246)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 13.4462)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "34.4064px",
+          "lineHeight": "41.847px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 211,
+          "y": -5124,
+          "width": 142,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 591,
+          "y": -5124,
+          "width": 124,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 971,
+          "y": -5124,
+          "width": 168,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "26.8925px",
+          "lineHeight": "33.5817px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "home-bento__title",
+        "characters": 20,
+        "rect": {
+          "x": 157,
+          "y": -4350,
+          "width": 556,
+          "height": 154
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "66.3298px",
+          "lineHeight": "76.9627px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 213,
+          "y": -3938,
+          "width": 339,
+          "height": 72
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "28.8997px",
+          "lineHeight": "36.1247px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 783,
+          "y": -4045,
+          "width": 256,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "neue-haas-grotesk-display, sans-serif",
+          "fontSize": "28.8997px",
+          "lineHeight": "36.1247px",
+          "fontWeight": "400",
+          "color": "rgb(186, 215, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "customers-overlay__slider",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 727,
+          "y": 0,
+          "width": 713,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://archive-devin-ai.lusion.co/pricing",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://www.cognition.ai/get-started#company",
+      "https://docs.devin.ai/",
+      "http://deepwiki.com/",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://www.cognition.ai/get-started#company",
+      "https://docs.devin.ai/",
+      "http://deepwiki.com/",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://archive-devin-ai.lusion.co/pricing",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://www.cognition.ai/",
+      "https://jobs.ashbyhq.com/cognition",
+      "https://www.cognition.ai/blog",
+      "https://docs.devin.ai/",
+      "https://www.cognition.ai/get-started#company",
+      "http://deepwiki.com/",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://cognition.ai/blog/evaluating-coding-agents",
+      "https://app.devin.ai/",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/customers",
+      "https://app.devin.ai/",
+      "https://archive-devin-ai.lusion.co/enterprise",
+      "https://www.cognition.ai/get-started#company",
+      "https://www.cognition.ai/pages/privacy-policy",
+      "https://www.cognition.ai/pages/terms-of-service",
+      "https://www.linkedin.com/company/cognition-ai-labs/",
+      "https://x.com/cognition_labs"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_0.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_1.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero_layer_2.png",
+        "poster": "",
+        "width": 1052,
+        "height": 1024
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1.png",
+        "poster": "",
+        "width": 630,
+        "height": 204
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2.png",
+        "poster": "",
+        "width": 630,
+        "height": 344
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3.png",
+        "poster": "",
+        "width": 630,
+        "height": 630
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4.png",
+        "poster": "",
+        "width": 630,
+        "height": 404
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-0-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-1-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-2-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-3-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-hero/hero-steps-4-thumb.webp",
+        "poster": "",
+        "width": 750,
+        "height": 497
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases01.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases02.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases03.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases01.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases02.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/use-cases03.png",
+        "poster": "",
+        "width": 1350,
+        "height": 744
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card01.png",
+        "poster": "",
+        "width": 266,
+        "height": 460
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento01.png",
+        "poster": "",
+        "width": 1288,
+        "height": 722
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento01.png",
+        "poster": "",
+        "width": 1288,
+        "height": 722
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card02-line.png",
+        "poster": "",
+        "width": 264,
+        "height": 466
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento02.png",
+        "poster": "",
+        "width": 638,
+        "height": 892
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento02.png",
+        "poster": "",
+        "width": 638,
+        "height": 892
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/card03-line.png",
+        "poster": "",
+        "width": 266,
+        "height": 540
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento-hover03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/bento03.png",
+        "poster": "",
+        "width": 1288,
+        "height": 628
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration01.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration03.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration02.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/integration03.png",
+        "poster": "",
+        "width": 1636,
+        "height": 756
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-1.png",
+        "poster": "",
+        "width": 718,
+        "height": 978
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-2.png",
+        "poster": "",
+        "width": 578,
+        "height": 970
+      },
+      {
+        "tag": "IMG",
+        "url": "https://archive-devin-ai.lusion.co/assets/images/home-integration-mobile-3.png",
+        "poster": "",
+        "width": 578,
+        "height": 866
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1500,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 30000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 102061,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

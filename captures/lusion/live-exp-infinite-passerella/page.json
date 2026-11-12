@@ -1,0 +1,1369 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-infinite-passerella",
+  "name": "Exp Infinite Passerella — live experience",
+  "url": "https://exp-infinite-passerella.lusion.co/",
+  "source": "https://labs.lusion.co/exp/infinite-passerella",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:19:45.279Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-infinite-passerella.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:19:45.279Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 998,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1979,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3215,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4212,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5439,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-infinite-passerella.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader",
+          "intro",
+          "snapshot",
+          "snapshot-frame",
+          "snapshot-frame--content"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/audios//Stylish-Electronic-Agressive--Techno-House_AdobeStock_413924450.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/data/200.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/data/colornames_new.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/fonts/exo2-variablefont_wght-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/fonts/tuw-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/images/favicon/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/images/favicon/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/crowd.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/ltc_mats.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/spotlights.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/stage.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/handWear1_animation.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/handWear1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/hero_animation.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/hero.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/shoes2_animation.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/models/styles/shoes2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/emojis.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/floor.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/patterns/pattern_set_0.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/patterns/pattern_set_1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/patterns/pattern_set_2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/textures/stage.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/favicon.ico",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/index.2d01e6cc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/index.48ab324d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 77010,
+      "sha256": "1a3e101290d0f65d7a395a82e056fccf3a8d63ba3e87a5a5c46521562e38709b"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 77604,
+      "sha256": "4c4ca9ddf9a9c8421b1562b12b84e0122637242f6884a21dde2f27a03d30eeb0"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 76711,
+      "sha256": "f619c1b81680d4576c3d7ee7454b8d52cf48b822cd152c6bf01e9669fe09c0c4"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 76505,
+      "sha256": "db79776794a1a9686f42c6440d71303c88eab757d8b5b72b79cbfefe504264c8"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 77010,
+      "sha256": "5565f565860316ace218d2a9db09de540a6f726286ed97e63c170a92e64e426b"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 77609,
+      "sha256": "316a5ca537b4e3ec6a76d82f2741f9649e51ff375253e5245f88a456f26277a2"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 285538,
+      "sha256": "b25e9ac40dba315e413662b7f4894205d23a9c3e065637195acb4675e640e469"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-infinite-passerella.lusion.co/",
+    "title": "Infinite Passerella - An infinite fashion show by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+      "fontSize": "14px",
+      "lineHeight": "16.1px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(9, 7, 25)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-logo-title",
+        "characters": 19,
+        "rect": {
+          "x": 261,
+          "y": 53,
+          "width": 136,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 417,
+          "y": 53,
+          "width": 237,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1357,
+          "y": 58,
+          "width": 38,
+          "height": 11
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "11px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 411,
+          "width": 522,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "turn_wnormal",
+          "fontSize": "34px",
+          "lineHeight": "28px",
+          "fontWeight": "100",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 461,
+          "width": 522,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "turn_wnormal",
+          "fontSize": "34px",
+          "lineHeight": "28px",
+          "fontWeight": "100",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 613,
+          "y": 731,
+          "width": 46,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "normal",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 713,
+          "y": 731,
+          "width": 114,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "normal",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "44.4px",
+          "lineHeight": "51.06px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.awwwards.com/sites/infinite-passerella",
+      "https://thefwa.com/cases/infinite-passerella",
+      "https://lusion.co/",
+      "https://exp-infinite-passerella.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-infinite-passerella.lusion.co/",
+    "title": "Infinite Passerella - An infinite fashion show by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+      "fontSize": "14px",
+      "lineHeight": "16.1px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(9, 7, 25)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "16.1px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-logo-title",
+        "characters": 19,
+        "rect": {
+          "x": 261,
+          "y": 53,
+          "width": 136,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 417,
+          "y": 53,
+          "width": 237,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1357,
+          "y": 58,
+          "width": 38,
+          "height": 11
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "11px",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 411,
+          "width": 522,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "turn_wnormal",
+          "fontSize": "34px",
+          "lineHeight": "28px",
+          "fontWeight": "100",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 461,
+          "width": 522,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "turn_wnormal",
+          "fontSize": "34px",
+          "lineHeight": "28px",
+          "fontWeight": "100",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 613,
+          "y": 731,
+          "width": 46,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "normal",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 713,
+          "y": 731,
+          "width": 114,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "normal",
+          "fontWeight": "800",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "44.4px",
+          "lineHeight": "51.06px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "exo2",
+          "fontSize": "9px",
+          "lineHeight": "10.35px",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.awwwards.com/sites/infinite-passerella",
+      "https://thefwa.com/cases/infinite-passerella",
+      "https://lusion.co/",
+      "https://exp-infinite-passerella.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1600,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5439,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

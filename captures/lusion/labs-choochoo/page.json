@@ -1,0 +1,1081 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "labs-choochoo",
+  "name": "Choochoo",
+  "url": "https://labs.lusion.co/exp/choochoo",
+  "source": "https://labs.lusion.co/",
+  "kind": "lab-case-study",
+  "capturedAt": "2026-11-12T08:10:30.798Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://labs.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:10:30.766Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 5073,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 56530,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": -872,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 73010,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": -2083,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 80576,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": -3097,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 102597,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://labs.lusion.co/exp/choochoo",
+        "scrollY": 0,
+        "contentTop": -3814,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content",
+          "twitter-widget-0"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://labs.lusion.co/assets/data/choochoo/choochoo.md",
+      "status": 200,
+      "mimeType": "text/markdown",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/choochoo/day-time.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/choochoo/first-person.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/choochoo/night-time.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/choochoo/share.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Black.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Medium.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Regular.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-RegularItalic.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/IBMPlexMono-Medium.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/akari/homepage_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/choochoo/detail_page.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/choochoo/homepage_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/trappist-1d/small_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.22890b47.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.f4419199.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/models/lsn_logo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-16x16.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon.ico",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/choochoo",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 70330,
+      "sha256": "410040e34e38e54d81a7dc46c08b002d0f4abf21da6c7ba978db64a6289d1ed4"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 67440,
+      "sha256": "d72a9ed286e3c4f4c5e2dbeb898855ec5f344e5717a4411b18e0b03115de146e"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 128192,
+      "sha256": "75e6c0c2c080dd2f26696f1b742dde49e052b5b40958df616f0cb025f4db1b87"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 114032,
+      "sha256": "2ee58fc185a49fefd2ffed1e97180c3fbe423243f86fec31de15b020c5304aee"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 115826,
+      "sha256": "9b8a631668c5283df9a933ea0d4a34b9081fcf79d9ea9224283eae2031c51c55"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 118078,
+      "sha256": "2d6413a449dcb70b65d2d46264678b6cc23bff8253e2d463bbb1a6aa8986e0a8"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 894396,
+      "sha256": "895bd3c745c3ae1ae4b57749fb668359897925d10945fed627c1b4b944778ea5"
+    }
+  ],
+  "initial": {
+    "url": "https://labs.lusion.co/exp/choochoo",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 4940,
+    "contentTop": 209,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 586,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 60,
+          "y": 620,
+          "width": 586,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 1022,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": 1158,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": 1825,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 729,
+          "y": 2959,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": 3650,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 729,
+          "y": 3896,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 4143,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 4354,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://choochooworld.com/",
+      "https://choochooworld.com/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://surface-floater.lusion.co/",
+      "https://vimeo.com/662312889",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/choochoo/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/choochoo/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/day-time.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/night-time.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/first-person.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/share.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1539966295017267200&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Fchoochoo&sessionId=33fb7fb272d58e5ba7b90e464e1d56653878f450&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 3880,
+    "actualTravel": 4023,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://labs.lusion.co/exp/choochoo",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 4940,
+    "contentTop": -3814,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, -4023.03)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 586,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 60,
+          "y": 620,
+          "width": 586,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": -3001,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": -2865,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": -2199,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 729,
+          "y": -1064,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": -373,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 729,
+          "y": -127,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 120,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 331,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://choochooworld.com/",
+      "https://choochooworld.com/",
+      "https://webxr-sneakers.lusion.co/",
+      "https://surface-floater.lusion.co/",
+      "https://vimeo.com/662312889",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/choochoo/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/choochoo/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/day-time.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/night-time.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/first-person.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/choochoo/share.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1539966295017267200&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Fchoochoo&sessionId=33fb7fb272d58e5ba7b90e464e1d56653878f450&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/webxr-sneakers/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/surface-floater/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/trappist-1d/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 102597,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

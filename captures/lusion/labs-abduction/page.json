@@ -1,0 +1,1019 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "labs-abduction",
+  "name": "Abduction",
+  "url": "https://labs.lusion.co/exp/abduction",
+  "source": "https://labs.lusion.co/",
+  "kind": "lab-case-study",
+  "capturedAt": "2026-11-12T08:18:54.583Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://labs.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:10:30.766Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 930,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": 209,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2894,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": -682,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5201,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": -1686,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7054,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": -2492,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9481,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://labs.lusion.co/exp/abduction",
+        "scrollY": 0,
+        "contentTop": -3171,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "navbar",
+          "detail-info",
+          "detail-content",
+          "twitter-widget-0"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://labs.lusion.co/assets/data/abduction/abduction.md",
+      "status": 200,
+      "mimeType": "text/markdown",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/abduction/mass-crowd.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/abduction/terrain.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/data/abduction/variation.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Black.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Medium.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-Regular.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/Aeonik-RegularItalic.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/fonts/IBMPlexMono-Medium.ttf",
+      "status": 304,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/abduction/detail_page.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/akari/homepage_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/choochoo/homepage_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/ion-speaker/small_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/lazy-plot/small_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/images/particle-love/small_thumb.jpg",
+      "status": 304,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.22890b47.css",
+      "status": 304,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/index.f4419199.js",
+      "status": 304,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/models/lsn_logo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-area.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/assets/textures/smaa-search.png",
+      "status": 304,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/abduction",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-16x16.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/dark/favicon.ico",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://labs.lusion.co/exp/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Manifest"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 68416,
+      "sha256": "a2b4c2bc402c59a624afba410d39b9a2e47605e8e79c3934ef6eb1c81375fb87"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 68295,
+      "sha256": "9995063cc2a0615fc4e029d70bde1ef4c3f55df6b4de8f2ada6f8b7b67b63f93"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 105132,
+      "sha256": "c4ee88e10557dca660765209e620e31af71341e6e179ebf66f021cdc2cb88d43"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 125182,
+      "sha256": "7c2078983a9e959580060c93bdf2d1f2ef8e70a80f325f3f949abcc24d8c8b64"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 145567,
+      "sha256": "95f851e57043f87dbe8aea27c9f4d3df1b433d8bb9b09728d3ab4d499c257400"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 130770,
+      "sha256": "bcdb593bce74ae8741b67c7006f52e2c418a5ea21641ee4b5c3164555be6cba9"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 678913,
+      "sha256": "c6f199aa6cdcd0c202391db340e1e41411b23067d6f913ad308099ef629e79e1"
+    }
+  ],
+  "initial": {
+    "url": "https://labs.lusion.co/exp/abduction",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 4268,
+    "contentTop": 209,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 327,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 60,
+          "y": 620,
+          "width": 327,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 1022,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": 1158,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": 1825,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": 2831,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": 3126,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 3397,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 3730,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://exp-abduction.lusion.co/",
+      "https://exp-abduction.lusion.co/",
+      "https://lazy-plot.lusion.co/",
+      "https://exp-ion.lusion.co/",
+      "https://particle-love.com/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/abduction/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/abduction/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/mass-crowd.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/terrain.jpg",
+        "poster": "",
+        "width": 1958,
+        "height": 862
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/variation.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1440311156858449921&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Fabduction&sessionId=7f798fead4cb0fa07f8979b0cd1e2bd2130e0f1e&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/lazy-plot/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/ion-speaker/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/particle-love/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "virtual",
+    "requestedTravel": 3208,
+    "actualTravel": 3380,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://labs.lusion.co/exp/abduction",
+    "title": "Lusion Labs",
+    "documentHeight": 900,
+    "contentHeight": 4268,
+    "contentTop": -3171,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Aeonik, sans-serif",
+      "fontSize": "12px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "matrix(1, 0, 0, 1, 0, -3379.74)",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 60,
+          "y": 247,
+          "width": 327,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "Aeonik, sans-serif",
+          "fontSize": "73.8px",
+          "lineHeight": "73.8px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 60,
+          "y": 620,
+          "width": 327,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": -2358,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 729,
+          "y": -2222,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 729,
+          "y": -1555,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": -549,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 729,
+          "y": -254,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 729,
+          "y": 17,
+          "width": 651,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "17.4px",
+          "lineHeight": "17.4px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 729,
+          "y": 350,
+          "width": 651,
+          "height": 10
+        },
+        "style": {
+          "fontFamily": "IBMPlexMono-Medium, monospace",
+          "fontSize": "9.6px",
+          "lineHeight": "9.6px",
+          "fontWeight": "500",
+          "color": "rgba(255, 255, 255, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/about",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://exp-abduction.lusion.co/",
+      "https://exp-abduction.lusion.co/",
+      "https://lazy-plot.lusion.co/",
+      "https://exp-ion.lusion.co/",
+      "https://particle-love.com/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://twitter.com/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/abduction/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/abduction/detail_page.jpg",
+        "poster": "",
+        "width": 1296,
+        "height": 1782
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/mass-crowd.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/terrain.jpg",
+        "poster": "",
+        "width": 1958,
+        "height": 862
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/data/abduction/variation.jpg",
+        "poster": "",
+        "width": 1280,
+        "height": 768
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/embed/Tweet.html?creatorScreenName=lusionltd&dnt=true&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1440311156858449921&lang=en&origin=https%3A%2F%2Flabs.lusion.co%2Fexp%2Fabduction&sessionId=7f798fead4cb0fa07f8979b0cd1e2bd2130e0f1e&siteScreenName=lusionltd&theme=light&widgetsVersion=6a3ad42b224df%3A1778106238597&width=550px",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/lazy-plot/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/ion-speaker/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://labs.lusion.co/assets/images/particle-love/small_thumb.jpg",
+        "poster": "",
+        "width": 848,
+        "height": 1080
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Flabs.lusion.co",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9481,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

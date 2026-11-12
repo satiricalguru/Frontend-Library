@@ -11,6 +11,8 @@ Award-winning 3D, WebGL and interactive web work by Lusion, plus their R&D exper
 > [!NOTE]
 > This is a **curated index of links**. Everything listed belongs to its original creators; open the link to view, license or buy it. The exact page every entry was taken from is logged in [SOURCES.md](../../SOURCES.md) and [data/sources.csv](../../data/sources.csv).
 
+**Go beyond links:** [page captures, motion recordings and DOM evidence](../../docs/reference-library/README.md) · [homepage deep dive](../../docs/reference-library/lusion-home.md) · [agent skill](../../.agents/skills/frontend-library/SKILL.md). Case studies and the live client sites they describe are separate references.
+
 ## 🏆 Case studies
 
 | # | Project | Disciplines |

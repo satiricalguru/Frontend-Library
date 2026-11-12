@@ -1,0 +1,926 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-gemini",
+  "name": "Exp Gemini — live experience",
+  "url": "https://exp-gemini.lusion.co/",
+  "source": "https://labs.lusion.co/exp/ion-speaker",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:19:59.967Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-gemini.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:19:59.967Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry.",
+    "Traversal navigated to https://exp-gemini.lusion.co/motion; inspect checkpoint URLs before comparing."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 999,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1964,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3237,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4232,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5431,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-gemini.lusion.co/motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "ui",
+          "cinematic",
+          "cinematic-grid"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-gemini.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/app/android-chrome-192x192.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/app/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/bgm.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/change_0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/change_1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/hover_0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/hover_1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/audios/transition.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/css/index.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/fonts/daysone-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/fonts/exo2-variablefont_wght-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/fonts/zendots-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/images/background-preloader-dithered.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/js/gsap.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/js/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/full_body.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/full_tire.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/full_windows.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/leo_run_animation.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/leo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/low.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/models/ltc_mats.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/carshadow.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/floor.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/gradient.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/mask_gradient.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/stage1_floor_ao.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/assets/textures/studio.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-gemini.lusion.co/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-infinite-passerella.lusion.co/assets/fonts/roboto-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 37672,
+      "sha256": "5bb7f6eb9b2b7428a826196f6a43f214b0f59a56aa35194a1cb94e3760ac3dd8"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 42238,
+      "sha256": "93fd7e051f13b9e61a9ed5aa4eb63b94e27d9ff0a3800ad45a4942c410292684"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 42928,
+      "sha256": "077b3021c2d152fd02b96f21bf282908d294a868afd37eb04e2d39570fb0c3a4"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 41737,
+      "sha256": "f1f0cc6930bd2f8dbf368e9a1909c95f785774df015d9a45267b6ba079936f8d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 45446,
+      "sha256": "c9890f0c7a3acfbd6766d6749c31347ea57e31efc430552657a6133363ac1f2b"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 42116,
+      "sha256": "279a2a41b6419d2a6717ed2c14a2bd09666109785cc53d12dd983d003edea596"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 189322,
+      "sha256": "a034fbec7de676ed99768bb8c456df7c28d582d449af32a94c601f48fa53297d"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-gemini.lusion.co/motion",
+    "title": "GEMINI - A WebGL Car Demo by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 1012,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "\"Days One\", sans-serif",
+      "fontSize": "16.5272px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Days One\", sans-serif",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Days One\", sans-serif",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1301,
+          "y": 52,
+          "width": 72,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "\"Exo 2\", sans-serif",
+          "fontSize": "11px",
+          "lineHeight": "27.5px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 30,
+          "y": 217,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Exo 2\", sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "20.28px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "39.6652px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.awwwards.com/sites/gemini",
+      "https://thefwa.com/cases/gemini",
+      "https://lusion.co/",
+      "https://exp-gemini.lusion.co/motion#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-gemini.lusion.co/motion",
+    "title": "GEMINI - A WebGL Car Demo by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 1012,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "\"Days One\", sans-serif",
+      "fontSize": "16.5272px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Days One\", sans-serif",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Days One\", sans-serif",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1301,
+          "y": 52,
+          "width": 72,
+          "height": 32
+        },
+        "style": {
+          "fontFamily": "\"Exo 2\", sans-serif",
+          "fontSize": "11px",
+          "lineHeight": "27.5px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 30,
+          "y": 217,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "\"Exo 2\", sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "20.28px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "39.6652px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "IBM_plex_mono, serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.awwwards.com/sites/gemini",
+      "https://thefwa.com/cases/gemini",
+      "https://lusion.co/",
+      "https://exp-gemini.lusion.co/motion#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5431,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

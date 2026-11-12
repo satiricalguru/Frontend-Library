@@ -1,0 +1,22 @@
+{
+  "packages": 57,
+  "captured": 52,
+  "uniqueRoutes": 56,
+  "videos": 57,
+  "checkpoints": 342,
+  "observedResourceResponses": 2380,
+  "uniqueResourceUrls": 1242,
+  "byKind": {
+    "landing-page": 3,
+    "studio-page": 1,
+    "project-index": 1,
+    "interactive-experience": 15,
+    "lab-case-study": 17,
+    "case-study": 19,
+    "experiment-index": 1
+  },
+  "byStatus": {
+    "captured": 52,
+    "needs-review": 5
+  }
+}

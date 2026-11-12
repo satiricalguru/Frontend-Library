@@ -1,0 +1,1660 @@
+{
+  "version": 1,
+  "source": "https://lusion.co/",
+  "count": 57,
+  "items": [
+    {
+      "id": "lusion-home",
+      "name": "Lusion — Home",
+      "url": "https://lusion.co/",
+      "source": "https://lusion.co/",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T07:40:04.348Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "landing-page",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/lusion-home/page.json",
+      "guide": "docs/reference-library/pages/lusion-home.md",
+      "checkpointCount": 6,
+      "resourceCount": 105,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/lusion-home/checkpoint-00.jpg",
+      "video": "captures/lusion/lusion-home/traversal.mp4"
+    },
+    {
+      "id": "lusion-home-mobile",
+      "name": "Lusion — Home (mobile)",
+      "url": "https://lusion.co/",
+      "source": "https://lusion.co/",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T07:58:09.634Z",
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "deviceScaleFactor": 1,
+        "mobile": true
+      },
+      "tags": [
+        "lusion",
+        "landing-page",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/lusion-home-mobile/page.json",
+      "guide": "docs/reference-library/pages/lusion-home-mobile.md",
+      "checkpointCount": 6,
+      "resourceCount": 112,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/lusion-home-mobile/checkpoint-00.jpg",
+      "video": "captures/lusion/lusion-home-mobile/traversal.mp4"
+    },
+    {
+      "id": "live-ion",
+      "name": "Ion — live WebGL speaker landing page",
+      "url": "https://exp-ion.lusion.co/",
+      "source": "https://labs.lusion.co/exp/ion-speaker",
+      "kind": "landing-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:09:21.029Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "landing-page",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-ion/page.json",
+      "guide": "docs/reference-library/pages/live-ion.md",
+      "checkpointCount": 6,
+      "resourceCount": 36,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-ion/checkpoint-01.jpg",
+      "video": "captures/lusion/live-ion/traversal.mp4"
+    },
+    {
+      "id": "lusion-about",
+      "name": "Lusion — About",
+      "url": "https://lusion.co/about",
+      "source": "https://lusion.co/",
+      "kind": "studio-page",
+      "status": "captured",
+      "capturedAt": "2026-11-12T07:44:27.231Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "studio-page",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/lusion-about/page.json",
+      "guide": "docs/reference-library/pages/lusion-about.md",
+      "checkpointCount": 6,
+      "resourceCount": 89,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/lusion-about/checkpoint-00.jpg",
+      "video": "captures/lusion/lusion-about/traversal.mp4"
+    },
+    {
+      "id": "lusion-projects",
+      "name": "Lusion — Projects",
+      "url": "https://lusion.co/projects",
+      "source": "https://lusion.co/",
+      "kind": "project-index",
+      "status": "captured",
+      "capturedAt": "2026-11-12T07:44:57.396Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "project-index",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/lusion-projects/page.json",
+      "guide": "docs/reference-library/pages/lusion-projects.md",
+      "checkpointCount": 6,
+      "resourceCount": 79,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/lusion-projects/checkpoint-00.jpg",
+      "video": "captures/lusion/lusion-projects/traversal.mp4"
+    },
+    {
+      "id": "live-1105-ddd2024-homepage",
+      "name": "1105 Ddd2024 Homepage — live experience",
+      "url": "https://1105-ddd2024-homepage.lusion.co/",
+      "source": "https://lusion.co/projects/ddd_2024",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:14.323Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-1105-ddd2024-homepage/page.json",
+      "guide": "docs/reference-library/pages/live-1105-ddd2024-homepage.md",
+      "checkpointCount": 6,
+      "resourceCount": 148,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-1105-ddd2024-homepage/checkpoint-00.jpg",
+      "video": "captures/lusion/live-1105-ddd2024-homepage/traversal.mp4"
+    },
+    {
+      "id": "labs-abduction",
+      "name": "Abduction",
+      "url": "https://labs.lusion.co/exp/abduction",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:18:54.583Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-abduction/page.json",
+      "guide": "docs/reference-library/pages/labs-abduction.md",
+      "checkpointCount": 6,
+      "resourceCount": 26,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-abduction/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-abduction/traversal.mp4"
+    },
+    {
+      "id": "project-atlas-motion",
+      "name": "Atlas Motion",
+      "url": "https://lusion.co/projects/atlas_motion",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:15.154Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-atlas-motion/page.json",
+      "guide": "docs/reference-library/pages/project-atlas-motion.md",
+      "checkpointCount": 6,
+      "resourceCount": 40,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-atlas-motion/checkpoint-00.jpg",
+      "video": "captures/lusion/project-atlas-motion/traversal.mp4"
+    },
+    {
+      "id": "project-choo-choo-world",
+      "name": "Choo Choo World",
+      "url": "https://lusion.co/projects/choo_choo_world",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:27:38.539Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-choo-choo-world/page.json",
+      "guide": "docs/reference-library/pages/project-choo-choo-world.md",
+      "checkpointCount": 6,
+      "resourceCount": 52,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-choo-choo-world/checkpoint-00.jpg",
+      "video": "captures/lusion/project-choo-choo-world/traversal.mp4"
+    },
+    {
+      "id": "labs-choochoo",
+      "name": "Choochoo",
+      "url": "https://labs.lusion.co/exp/choochoo",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:10:30.798Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-choochoo/page.json",
+      "guide": "docs/reference-library/pages/labs-choochoo.md",
+      "checkpointCount": 6,
+      "resourceCount": 27,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-choochoo/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-choochoo/traversal.mp4"
+    },
+    {
+      "id": "labs-cineshader",
+      "name": "Cineshader",
+      "url": "https://labs.lusion.co/exp/cineshader",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:19:43.396Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-cineshader/page.json",
+      "guide": "docs/reference-library/pages/labs-cineshader.md",
+      "checkpointCount": 6,
+      "resourceCount": 26,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-cineshader/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-cineshader/traversal.mp4"
+    },
+    {
+      "id": "live-client-zero-tech",
+      "name": "Client Zero Tech — live experience",
+      "url": "https://client-zero-tech.lusion.co/",
+      "source": "https://lusion.co/projects/zero_tech",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:25:11.977Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-client-zero-tech/page.json",
+      "guide": "docs/reference-library/pages/live-client-zero-tech.md",
+      "checkpointCount": 6,
+      "resourceCount": 85,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-client-zero-tech/checkpoint-00.jpg",
+      "video": "captures/lusion/live-client-zero-tech/traversal.mp4"
+    },
+    {
+      "id": "labs-covid-spike",
+      "name": "Covid Spike",
+      "url": "https://labs.lusion.co/exp/covid-spike",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:30:32.135Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-covid-spike/page.json",
+      "guide": "docs/reference-library/pages/labs-covid-spike.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-covid-spike/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-covid-spike/traversal.mp4"
+    },
+    {
+      "id": "project-ddd-2024",
+      "name": "DDD 2024",
+      "url": "https://lusion.co/projects/ddd_2024",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:26:26.136Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-ddd-2024/page.json",
+      "guide": "docs/reference-library/pages/project-ddd-2024.md",
+      "checkpointCount": 6,
+      "resourceCount": 37,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-ddd-2024/checkpoint-00.jpg",
+      "video": "captures/lusion/project-ddd-2024/traversal.mp4"
+    },
+    {
+      "id": "project-devin-ai",
+      "name": "Devin AI",
+      "url": "https://lusion.co/projects/devin_ai",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:28.544Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-devin-ai/page.json",
+      "guide": "docs/reference-library/pages/project-devin-ai.md",
+      "checkpointCount": 6,
+      "resourceCount": 38,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-devin-ai/checkpoint-00.jpg",
+      "video": "captures/lusion/project-devin-ai/traversal.mp4"
+    },
+    {
+      "id": "labs-digital-city",
+      "name": "Digital City",
+      "url": "https://labs.lusion.co/exp/digital-city",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:20:31.043Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-digital-city/page.json",
+      "guide": "docs/reference-library/pages/labs-digital-city.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-digital-city/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-digital-city/traversal.mp4"
+    },
+    {
+      "id": "project-everswap",
+      "name": "Everswap",
+      "url": "https://lusion.co/projects/everswap",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:22:42.022Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-everswap/page.json",
+      "guide": "docs/reference-library/pages/project-everswap.md",
+      "checkpointCount": 6,
+      "resourceCount": 43,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-everswap/checkpoint-00.jpg",
+      "video": "captures/lusion/project-everswap/traversal.mp4"
+    },
+    {
+      "id": "live-exp-abduction",
+      "name": "Exp Abduction — live experience",
+      "url": "https://exp-abduction.lusion.co/",
+      "source": "https://labs.lusion.co/exp/my-little-story-book",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:20:49.346Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-abduction/page.json",
+      "guide": "docs/reference-library/pages/live-exp-abduction.md",
+      "checkpointCount": 6,
+      "resourceCount": 29,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-abduction/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-abduction/traversal.mp4"
+    },
+    {
+      "id": "live-exp-covid-spike",
+      "name": "Exp Covid Spike — live experience",
+      "url": "https://exp-covid-spike.lusion.co/",
+      "source": "https://labs.lusion.co/exp/covid-spike",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:18:21.789Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-covid-spike/page.json",
+      "guide": "docs/reference-library/pages/live-exp-covid-spike.md",
+      "checkpointCount": 6,
+      "resourceCount": 21,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-covid-spike/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-covid-spike/traversal.mp4"
+    },
+    {
+      "id": "live-exp-gemini",
+      "name": "Exp Gemini — live experience",
+      "url": "https://exp-gemini.lusion.co/",
+      "source": "https://labs.lusion.co/exp/ion-speaker",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:19:59.967Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-gemini/page.json",
+      "guide": "docs/reference-library/pages/live-exp-gemini.md",
+      "checkpointCount": 6,
+      "resourceCount": 34,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-gemini/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-gemini/traversal.mp4"
+    },
+    {
+      "id": "live-exp-infinite-passerella",
+      "name": "Exp Infinite Passerella — live experience",
+      "url": "https://exp-infinite-passerella.lusion.co/",
+      "source": "https://labs.lusion.co/exp/infinite-passerella",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:19:45.279Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-infinite-passerella/page.json",
+      "guide": "docs/reference-library/pages/live-exp-infinite-passerella.md",
+      "checkpointCount": 6,
+      "resourceCount": 27,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-infinite-passerella/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-infinite-passerella/traversal.mp4"
+    },
+    {
+      "id": "live-exp-mind-flayer",
+      "name": "Exp Mind Flayer — live experience",
+      "url": "https://exp-mind-flayer.lusion.co/",
+      "source": "https://labs.lusion.co/exp/hair-simulation",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:19:31.731Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-mind-flayer/page.json",
+      "guide": "docs/reference-library/pages/live-exp-mind-flayer.md",
+      "checkpointCount": 6,
+      "resourceCount": 24,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-mind-flayer/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-mind-flayer/traversal.mp4"
+    },
+    {
+      "id": "live-exp-small-world",
+      "name": "Exp Small World — live experience",
+      "url": "https://exp-small-world.lusion.co/",
+      "source": "https://labs.lusion.co/exp/ion-speaker",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:20:16.010Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-small-world/page.json",
+      "guide": "docs/reference-library/pages/live-exp-small-world.md",
+      "checkpointCount": 6,
+      "resourceCount": 26,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-small-world/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-small-world/traversal.mp4"
+    },
+    {
+      "id": "labs-gemini-car",
+      "name": "Gemini Car",
+      "url": "https://labs.lusion.co/exp/gemini-car",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:17:16.369Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-gemini-car/page.json",
+      "guide": "docs/reference-library/pages/labs-gemini-car.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-gemini-car/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-gemini-car/traversal.mp4"
+    },
+    {
+      "id": "labs-hair-simulation",
+      "name": "Hair Simulation",
+      "url": "https://labs.lusion.co/exp/hair-simulation",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:28:55.983Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-hair-simulation/page.json",
+      "guide": "docs/reference-library/pages/labs-hair-simulation.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-hair-simulation/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-hair-simulation/traversal.mp4"
+    },
+    {
+      "id": "live-hair-simulation",
+      "name": "Hair Simulation — live experience",
+      "url": "https://hair-simulation.lusion.co/",
+      "source": "https://labs.lusion.co/exp/hair-simulation",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:18:55.824Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-hair-simulation/page.json",
+      "guide": "docs/reference-library/pages/live-hair-simulation.md",
+      "checkpointCount": 6,
+      "resourceCount": 14,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-hair-simulation/checkpoint-00.jpg",
+      "video": "captures/lusion/live-hair-simulation/traversal.mp4"
+    },
+    {
+      "id": "labs-infinite-passerella",
+      "name": "Infinite Passerella",
+      "url": "https://labs.lusion.co/exp/infinite-passerella",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:16:26.235Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-infinite-passerella/page.json",
+      "guide": "docs/reference-library/pages/labs-infinite-passerella.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-infinite-passerella/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-infinite-passerella/traversal.mp4"
+    },
+    {
+      "id": "project-infinite-passerella",
+      "name": "Infinite Passerella",
+      "url": "https://lusion.co/projects/infinite_passerella",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:29:35.193Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-infinite-passerella/page.json",
+      "guide": "docs/reference-library/pages/project-infinite-passerella.md",
+      "checkpointCount": 6,
+      "resourceCount": 43,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-infinite-passerella/checkpoint-00.jpg",
+      "video": "captures/lusion/project-infinite-passerella/traversal.mp4"
+    },
+    {
+      "id": "labs-ion-speaker",
+      "name": "Ion Speaker",
+      "url": "https://labs.lusion.co/exp/ion-speaker",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:14:15.099Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-ion-speaker/page.json",
+      "guide": "docs/reference-library/pages/labs-ion-speaker.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-ion-speaker/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-ion-speaker/traversal.mp4"
+    },
+    {
+      "id": "labs-lazy-plot",
+      "name": "Lazy Plot",
+      "url": "https://labs.lusion.co/exp/lazy-plot",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:27:04.552Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-lazy-plot/page.json",
+      "guide": "docs/reference-library/pages/labs-lazy-plot.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-lazy-plot/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-lazy-plot/traversal.mp4"
+    },
+    {
+      "id": "project-lusion-labs",
+      "name": "Lusion Labs",
+      "url": "https://lusion.co/projects/lusion_labs",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:28:42.185Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-lusion-labs/page.json",
+      "guide": "docs/reference-library/pages/project-lusion-labs.md",
+      "checkpointCount": 6,
+      "resourceCount": 52,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-lusion-labs/checkpoint-00.jpg",
+      "video": "captures/lusion/project-lusion-labs/traversal.mp4"
+    },
+    {
+      "id": "lusion-labs",
+      "name": "Lusion Labs — Index",
+      "url": "https://labs.lusion.co/",
+      "source": "https://lusion.co/",
+      "kind": "experiment-index",
+      "status": "captured",
+      "capturedAt": "2026-11-12T07:45:19.220Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "experiment-index",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/lusion-labs/page.json",
+      "guide": "docs/reference-library/pages/lusion-labs.md",
+      "checkpointCount": 6,
+      "resourceCount": 32,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/lusion-labs/checkpoint-00.jpg",
+      "video": "captures/lusion/lusion-labs/traversal.mp4"
+    },
+    {
+      "id": "project-maxmara-bearings-gifts",
+      "name": "Max Mara: Bearing Gifts",
+      "url": "https://lusion.co/projects/maxmara_bearings_gifts",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:30:01.419Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-maxmara-bearings-gifts/page.json",
+      "guide": "docs/reference-library/pages/project-maxmara-bearings-gifts.md",
+      "checkpointCount": 6,
+      "resourceCount": 50,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-maxmara-bearings-gifts/checkpoint-00.jpg",
+      "video": "captures/lusion/project-maxmara-bearings-gifts/traversal.mp4"
+    },
+    {
+      "id": "project-spatial-fusion",
+      "name": "Meta: Spatial Fusion",
+      "url": "https://lusion.co/projects/spatial_fusion",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:28:14.588Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-spatial-fusion/page.json",
+      "guide": "docs/reference-library/pages/project-spatial-fusion.md",
+      "checkpointCount": 6,
+      "resourceCount": 50,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-spatial-fusion/checkpoint-00.jpg",
+      "video": "captures/lusion/project-spatial-fusion/traversal.mp4"
+    },
+    {
+      "id": "labs-my-little-story-book",
+      "name": "My Little Story Book",
+      "url": "https://labs.lusion.co/exp/my-little-story-book",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:15:31.446Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-my-little-story-book/page.json",
+      "guide": "docs/reference-library/pages/labs-my-little-story-book.md",
+      "checkpointCount": 6,
+      "resourceCount": 27,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-my-little-story-book/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-my-little-story-book/traversal.mp4"
+    },
+    {
+      "id": "project-my-little-story-book",
+      "name": "My Little Storybook",
+      "url": "https://lusion.co/projects/my_little_story_book",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:29:08.950Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-my-little-story-book/page.json",
+      "guide": "docs/reference-library/pages/project-my-little-story-book.md",
+      "checkpointCount": 6,
+      "resourceCount": 49,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-my-little-story-book/checkpoint-00.jpg",
+      "video": "captures/lusion/project-my-little-story-book/traversal.mp4"
+    },
+    {
+      "id": "project-of-the-oak",
+      "name": "Of The Oak",
+      "url": "https://lusion.co/projects/of_the_oak",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:41.436Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-of-the-oak/page.json",
+      "guide": "docs/reference-library/pages/project-of-the-oak.md",
+      "checkpointCount": 6,
+      "resourceCount": 39,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-of-the-oak/checkpoint-00.jpg",
+      "video": "captures/lusion/project-of-the-oak/traversal.mp4"
+    },
+    {
+      "id": "project-oryzo-ai",
+      "name": "Oryzo AI",
+      "url": "https://lusion.co/projects/oryzo_ai",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:01.474Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-oryzo-ai/page.json",
+      "guide": "docs/reference-library/pages/project-oryzo-ai.md",
+      "checkpointCount": 6,
+      "resourceCount": 41,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-oryzo-ai/checkpoint-00.jpg",
+      "video": "captures/lusion/project-oryzo-ai/traversal.mp4"
+    },
+    {
+      "id": "labs-particle-love",
+      "name": "Particle Love",
+      "url": "https://labs.lusion.co/exp/particle-love",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:21:19.578Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-particle-love/page.json",
+      "guide": "docs/reference-library/pages/labs-particle-love.md",
+      "checkpointCount": 6,
+      "resourceCount": 25,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-particle-love/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-particle-love/traversal.mp4"
+    },
+    {
+      "id": "project-porsche-dream-machine",
+      "name": "Porsche: Dream Machine",
+      "url": "https://lusion.co/projects/porsche_dream_machine",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:24:38.222Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-porsche-dream-machine/page.json",
+      "guide": "docs/reference-library/pages/project-porsche-dream-machine.md",
+      "checkpointCount": 6,
+      "resourceCount": 50,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-porsche-dream-machine/checkpoint-00.jpg",
+      "video": "captures/lusion/project-porsche-dream-machine/traversal.mp4"
+    },
+    {
+      "id": "labs-small-world",
+      "name": "Small World",
+      "url": "https://labs.lusion.co/exp/small-world",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:24:12.879Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-small-world/page.json",
+      "guide": "docs/reference-library/pages/labs-small-world.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-small-world/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-small-world/traversal.mp4"
+    },
+    {
+      "id": "project-soda-experience",
+      "name": "Soda Experience",
+      "url": "https://lusion.co/projects/soda_experience",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:29:22.006Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-soda-experience/page.json",
+      "guide": "docs/reference-library/pages/project-soda-experience.md",
+      "checkpointCount": 6,
+      "resourceCount": 41,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-soda-experience/checkpoint-00.jpg",
+      "video": "captures/lusion/project-soda-experience/traversal.mp4"
+    },
+    {
+      "id": "project-spaace",
+      "name": "Spaace - NFT Marketplace",
+      "url": "https://lusion.co/projects/spaace",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:27:17.510Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-spaace/page.json",
+      "guide": "docs/reference-library/pages/project-spaace.md",
+      "checkpointCount": 6,
+      "resourceCount": 40,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-spaace/checkpoint-00.jpg",
+      "video": "captures/lusion/project-spaace/traversal.mp4"
+    },
+    {
+      "id": "labs-surface-floater",
+      "name": "Surface Floater",
+      "url": "https://labs.lusion.co/exp/surface-floater",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:29:43.893Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-surface-floater/page.json",
+      "guide": "docs/reference-library/pages/labs-surface-floater.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-surface-floater/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-surface-floater/traversal.mp4"
+    },
+    {
+      "id": "live-surface-floater",
+      "name": "Surface Floater — live experience",
+      "url": "https://surface-floater.lusion.co/",
+      "source": "https://labs.lusion.co/exp/choochoo",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:17:48.657Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-surface-floater/page.json",
+      "guide": "docs/reference-library/pages/live-surface-floater.md",
+      "checkpointCount": 6,
+      "resourceCount": 18,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-surface-floater/checkpoint-00.jpg",
+      "video": "captures/lusion/live-surface-floater/traversal.mp4"
+    },
+    {
+      "id": "project-synthetic-human",
+      "name": "Synthetic Human",
+      "url": "https://lusion.co/projects/synthetic_human",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:25:19.593Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-synthetic-human/page.json",
+      "guide": "docs/reference-library/pages/project-synthetic-human.md",
+      "checkpointCount": 6,
+      "resourceCount": 40,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-synthetic-human/checkpoint-00.jpg",
+      "video": "captures/lusion/project-synthetic-human/traversal.mp4"
+    },
+    {
+      "id": "project-the-turn-of-the-screw",
+      "name": "The Turn Of The Screw",
+      "url": "https://lusion.co/projects/the_turn_of_the_screw",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:29:48.342Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-the-turn-of-the-screw/page.json",
+      "guide": "docs/reference-library/pages/project-the-turn-of-the-screw.md",
+      "checkpointCount": 6,
+      "resourceCount": 47,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-the-turn-of-the-screw/checkpoint-00.jpg",
+      "video": "captures/lusion/project-the-turn-of-the-screw/traversal.mp4"
+    },
+    {
+      "id": "labs-trappist-1d",
+      "name": "Trappist 1D",
+      "url": "https://labs.lusion.co/exp/trappist-1d",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:31:19.869Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-trappist-1d/page.json",
+      "guide": "docs/reference-library/pages/labs-trappist-1d.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-trappist-1d/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-trappist-1d/traversal.mp4"
+    },
+    {
+      "id": "labs-webxr-sneakers",
+      "name": "Webxr Sneakers",
+      "url": "https://labs.lusion.co/exp/webxr-sneakers",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:28:03.547Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-webxr-sneakers/page.json",
+      "guide": "docs/reference-library/pages/labs-webxr-sneakers.md",
+      "checkpointCount": 6,
+      "resourceCount": 26,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-webxr-sneakers/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-webxr-sneakers/traversal.mp4"
+    },
+    {
+      "id": "live-webxr-sneakers",
+      "name": "Webxr Sneakers — live experience",
+      "url": "https://webxr-sneakers.lusion.co/",
+      "source": "https://labs.lusion.co/exp/hair-simulation",
+      "kind": "interactive-experience",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:19:13.723Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-webxr-sneakers/page.json",
+      "guide": "docs/reference-library/pages/live-webxr-sneakers.md",
+      "checkpointCount": 6,
+      "resourceCount": 30,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/live-webxr-sneakers/checkpoint-00.jpg",
+      "video": "captures/lusion/live-webxr-sneakers/traversal.mp4"
+    },
+    {
+      "id": "project-worldcoin",
+      "name": "Worldcoin Globe",
+      "url": "https://lusion.co/projects/worldcoin",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:28:27.862Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-worldcoin/page.json",
+      "guide": "docs/reference-library/pages/project-worldcoin.md",
+      "checkpointCount": 6,
+      "resourceCount": 35,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-worldcoin/checkpoint-00.jpg",
+      "video": "captures/lusion/project-worldcoin/traversal.mp4"
+    },
+    {
+      "id": "project-zero-tech",
+      "name": "Zero Tech",
+      "url": "https://lusion.co/projects/zero_tech",
+      "source": "https://lusion.co/projects",
+      "kind": "case-study",
+      "status": "captured",
+      "capturedAt": "2026-11-12T08:27:51.453Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "case-study",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/project-zero-tech/page.json",
+      "guide": "docs/reference-library/pages/project-zero-tech.md",
+      "checkpointCount": 6,
+      "resourceCount": 47,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/project-zero-tech/checkpoint-00.jpg",
+      "video": "captures/lusion/project-zero-tech/traversal.mp4"
+    },
+    {
+      "id": "live-akari",
+      "name": "Akari — live experience",
+      "url": "https://akari.lusion.co/",
+      "source": "https://labs.lusion.co/exp/choochoo",
+      "kind": "interactive-experience",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T08:18:07.229Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "native-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-akari/page.json",
+      "guide": "docs/reference-library/pages/live-akari.md",
+      "checkpointCount": 6,
+      "resourceCount": 41,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-akari/checkpoint-00.jpg",
+      "video": "captures/lusion/live-akari/traversal.mp4"
+    },
+    {
+      "id": "live-archive-devin-ai",
+      "name": "Archive Devin Ai — live experience",
+      "url": "https://archive-devin-ai.lusion.co/",
+      "source": "https://lusion.co/projects/devin_ai",
+      "kind": "interactive-experience",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T08:22:56.955Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-archive-devin-ai/page.json",
+      "guide": "docs/reference-library/pages/live-archive-devin-ai.md",
+      "checkpointCount": 6,
+      "resourceCount": 33,
+      "scrollCoverage": 0,
+      "preview": "captures/lusion/live-archive-devin-ai/checkpoint-00.jpg",
+      "video": "captures/lusion/live-archive-devin-ai/traversal.mp4"
+    },
+    {
+      "id": "live-exp-digital-city",
+      "name": "Exp Digital City — live experience",
+      "url": "https://exp-digital-city.lusion.co/",
+      "source": "https://labs.lusion.co/exp/my-little-story-book",
+      "kind": "interactive-experience",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T08:20:35.388Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-digital-city/page.json",
+      "guide": "docs/reference-library/pages/live-exp-digital-city.md",
+      "checkpointCount": 6,
+      "resourceCount": 33,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-digital-city/checkpoint-00.jpg",
+      "video": "captures/lusion/live-exp-digital-city/traversal.mp4"
+    },
+    {
+      "id": "live-exp-my-little-storybook",
+      "name": "Exp My Little Storybook — live experience",
+      "url": "https://exp-my-little-storybook.lusion.co/",
+      "source": "https://labs.lusion.co/exp/covid-spike",
+      "kind": "interactive-experience",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T08:18:36.248Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "interactive-experience",
+        "scene-sequence-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/live-exp-my-little-storybook/page.json",
+      "guide": "docs/reference-library/pages/live-exp-my-little-storybook.md",
+      "checkpointCount": 6,
+      "resourceCount": 112,
+      "scrollCoverage": null,
+      "preview": "captures/lusion/live-exp-my-little-storybook/checkpoint-02.jpg",
+      "video": "captures/lusion/live-exp-my-little-storybook/traversal.mp4"
+    },
+    {
+      "id": "labs-mind-flayer",
+      "name": "Mind Flayer",
+      "url": "https://labs.lusion.co/exp/mind-flayer",
+      "source": "https://labs.lusion.co/",
+      "kind": "lab-case-study",
+      "status": "needs-review",
+      "capturedAt": "2026-11-12T08:18:04.226Z",
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "deviceScaleFactor": 1,
+        "mobile": false
+      },
+      "tags": [
+        "lusion",
+        "lab-case-study",
+        "virtual-scroll",
+        "canvas",
+        "motion-recording"
+      ],
+      "record": "captures/lusion/labs-mind-flayer/page.json",
+      "guide": "docs/reference-library/pages/labs-mind-flayer.md",
+      "checkpointCount": 6,
+      "resourceCount": 23,
+      "scrollCoverage": 1,
+      "preview": "captures/lusion/labs-mind-flayer/checkpoint-00.jpg",
+      "video": "captures/lusion/labs-mind-flayer/traversal.mp4"
+    }
+  ]
+}
