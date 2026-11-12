@@ -1,0 +1,35 @@
+animations:
+  - changed-files:
+      - any-glob-to-any-file: ['animations/**']
+
+components:
+  - changed-files:
+      - any-glob-to-any-file: ['components/**']
+
+fonts:
+  - changed-files:
+      - any-glob-to-any-file: ['fonts/**']
+
+icons:
+  - changed-files:
+      - any-glob-to-any-file: ['icons/**']
+
+images:
+  - changed-files:
+      - any-glob-to-any-file: ['images/**']
+
+styles:
+  - changed-files:
+      - any-glob-to-any-file: ['styles/**']
+
+templates:
+  - changed-files:
+      - any-glob-to-any-file: ['templates/**']
+
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: ['*.md', '**/README.md', 'inspiration/**']
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file: ['.github/**', 'scripts/**']

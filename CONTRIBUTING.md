@@ -63,11 +63,14 @@ Set `GIF_WIDTH` and `GIF_HEIGHT` to change the capture viewport when a component
 
 ## Checks that run on your PR
 
-The CI workflow rebuilds the catalogs and fails if the generated files are out of date, and `scripts/validate-data.py` checks that every entry in `data/` still has both a `url` and the `source` page it was collected from. Run them locally before pushing:
+Direct pushes to `main` are disabled for everyone (including collaborators) — all changes must be submitted via a Pull Request and approved before merge. Automated CI and code-checking bots (catalog validation, HTML/CSS/JS hygiene, Ruff, `actionlint`, CodeQL, Dependency Review, PR Auto-Labeler, and GitHub Copilot Code Review) run on every PR.
+
+Run the local checks before pushing:
 
 ```bash
 python3 scripts/build-catalog.py && python3 scripts/build-visuals.py
 python3 scripts/validate-data.py
+node scripts/check-code.mjs
 git diff --exit-code   # should print nothing
 ```
 

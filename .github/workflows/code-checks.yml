@@ -1,0 +1,56 @@
+name: Code Checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  frontend-hygiene:
+    name: HTML, JS & Asset Hygiene
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '22'
+      - name: Check HTML/CSS/JS, JSON, CSV, naming & hygiene
+        run: node scripts/check-code.mjs
+
+  python-lint:
+    name: Python Lint (Ruff)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/ruff-action@v4
+        with:
+          src: scripts
+          args: check --select E4,E7,E9,F --ignore E731
+
+  workflow-lint:
+    name: Workflow Lint (actionlint)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Run actionlint
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/actionlint
+          gh release download v1.7.12 -R rhysd/actionlint -p 'actionlint_*_linux_amd64.tar.gz' -D /tmp/actionlint
+          tar -xzf /tmp/actionlint/actionlint_*_linux_amd64.tar.gz -C /tmp/actionlint
+          /tmp/actionlint/actionlint -color
+
+  dependency-review:
+    name: Dependency Review
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/dependency-review-action@v5
+        with:
+          fail-on-severity: high
