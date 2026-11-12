@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/fl-logo.svg" width="96" alt="Frontend Library logo: a white F and a blue L"></a>
+
+<br><br>
+
 <a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
 
 <h3>The reference shelf for people who build interfaces.</h3>
