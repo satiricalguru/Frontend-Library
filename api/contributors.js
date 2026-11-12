@@ -96,8 +96,8 @@ module.exports = async (req, res) => {
   try {
     const svg = render(await gather());
     res.setHeader('Content-Type', 'image/svg+xml; charset=utf-8');
-    // GitHub's image proxy and Vercel's edge both honour this: refresh hourly, serve stale for a day
-    res.setHeader('Cache-Control', 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400');
+    // Cache briefly (1 min) so newly merged contributors appear without long delay
+    res.setHeader('Cache-Control', 'public, max-age=60, s-maxage=60, stale-while-revalidate=300');
     res.status(200).send(svg);
   } catch (err) {
     res.setHeader('Content-Type', 'image/svg+xml; charset=utf-8');
