@@ -2,7 +2,7 @@
 
 # 🎬 Animation snippets
 
-Twelve small, dependency-free UI animations you can copy straight into a project.<br>
+Thirteen small, dependency-free UI animations you can copy straight into a project.<br>
 Original MIT-licensed code written for Frontend Library. Each one is our own take on a pattern from the catalogs.
 
 <sub>Open any <code>index.html</code> in a browser to see the demo · all respect <code>prefers-reduced-motion</code> · <a href="../../README.md">← Back to library</a></sub>
@@ -34,6 +34,9 @@ Original MIT-licensed code written for Frontend Library. Each one is our own tak
     <td align="center" width="50%"><a href="tooltip-open-close/"><img src="../../.github/assets/gifs/tooltip-open-close.gif" width="100%" alt="A tooltip fading in above a button"></a><br><b>Tooltip open/close</b> · CSS + JS positioning</td>
     <td align="center" width="50%"><a href="accordion/"><img src="../../.github/assets/gifs/accordion.gif" width="100%" alt="Accordion rows expanding one at a time"></a><br><b>Accordion</b> · CSS grid-rows + ARIA</td>
   </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="text-scramble/"><img src="../../.github/assets/gifs/text-scramble.gif" width="50%" alt="Letters flickering through random glyphs before resolving into a word"></a><br><b>Text scramble</b> · 40 lines JS, reduced-motion aware</td>
+  </tr>
 </table>
 
 ## How to use one
@@ -64,5 +67,6 @@ The demos share [`_shared/demo.css`](_shared/demo.css) for the dark stage and co
 | Spring toggle | <https://transitions.dev/transitions/toggle/> |
 | Tooltip open/close | <https://transitions.dev/transitions/tooltip-open-close/> |
 | Accordion | <https://transitions.dev/transitions/accordion/> |
+| Text scramble | <https://motion.dev/examples/js-scramble-text> |
 
 These are clean-room versions: no code was copied from the sites above. The same mapping is in [`SOURCES.json`](SOURCES.json) and the root [SOURCES.md](../../SOURCES.md).

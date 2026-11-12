@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Text scramble</title>
+<link rel="stylesheet" href="../_shared/demo.css">
+<style>
+/* ── snippet ─────────────────────────────────────────── */
+.scramble { font: 700 44px/1.1 var(--font, system-ui, sans-serif); letter-spacing: -.02em; white-space: nowrap; }
+.scramble .ch { display: inline-block; min-width: .32em; text-align: center; }
+.scramble .ch.is-noise { color: var(--accent-2, #38bdf8); opacity: .75; font-family: ui-monospace, "SF Mono", Menlo, monospace; font-weight: 500; }
+@media (prefers-reduced-motion: reduce) { .scramble .ch.is-noise { color: inherit; opacity: 1; } }
+
+/* demo only */
+.sub { color: var(--muted); font: 500 13px/1 ui-monospace, "SF Mono", Menlo, monospace; letter-spacing: .08em; }
+</style>
+</head>
+<body>
+<div class="stage">
+  <div class="scramble" id="scramble" aria-live="polite">Frontend Library</div>
+  <div class="sub" id="sub">decoding reference…</div>
+  <div class="caption">text scramble</div>
+</div>
+<script>
+// ── snippet ───────────────────────────────────────────
+// scramble(el, text): letters resolve left to right; unresolved slots flicker through glyphs.
+function scramble(el, text, { duration = 1100, glyphs = '!<>-_\\/[]{}—=+*^?#ABCDEF0123456789' } = {}) {
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  el.setAttribute('aria-label', text);
+  if (reduce) { el.textContent = text; return Promise.resolve(); }
+  const from = el.textContent;
+  const len = Math.max(from.length, text.length);
+  // each character gets its own start/settle window, so the reveal sweeps across the word
+  const plan = Array.from({ length: len }, (_, i) => {
+    const start = (i / len) * duration * 0.45 + Math.random() * duration * 0.15;
+    return { to: text[i] || '', start, end: start + duration * 0.35 + Math.random() * duration * 0.2 };
+  });
+  return new Promise((resolve) => {
+    const t0 = performance.now();
+    const frame = (now) => {
+      const t = now - t0;
+      let done = 0;
+      const frag = document.createDocumentFragment();
+      plan.forEach((p, i) => {
+        const span = document.createElement('span');
+        span.className = 'ch';
+        if (t >= p.end) { span.textContent = p.to === ' ' ? ' ' : p.to; done++; }
+        else if (t >= p.start) { span.textContent = glyphs[(Math.random() * glyphs.length) | 0]; span.classList.add('is-noise'); }
+        else { const c = from[i] || ''; span.textContent = c === ' ' ? ' ' : c; }
+        frag.append(span);
+      });
+      el.replaceChildren(frag);
+      if (done < plan.length) requestAnimationFrame(frame); else { el.textContent = text; resolve(); }
+    };
+    requestAnimationFrame(frame);
+  });
+}
+// demo loop
+const words = ['Design systems', 'Motion & WebGL', 'Frontend Library', 'Every source'];
+const el = document.getElementById('scramble');
+let i = 0;
+(async function loop() {
+  while (true) {
+    await scramble(el, words[i = (i + 1) % words.length]);
+    await new Promise((r) => setTimeout(r, 900));
+  }
+})();
+</script>
+</body>
+</html>

@@ -43,7 +43,7 @@
 
 ## Landing-page references for people and AI agents
 
-**14,518 indexed references**, complemented by local capture packages (35 brand homepages discovered through the Refero index among them), 12 original animations and a reusable component. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
+**14,518 indexed references**, complemented by local capture packages (35 brand homepages discovered through the Refero index among them), 13 original animations and two reusable components. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
 
 <!-- capture-stats:start -->
 **93 evidence packages across 92 source routes · 92 browser recordings · 552 visual checkpoints · 5147 unique observed resource URLs.**
@@ -116,7 +116,7 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 - 🧭 **One place to look.** Design-and-motion sources, local page evidence and licensed design analyses, indexed into searchable Markdown tables and JSON.
 - 🧾 **Every entry is traceable.** Each row links to the original, and [SOURCES.md](SOURCES.md) plus [data/sources.csv](data/sources.csv) record the exact page it was collected from.
 - 🎨 **Real design data.** Brand palettes and typefaces for 1,342 websites, plus a ready-to-import [`palettes.css`](styles/refero-design-systems/palettes.css).
-- 🎬 **Code you can paste today.** Twelve original, dependency-free animations with live demos. All of them respect `prefers-reduced-motion`.
+- 🎬 **Code you can paste today.** Thirteen original, dependency-free animations and two components with live demos. All of them respect `prefers-reduced-motion`.
 - ♻️ **Rebuildable.** The catalogs and the charts on this page are generated from [`data/`](data/) by two small Python scripts.
 
 ## 📦 What's inside
@@ -135,12 +135,12 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 | 🧩 Website templates | 163 | [templates/godly-templates](templates/godly-templates/) | [godly.design/templates](https://godly.design/templates) |
 | ✨ UI micro-transitions | 44 | [animations/transitions-dev](animations/transitions-dev/) | [transitions.dev](https://transitions.dev/) |
 | 🪐 3D case studies & labs | 36 | [inspiration/lusion](inspiration/lusion/) | [lusion.co](https://lusion.co/projects) |
-| 🎬 Original animation snippets | 12 | [animations/snippets](animations/snippets/) | Our own code |
-| 🧩 Original UI components | 1 | [components](components/) | Our own code |
+| 🎬 Original animation snippets | 13 | [animations/snippets](animations/snippets/) | Our own code |
+| 🧩 Original UI components | 2 | [components](components/) | Our own code |
 
 ## 🎬 Animation snippets
 
-Original, copy-paste animations. Each one is a single `index.html` you can open in a browser. [Browse all 12 →](animations/snippets/)
+Original, copy-paste animations. Each one is a single `index.html` you can open in a browser. [Browse all 13 →](animations/snippets/)
 
 <table>
   <tr>
@@ -156,7 +156,7 @@ Original, copy-paste animations. Each one is a single `index.html` you can open 
   <tr>
     <td align="center"><a href="animations/snippets/tooltip-open-close/"><img src=".github/assets/gifs/tooltip-open-close.gif" width="100%" alt="Tooltip fading in above a button"></a><br><sub><b>Tooltip open/close</b></sub></td>
     <td align="center"><a href="animations/snippets/accordion/"><img src=".github/assets/gifs/accordion.gif" width="100%" alt="Accordion rows expanding one at a time"></a><br><sub><b>Accordion</b></sub></td>
-    <td align="center"></td>
+    <td align="center"><a href="animations/snippets/text-scramble/"><img src=".github/assets/gifs/text-scramble.gif" width="100%" alt="Letters flickering through random glyphs before resolving into a word"></a><br><sub><b>Text scramble</b></sub></td>
   </tr>
 </table>
 
@@ -179,7 +179,7 @@ Reusable UI pieces with live demos — same rules as the snippets: one HTML file
 <table>
   <tr>
     <td align="center" width="50%"><a href="components/command-palette/"><img src=".github/assets/gifs/command-palette.gif" width="100%" alt="A command palette opening with a search field and a filtered list of commands"></a><br><sub><b>Command palette</b> · CSS + JS, ⌘K</sub></td>
-    <td align="center" width="50%"></td>
+    <td align="center" width="50%"><a href="components/toast-stack/"><img src=".github/assets/gifs/toast-stack.gif" width="100%" alt="Notifications sliding in, stacking behind each other, fanning out and dismissing"></a><br><sub><b>Toast stack</b> · CSS + JS, hover to expand</sub></td>
   </tr>
 </table>
 

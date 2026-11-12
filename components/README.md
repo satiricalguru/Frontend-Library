@@ -11,7 +11,7 @@ Copy-paste UI components with live demos. No dependencies, no build step — eve
 <table>
   <tr>
     <td align="center" width="50%"><a href="command-palette/"><img src="../.github/assets/gifs/command-palette.gif" width="100%" alt="A command palette opening with a search field and a filtered list of commands"></a><br><b>Command palette</b> · CSS + JS, ⌘K</td>
-    <td align="center" width="50%"></td>
+    <td align="center" width="50%"><a href="toast-stack/"><img src="../.github/assets/gifs/toast-stack.gif" width="100%" alt="Notifications sliding in, stacking behind each other, fanning out and dismissing"></a><br><b>Toast stack</b> · CSS + JS, hover to expand</td>
   </tr>
 </table>
 

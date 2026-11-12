@@ -50,7 +50,7 @@ preview — leave it out of your project.
 ## Credits & licence
 
 Original work for Frontend Library, released under the
-[MIT licence](../animations/snippets/LICENSE).
+[MIT licence](../../animations/snippets/LICENSE).
 
 The interaction pattern is inspired by the command palettes in Linear and
 Raycast; no code was copied from either.

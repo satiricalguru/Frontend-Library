@@ -94,7 +94,7 @@ function visual(item, { large = false } = {}) {
     const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Captured viewport of ${item.name}`;
     img.loading = 'lazy'; img.decoding = 'async';
     if (item.viewport?.mobile) img.className = 'mobile';
-    img.addEventListener('error', () => img.replaceWith(typeVisual(item, v)), { once: true });
+    img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
     v.append(img);
     const b = node('span', `badge${item.status === 'captured' ? ' live' : ''}`, item.viewport ? `${item.viewport.width}×${item.viewport.height}` : item.status);
     v.append(b);
@@ -115,14 +115,14 @@ function visual(item, { large = false } = {}) {
   if (c === 'codrops' && safeUrl(item.preview)) {
     const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Preview of ${item.name}`;
     img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
-    img.addEventListener('error', () => img.replaceWith(typeVisual(item, v)), { once: true });
+    img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
     v.append(img, node('span', 'badge', item.kind === 'article-reference' ? 'article' : 'demo repo'));
     return v;
   }
   if (c === 'threejs' && safeUrl(item.preview)) {
     const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Screenshot of the three.js example ${item.name}`;
     img.loading = 'lazy'; img.decoding = 'async';
-    img.addEventListener('error', () => img.replaceWith(typeVisual(item, v)), { once: true });
+    img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
     v.append(img, node('span', 'badge', item.category));
     return v;
   }
@@ -148,6 +148,13 @@ function visual(item, { large = false } = {}) {
     return v;
   }
   return typeVisual(item, v);
+}
+// a preview that fails to load (404, rate limit) turns its own frame into the typographic tile
+function imageFailed(img, v, item) {
+  img.remove();
+  v.querySelectorAll('.badge, video').forEach((n) => n.remove());
+  v.classList.remove('is-playing');
+  typeVisual(item, v);
 }
 function typeVisual(item, v = node('div', 'card-visual')) {
   const h = hash(item.name + item.collection);
