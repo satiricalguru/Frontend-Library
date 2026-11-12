@@ -1,0 +1,3474 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-cursor",
+  "name": "Cursor — homepage",
+  "url": "https://cursor.com/",
+  "source": "https://styles.refero.design/style/4e3b4717-84c8-4599-baaf-a343c3d619b6",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:50:43.590Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://cursor.com/robots.txt",
+    "checkedAt": "2026-11-12T10:50:43.590Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/marketplace"
+      },
+      {
+        "allow": true,
+        "path": "/*/marketplace"
+      },
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/dashboard"
+      },
+      {
+        "allow": false,
+        "path": "/*/dashboard"
+      },
+      {
+        "allow": false,
+        "path": "/agents"
+      },
+      {
+        "allow": false,
+        "path": "/*/agents"
+      },
+      {
+        "allow": false,
+        "path": "/settings/"
+      },
+      {
+        "allow": false,
+        "path": "/*/settings/"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/publish$"
+      },
+      {
+        "allow": false,
+        "path": "/*/marketplace/publish$"
+      },
+      {
+        "allow": false,
+        "path": "/team/accept-invite"
+      },
+      {
+        "allow": false,
+        "path": "/*/team/accept-invite"
+      },
+      {
+        "allow": false,
+        "path": "/team/free-trial"
+      },
+      {
+        "allow": false,
+        "path": "/team/new-team"
+      },
+      {
+        "allow": false,
+        "path": "/*/team/new-team"
+      },
+      {
+        "allow": false,
+        "path": "/failure"
+      },
+      {
+        "allow": false,
+        "path": "/*/failure"
+      },
+      {
+        "allow": false,
+        "path": "/loginDeepControl"
+      },
+      {
+        "allow": false,
+        "path": "/*/loginDeepControl"
+      },
+      {
+        "allow": false,
+        "path": "/loginDeepPage"
+      },
+      {
+        "allow": false,
+        "path": "/*/loginDeepPage"
+      },
+      {
+        "allow": false,
+        "path": "/referral"
+      },
+      {
+        "allow": false,
+        "path": "/*/referral"
+      },
+      {
+        "allow": false,
+        "path": "/pricing-history"
+      },
+      {
+        "allow": false,
+        "path": "/*/pricing-history"
+      },
+      {
+        "allow": false,
+        "path": "/artifacts/c/"
+      },
+      {
+        "allow": false,
+        "path": "/artifacts/v/"
+      },
+      {
+        "allow": false,
+        "path": "/link/prompt"
+      },
+      {
+        "allow": false,
+        "path": "/*/link/prompt"
+      },
+      {
+        "allow": true,
+        "path": "/cn/docs/bdk"
+      },
+      {
+        "allow": false,
+        "path": "/*/docs"
+      },
+      {
+        "allow": false,
+        "path": "/*/docs/"
+      },
+      {
+        "allow": false,
+        "path": "/*/learn"
+      },
+      {
+        "allow": false,
+        "path": "/*/learn/"
+      },
+      {
+        "allow": false,
+        "path": "/*/help"
+      },
+      {
+        "allow": false,
+        "path": "/*/help/"
+      },
+      {
+        "allow": false,
+        "path": "/*/for"
+      },
+      {
+        "allow": false,
+        "path": "/*/for/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 0,
+        "contentTop": 52,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "demo-window-cursor-ide",
+          "tabpanel-browser-preview",
+          "demo-window-cursor-agent-cli"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1033,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 0,
+        "contentTop": 52,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "demo-window-cursor-ide",
+          "tabpanel-feature-prd",
+          "demo-window-cursor-agent-cli"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 4033,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 1902,
+        "contentTop": -1850,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "demo-window-agent-react-hooks",
+          "tabpanel-feature-prd"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6835,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 4240,
+        "contentTop": -4188,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "demo-window-grok-bot"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8687,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 6009,
+        "contentTop": -5957,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10844,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://cursor.com/",
+        "scrollY": 7299,
+        "contentTop": -7247,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "site-footer",
+          "language-dropdown"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://cursor.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://cursor.com/_vercel/insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/an/5NFOPZQoiC99Q/",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/an/5NFOPZQoiC99Q/gs/ccm/collect",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/an/UfoPFiz3bKlZcL0x/",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/an/UfoPFiz3bKlZcL0x/5Bwao5xD2tUnJnW8GT9VMSWOgPaMcYwSSlx4t2TdG3yoMy0e",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/blog/composer-2-technical-report",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/blog/joining-spacex",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/careers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/changelog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/changelog/agent-sdk",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/changelog/build-live-apps",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/changelog/voice-chat",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/en-US/security",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/home",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0-58ooyyk9exf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/02-zsw9kff-n2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/02k0iqtnpl1-c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/03eludclioj62.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/03jc9q0szh153.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/068z_-dg_ux6b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/06gesu04bkuoz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/07d5tn10oamke.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/07qum158go4h0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0dcpt57kr-jjm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0di5tjfsheq-h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0ha6kxcf_qy74.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0l5zl0fqjhni2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0mqbmb9nc84s0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0ms7w0cf186b4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0n5m2vlh-dwfo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0oh376un6smz1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0r1v2gemgkch5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0rggzmwj0z5b4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0rh8qbuazysvk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0uo7e54ozp0yc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0urp-71hg3wtw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/0z5hp443bbfoa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1-7ecrrb_wft1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/100u254c6c4-s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/10kasij_tb4pr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/121pu7iiri8i5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/14bcyu8j-84-m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/14jx7vknw7hmh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/16edrfo_d-9r9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/17cjwocgczhxl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1csfcj4zx0amo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1e2q_8c1hviu9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1g7tm6t4ostsx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1gacrio-8-2rj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1jh6plg6ypxo-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1khpkbtit3-r3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1kqnrh85-3--t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1m45f2gqyfcqv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1n7hyafp7qnud.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1ocndennoba28.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1qmvigfk6e9k0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1qrkwdggew2em.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1qwtk36lfubvr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1w-mrn_bu6m8q.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1xgogpqi5ifyk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1xpdp_mxw9cel.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1yx6q_tg_trkh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/1zb_qagu5sc-f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2_d2e8nlv8w-h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2_uf3hrg7haew.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/20_8jd7up6a60.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/22c7io--wokr7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/22lvwev_302e4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/23_4wbx1dbt2a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/24nmzypbjznkw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/25ns42xc484vf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/26ydybqad98sw.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/286nabbhrwlju.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/294p63p7yx819.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/29gzp7b_oq8-y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2a0vxir2eb09r.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2bzhnonzvl2sk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2kc01j3o91a35.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2m0s0g03vncp3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2mul9u-op77wd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2n1-72rxdl967.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2qkctrvm_zdc0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2ttumwugibsyh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2uw8_pgsryi1u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/2y7a4cm_htiai.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3_wc124m7199h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/32-zzwxhe4diz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/355q--baginig.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/35b697m5t89ur.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/38ap4j9-o8xh8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3d4ropancmdh7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3emffc047ukmy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3gtnwgu9hc2pl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3guo1dk28agyc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3hh7vol9e777l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3htrras0-r8q4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3nac7eblgtp1j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3oc1-b61m639e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3s_ruy3e-r1-_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3tdvkmh2k3v7h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3w97pq0rpck3c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3yktz57yk43lm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3yu0ck3nx0bmt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/3yvqs1vaxk7hf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/42czkw1aaqmha.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/chunks/turbopack-44f2pawupxu4m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/00a35ba7ae7d467a-s.p.2dxqy_vyqou3a.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/0393adb6c4b80dbd-s.p.24jxsbewvqxgy.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/1285192929390a3c-s.p.2kn9_b5oraq7b.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/14eda6073a40dbf6-s.p.1z38dhxy5o0rp.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/278a9fa4a156c562-s.p.0ic9f6t6i9npx.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/3456dc50754e9228.p.180g8ykmerv64.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/641cac8c3629dd17-s.p.36btuz4v8dixx.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/84a175be6caa7167.p.1wqtsm901wpuu.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/a5924e4c8ad9098b-s.p.1zc4-eug-txw0.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/BerkeleyMono_Oblique.p.1p3-ajn69o3tj.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/BerkeleyMono_Regular.p.2o12_8yhj893d.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/CursorDisplay_Medium.p.1fwtb6832xwwy.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/CursorGothic_Bold-s.p.0hz4pxp3wmyyo.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/CursorGothic_BoldItalic-s.p.2xzrsdbb-s3oe.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/CursorGothic_Italic-s.p.2hhgapbs0qncr.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/CursorGothic_Regular-s.p.33lgp-j65tbsf.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/d388bd3e38a4c1a9-s.p.0oq27de-d8s-p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/de9751bfdfafdac8.p.1simdcn5ouyn0.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/df43e2fca2f8e4dd-s.p.0gwclzayi-49q.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/ef47a4b32f1883fe-s.p.0xpldc9qvva2t.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/_next/static/immutable/media/fce692aaf0985484.p.24y1xzwicrvhg.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/demos/blog-secure-index.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/demos/blog-self-driving.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/demos/cursor-wallpaper.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/favicon-light.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/favicon-light.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/favicon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/fonts/cursor-icons-16.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/icon-192x192.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://cursor.com/marketing-static/manifest.webmanifest",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://cursor.com/metrics/g/collect",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/product",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cursor.com/statsig-proxy/v1/initialize",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 102857,
+      "sha256": "9479925ffdafb5b864a6f2fc34b2caadc74d48c04a9099f4c06bdb0c023c10c6"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 93544,
+      "sha256": "200117379c1fc045943fb07363930bcd102d3e538b2bad09f5c67ae40a3a4e19"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 86948,
+      "sha256": "883759ffaab301137258ee38a60507108d2b848e34d44ff23b1f0bd02518f0d4"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 132039,
+      "sha256": "0dfb3b7e448fdac4c2179258b8a01e315e7a659837758f20579608fc03faebcd"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 74514,
+      "sha256": "b7037048565364f76b84bbb348df52bbfd5e324ae819bbc86cbe1e5cb98046c3"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 59998,
+      "sha256": "a1157d33998c3a692268642534b14a4d33a1602d3a18377acf26edf2e2022a6c"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 394901,
+      "sha256": "66dd4cbd54965447747fbceda4ae755efd72ab8142015814bdf1f5172e69eada"
+    }
+  ],
+  "initial": {
+    "url": "https://cursor.com/",
+    "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+    "documentHeight": 8199,
+    "contentHeight": 8199,
+    "contentTop": 52,
+    "scrollY": 0,
+    "ready": "Sj65MG_variable aDRXRq_variable -Zg_XW_variable _8qwdia_variable",
+    "bodyStyle": {
+      "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(237, 236, 236)",
+      "backgroundColor": "rgb(20, 18, 11)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "logo-garden",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1138,
+          "width": 1440,
+          "height": 177
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgb(20, 18, 11)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "ot-pc-title",
+        "characters": 25,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ot-category-title",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20.8px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0001",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0004",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0003",
+        "characters": 18,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0002",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20.8px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 60,
+        "rect": {
+          "x": 70,
+          "y": 164,
+          "width": 658,
+          "height": 65
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "32.5px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 58,
+        "rect": {
+          "x": 70,
+          "y": 1138,
+          "width": 1300,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 90,
+          "y": 1663,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 949,
+          "y": 1551,
+          "width": 452,
+          "height": 31
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "31px",
+          "fontWeight": "700",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 949,
+          "y": 1646,
+          "width": 452,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21.7px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 949,
+          "y": 1724,
+          "width": 452,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21.7px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 968,
+          "y": 2464,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 90,
+          "y": 3244,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 611,
+          "y": 3081,
+          "width": 166,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "Lato, \"Lato Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "21.3333px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 968,
+          "y": 4028,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 315,
+          "y": 4585,
+          "width": 810,
+          "height": 43
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "43.2px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 70,
+          "y": 5285,
+          "width": 486,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 88,
+          "y": 5352,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 524,
+          "y": 5352,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 595,
+          "y": 5595,
+          "width": 250,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "system-ui",
+          "fontSize": "19px",
+          "lineHeight": "20.9px",
+          "fontWeight": "510",
+          "color": "rgba(255, 255, 255, 0.86)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 961,
+          "y": 5352,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 70,
+          "y": 6024,
+          "width": 1300,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://cursor.com/terms-of-service",
+      "https://cursor.com/cookie-policy",
+      "https://cursor.com/privacy",
+      "https://cookiepedia.co.uk/giving-consent-to-cookies",
+      "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "https://cursor.com/#main",
+      "https://cursor.com/home",
+      "https://cursor.com/grok",
+      "https://cursor.com/grok",
+      "https://cursor.com/evals",
+      "https://cursor.com/product",
+      "https://cursor.com/product",
+      "https://cursor.com/cloud",
+      "https://x.ai/bot",
+      "https://cursor.com/mobile",
+      "https://cursor.com/automate",
+      "https://cursor.com/cli",
+      "https://cursor.com/marketplace",
+      "https://cursor.com/bugbot",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/pricing",
+      "https://cursor.com/changelog",
+      "https://cursor.com/changelog",
+      "https://cursor.com/blog",
+      "https://cursor.com/docs",
+      "https://cursor.com/community",
+      "https://cursor.com/help",
+      "https://cursor.com/workshops",
+      "https://forum.cursor.com/",
+      "https://cursor.com/careers",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/pricing",
+      "https://cursor.com/dashboard",
+      "https://cursor.com/contact-sales?source=navbar",
+      "https://cursor.com/download",
+      "https://api2.cursor.sh/updates/download/golden/darwin-arm64/cursor/3.29",
+      "https://cursor.com/login",
+      "https://cursor.com/contact-sales?source=hero_request_demo",
+      "https://cursor.com/careers",
+      "https://cursor.com/product",
+      "https://cursor.com/docs/cloud-agent",
+      "https://cursor.com/download/bot?download=1",
+      "https://cursor.com/docs/models",
+      "https://cursor.com/docs/cloud-agent",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/changelog/voice-chat",
+      "https://cursor.com/changelog/build-live-apps",
+      "https://cursor.com/changelog/agent-sdk",
+      "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "https://cursor.com/changelog",
+      "https://cursor.com/careers",
+      "https://cursor.com/blog/composer-2-technical-report",
+      "https://cursor.com/blog/joining-spacex",
+      "https://x.ai/news/grok-4-7",
+      "https://cursor.com/blog/git-at-any-scale",
+      "https://cursor.com/blog",
+      "https://api2.cursor.sh/updates/download/golden/darwin-arm64/cursor/3.29",
+      "https://cursor.com/login",
+      "https://cursor.com/en-US/product",
+      "https://cursor.com/en-US/business/teams",
+      "https://cursor.com/en-US/enterprise",
+      "https://cursor.com/en-US/pricing",
+      "https://cursor.com/en-US/bugbot",
+      "https://cursor.com/en-US/cli",
+      "https://cursor.com/agents",
+      "https://cursor.com/en-US/composer",
+      "https://cursor.com/marketplace",
+      "https://cursor.com/en-US/download",
+      "https://cursor.com/en-US/changelog",
+      "https://cursor.com/docs",
+      "https://cursor.com/learn",
+      "https://forum.cursor.com/",
+      "https://cursor.com/help",
+      "https://cursor.com/en-US/workshops",
+      "https://status.cursor.com/",
+      "https://cursor.com/en-US/careers",
+      "https://cursor.com/en-US/blog",
+      "https://cursor.com/en-US/community",
+      "https://cursor.com/en-US/students",
+      "https://cursor.com/en-US/brand",
+      "https://cursor.com/en-US/future",
+      "https://anysphere.inc/",
+      "https://cursor.com/en-US/terms-of-service",
+      "https://cursor.com/en-US/acceptable-use-policy",
+      "https://cursor.com/en-US/terms/grok-bot",
+      "https://x.ai/legal",
+      "https://cursor.com/en-US/privacy",
+      "https://cursor.com/en-US/cookie-policy",
+      "https://cursor.com/en-US/data-use",
+      "https://cursor.com/en-US/security",
+      "https://x.com/cursor_ai",
+      "https://www.linkedin.com/company/cursorai",
+      "https://www.youtube.com/@cursor_ai",
+      "https://anysphere.inc/",
+      "https://cursor.com/en-US/security",
+      "https://cursor.com/en-US/cookie-policy",
+      "https://cursor.com/en-US/privacy",
+      "https://cursor.com/en-US/terms-of-service"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/9dab7956-8e3b-4787-bcc5-96b37152bafe/019f6b9d-2346-78a0-9fc5-0588ffe658c7/c083d6cd-ea33-4720-82a2-d224ee8eb419/spacexai_-_symbol_-_white_-_transparent.png",
+        "poster": "",
+        "width": 1668,
+        "height": 636
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "poster": "",
+        "width": 568,
+        "height": 53
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mp4",
+        "poster": "",
+        "width": 498,
+        "height": 544
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mov",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-cc24ca462279ca23250c.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 960
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/demos/cursor-wallpaper.png",
+        "poster": "",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-85923e7fafe00c9c0d1f.jpg&w=3840&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-85923e7fafe00c9c0d1f.jpg&w=3840&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fswhitmore.png&w=48&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Feric.jpeg&w=48&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Frikki.jpg&w=48&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fryo.png&w=48&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fswhitmore.png&w=64&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Feric.jpeg&w=64&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Ficon-192x192.png&w=64&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Finternal-brand%2Finternal-brand-023-3291bb4c.jpg&w=3840&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Finternal-brand%2Finternal-brand-023-3291bb4c.jpg&w=3840&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fdiana-hu-avatar.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-b7d40eac35d910f3448b.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fandrej-karpathy-avatar.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fpatrick-collison-avatar.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fshadcn-avatar.png&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fgreg-brockman-avatar.jpg&w=96&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fhomepage%2Fhomepage-team-photo-1.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fhomepage%2Fhomepage-team-photo.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fsasha-rush.jpeg&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-dark.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-white.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-dark.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-white.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 250,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 7139,
+    "actualTravel": 7299,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://cursor.com/",
+    "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+    "documentHeight": 8199,
+    "contentHeight": 8199,
+    "contentTop": -7247,
+    "scrollY": 7299,
+    "ready": "Sj65MG_variable aDRXRq_variable -Zg_XW_variable _8qwdia_variable",
+    "bodyStyle": {
+      "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(237, 236, 236)",
+      "backgroundColor": "rgb(20, 18, 11)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "logo-garden",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -6161,
+          "width": 1440,
+          "height": 177
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgb(20, 18, 11)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "ot-pc-title",
+        "characters": 25,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ot-category-title",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20.8px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0001",
+        "characters": 26,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0004",
+        "characters": 17,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0003",
+        "characters": 18,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "ot-header-id-C0002",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "20.8px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 60,
+        "rect": {
+          "x": 70,
+          "y": -7135,
+          "width": 658,
+          "height": 65
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "26px",
+          "lineHeight": "32.5px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 58,
+        "rect": {
+          "x": 70,
+          "y": -6161,
+          "width": 1300,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 90,
+          "y": -5636,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 949,
+          "y": -5748,
+          "width": 452,
+          "height": 31
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "31px",
+          "fontWeight": "700",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 949,
+          "y": -5653,
+          "width": 452,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21.7px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 949,
+          "y": -5575,
+          "width": 452,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "system-ui, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "21.7px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 968,
+          "y": -4835,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 90,
+          "y": -4055,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 611,
+          "y": -4218,
+          "width": 166,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "Lato, \"Lato Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "21.3333px",
+          "fontWeight": "600",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 968,
+          "y": -3271,
+          "width": 383,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 315,
+          "y": -2714,
+          "width": 810,
+          "height": 43
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "43.2px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 70,
+          "y": -2014,
+          "width": 486,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 88,
+          "y": -1947,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 524,
+          "y": -1947,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 595,
+          "y": -1704,
+          "width": 250,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "system-ui",
+          "fontSize": "19px",
+          "lineHeight": "20.9px",
+          "fontWeight": "510",
+          "color": "rgba(255, 255, 255, 0.86)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 961,
+          "y": -1947,
+          "width": 392,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 70,
+          "y": -1275,
+          "width": 1300,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "CursorGothic, \"CursorGothic Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "22px",
+          "lineHeight": "28.6px",
+          "fontWeight": "400",
+          "color": "rgb(237, 236, 236)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://cursor.com/terms-of-service",
+      "https://cursor.com/cookie-policy",
+      "https://cursor.com/privacy",
+      "https://cookiepedia.co.uk/giving-consent-to-cookies",
+      "https://www.onetrust.com/solutions/consent-and-preferences/",
+      "https://cursor.com/#main",
+      "https://cursor.com/home",
+      "https://cursor.com/grok",
+      "https://cursor.com/grok",
+      "https://cursor.com/evals",
+      "https://cursor.com/product",
+      "https://cursor.com/product",
+      "https://cursor.com/cloud",
+      "https://x.ai/bot",
+      "https://cursor.com/mobile",
+      "https://cursor.com/automate",
+      "https://cursor.com/cli",
+      "https://cursor.com/marketplace",
+      "https://cursor.com/bugbot",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/pricing",
+      "https://cursor.com/changelog",
+      "https://cursor.com/changelog",
+      "https://cursor.com/blog",
+      "https://cursor.com/docs",
+      "https://cursor.com/community",
+      "https://cursor.com/help",
+      "https://cursor.com/workshops",
+      "https://forum.cursor.com/",
+      "https://cursor.com/careers",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/pricing",
+      "https://cursor.com/dashboard",
+      "https://cursor.com/contact-sales?source=navbar",
+      "https://cursor.com/download",
+      "https://api2.cursor.sh/updates/download/golden/darwin-arm64/cursor/3.29",
+      "https://cursor.com/login",
+      "https://cursor.com/contact-sales?source=hero_request_demo",
+      "https://cursor.com/careers",
+      "https://cursor.com/product",
+      "https://cursor.com/docs/cloud-agent",
+      "https://cursor.com/download/bot?download=1",
+      "https://cursor.com/docs/models",
+      "https://cursor.com/docs/cloud-agent",
+      "https://cursor.com/enterprise",
+      "https://cursor.com/changelog/voice-chat",
+      "https://cursor.com/changelog/build-live-apps",
+      "https://cursor.com/changelog/agent-sdk",
+      "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "https://cursor.com/changelog",
+      "https://cursor.com/careers",
+      "https://cursor.com/blog/composer-2-technical-report",
+      "https://cursor.com/blog/joining-spacex",
+      "https://x.ai/news/grok-4-7",
+      "https://cursor.com/blog/git-at-any-scale",
+      "https://cursor.com/blog",
+      "https://api2.cursor.sh/updates/download/golden/darwin-arm64/cursor/3.29",
+      "https://cursor.com/login",
+      "https://cursor.com/en-US/product",
+      "https://cursor.com/en-US/business/teams",
+      "https://cursor.com/en-US/enterprise",
+      "https://cursor.com/en-US/pricing",
+      "https://cursor.com/en-US/bugbot",
+      "https://cursor.com/en-US/cli",
+      "https://cursor.com/agents",
+      "https://cursor.com/en-US/composer",
+      "https://cursor.com/marketplace",
+      "https://cursor.com/en-US/download",
+      "https://cursor.com/en-US/changelog",
+      "https://cursor.com/docs",
+      "https://cursor.com/learn",
+      "https://forum.cursor.com/",
+      "https://cursor.com/help",
+      "https://cursor.com/en-US/workshops",
+      "https://status.cursor.com/",
+      "https://cursor.com/en-US/careers",
+      "https://cursor.com/en-US/blog",
+      "https://cursor.com/en-US/community",
+      "https://cursor.com/en-US/students",
+      "https://cursor.com/en-US/brand",
+      "https://cursor.com/en-US/future",
+      "https://anysphere.inc/",
+      "https://cursor.com/en-US/terms-of-service",
+      "https://cursor.com/en-US/acceptable-use-policy",
+      "https://cursor.com/en-US/terms/grok-bot",
+      "https://x.ai/legal",
+      "https://cursor.com/en-US/privacy",
+      "https://cursor.com/en-US/cookie-policy",
+      "https://cursor.com/en-US/data-use",
+      "https://cursor.com/en-US/security",
+      "https://x.com/cursor_ai",
+      "https://www.linkedin.com/company/cursorai",
+      "https://www.youtube.com/@cursor_ai",
+      "https://anysphere.inc/",
+      "https://cursor.com/en-US/security",
+      "https://cursor.com/en-US/cookie-policy",
+      "https://cursor.com/en-US/privacy",
+      "https://cursor.com/en-US/terms-of-service"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/9dab7956-8e3b-4787-bcc5-96b37152bafe/019f6b9d-2346-78a0-9fc5-0588ffe658c7/c083d6cd-ea33-4720-82a2-d224ee8eb419/spacexai_-_symbol_-_white_-_transparent.png",
+        "poster": "",
+        "width": 1668,
+        "height": 636
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+        "poster": "",
+        "width": 568,
+        "height": 53
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mp4",
+        "poster": "",
+        "width": 498,
+        "height": 544
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mov",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cursor.com/marketing-static/logo/logo-dark-theme.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-cc24ca462279ca23250c.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 960
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/demos/cursor-wallpaper.png",
+        "poster": "",
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/demos/blog-secure-index.svg",
+        "poster": "",
+        "width": 2400,
+        "height": 1260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/demos/blog-self-driving.svg",
+        "poster": "",
+        "width": 2400,
+        "height": 1260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-85923e7fafe00c9c0d1f.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 696
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-85923e7fafe00c9c0d1f.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 696
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fswhitmore.png&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Feric.jpeg&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Frikki.jpg&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fryo.png&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Fswhitmore.png&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fusers%2Feric.jpeg&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Ficon-192x192.png&w=32&q=70&dpl=dpl_2hgw4J3ruiZwo2FvHNEvm5cT76bD",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Finternal-brand%2Finternal-brand-023-3291bb4c.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 960
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Finternal-brand%2Finternal-brand-023-3291bb4c.jpg&w=1920&q=70",
+        "poster": "",
+        "width": 1440,
+        "height": 960
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fdiana-hu-avatar.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fmisc%2Fasset-b7d40eac35d910f3448b.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fandrej-karpathy-avatar.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fpatrick-collison-avatar.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fshadcn-avatar.png&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fgreg-brockman-avatar.jpg&w=48&q=70",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fhomepage%2Fhomepage-team-photo-1.jpg&w=828&q=70",
+        "poster": "",
+        "width": 828,
+        "height": 828
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Fhomepage%2Fhomepage-team-photo.jpg&w=828&q=70",
+        "poster": "",
+        "width": 828,
+        "height": 466
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Fsasha-rush.jpeg&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-dark.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-white.png&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-dark.png&w=48&q=70",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cursor.com/marketing-static/_next/image?url=https%3A%2F%2Fptht05hbb1ssoooe.public.blob.vercel-storage.com%2Fassets%2Favatars%2Favatar-circle-2d-white.png&w=32&q=70",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 280,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 280,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 280,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 280,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 3100,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10844,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

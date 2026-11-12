@@ -60,6 +60,10 @@ for filename, label, source, color in [
     ("design-md.json", "Design analyses", "VoltAgent", "#22d3ee"),
     ("codrops-webgl.json", "WebGL references", "Codrops", "#c084fc"),
     ("video-resources.json", "Landing media & tools", "Brad Traversy", "#bef264"),
+    ("open-icons.json", "Open icons", "Lucide · Tabler", "#e879f9"),
+    ("google-fonts.json", "Open-source fonts", "Google Fonts", "#60a5fa"),
+    ("threejs-examples.json", "Three.js examples", "threejs.org", "#2dd4bf"),
+    ("landing-pages.json", "Captured pages", "Lusion · Refero brands", "#3ee08f"),
 ]:
     if (ROOT / "data" / filename).exists():
         counts[label] = (load(filename)["count"], source, color)

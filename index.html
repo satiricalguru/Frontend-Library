@@ -9,7 +9,7 @@
   <link rel="icon" href=".github/assets/fl-logo.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&family=Syne:wght@700;800&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap">
   <link rel="stylesheet" href="site/tokens.css">
   <link rel="stylesheet" href="site/landing.css">
   <script type="importmap">
@@ -23,15 +23,16 @@
   </script>
   <script type="module" src="site/landing.js"></script>
 </head>
-<body>
+<body id="top">
   <a class="skip" href="#main">Skip to content</a>
 
   <header class="nav">
-    <a class="brand" href="./" aria-label="Frontend Library home"><span class="brand-mark">FL</span><span class="hide-sm">Frontend Library</span></a>
+    <a class="brand" href="./" aria-label="Frontend Library home"><svg class="brand-logo" viewBox="352 410 586 438" aria-hidden="true" focusable="false"><path class="f" d="M360 840V578C360 488 432 417 522 417H864L818 480C808 494 793 500 770 500H516C480 500 452 530 452 566V575H641L596 641C589 651 580 660 566 660H452V752Z"/><path class="l" d="M683 532H741L723 733H930L862 821H617L635 612Z"/></svg></a>
     <nav class="nav-links" aria-label="Primary">
       <a class="pill hide-sm" href="#index">Index</a>
       <a class="pill hide-sm" href="#snippets">Snippets</a>
-      <a class="pill hide-sm" href="SOURCES.md">Sources</a>
+      <a class="pill hide-sm" href="https://github.com/satiricalguru/Frontend-Library/blob/main/SOURCES.md" target="_blank" rel="noopener noreferrer">Sources</a>
+      <a class="star-btn" href="https://github.com/satiricalguru/Frontend-Library" target="_blank" rel="noopener noreferrer" aria-label="Star Frontend Library on GitHub" data-stars><svg class="gh" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg><span class="star-label"><svg class="star" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 .9l2.2 4.46 4.92.72-3.56 3.47.84 4.9L8 12.13l-4.4 2.32.84-4.9L.88 6.08l4.92-.72z"/></svg>Star</span><span class="star-count" data-star-count aria-hidden="true">—</span></a>
       <a class="pill pill--solid" href="library/"><span class="dot" aria-hidden="true"></span>Open library</a>
     </nav>
   </header>
@@ -47,7 +48,7 @@
           <span class="corner bl" aria-hidden="true">+</span><span class="corner br" aria-hidden="true">+</span>
 
           <div class="hero-copy">
-            <p class="eyebrow on-dark">Open-source · source-tracked · <span data-count="total">4,613</span> references</p>
+            <p class="eyebrow on-dark">Open-source · source-tracked · <span data-count="total">14,482</span> references</p>
             <h1 id="hero-title" class="hero-title">
               <span class="line"><span>Every great interface</span></span>
               <span class="line"><span>starts as a <em class="serif">reference.</em></span></span>
@@ -55,15 +56,17 @@
             <p class="hero-sub">Design systems, captured landing pages, motion, fonts and copy-paste animations — collected in one shelf, every entry linked to where it came from.</p>
             <div class="hero-actions">
               <a class="pill pill--light" href="library/">Browse the library <span aria-hidden="true">→</span></a>
-              <a class="pill pill--ghost" href="https://github.com/satiricalguru/Frontend-Library">GitHub <span aria-hidden="true">↗</span></a>
+              <a class="pill pill--ghost" href="https://github.com/satiricalguru/Frontend-Library" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
             </div>
           </div>
 
-          <ol class="chapters" aria-label="What the scene shows">
-            <li data-chapter="0"><span>01</span><b>The nebula</b><small>Thousands of references, scattered across the web.</small></li>
-            <li data-chapter="1"><span>02</span><b>The shelf</b><small>Collected, sorted and linked to each exact source page.</small></li>
-            <li data-chapter="2"><span>03</span><b>The wall</b><small>One tile per brand palette — <span data-count="styles">1,342</span> real color pairs.</small></li>
-          </ol>
+          <!-- Scroll-driven kinetic type: words spawn and dissolve with the scene. Decorative; the
+               same story is told once in the visually hidden paragraph for assistive technology. -->
+          <p class="sr-only">As you scroll, scattered references gather into a spiral shelf, then settle into a wall of 1,342 brand palettes.</p>
+          <div class="kinetic" aria-hidden="true">
+            <p class="k-line" data-range="0.30 0.62"><span class="k-tag">02 · The shelf</span><span class="k-words">Collected. Sorted. Linked to every <em class="serif">source.</em></span></p>
+            <p class="k-line" data-range="0.64 1.01"><span class="k-tag">03 · The wall</span><span class="k-words">One tile for every <em class="serif">palette.</em></span><span class="k-sub"><span data-count="styles">1,342</span> real brand color pairs</span></p>
+          </div>
 
           <div class="stage-foot" aria-hidden="true">
             <span class="eyebrow on-dark">Scroll to explore</span>
@@ -86,7 +89,7 @@
     <section class="section index" id="index" aria-labelledby="index-title">
       <div class="section-head">
         <p class="eyebrow">( 01 ) The index</p>
-        <h2 id="index-title" class="h2" data-reveal>Ten collections. <em class="serif">One search box.</em></h2>
+        <h2 id="index-title" class="h2" data-reveal>Thirteen collections. <em class="serif">One search box.</em></h2>
         <p class="lede" data-reveal>Pick a shelf, or search across all of them at once. Every row below opens the library already filtered.</p>
       </div>
       <ul class="index-list" id="index-list">
@@ -128,7 +131,7 @@
         <a class="snippet" href="animations/snippets/accordion/"><img src=".github/assets/gifs/accordion.gif" alt="An accordion panel expanding" loading="lazy" width="400" height="250"><span>Accordion</span></a>
         <a class="snippet" href="components/command-palette/"><img src=".github/assets/gifs/command-palette.gif" alt="A command palette filtering results" loading="lazy" width="400" height="250"><span>Command palette</span></a>
       </div>
-      <a class="text-link" href="animations/snippets/">All snippets <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="https://github.com/satiricalguru/Frontend-Library/tree/main/animations/snippets" target="_blank" rel="noopener noreferrer">All snippets <span aria-hidden="true">→</span></a>
     </section>
 
     <!-- ── 6. Palette playground ─────────────────────────────────────────── -->
@@ -182,16 +185,36 @@
       <p class="eyebrow">Free, open, growing</p>
       <h2 id="cta-title" class="cta-title"><a href="library/">Open the <em class="serif">library</em> <span class="arrow" aria-hidden="true">→</span></a></h2>
       <div class="cta-links">
-        <a class="pill" href="CONTRIBUTING.md">Contribute a reference</a>
-        <a class="pill" href="SOURCES.md">See every source</a>
+        <a class="pill" href="https://github.com/satiricalguru/Frontend-Library/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute a reference</a>
+        <a class="pill" href="https://github.com/satiricalguru/Frontend-Library/blob/main/SOURCES.md" target="_blank" rel="noopener noreferrer">See every source</a>
       </div>
     </section>
   </main>
 
-  <footer class="footer">
-    <span>Frontend Library — built together, in the open.</span>
-    <span>Third-party designs, fonts and media belong to their creators. Snippets are MIT.</span>
-    <a href="https://github.com/satiricalguru/Frontend-Library">GitHub ↗</a>
+  <footer class="site-footer" data-footer>
+    <div class="sf-top">
+      <div class="sf-cta">
+        <p class="eyebrow">Open source · source-tracked · free</p>
+        <h2 class="sf-title">Got a reference <em class="serif">worth sharing?</em></h2>
+        <div class="sf-actions">
+          <a class="pill pill--solid" href="https://github.com/satiricalguru/Frontend-Library/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute <span aria-hidden="true">→</span></a>
+          <a class="pill" href="https://github.com/satiricalguru/Frontend-Library" target="_blank" rel="noopener noreferrer">Star on GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <nav class="sf-cols" aria-label="Footer">
+        <div><h3>Explore</h3><a href="library/">Library</a><a href="https://github.com/satiricalguru/Frontend-Library/tree/main/animations/snippets" target="_blank" rel="noopener noreferrer">Snippets</a><a href="https://github.com/satiricalguru/Frontend-Library/blob/main/SOURCES.md" target="_blank" rel="noopener noreferrer">Source tracker</a><a href="https://github.com/satiricalguru/Frontend-Library/blob/main/docs/reference-library/README.md" target="_blank" rel="noopener noreferrer">Captures</a></div>
+        <div><h3>Collections</h3><a href="library/?type=styles">Design systems</a><a href="library/?type=google-fonts">Google Fonts</a><a href="library/?type=threejs">Three.js examples</a><a href="library/?type=icons">Icons</a></div>
+        <div><h3>Build</h3><a href="https://github.com/satiricalguru/Frontend-Library/blob/main/.agents/skills/frontend-library/SKILL.md" target="_blank" rel="noopener noreferrer">Agent skill</a><a href="https://github.com/satiricalguru/Frontend-Library/blob/main/docs/agents.md" target="_blank" rel="noopener noreferrer">MCP connector</a><a href="https://github.com/satiricalguru/Frontend-Library/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Guidelines</a><a href="https://github.com/satiricalguru/Frontend-Library/issues/new/choose" target="_blank" rel="noopener noreferrer">Request an asset</a></div>
+      </nav>
+    </div>
+    <a class="sf-giant" href="./" aria-label="Frontend Library — back to home"><span aria-hidden="true" data-split>FRONTEND LIBRARY</span></a>
+    <div class="sf-bar">
+      <span class="sf-live"><i aria-hidden="true"></i><b data-footer-count>14,482</b> references indexed</span>
+      <span>Third-party designs, fonts and media belong to their creators. Snippets are MIT.</span>
+      <a class="sf-top-link" href="#top">Back to top <span aria-hidden="true">↑</span></a>
+    </div>
   </footer>
+  <script src="site/footer.js" defer></script>
+  <script src="site/stars.js" defer></script>
 </body>
 </html>

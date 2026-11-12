@@ -1,0 +1,5125 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-grafana-labs",
+  "name": "Grafana Labs — homepage",
+  "url": "https://grafana.com/",
+  "source": "https://styles.refero.design/style/03e0e30c-4c0f-4879-948a-9b501e530207",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:53:27.102Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://grafana.com/robots.txt",
+    "checkedAt": "2026-11-12T10:53:27.101Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/mw/api/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 0,
+        "contentTop": 78,
+        "pageTransform": "none",
+        "visibleIds": [
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 976,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 0,
+        "contentTop": 78,
+        "pageTransform": "none",
+        "visibleIds": [
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26",
+          "radix-_R_4q5inqbqivb_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2696,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 2209,
+        "contentTop": -2164,
+        "pageTransform": "none",
+        "visibleIds": [
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4967,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 4921,
+        "contentTop": -4876,
+        "pageTransform": "none",
+        "visibleIds": [
+          "ai-week-recap-see-whats-next-for-ai-in-production",
+          "observability-con-shaping-the-future-of-observability",
+          "leader-in-the-2026-gartner-magic-quadrant-for-observability-",
+          "insights-on-the-state-of-observability",
+          "ai-week-recap-see-whats-next-for-ai-in-production",
+          "observability-con-shaping-the-future-of-observability",
+          "radix-_R_kpinqbqivb_-content-a3f250c4-7a7e-4bcc-bc8c-2805b032fd56",
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6649,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 6977,
+        "contentTop": -6932,
+        "pageTransform": "none",
+        "visibleIds": [
+          "marketing-ui-footer",
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 8560,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://grafana.com/",
+        "scrollY": 8476,
+        "contentTop": -8431,
+        "pageTransform": "none",
+        "visibleIds": [
+          "marketing-ui-footer",
+          "horizontal-banner-bottom-sticky",
+          "horizontal-banner-bottom-bengaluru-26"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://grafana.com/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/500f1c1f8eb2b4d7/script.js",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/about/grafana-labs/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/analyst-reports/gartner-magic-quadrant-observability-platforms/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/api/profile",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/at.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/auth/sign-in/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/auth/sign-up/create-user/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/blog/observabilitycon-2026-announcements/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/community/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-elastic/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-langfuse/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-langsmith/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-new-relic/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-pagerduty/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/compare/grafana-vs-splunk/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://grafana.com/integrations/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/legal/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/legal/privacy-policy/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/legal/terms/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/image/",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/3454-eaed1533034d687d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/4056-88659bbb48edfed0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/6755-b8a27757dc5a579d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/7221-afa5cdfa6347f0a7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/7933-0e343f53b713ee2b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/a00313f1-7c396613f21defd7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/ac0bd126-1e4a2687820b4ded.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/app/%5Blocale%5D/(primary-layout)/page-bbc0a30dbe485afc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/app/%5Blocale%5D/layout-c05799f3db133c2a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/fc14212b-e02b866adf71d367.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/main-app-84eb8a78eda07fa0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/chunks/webpack-de1dd6e31b58601f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/css/60ba35ed1347749a.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/css/96da954e47b349c9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/css/d7f9ba4fd54d4864.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/css/e9e2c3c4c5b02e65.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/0484562807a97172-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/8888a3826f4a3af4-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/8a7cb27d142e3e19-s.p.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/b957ea75a84b6ea7-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/e9955780856cf8aa-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/mw/_next/static/media/eafabf029ad39a43-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://grafana.com/oss/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/pricing/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/adaptive-telemetry/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/agent-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/ai-assistant/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/ai-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/application-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/cost-management-optimization/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/data-correlation-root-cause-analysis-knowledge-graph/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/database-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/free-tier/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/frontend-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/grafana/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/investigations/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/irm/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/logs/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/metrics/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/performance-load-testing-k6/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/profiles/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/synthetic-monitoring/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/products/cloud/traces/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/region",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/solutions/cloud-infrastructure-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/solutions/full-stack-observability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/solutions/site-reliability/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/trademark-policy/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://grafana.com/whats-new/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://rs.grafana.com/v1/identify",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://rs.grafana.com/v1/page",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://rs.grafana.com/v1/track",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://rsc2.grafana.com/sourceConfig/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/js-integrations/GA4.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-common.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-deviceModeDestinations.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-legacyEncryptionUtils.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-DeviceModeDestinations.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-ExternalAnonymousId.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-GoogleLinker.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-NativeDestinationQueue.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-StorageEncryptionLegacy.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-remote-XhrQueue.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins-RetryQueue.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://rsi.grafana.com/3.31.4/modern/plugins/rsa-plugins.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://satgt.grafana.com/rest/v1/delivery",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 112396,
+      "sha256": "df5156530ddc283d162cf4ecc82b7dd5fffed92a1ee9abff2126b0625f6f036f"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 109134,
+      "sha256": "013af4ec15472fe04286defabe0f1451c066b7db34f92e8736de97d0d3a505e1"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 80583,
+      "sha256": "7feeb74cc6c91fc2806e733082960fe3e06a2e5e332971f1d56f8fd92f5c73b8"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 116036,
+      "sha256": "594d7b8c661904a0dbadd8a27b8389c07c413920a88a1596150e2ce0da13ae7c"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 101657,
+      "sha256": "e9c9d8886d9d20576a4f5171f9065544f2f48d41215d02162a973b5b7ee0cdd7"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 81776,
+      "sha256": "381917302449dd4aeba3231289b5256371770947f5077374d1cbabcd4f7a9242"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 409224,
+      "sha256": "656e39a01dde79a42df7f44e4ecc6414ced21d6305da6e91cebadd4ba1b30c9c"
+    }
+  ],
+  "initial": {
+    "url": "https://grafana.com/",
+    "title": "Full-stack observability for the agentic era | Grafana Labs",
+    "documentHeight": 9348,
+    "contentHeight": 9348,
+    "contentTop": 78,
+    "scrollY": 0,
+    "ready": "__variable_997e98 __variable_6e0a0a __className_b8ca7d scroll-smooth",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(244, 244, 246)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 66,
+        "rect": {
+          "x": 144,
+          "y": 142,
+          "width": 1152,
+          "height": 150
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "60px",
+          "lineHeight": "75px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "see-clearly-act-faster-spend-smarter",
+        "characters": 39,
+        "rect": {
+          "x": 96,
+          "y": 782,
+          "width": 1248,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-for-modern-operations",
+        "characters": 24,
+        "rect": {
+          "x": 96,
+          "y": 1045,
+          "width": 600,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "cut-costs-only-pay-for-the-data-that-matters",
+        "characters": 46,
+        "rect": {
+          "x": 744,
+          "y": 1518,
+          "width": 600,
+          "height": 75
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "break-down-data-silos-troubleshoot-faster",
+        "characters": 43,
+        "rect": {
+          "x": 96,
+          "y": 2009,
+          "width": 600,
+          "height": 75
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "plug-in-not-lock-in",
+        "characters": 20,
+        "rect": {
+          "x": 384,
+          "y": 2622,
+          "width": 672,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "45px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "observe-everything-solve-anything",
+        "characters": 35,
+        "rect": {
+          "x": 336,
+          "y": 3174,
+          "width": 768,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 105,
+          "y": 3459,
+          "width": 1230,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 105,
+          "y": 3483,
+          "width": 1230,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 105,
+          "y": 3957,
+          "width": 1230,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "demo-time-try-grafana-cloud",
+        "characters": 28,
+        "rect": {
+          "x": 384,
+          "y": 4509,
+          "width": 672,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "45px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-week-recap-see-whats-next-for-ai-in-production",
+        "characters": 51,
+        "rect": {
+          "x": -714,
+          "y": 4903,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "observability-con-shaping-the-future-of-observability",
+        "characters": 53,
+        "rect": {
+          "x": 129,
+          "y": 4903,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "leader-in-the-2026-gartner-magic-quadrant-for-observability-",
+        "characters": 71,
+        "rect": {
+          "x": 971,
+          "y": 4903,
+          "width": 348,
+          "height": 203
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(46, 46, 56)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "insights-on-the-state-of-observability",
+        "characters": 38,
+        "rect": {
+          "x": 1814,
+          "y": 4903,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "biggest-updates-from-grafana-con",
+        "characters": 31,
+        "rect": {
+          "x": 2657,
+          "y": 4903,
+          "width": 348,
+          "height": 81
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(46, 46, 56)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-week-recap-see-whats-next-for-ai-in-production",
+        "characters": 51,
+        "rect": {
+          "x": 3499,
+          "y": 4903,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "observability-con-shaping-the-future-of-observability",
+        "characters": 53,
+        "rect": {
+          "x": 4342,
+          "y": 4903,
+          "width": 340,
+          "height": 162
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "real-stories-from-real-customers",
+        "characters": 32,
+        "rect": {
+          "x": 345,
+          "y": 5494,
+          "width": 751,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 160,
+          "y": 6334,
+          "width": 496,
+          "height": 162
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "the-open-observability-cloud",
+        "characters": 28,
+        "rect": {
+          "x": 144,
+          "y": 7032,
+          "width": 1152,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 96,
+          "y": 7975,
+          "width": 821,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://grafana.com/blog/observabilitycon-2026-announcements/",
+      "https://grafana.com/blog/observabilitycon-2026-announcements/",
+      "https://grafana.com/get/",
+      "https://grafana.com/contact/",
+      "https://grafana.com/",
+      "https://grafana.com/pricing/",
+      "https://grafana.com/docs/",
+      "https://grafana.com/auth/sign-in/",
+      "https://grafana.com/auth/sign-up/create-user/",
+      "https://grafana.com/auth/sign-up/create-user/?pg=hp&plcmt=hero-btn-1&cta=free",
+      "https://grafana.com/pricing/?pg=hp&plcmt=hero-btn-2&cta=plans",
+      "https://grafana.com/#see-clearly-act-faster-spend-smarter",
+      "https://grafana.com/#ai-for-modern-operations",
+      "https://grafana.com/products/cloud/ai-assistant?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/investigations?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/agent-observability?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#cut-costs-only-pay-for-the-data-that-matters",
+      "https://grafana.com/products/cloud/adaptive-telemetry?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/adaptive-telemetry/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#break-down-data-silos-troubleshoot-faster",
+      "https://grafana.com/products/cloud/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/data-correlation-root-cause-analysis-knowledge-graph?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#plug-in-not-lock-in",
+      "https://grafana.com/integrations/?pg=hp&plcmt=integrations-cta",
+      "https://grafana.com/#observe-everything-solve-anything",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/?pg=hp&plcmt=marketecture-ai-powered-observability",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=marketecture-full-stack-observability",
+      "https://grafana.com/products/cloud/cost-management-optimization/?pg=hp&plcmt=marketecture-cost-management-with-adaptive-telemetry",
+      "https://grafana.com/solutions/opentelemetry/?pg=hp&plcmt=marketecture-native-opentelemetry-support",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=marketecture-ai-assistant",
+      "https://grafana.com/products/cloud/agent-observability/?pg=hp&plcmt=marketecture-agent-observability",
+      "https://grafana.com/products/cloud/application-observability/?pg=hp&plcmt=marketecture-application-observability",
+      "https://grafana.com/products/cloud/kubernetes/?pg=hp&plcmt=marketecture-kubernetes-monitoring",
+      "https://grafana.com/products/cloud/investigations/?pg=hp&plcmt=marketecture-ai-investigations",
+      "https://grafana.com/products/cloud/frontend-observability/?pg=hp&plcmt=marketecture-frontend-observability",
+      "https://grafana.com/products/cloud/irm/?pg=hp&plcmt=marketecture-incident-response-management-irm",
+      "https://grafana.com/products/cloud/grafana/?pg=hp&plcmt=marketecture-dashboards-data-visualization",
+      "https://grafana.com/products/cloud/database-observability/?pg=hp&plcmt=marketecture-database-observability",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/?pg=hp&plcmt=marketecture-performance-load-testing",
+      "https://grafana.com/products/cloud/synthetic-monitoring/?pg=hp&plcmt=marketecture-synthetic-monitoring",
+      "https://grafana.com/solutions/digital-experience-monitoring/?pg=hp&plcmt=marketecture-digital-experience-monitoring-dem",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/?pg=hp&plcmt=marketecture-infrastructure-cloud-observability",
+      "https://grafana.com/solutions/site-reliability/?pg=hp&plcmt=marketecture-site-reliability",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/?pg=hp&plcmt=marketecture-ai-powered-observability",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=marketecture-full-stack-observability",
+      "https://grafana.com/products/cloud/cost-management-optimization/?pg=hp&plcmt=marketecture-cost-management-with-adaptive-telemetry",
+      "https://grafana.com/solutions/opentelemetry/?pg=hp&plcmt=marketecture-native-opentelemetry-support",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=marketecture-ai-assistant",
+      "https://grafana.com/products/cloud/agent-observability/?pg=hp&plcmt=marketecture-agent-observability",
+      "https://grafana.com/products/cloud/application-observability/?pg=hp&plcmt=marketecture-application-observability",
+      "https://grafana.com/products/cloud/kubernetes/?pg=hp&plcmt=marketecture-kubernetes-monitoring",
+      "https://grafana.com/products/cloud/investigations/?pg=hp&plcmt=marketecture-ai-investigations",
+      "https://grafana.com/products/cloud/frontend-observability/?pg=hp&plcmt=marketecture-frontend-observability",
+      "https://grafana.com/products/cloud/irm/?pg=hp&plcmt=marketecture-incident-response-management-irm",
+      "https://grafana.com/products/cloud/grafana/?pg=hp&plcmt=marketecture-dashboards-data-visualization",
+      "https://grafana.com/products/cloud/database-observability/?pg=hp&plcmt=marketecture-database-observability",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/?pg=hp&plcmt=marketecture-performance-load-testing",
+      "https://grafana.com/products/cloud/synthetic-monitoring/?pg=hp&plcmt=marketecture-synthetic-monitoring",
+      "https://grafana.com/solutions/digital-experience-monitoring/?pg=hp&plcmt=marketecture-digital-experience-monitoring-dem",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/?pg=hp&plcmt=marketecture-infrastructure-cloud-observability",
+      "https://grafana.com/solutions/site-reliability/?pg=hp&plcmt=marketecture-site-reliability",
+      "https://grafana.com/products/cloud/logs/?pg=hp&plcmt=marketecture-logs",
+      "https://grafana.com/products/cloud/metrics/?pg=hp&plcmt=marketecture-metrics",
+      "https://grafana.com/products/cloud/traces/?pg=hp&plcmt=marketecture-traces",
+      "https://grafana.com/products/cloud/profiles/?pg=hp&plcmt=marketecture-profiles",
+      "https://trust.grafana.com/?pg=hp&plcmt=secure-compliant-proven-button",
+      "https://grafana.com/#demo-time-try-grafana-cloud",
+      "https://play.grafana.org/d/maggk24/grafana-cloud/?pg=hp&plcmt=play-demo",
+      "https://grafana.com/#ai-week-recap-see-whats-next-for-ai-in-production",
+      "https://grafana.com/blog/ai-week-recap/?pg=hp&plcmt=feature-card-carousel-carousel-5-cta",
+      "https://grafana.com/#observability-con-shaping-the-future-of-observability",
+      "https://www.youtube.com/watch?v=_ASFsH_LIKE",
+      "https://grafana.com/#leader-in-the-2026-gartner-magic-quadrant-for-observability-",
+      "https://grafana.com/analyst-reports/gartner-magic-quadrant-observability-platforms/?pg=hp&plcmt=feature-card-carousel-carousel-2-cta",
+      "https://grafana.com/#insights-on-the-state-of-observability",
+      "https://grafana.com/observability-survey/?pg=hp&plcmt=feature-card-carousel-carousel-3-cta",
+      "https://grafana.com/#biggest-updates-from-grafana-con",
+      "https://grafana.com/blog/grafanacon-2026-announcements/?pg=hp&plcmt=feature-card-carousel-carousel-4-cta",
+      "https://grafana.com/#ai-week-recap-see-whats-next-for-ai-in-production",
+      "https://grafana.com/blog/ai-week-recap/?pg=hp&plcmt=feature-card-carousel-carousel-5-cta",
+      "https://grafana.com/#observability-con-shaping-the-future-of-observability",
+      "https://www.youtube.com/watch?v=_ASFsH_LIKE",
+      "https://grafana.com/#real-stories-from-real-customers",
+      "https://www.youtube.com/live/GlIhZVhH48k?si=RqNcl9gTPmF4H93v&t=3955",
+      "https://grafana.com/oss/?pg=hp&plcmt=feature-marquee-1",
+      "https://grafana.com/community/?pg=hp&plcmt=feature-marquee-2",
+      "https://grafana.com/about/grafana-labs/?pg=hp&plcmt=feature-marquee-3",
+      "https://grafana.com/#the-open-observability-cloud",
+      "https://grafana.com/auth/sign-up/create-user/?pg=hp&plcmt=footer-btn-1&cta=free",
+      "https://grafana.com/pricing/?pg=hp&plcmt=footer-btn-2&cta=plans",
+      "https://grafana.com/legal/privacy-policy/",
+      "https://grafana.com/products/cloud/",
+      "https://grafana.com/pricing/",
+      "https://grafana.com/products/cloud/free-tier/",
+      "https://grafana.com/products/cloud/ai-assistant/",
+      "https://grafana.com/products/cloud/agent-observability/",
+      "https://grafana.com/products/cloud/application-observability/",
+      "https://grafana.com/products/cloud/kubernetes/",
+      "https://grafana.com/products/cloud/grafana/",
+      "https://grafana.com/products/cloud/database-observability/",
+      "https://grafana.com/products/cloud/frontend-observability/",
+      "https://grafana.com/products/cloud/synthetic-monitoring/",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/",
+      "https://grafana.com/products/cloud/irm/",
+      "https://grafana.com/products/cloud/investigations/",
+      "https://grafana.com/whats-new/",
+      "https://status.grafana.com/",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/",
+      "https://grafana.com/solutions/full-stack-observability/",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/",
+      "https://grafana.com/solutions/cloud-provider-observability/",
+      "https://grafana.com/solutions/digital-experience-monitoring/",
+      "https://grafana.com/products/cloud/metrics/#why-scale-metrics-with-grafana-cloud",
+      "https://grafana.com/products/cloud/cost-management-optimization/",
+      "https://grafana.com/solutions/site-reliability/",
+      "https://grafana.com/products/cloud/logs/",
+      "https://grafana.com/solutions/opentelemetry/#migrate-to-open-telemetry",
+      "https://grafana.com/integrations/",
+      "https://grafana.com/plugins/",
+      "https://grafana.com/integrations/cloud-monitoring-aws/",
+      "https://grafana.com/integrations/cloud-monitoring-google-cloud/",
+      "https://grafana.com/integrations/cloud-monitoring-microsoft-azure/",
+      "https://grafana.com/products/cloud/kubernetes/",
+      "https://grafana.com/integrations/datadog/visualize/",
+      "https://grafana.com/integrations/new-relic/visualize/",
+      "https://grafana.com/oss/",
+      "https://github.com/grafana/",
+      "https://grafana.com/get/",
+      "https://grafana.com/grafana/dashboards/",
+      "https://grafana.com/docs/",
+      "https://grafana.com/blog/",
+      "https://grafana.com/community/",
+      "https://grafana.com/events/",
+      "https://grafana.com/observability-survey/",
+      "https://grafana.com/about/grafana-labs/",
+      "https://grafana.com/careers/",
+      "https://grafana.com/partnerships/",
+      "https://grafana.com/press/",
+      "https://grafana.com/success/",
+      "https://grafana.com/contact/",
+      "https://grafana.com/help/",
+      "https://grafana.com/professional-services/",
+      "https://grafana.com/ai-info/",
+      "https://grafana.com/compare/grafana-vs-arize/",
+      "https://grafana.com/compare/grafana-vs-datadog/",
+      "https://grafana.com/compare/grafana-vs-dynatrace/",
+      "https://grafana.com/compare/grafana-vs-elastic/",
+      "https://grafana.com/compare/grafana-vs-langfuse/",
+      "https://grafana.com/compare/grafana-vs-langsmith/",
+      "https://grafana.com/compare/grafana-vs-new-relic/",
+      "https://grafana.com/compare/grafana-vs-pagerduty/",
+      "https://grafana.com/compare/grafana-vs-splunk/",
+      "https://grafana.com/products/cloud/",
+      "https://status.grafana.com/",
+      "https://grafana.com/legal/",
+      "https://grafana.com/legal/terms/",
+      "https://grafana.com/legal/privacy-policy/",
+      "https://grafana.com/trademark-policy/",
+      "https://www.facebook.com/grafana/",
+      "https://twitter.com/grafana",
+      "https://www.linkedin.com/company/grafana-labs/",
+      "https://github.com/grafana/",
+      "https://www.youtube.com/channel/UCYCwgQAMm9sTJv0rgwQLCxw",
+      "https://www.reddit.com/r/grafana/",
+      "https://grafana.com/#quedan-menos-de-2-semanas-ahorra-un-30",
+      "https://grafana.com/events/observabilitycon-on-the-road/madrid/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/2026/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/2026/agenda/opening-keynote/?plcmt=footer-banner",
+      "https://grafana.com/#next-week-see-ai-and-observability-in-action",
+      "https://grafana.com/events/observabilitycon-on-the-road/london/?plcmt=footer-banner",
+      "https://grafana.com/#na-prxima-semana-veja-ia-e-observabilidade-na-prtica",
+      "https://grafana.com/pt-br/events/observabilitycon-on-the-road/sao-paulo/?plcmt=footer-banner",
+      "https://grafana.com/#build-more-reliable-systems-get-more-from-your-telemetry",
+      "https://grafana.com/events/observabilitycon-on-the-road/bengaluru/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/frankfurt/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/sydney/?plcmt=footer-banner",
+      "https://grafana.com/#vos-agendas",
+      "https://grafana.com/fr/events/observabilitycon-on-the-road/paris/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/dallas/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/amsterdam/?plcmt=footer-banner",
+      "https://grafana.com/#save-30-on-tickets-through-oct-1",
+      "https://grafana.com/events/observabilitycon/?plcmt=footer-banner"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/10x10/5c4e34db6b/icon-grafana-nav-promo-dot-purple.svg",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/143x24/8360e7918b/grafana-header-logo.svg",
+        "poster": "",
+        "width": 143,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/16x16/d2d9bfecdd/icon-grafana-ai-search-btn.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/14x14/26edb0b9d8/icon-grafana-search.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/14x14/71b3167fed/ai-icon.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/18x18/8b033477d8/ai-sparkle.svg",
+        "poster": "",
+        "width": 18,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/86x19/05eabcad7a/logo_microsoft_blk.svg",
+        "poster": "",
+        "width": 86,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/72x14/30127217be/logo_nvidia_blk.svg",
+        "poster": "",
+        "width": 72,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/273x191/0f1316fa2f/salesforce-logo-bw.svg",
+        "poster": "",
+        "width": 263,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/92x13/e6af3cbf6b/logo_blackrock_blk.svg",
+        "poster": "",
+        "width": 92,
+        "height": 13
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/207x148/866e469406/canva-logo-mono5.svg",
+        "poster": "",
+        "width": 207,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/143x20/4865f0178f/dhl-group-logo-bw.svg",
+        "poster": "",
+        "width": 263,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/323x148/fb46e4ee26/anthropic-logo-mono6.svg",
+        "poster": "",
+        "width": 323,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/321x148/d775d8ea19/bloomberg-logo-mono.svg",
+        "poster": "",
+        "width": 321,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/e0557663b5/icon-homepage-feature-2ai.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2F9222287fee%2Fimage-homepage-ai-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2Fc2eca69aa7%2Fimage-homepage-cost-management-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/8f5f01c319/icon-homepage-feature-3costs.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/d25158fb7f/icon-homepage-feature-1silo.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2F81ce5ace9c%2Fimage-homepage-rca-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8984606a12/logo-homepage-plugin-orbit-jira.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e2df142b6e/logo-homepage-plugin-orbit-github.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/f0436a988c/logo-homepage-plugin-orbit.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/769d4585dd/logo-homepage-plugin-orbit-cnosdb.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8ff34e92d8/logo-homepage-plugin-orbit-elasticsearch.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e4a05448c1/logo-homepage-plugin-orbit-chaosmesh.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d43fc1acac/logo-homepage-plugin-orbit-tokyoconsole.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/081ff08e7e/logo-homepage-plugin-orbit-microsoftsqserver.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/72eeda1f75/logo-homepage-plugin-orbit-docker.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d154612a1f/logo-homepage-plugin-orbit-mongo.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d390182d85/logo-homepage-plugin-orbit-checkmk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/15274d9d42/logo-homepage-plugin-orbit-zipkin.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/74668fc17c/logo-homepage-plugin-orbit-wavefront.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/9079d161b4/logo-homepage-plugin-orbit-clickhouse.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1725ea14db/logo-homepage-plugin-orbit-newrelic.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/383fd828f2/logo-homepage-plugin-orbit-google-cloud-monitoring.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/639e4a914e/logo-homepage-plugin-orbit-atlassian.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a73af832e5/logo-homepage-plugin-orbit-opentelemetry.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/48c995437c/logo-homepage-plugin-orbit-druid.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/7f81fbc30c/logo-homepage-plugin-orbit-maxcompute.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/721a97420a/logo-homepage-plugin-orbit-streamr.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/4d0ed6c4d2/logo-homepage-plugin-orbit-akvorado.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/cb351e3041/logo-homepage-plugin-orbit-vercel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/aec9cb8af7/logo-homepage-plugin-orbit-oracle.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1aa8985fff/logo-homepage-plugin-orbit-snowflake.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5d35c08c6e/logo-homepage-plugin-orbit-businessnews.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d8c7e4e7ab/logo-homepage-plugin-orbit-kafka.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1b8452a871/logo-homepage-plugin-orbit-azurecosmos.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3bd576d305/logo-homepage-plugin-orbit-businesssatellite.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3e4cf6eef8/logo-homepage-plugin-orbit-zendesk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/dad21f90ed/logo-homepage-plugin-orbit-snowflake-1.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5b1b569906/logo-homepage-plugin-orbit-destiny.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/0d2e7bd95c/logo-homepage-plugin-orbit-influxdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/68ad8ab483/logo-homepage-plugin-orbit-adobeanalytics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/217ab86e81/logo-homepage-plugin-orbit-businessinpuit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/53734b098b/logo-homepage-plugin-orbit-appdynamics.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/398dd312e8/logo-homepage-plugin-orbit-thruk.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e14da6f0da/logo-homepage-plugin-orbit-victoria.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a93c666525/logo-homepage-plugin-orbit-yugabyte.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8984606a12/logo-homepage-plugin-orbit-jira.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e2df142b6e/logo-homepage-plugin-orbit-github.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/f0436a988c/logo-homepage-plugin-orbit.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/769d4585dd/logo-homepage-plugin-orbit-cnosdb.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8ff34e92d8/logo-homepage-plugin-orbit-elasticsearch.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e4a05448c1/logo-homepage-plugin-orbit-chaosmesh.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d43fc1acac/logo-homepage-plugin-orbit-tokyoconsole.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/081ff08e7e/logo-homepage-plugin-orbit-microsoftsqserver.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/72eeda1f75/logo-homepage-plugin-orbit-docker.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d154612a1f/logo-homepage-plugin-orbit-mongo.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d390182d85/logo-homepage-plugin-orbit-checkmk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/15274d9d42/logo-homepage-plugin-orbit-zipkin.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/74668fc17c/logo-homepage-plugin-orbit-wavefront.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/9079d161b4/logo-homepage-plugin-orbit-clickhouse.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1725ea14db/logo-homepage-plugin-orbit-newrelic.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/383fd828f2/logo-homepage-plugin-orbit-google-cloud-monitoring.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/639e4a914e/logo-homepage-plugin-orbit-atlassian.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a73af832e5/logo-homepage-plugin-orbit-opentelemetry.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/48c995437c/logo-homepage-plugin-orbit-druid.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/7f81fbc30c/logo-homepage-plugin-orbit-maxcompute.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/721a97420a/logo-homepage-plugin-orbit-streamr.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/4d0ed6c4d2/logo-homepage-plugin-orbit-akvorado.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/cb351e3041/logo-homepage-plugin-orbit-vercel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/aec9cb8af7/logo-homepage-plugin-orbit-oracle.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1aa8985fff/logo-homepage-plugin-orbit-snowflake.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5d35c08c6e/logo-homepage-plugin-orbit-businessnews.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d8c7e4e7ab/logo-homepage-plugin-orbit-kafka.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1b8452a871/logo-homepage-plugin-orbit-azurecosmos.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3bd576d305/logo-homepage-plugin-orbit-businesssatellite.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3e4cf6eef8/logo-homepage-plugin-orbit-zendesk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/dad21f90ed/logo-homepage-plugin-orbit-snowflake-1.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5b1b569906/logo-homepage-plugin-orbit-destiny.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/0d2e7bd95c/logo-homepage-plugin-orbit-influxdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/68ad8ab483/logo-homepage-plugin-orbit-adobeanalytics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/217ab86e81/logo-homepage-plugin-orbit-businessinpuit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/53734b098b/logo-homepage-plugin-orbit-appdynamics.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/398dd312e8/logo-homepage-plugin-orbit-thruk.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e14da6f0da/logo-homepage-plugin-orbit-victoria.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a93c666525/logo-homepage-plugin-orbit-yugabyte.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F9aa7c5be5e%2Flogo-product-fedramp.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2Fd65d14d2e0%2Flogo-product-svdg.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F7bcb8f32a8%2Flogo-product-pci.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F6af78301cb%2Flogo-product-align.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F45876b6078%2Flogo-product-aicpa.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F5be359df14%2Flogo-product-gdpr.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1216x405%2F5345a6abd5%2Fbg-homepage-grafana-play_tiny.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Feefec4686f%2Fimage-homepage-thought-leadership-gartner-26.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Feefec4686f%2Fimage-homepage-thought-leadership-gartner-26.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Fa145c5ad7f%2Fimage-homepage-thought-leadership-survey-8-2.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Fa145c5ad7f%2Fimage-homepage-thought-leadership-survey-8-2.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2F5bc90b99f1%2Fimage-homepage-thought-leadership-grafanacon-6.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2F5bc90b99f1%2Fimage-homepage-thought-leadership-grafanacon-6.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F726x726%2F4fb59e0a06%2Fquote-blackrock.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F3648x1236%2F276f14bd26%2Fimage-homepage-prefooter-3x.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/24x24/3c140ab1c5/group-1597884893.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/28x28/d3f1fc04b8/group-1597885630.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/63x63/5b2d81a393/group-11253.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F2494x534%2F4016683744%2Fgrafana-logo-footer-2x.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/cea381f2ea/logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/fd36fda020/logo-1.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/ce30b0469d/logo-2.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/d7e609d1e0/logo-3.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/569234436f/logo-4.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/4c884254a1/logo-5.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/77344356b5/ocr-madrid-2026.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/7a01a2cfc9/ocr-london-2026.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F250x68%2F2179b1d505%2Focr-sao-paulo-2026.png&w=576&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/a367ceaf0c/ocr-bengaluru-2026.svg",
+        "poster": "",
+        "width": 250,
+        "height": 68
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/36f8789eaa/group-1597886959-5.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/6ea88fef70/group-1597886959-7.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/54a76a5d71/group-1597886959-6.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/0a0b3cca72/ocr-spring-2027-logos.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/42e9b8e21e/ocr-amsterdam-2027-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/305x59/e77952ed87/obscon-banner-promo-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 175000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 8288,
+    "actualTravel": 8476,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://grafana.com/",
+    "title": "Full-stack observability for the agentic era | Grafana Labs",
+    "documentHeight": 9376,
+    "contentHeight": 9376,
+    "contentTop": -8431,
+    "scrollY": 8476,
+    "ready": "__variable_997e98 __variable_6e0a0a __className_b8ca7d scroll-smooth",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(244, 244, 246)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 66,
+        "rect": {
+          "x": 144,
+          "y": -8367,
+          "width": 1152,
+          "height": 150
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "60px",
+          "lineHeight": "75px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "see-clearly-act-faster-spend-smarter",
+        "characters": 39,
+        "rect": {
+          "x": 96,
+          "y": -7727,
+          "width": 1248,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-for-modern-operations",
+        "characters": 24,
+        "rect": {
+          "x": 96,
+          "y": -7464,
+          "width": 600,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "cut-costs-only-pay-for-the-data-that-matters",
+        "characters": 46,
+        "rect": {
+          "x": 744,
+          "y": -6991,
+          "width": 600,
+          "height": 75
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "break-down-data-silos-troubleshoot-faster",
+        "characters": 43,
+        "rect": {
+          "x": 96,
+          "y": -6500,
+          "width": 600,
+          "height": 75
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "37.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "plug-in-not-lock-in",
+        "characters": 20,
+        "rect": {
+          "x": 384,
+          "y": -5887,
+          "width": 672,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "45px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "observe-everything-solve-anything",
+        "characters": 35,
+        "rect": {
+          "x": 336,
+          "y": -5335,
+          "width": 768,
+          "height": 108
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 105,
+          "y": -5050,
+          "width": 1230,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 105,
+          "y": -5026,
+          "width": 1230,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 105,
+          "y": -4552,
+          "width": 1230,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "demo-time-try-grafana-cloud",
+        "characters": 28,
+        "rect": {
+          "x": 384,
+          "y": -4000,
+          "width": 672,
+          "height": 45
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "45px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-week-recap-see-whats-next-for-ai-in-production",
+        "characters": 51,
+        "rect": {
+          "x": -714,
+          "y": -3606,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "observability-con-shaping-the-future-of-observability",
+        "characters": 53,
+        "rect": {
+          "x": 129,
+          "y": -3606,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "leader-in-the-2026-gartner-magic-quadrant-for-observability-",
+        "characters": 71,
+        "rect": {
+          "x": 971,
+          "y": -3606,
+          "width": 348,
+          "height": 203
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(46, 46, 56)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "insights-on-the-state-of-observability",
+        "characters": 38,
+        "rect": {
+          "x": 1814,
+          "y": -3606,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "biggest-updates-from-grafana-con",
+        "characters": 31,
+        "rect": {
+          "x": 2657,
+          "y": -3606,
+          "width": 348,
+          "height": 81
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(46, 46, 56)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "ai-week-recap-see-whats-next-for-ai-in-production",
+        "characters": 51,
+        "rect": {
+          "x": 3499,
+          "y": -3606,
+          "width": 348,
+          "height": 122
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "observability-con-shaping-the-future-of-observability",
+        "characters": 53,
+        "rect": {
+          "x": 4342,
+          "y": -3606,
+          "width": 340,
+          "height": 162
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "36px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "real-stories-from-real-customers",
+        "characters": 32,
+        "rect": {
+          "x": 345,
+          "y": -3015,
+          "width": 751,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 160,
+          "y": -2175,
+          "width": 496,
+          "height": 162
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "the-open-observability-cloud",
+        "characters": 28,
+        "rect": {
+          "x": 144,
+          "y": -1477,
+          "width": 1152,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "48px",
+          "lineHeight": "54px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 96,
+          "y": -740,
+          "width": 821,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "Poppins, \"Poppins Fallback\"",
+          "fontSize": "30px",
+          "lineHeight": "40.5px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://grafana.com/blog/observabilitycon-2026-announcements/",
+      "https://grafana.com/blog/observabilitycon-2026-announcements/",
+      "https://grafana.com/get/",
+      "https://grafana.com/contact/",
+      "https://grafana.com/",
+      "https://grafana.com/pricing/",
+      "https://grafana.com/docs/",
+      "https://grafana.com/auth/sign-in/",
+      "https://grafana.com/auth/sign-up/create-user/",
+      "https://grafana.com/auth/sign-up/create-user/?pg=hp&plcmt=hero-btn-1&cta=free",
+      "https://grafana.com/pricing/?pg=hp&plcmt=hero-btn-2&cta=plans",
+      "https://grafana.com/#see-clearly-act-faster-spend-smarter",
+      "https://grafana.com/#ai-for-modern-operations",
+      "https://grafana.com/products/cloud/ai-assistant?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/investigations?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/agent-observability?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#cut-costs-only-pay-for-the-data-that-matters",
+      "https://grafana.com/products/cloud/adaptive-telemetry?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/adaptive-telemetry/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#break-down-data-silos-troubleshoot-faster",
+      "https://grafana.com/products/cloud/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/products/cloud/data-correlation-root-cause-analysis-knowledge-graph?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=txt-img-alternating",
+      "https://grafana.com/#plug-in-not-lock-in",
+      "https://grafana.com/integrations/?pg=hp&plcmt=integrations-cta",
+      "https://grafana.com/#observe-everything-solve-anything",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/?pg=hp&plcmt=marketecture-ai-powered-observability",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=marketecture-full-stack-observability",
+      "https://grafana.com/products/cloud/cost-management-optimization/?pg=hp&plcmt=marketecture-cost-management-with-adaptive-telemetry",
+      "https://grafana.com/solutions/opentelemetry/?pg=hp&plcmt=marketecture-native-opentelemetry-support",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=marketecture-ai-assistant",
+      "https://grafana.com/products/cloud/agent-observability/?pg=hp&plcmt=marketecture-agent-observability",
+      "https://grafana.com/products/cloud/application-observability/?pg=hp&plcmt=marketecture-application-observability",
+      "https://grafana.com/products/cloud/kubernetes/?pg=hp&plcmt=marketecture-kubernetes-monitoring",
+      "https://grafana.com/products/cloud/investigations/?pg=hp&plcmt=marketecture-ai-investigations",
+      "https://grafana.com/products/cloud/frontend-observability/?pg=hp&plcmt=marketecture-frontend-observability",
+      "https://grafana.com/products/cloud/irm/?pg=hp&plcmt=marketecture-incident-response-management-irm",
+      "https://grafana.com/products/cloud/grafana/?pg=hp&plcmt=marketecture-dashboards-data-visualization",
+      "https://grafana.com/products/cloud/database-observability/?pg=hp&plcmt=marketecture-database-observability",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/?pg=hp&plcmt=marketecture-performance-load-testing",
+      "https://grafana.com/products/cloud/synthetic-monitoring/?pg=hp&plcmt=marketecture-synthetic-monitoring",
+      "https://grafana.com/solutions/digital-experience-monitoring/?pg=hp&plcmt=marketecture-digital-experience-monitoring-dem",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/?pg=hp&plcmt=marketecture-infrastructure-cloud-observability",
+      "https://grafana.com/solutions/site-reliability/?pg=hp&plcmt=marketecture-site-reliability",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/?pg=hp&plcmt=marketecture-ai-powered-observability",
+      "https://grafana.com/solutions/full-stack-observability/?pg=hp&plcmt=marketecture-full-stack-observability",
+      "https://grafana.com/products/cloud/cost-management-optimization/?pg=hp&plcmt=marketecture-cost-management-with-adaptive-telemetry",
+      "https://grafana.com/solutions/opentelemetry/?pg=hp&plcmt=marketecture-native-opentelemetry-support",
+      "https://grafana.com/products/cloud/ai-assistant/?pg=hp&plcmt=marketecture-ai-assistant",
+      "https://grafana.com/products/cloud/agent-observability/?pg=hp&plcmt=marketecture-agent-observability",
+      "https://grafana.com/products/cloud/application-observability/?pg=hp&plcmt=marketecture-application-observability",
+      "https://grafana.com/products/cloud/kubernetes/?pg=hp&plcmt=marketecture-kubernetes-monitoring",
+      "https://grafana.com/products/cloud/investigations/?pg=hp&plcmt=marketecture-ai-investigations",
+      "https://grafana.com/products/cloud/frontend-observability/?pg=hp&plcmt=marketecture-frontend-observability",
+      "https://grafana.com/products/cloud/irm/?pg=hp&plcmt=marketecture-incident-response-management-irm",
+      "https://grafana.com/products/cloud/grafana/?pg=hp&plcmt=marketecture-dashboards-data-visualization",
+      "https://grafana.com/products/cloud/database-observability/?pg=hp&plcmt=marketecture-database-observability",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/?pg=hp&plcmt=marketecture-performance-load-testing",
+      "https://grafana.com/products/cloud/synthetic-monitoring/?pg=hp&plcmt=marketecture-synthetic-monitoring",
+      "https://grafana.com/solutions/digital-experience-monitoring/?pg=hp&plcmt=marketecture-digital-experience-monitoring-dem",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/?pg=hp&plcmt=marketecture-infrastructure-cloud-observability",
+      "https://grafana.com/solutions/site-reliability/?pg=hp&plcmt=marketecture-site-reliability",
+      "https://grafana.com/products/cloud/logs/?pg=hp&plcmt=marketecture-logs",
+      "https://grafana.com/products/cloud/metrics/?pg=hp&plcmt=marketecture-metrics",
+      "https://grafana.com/products/cloud/traces/?pg=hp&plcmt=marketecture-traces",
+      "https://grafana.com/products/cloud/profiles/?pg=hp&plcmt=marketecture-profiles",
+      "https://trust.grafana.com/?pg=hp&plcmt=secure-compliant-proven-button",
+      "https://grafana.com/#demo-time-try-grafana-cloud",
+      "https://play.grafana.org/d/maggk24/grafana-cloud/?pg=hp&plcmt=play-demo",
+      "https://grafana.com/#ai-week-recap-see-whats-next-for-ai-in-production",
+      "https://grafana.com/blog/ai-week-recap/?pg=hp&plcmt=feature-card-carousel-carousel-5-cta",
+      "https://grafana.com/#observability-con-shaping-the-future-of-observability",
+      "https://www.youtube.com/watch?v=_ASFsH_LIKE",
+      "https://grafana.com/#leader-in-the-2026-gartner-magic-quadrant-for-observability-",
+      "https://grafana.com/analyst-reports/gartner-magic-quadrant-observability-platforms/?pg=hp&plcmt=feature-card-carousel-carousel-2-cta",
+      "https://grafana.com/#insights-on-the-state-of-observability",
+      "https://grafana.com/observability-survey/?pg=hp&plcmt=feature-card-carousel-carousel-3-cta",
+      "https://grafana.com/#biggest-updates-from-grafana-con",
+      "https://grafana.com/blog/grafanacon-2026-announcements/?pg=hp&plcmt=feature-card-carousel-carousel-4-cta",
+      "https://grafana.com/#ai-week-recap-see-whats-next-for-ai-in-production",
+      "https://grafana.com/blog/ai-week-recap/?pg=hp&plcmt=feature-card-carousel-carousel-5-cta",
+      "https://grafana.com/#observability-con-shaping-the-future-of-observability",
+      "https://www.youtube.com/watch?v=_ASFsH_LIKE",
+      "https://grafana.com/#real-stories-from-real-customers",
+      "https://www.youtube.com/live/GlIhZVhH48k?si=RqNcl9gTPmF4H93v&t=3955",
+      "https://grafana.com/oss/?pg=hp&plcmt=feature-marquee-1",
+      "https://grafana.com/community/?pg=hp&plcmt=feature-marquee-2",
+      "https://grafana.com/about/grafana-labs/?pg=hp&plcmt=feature-marquee-3",
+      "https://grafana.com/#the-open-observability-cloud",
+      "https://grafana.com/auth/sign-up/create-user/?pg=hp&plcmt=footer-btn-1&cta=free",
+      "https://grafana.com/pricing/?pg=hp&plcmt=footer-btn-2&cta=plans",
+      "https://grafana.com/legal/privacy-policy/",
+      "https://grafana.com/products/cloud/",
+      "https://grafana.com/pricing/",
+      "https://grafana.com/products/cloud/free-tier/",
+      "https://grafana.com/products/cloud/ai-assistant/",
+      "https://grafana.com/products/cloud/agent-observability/",
+      "https://grafana.com/products/cloud/application-observability/",
+      "https://grafana.com/products/cloud/kubernetes/",
+      "https://grafana.com/products/cloud/grafana/",
+      "https://grafana.com/products/cloud/database-observability/",
+      "https://grafana.com/products/cloud/frontend-observability/",
+      "https://grafana.com/products/cloud/synthetic-monitoring/",
+      "https://grafana.com/products/cloud/performance-load-testing-k6/",
+      "https://grafana.com/products/cloud/irm/",
+      "https://grafana.com/products/cloud/investigations/",
+      "https://grafana.com/whats-new/",
+      "https://status.grafana.com/",
+      "https://grafana.com/products/cloud/ai-tools-for-observability/",
+      "https://grafana.com/solutions/full-stack-observability/",
+      "https://grafana.com/solutions/cloud-infrastructure-observability/",
+      "https://grafana.com/solutions/cloud-provider-observability/",
+      "https://grafana.com/solutions/digital-experience-monitoring/",
+      "https://grafana.com/products/cloud/metrics/#why-scale-metrics-with-grafana-cloud",
+      "https://grafana.com/products/cloud/cost-management-optimization/",
+      "https://grafana.com/solutions/site-reliability/",
+      "https://grafana.com/products/cloud/logs/",
+      "https://grafana.com/solutions/opentelemetry/#migrate-to-open-telemetry",
+      "https://grafana.com/integrations/",
+      "https://grafana.com/plugins/",
+      "https://grafana.com/integrations/cloud-monitoring-aws/",
+      "https://grafana.com/integrations/cloud-monitoring-google-cloud/",
+      "https://grafana.com/integrations/cloud-monitoring-microsoft-azure/",
+      "https://grafana.com/products/cloud/kubernetes/",
+      "https://grafana.com/integrations/datadog/visualize/",
+      "https://grafana.com/integrations/new-relic/visualize/",
+      "https://grafana.com/oss/",
+      "https://github.com/grafana/",
+      "https://grafana.com/get/",
+      "https://grafana.com/grafana/dashboards/",
+      "https://grafana.com/docs/",
+      "https://grafana.com/blog/",
+      "https://grafana.com/community/",
+      "https://grafana.com/events/",
+      "https://grafana.com/observability-survey/",
+      "https://grafana.com/about/grafana-labs/",
+      "https://grafana.com/careers/",
+      "https://grafana.com/partnerships/",
+      "https://grafana.com/press/",
+      "https://grafana.com/success/",
+      "https://grafana.com/contact/",
+      "https://grafana.com/help/",
+      "https://grafana.com/professional-services/",
+      "https://grafana.com/ai-info/",
+      "https://grafana.com/compare/grafana-vs-arize/",
+      "https://grafana.com/compare/grafana-vs-datadog/",
+      "https://grafana.com/compare/grafana-vs-dynatrace/",
+      "https://grafana.com/compare/grafana-vs-elastic/",
+      "https://grafana.com/compare/grafana-vs-langfuse/",
+      "https://grafana.com/compare/grafana-vs-langsmith/",
+      "https://grafana.com/compare/grafana-vs-new-relic/",
+      "https://grafana.com/compare/grafana-vs-pagerduty/",
+      "https://grafana.com/compare/grafana-vs-splunk/",
+      "https://grafana.com/products/cloud/",
+      "https://status.grafana.com/",
+      "https://grafana.com/legal/",
+      "https://grafana.com/legal/terms/",
+      "https://grafana.com/legal/privacy-policy/",
+      "https://grafana.com/trademark-policy/",
+      "https://www.facebook.com/grafana/",
+      "https://twitter.com/grafana",
+      "https://www.linkedin.com/company/grafana-labs/",
+      "https://github.com/grafana/",
+      "https://www.youtube.com/channel/UCYCwgQAMm9sTJv0rgwQLCxw",
+      "https://www.reddit.com/r/grafana/",
+      "https://grafana.com/#quedan-menos-de-2-semanas-ahorra-un-30",
+      "https://grafana.com/events/observabilitycon-on-the-road/madrid/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/2026/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/?plcmt=footer-banner",
+      "https://grafana.com/events/observabilitycon/2026/agenda/opening-keynote/?plcmt=footer-banner",
+      "https://grafana.com/#next-week-see-ai-and-observability-in-action",
+      "https://grafana.com/events/observabilitycon-on-the-road/london/?plcmt=footer-banner",
+      "https://grafana.com/#na-prxima-semana-veja-ia-e-observabilidade-na-prtica",
+      "https://grafana.com/pt-br/events/observabilitycon-on-the-road/sao-paulo/?plcmt=footer-banner",
+      "https://grafana.com/#build-more-reliable-systems-get-more-from-your-telemetry",
+      "https://grafana.com/events/observabilitycon-on-the-road/bengaluru/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/frankfurt/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/sydney/?plcmt=footer-banner",
+      "https://grafana.com/#vos-agendas",
+      "https://grafana.com/fr/events/observabilitycon-on-the-road/paris/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/dallas/?plcmt=footer-banner",
+      "https://grafana.com/#save-the-date",
+      "https://grafana.com/events/observabilitycon-on-the-road/amsterdam/?plcmt=footer-banner",
+      "https://grafana.com/#save-30-on-tickets-through-oct-1",
+      "https://grafana.com/events/observabilitycon/?plcmt=footer-banner"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/10x10/5c4e34db6b/icon-grafana-nav-promo-dot-purple.svg",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/143x24/8360e7918b/grafana-header-logo.svg",
+        "poster": "",
+        "width": 143,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/16x16/d2d9bfecdd/icon-grafana-ai-search-btn.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/14x14/26edb0b9d8/icon-grafana-search.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/14x14/71b3167fed/ai-icon.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/18x18/8b033477d8/ai-sparkle.svg",
+        "poster": "",
+        "width": 18,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/86x19/05eabcad7a/logo_microsoft_blk.svg",
+        "poster": "",
+        "width": 86,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/72x14/30127217be/logo_nvidia_blk.svg",
+        "poster": "",
+        "width": 72,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/273x191/0f1316fa2f/salesforce-logo-bw.svg",
+        "poster": "",
+        "width": 263,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/92x13/e6af3cbf6b/logo_blackrock_blk.svg",
+        "poster": "",
+        "width": 92,
+        "height": 13
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/207x148/866e469406/canva-logo-mono5.svg",
+        "poster": "",
+        "width": 207,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/143x20/4865f0178f/dhl-group-logo-bw.svg",
+        "poster": "",
+        "width": 263,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/323x148/fb46e4ee26/anthropic-logo-mono6.svg",
+        "poster": "",
+        "width": 323,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/321x148/d775d8ea19/bloomberg-logo-mono.svg",
+        "poster": "",
+        "width": 321,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/e0557663b5/icon-homepage-feature-2ai.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2F9222287fee%2Fimage-homepage-ai-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2Fc2eca69aa7%2Fimage-homepage-cost-management-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/8f5f01c319/icon-homepage-feature-3costs.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/48x48/d25158fb7f/icon-homepage-feature-1silo.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1000x604%2F81ce5ace9c%2Fimage-homepage-rca-dashboard.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 719,
+        "height": 434
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8984606a12/logo-homepage-plugin-orbit-jira.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e2df142b6e/logo-homepage-plugin-orbit-github.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/f0436a988c/logo-homepage-plugin-orbit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/769d4585dd/logo-homepage-plugin-orbit-cnosdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8ff34e92d8/logo-homepage-plugin-orbit-elasticsearch.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e4a05448c1/logo-homepage-plugin-orbit-chaosmesh.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d43fc1acac/logo-homepage-plugin-orbit-tokyoconsole.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/081ff08e7e/logo-homepage-plugin-orbit-microsoftsqserver.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/72eeda1f75/logo-homepage-plugin-orbit-docker.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d154612a1f/logo-homepage-plugin-orbit-mongo.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d390182d85/logo-homepage-plugin-orbit-checkmk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/15274d9d42/logo-homepage-plugin-orbit-zipkin.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/74668fc17c/logo-homepage-plugin-orbit-wavefront.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/9079d161b4/logo-homepage-plugin-orbit-clickhouse.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1725ea14db/logo-homepage-plugin-orbit-newrelic.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/383fd828f2/logo-homepage-plugin-orbit-google-cloud-monitoring.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/639e4a914e/logo-homepage-plugin-orbit-atlassian.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a73af832e5/logo-homepage-plugin-orbit-opentelemetry.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/48c995437c/logo-homepage-plugin-orbit-druid.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/7f81fbc30c/logo-homepage-plugin-orbit-maxcompute.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/721a97420a/logo-homepage-plugin-orbit-streamr.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/4d0ed6c4d2/logo-homepage-plugin-orbit-akvorado.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/cb351e3041/logo-homepage-plugin-orbit-vercel.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/aec9cb8af7/logo-homepage-plugin-orbit-oracle.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1aa8985fff/logo-homepage-plugin-orbit-snowflake.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5d35c08c6e/logo-homepage-plugin-orbit-businessnews.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d8c7e4e7ab/logo-homepage-plugin-orbit-kafka.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1b8452a871/logo-homepage-plugin-orbit-azurecosmos.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3bd576d305/logo-homepage-plugin-orbit-businesssatellite.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3e4cf6eef8/logo-homepage-plugin-orbit-zendesk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/dad21f90ed/logo-homepage-plugin-orbit-snowflake-1.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5b1b569906/logo-homepage-plugin-orbit-destiny.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/0d2e7bd95c/logo-homepage-plugin-orbit-influxdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/68ad8ab483/logo-homepage-plugin-orbit-adobeanalytics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/217ab86e81/logo-homepage-plugin-orbit-businessinpuit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/53734b098b/logo-homepage-plugin-orbit-appdynamics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/398dd312e8/logo-homepage-plugin-orbit-thruk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e14da6f0da/logo-homepage-plugin-orbit-victoria.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a93c666525/logo-homepage-plugin-orbit-yugabyte.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8984606a12/logo-homepage-plugin-orbit-jira.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e2df142b6e/logo-homepage-plugin-orbit-github.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/f0436a988c/logo-homepage-plugin-orbit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/769d4585dd/logo-homepage-plugin-orbit-cnosdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/8ff34e92d8/logo-homepage-plugin-orbit-elasticsearch.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e4a05448c1/logo-homepage-plugin-orbit-chaosmesh.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d43fc1acac/logo-homepage-plugin-orbit-tokyoconsole.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/081ff08e7e/logo-homepage-plugin-orbit-microsoftsqserver.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/72eeda1f75/logo-homepage-plugin-orbit-docker.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d154612a1f/logo-homepage-plugin-orbit-mongo.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d390182d85/logo-homepage-plugin-orbit-checkmk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/15274d9d42/logo-homepage-plugin-orbit-zipkin.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/74668fc17c/logo-homepage-plugin-orbit-wavefront.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/9079d161b4/logo-homepage-plugin-orbit-clickhouse.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1725ea14db/logo-homepage-plugin-orbit-newrelic.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/383fd828f2/logo-homepage-plugin-orbit-google-cloud-monitoring.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/639e4a914e/logo-homepage-plugin-orbit-atlassian.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a73af832e5/logo-homepage-plugin-orbit-opentelemetry.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/48c995437c/logo-homepage-plugin-orbit-druid.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/7f81fbc30c/logo-homepage-plugin-orbit-maxcompute.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/721a97420a/logo-homepage-plugin-orbit-streamr.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/4d0ed6c4d2/logo-homepage-plugin-orbit-akvorado.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/cb351e3041/logo-homepage-plugin-orbit-vercel.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/aec9cb8af7/logo-homepage-plugin-orbit-oracle.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1aa8985fff/logo-homepage-plugin-orbit-snowflake.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5d35c08c6e/logo-homepage-plugin-orbit-businessnews.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/d8c7e4e7ab/logo-homepage-plugin-orbit-kafka.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/1b8452a871/logo-homepage-plugin-orbit-azurecosmos.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3bd576d305/logo-homepage-plugin-orbit-businesssatellite.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/3e4cf6eef8/logo-homepage-plugin-orbit-zendesk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/dad21f90ed/logo-homepage-plugin-orbit-snowflake-1.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/5b1b569906/logo-homepage-plugin-orbit-destiny.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/0d2e7bd95c/logo-homepage-plugin-orbit-influxdb.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/68ad8ab483/logo-homepage-plugin-orbit-adobeanalytics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/217ab86e81/logo-homepage-plugin-orbit-businessinpuit.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/53734b098b/logo-homepage-plugin-orbit-appdynamics.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/398dd312e8/logo-homepage-plugin-orbit-thruk.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/e14da6f0da/logo-homepage-plugin-orbit-victoria.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/192x192/a93c666525/logo-homepage-plugin-orbit-yugabyte.png",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F9aa7c5be5e%2Flogo-product-fedramp.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2Fd65d14d2e0%2Flogo-product-svdg.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F7bcb8f32a8%2Flogo-product-pci.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F6af78301cb%2Flogo-product-align.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F45876b6078%2Flogo-product-aicpa.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F144x144%2F5be359df14%2Flogo-product-gdpr.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1216x405%2F5345a6abd5%2Fbg-homepage-grafana-play_tiny.png&w=1440&q=75",
+        "poster": "",
+        "width": 1216,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1250,
+        "height": 706
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1250,
+        "height": 706
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Feefec4686f%2Fimage-homepage-thought-leadership-gartner-26.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 660,
+        "height": 760
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Feefec4686f%2Fimage-homepage-thought-leadership-gartner-26.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 660,
+        "height": 760
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Fa145c5ad7f%2Fimage-homepage-thought-leadership-survey-8-2.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2Fa145c5ad7f%2Fimage-homepage-thought-leadership-survey-8-2.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2F5bc90b99f1%2Fimage-homepage-thought-leadership-grafanacon-6.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F660x760%2F5bc90b99f1%2Fimage-homepage-thought-leadership-grafanacon-6.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1250,
+        "height": 706
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1250x706%2F0151972808%2Faiweek.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1250,
+        "height": 706
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F1672x941%2F630531f599%2Fraj-dutt-observabilitycon-2026.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1440&q=75",
+        "poster": "",
+        "width": 1440,
+        "height": 810
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F726x726%2F4fb59e0a06%2Fquote-blackrock.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=768&q=75",
+        "poster": "",
+        "width": 680,
+        "height": 680
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 116
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 158
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 181
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 116
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 158
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 181
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F6240x4160%2F8c7ed5f8dc%2Fgrafanaconseattle2025_wednesday_408.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 116
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F40af356f4e%2Fgrafanaconseattle2025_thursday_100.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 158
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2Fbed888bf99%2Fgrafanaconseattle2025_workshops_047.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 181
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 226
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 212
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 226
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 212
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F70b6e785a7%2Fgrafanaconseattle2025_thursday_089.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 226
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F5152x7728%2F3fb71624c9%2Fgrafanaconseattle2025_wednesday_156.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 212
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F567658451994139%2F7728x5152%2F10f0f7c3ed%2Fgrafanaconseattle2025_thursday_013.jpg&w=384&q=75",
+        "poster": "",
+        "width": 200,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F3648x1236%2F276f14bd26%2Fimage-homepage-prefooter-3x.png%2Fm%2Ffilters%3Aformat(webp)%3Aquality(90)%2F&w=1024&q=75",
+        "poster": "",
+        "width": 1007,
+        "height": 341
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/24x24/3c140ab1c5/group-1597884893.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/28x28/d3f1fc04b8/group-1597885630.svg",
+        "poster": "",
+        "width": 28,
+        "height": 28
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/63x63/5b2d81a393/group-11253.svg",
+        "poster": "",
+        "width": 63,
+        "height": 63
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F2494x534%2F4016683744%2Fgrafana-logo-footer-2x.png&w=2880&q=75",
+        "poster": "",
+        "width": 2494,
+        "height": 534
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/cea381f2ea/logo.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/fd36fda020/logo-1.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/ce30b0469d/logo-2.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/d7e609d1e0/logo-3.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/569234436f/logo-4.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/567658451994139/48x48/4c884254a1/logo-5.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/77344356b5/ocr-madrid-2026.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/272x34/7979839d00/obscon-26-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/7a01a2cfc9/ocr-london-2026.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://grafana.com/mw/_next/image/?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1022730%2F250x68%2F2179b1d505%2Focr-sao-paulo-2026.png&w=576&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/a367ceaf0c/ocr-bengaluru-2026.svg",
+        "poster": "",
+        "width": 250,
+        "height": 68
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/36f8789eaa/group-1597886959-5.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/6ea88fef70/group-1597886959-7.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/54a76a5d71/group-1597886959-6.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/0a0b3cca72/ocr-spring-2027-logos.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/250x68/42e9b8e21e/ocr-amsterdam-2027-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/111x95/102c1cfd97/obscon-banner-bg.svg",
+        "poster": "",
+        "width": 111,
+        "height": 95
+      },
+      {
+        "tag": "IMG",
+        "url": "https://a-us.storyblok.com/f/1022730/305x59/e77952ed87/obscon-banner-promo-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 85000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 110000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 140000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 175000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 8560,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

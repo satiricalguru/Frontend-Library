@@ -1,0 +1,5106 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-ramp",
+  "name": "Ramp — homepage",
+  "url": "https://ramp.com/",
+  "source": "https://styles.refero.design/style/b38702a0-75ab-474c-9106-00b624535825",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:49:57.216Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://ramp.com/robots.txt",
+    "checkedAt": "2026-11-12T10:49:57.215Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/partners/"
+      },
+      {
+        "allow": false,
+        "path": "/partners-cro/"
+      },
+      {
+        "allow": false,
+        "path": "/lp2/"
+      },
+      {
+        "allow": false,
+        "path": "/lp3/"
+      },
+      {
+        "allow": false,
+        "path": "/cro/"
+      },
+      {
+        "allow": false,
+        "path": "/product-demos/"
+      },
+      {
+        "allow": false,
+        "path": "/ramp-at-60-billion"
+      },
+      {
+        "allow": false,
+        "path": "/thank-you/"
+      },
+      {
+        "allow": false,
+        "path": "/*.csv"
+      },
+      {
+        "allow": false,
+        "path": "/*.woff"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.",
+    "Traversal navigated to https://ramp.com/en-gb/; inspect checkpoint URLs before comparing."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "hero-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 905,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "hero-section"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2653,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 1926,
+        "contentTop": -1926,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4668,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 4289,
+        "contentTop": -4289,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6282,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 6079,
+        "contentTop": -6079,
+        "pageTransform": "none",
+        "visibleIds": [
+          "faq"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 8203,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://ramp.com/en-gb/",
+        "scrollY": 7382,
+        "contentTop": -7382,
+        "pageTransform": "none",
+        "visibleIds": [
+          "footer-disclaimers"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://assets.ramp.com/fonts/lausanne/lausanne-400/TWKLausanne-400.woff2",
+      "status": 200,
+      "mimeType": "application/x-www-form-urlencoded",
+      "type": "Font"
+    },
+    {
+      "url": "https://assets.ramp.com/fonts/material_icons/MaterialIcons-Regular.woff2",
+      "status": 200,
+      "mimeType": "binary/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://assets.ramp.com/fonts/material_icons/MaterialIconsOutlined-Regular.woff2",
+      "status": 200,
+      "mimeType": "binary/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://growth.ramp.com/v1/webhooks/6sense",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://next.ramp.com/api/track",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Ping"
+    },
+    {
+      "url": "https://privacycenter.ramp.com/fides.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0-targkzva5gf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/04nsdnxrw38ot.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/05-yg91uyszex.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0bbgu-y04flr6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0g3k59bagz03f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0x1jly265rqxh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0x5w4cfylakhc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/0y6pxdlymaex0.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/111jo3cptc7go.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/13ffchu3vibun.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/13mhn0fauvduf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/17an8gyd-7o68.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1b3qzfok6o716.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1iun_yxpggl4x.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1p_g3zo59pmo3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1t_7-egckkx5_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1vg3lur9x39y4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1wr3l9yzcfu4o.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1x5be5uvufjng.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1xyubdfinlnoj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/1z7xr5ikw3css.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2-cc67fw--sl7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2-x_80zshippx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/20cn848s9hxy8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2dv2pn42b8rnx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2ghyb9sqh_uzl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2h0hnbx10wbnm.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2hnyc81g1dvbf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2i-lsmgr0gyb1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2i361pw-6oc50.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2l71dqih4w_hf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2librxnix7v2d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2mlavagemfbx7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2p--qtx2t6eel.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2w_bmaep2k47_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2x6_7x2vcsfkx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/2y-f2dur98qf7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/32jmqxclcw0kf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/33c2ait5mldet.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/349hpeohn_c0f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3au8ezz0q64nt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3c6spaiqypdrt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3f19g8c11w4bz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3g-b0hb97kuuq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3hwb42_67h4rj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3i__nhvm9ngp2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3nttn1hzo41dw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3olywxdsylwk4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3pu6o1obc2mih.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3u41g56r5_2q3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3wmelakc55zzl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/3y45lkmfhw5dm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/43o6d7h6a5a3k.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/chunks/turbopack-2_04ewhudzrza.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/AppStoreBadge.2dsx6q2dhtc7z.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/e506d31c18fd42e6-s.p.0k0di8efl80ld.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/GooglePlayBadge.30zjr_-a14axl.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/ObviouslyNyc.1ovv_8ab4uckn.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://ramp.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ramp.com/careers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/customers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/customers/elevenlabs",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/data-privacy-opt-out",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/editorial-guidelines",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://ramp.com/en-gb/accounting-automation-software",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/accounts-payable",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/corporate-cards",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/expense-management",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/global",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/intelligence",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/procurement",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/reporting",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/en-gb/signup",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/integrations",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/legal/customer-terms/platform-agreement/platform-agreement",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/legal/privacy-terms/privacy-terms/privacy-policy",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ramp.com/see-a-demo",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/actions/4596/98c634b6302314f5278d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/actions/google-analytics-4-web/51e68a22e5622640852a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/actions/hubspot-web/a72dff69c5fea6944b50.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/integrations/bing-ads/2.0.3/bing-ads.dynamic.js.gz",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/integrations/google-adwords-new/1.3.0/google-adwords-new.dynamic.js.gz",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/integrations/google-analytics/2.18.6/google-analytics.dynamic.js.gz",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/integrations/linkedin-insight-tag/1.0.1/linkedin-insight-tag.dynamic.js.gz",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://sgmnt-a.ramp.com/v1/projects/HuQUH6f0UVTnJEHhHiTSyL4hkEO4T4X0/settings",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://sgmnt-t.ramp.com/v1/i",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://sgmnt-t.ramp.com/v1/m",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://sgmnt-t.ramp.com/v1/p",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 56342,
+      "sha256": "8f098a85f532f4c0cfff9169ab7b5e1f174a207835b2be36a5dc49cfdb774f16"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 68018,
+      "sha256": "142c23480e87bedfee2b6a7f24823a8649cad7a38e36b87166d28363baddaeb5"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 66088,
+      "sha256": "eafd0cdf4363b1a7505c6f17fc75814128243949ed3a48155c9bd68f7967f7be"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 68023,
+      "sha256": "4f916d74ada1f0572d8c32ff118489913310fd22744646c68eeb910aa70f2424"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 45313,
+      "sha256": "3d4a11219db9028fda5ca49192e0bfabc7892dace21d7f97d25ad72db4213940"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 111375,
+      "sha256": "265bbf00578a934682dc01fffa1e50d0a98daded548250cada1ab563aa469858"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 329315,
+      "sha256": "d8d3061a3a8a1b26abf082c8118a4de14036d8a520d9e3d3300feabd0ccb0635"
+    }
+  ],
+  "initial": {
+    "url": "https://ramp.com/en-gb/",
+    "title": "Ramp United Kingdom: Corporate Cards & Expense Management",
+    "documentHeight": 8282,
+    "contentHeight": 8282,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "antialiased",
+    "bodyStyle": {
+      "fontFamily": "Lausanne, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "lab(2.83994 0.367254 0.969091)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "RyuLiveRegionStatus",
+        "tag": "DIV",
+        "rect": {
+          "x": -1,
+          "y": 8274,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "RyuLiveRegionAlert",
+        "tag": "DIV",
+        "rect": {
+          "x": -1,
+          "y": 8274,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "c076frame",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "batBeacon379111952545",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "li_sync_frame",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "podscribe-request",
+        "tag": "IMG",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "chili-loader",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": 8275,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 349,
+          "y": 129,
+          "width": 742,
+          "height": 46
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 400,
+          "y": 1369,
+          "width": 640,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 104,
+          "y": 2034,
+          "width": 389,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "32px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 400,
+          "y": 2559,
+          "width": 640,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 175,
+          "y": 2842,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 175,
+          "y": 2968,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 175,
+          "y": 3041,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 175,
+          "y": 3114,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 39,
+        "rect": {
+          "x": 400,
+          "y": 4041,
+          "width": 640,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(100 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 400,
+          "y": 5031,
+          "width": 640,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 88,
+          "y": 5158,
+          "width": 196,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 531,
+          "y": 5158,
+          "width": 178,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 973,
+          "y": 5158,
+          "width": 242,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 88,
+          "y": 5444,
+          "width": 254,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 531,
+          "y": 5444,
+          "width": 108,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 973,
+          "y": 5444,
+          "width": 129,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 64,
+          "y": 5806,
+          "width": 1312,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 64,
+          "y": 5905,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 64,
+          "y": 5976,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 64,
+          "y": 6047,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 64,
+          "y": 6118,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 64,
+          "y": 6189,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 64,
+          "y": 6260,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 64,
+          "y": 6331,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://ramp.com/en-gb",
+      "https://ramp.com/customers",
+      "https://ramp.com/en-gb/pricing",
+      "https://app.ramp.com/sign-in",
+      "https://ramp.com/see-a-demo",
+      "https://ramp.com/en-gb/signup",
+      "https://ramp.com/en-gb",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/customers/elevenlabs",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/integrations",
+      "http://ramp.com/en-gb/corporate-cards",
+      "http://ramp.com/en-gb/expense-management",
+      "http://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/blog/how-to-find-vat-number",
+      "http://ramp.com/en-gb/pricing",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/careers",
+      "https://ramp.com/customers",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/procurement",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://trust.ramp.com/",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/intelligence",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/integrations",
+      "https://ramp.com/en-gb/global",
+      "https://apps.apple.com/us/app/ramp/id1628197245?pt=125123265&ct=website-footer-11-17-22&mt=8",
+      "https://play.google.com/store/apps/details?id=com.ramp.android.app",
+      "https://www.linkedin.com/company/ramp",
+      "https://x.com/tryramp",
+      "https://www.facebook.com/rampcard",
+      "https://ramp.com/legal/platform-agreement",
+      "https://ramp.com/editorial-guidelines",
+      "https://ramp.com/legal/privacy-policy",
+      "https://ramp.com/data-privacy-opt-out",
+      "https://apps.apple.com/us/app/ramp/id1628197245?pt=125123265&ct=website-footer-11-17-22&mt=8",
+      "https://play.google.com/store/apps/details?id=com.ramp.android.app",
+      "https://www.linkedin.com/company/ramp",
+      "https://x.com/tryramp",
+      "https://www.facebook.com/rampcard"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/bombora/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/equativ/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/experian/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/eyeota/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/g/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/index/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/l/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/n/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/o/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/pubmatic/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/triplelift/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/x/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipv4.d.adroll.com/seg4/HPBFOULJSRGITHZ4WRAFBE/TL3J4VU4XJBU7PNHS73ILO?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&cookie=&adroll_s_ref=&keyw=&p0=1873&adroll_external_data=&adroll_version=2.0",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.googletagmanager.com/ns.html?id=GTM-WFDFDWP",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/f7642869-a6a1-4a9f-a4cb-5198378e80d7",
+        "poster": "",
+        "width": 2624,
+        "height": 1360
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/f7642869-a6a1-4a9f-a4cb-5198378e80d7",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2Fad193983-a737-46e3-8a16-64b4c52e330f&w=1920&q=75",
+        "poster": "",
+        "width": 1782,
+        "height": 1782
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/1c5a48d6-3905-4373-9b7c-bf42d830bd9a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/1c5a48d6-3905-4373-9b7c-bf42d830bd9a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/fe78c242-9bb1-49d5-af4e-0c2e432ced6a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/fe78c242-9bb1-49d5-af4e-0c2e432ced6a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/5b4af938-1723-4bef-bb61-505ba377964a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/5b4af938-1723-4bef-bb61-505ba377964a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/dc15044a-95e4-4e0e-b5a9-3f36b893266d",
+        "poster": "",
+        "width": 1288,
+        "height": 1160
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/dc15044a-95e4-4e0e-b5a9-3f36b893266d",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F9917b108-5f39-48b3-a3cd-d67550a59e56&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F014ec8b6-18e2-4983-a3ba-9167f2b99b97&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F89c018b7-6cca-49e9-adb3-b42bf088f9ee&w=640&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2Fc137aeb1-e9e2-4cac-bf62-3d08692fa76a&w=1920&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ObviouslyNyc.1ovv_8ab4uckn.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/AppStoreBadge.2dsx6q2dhtc7z.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/GooglePlayBadge.30zjr_-a14axl.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ObviouslyNyc.1ovv_8ab4uckn.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/AppStoreBadge.2dsx6q2dhtc7z.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/GooglePlayBadge.30zjr_-a14axl.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3938919135399013&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1794480599&plat=2%3A16777216%2C9%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=https%3A%2F%2Framp.com%2Fen-gb%2F&pra=5&aiof=14&asro=0&aimartd=4&uach=WyJtYWNPUyIsIjI3LjIuMSIsImFybSIsIiIsIjE1Ny4wLjgxMDMuNTEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90LUEuQnJhbmQiLCI5OS4wLjAuMCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ny4wLjgxMDMuNTEiXSxbIkNocm9taXVtIiwiMTU3LjAuODEwMy41MSJdXSwwXQ..&dt=1794480598894&bpp=4&bdt=812&idt=106&shv=r20261111&mjsv=m202611090101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=5547760021566&frm=20&pv=2&u_tz=330&u_his=20&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=16&adx=-12245933&ady=-12245933&biw=1440&bih=900&scr_x=0&scr_y=0&eid=95401822%2C95404664%2C95408436%2C95408908%2C95409065%2C122882144%2C122882147%2C95407167%2C122882174&oid=2&pvsid=7530842444493201&tmod=1209877334&uas=0&nvt=1&fsapi=1&fc=1920&brdim=22%2C22%2C22%2C22%2C800%2C0%2C756%2C556%2C1440%2C900&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=452x505_l%7C452x505_r&bz=0.53&pgls=CAk.&ifi=1&uci=a!1&fsb=1&dtd=141",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://strategicmedia-12-adswizz.attribution.adswizz.com/fire?pixelId=dd320ecd-93d0-4fab-b542-3ed32ef33f5b&type=sitevisit&subtype=PageVisit1&aw_0_req.gdpr=true&redirectURL=aHR0cHM6Ly9waXhlbC50YXBhZC5jb20vaWRzeW5jL2V4L3JlY2VpdmU_cGFydG5lcl9pZD0yOTk0JjwjaWYgcmVxdWVzdC5saXN0ZW5lcklkP21hdGNoZXMoJ1swLTlhLWZdezh9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezEyfScpPnBhcnRuZXJfdHlwZWRfZGlkPSU3QiUyMkhBUkRXQVJFX0FORFJPSURfQURfSUQlMjIlM0ElMjIke3JlcXVlc3QubGlzdGVuZXJJZH0lMjIlN0Q8I2Vsc2VpZiByZXF1ZXN0Lmxpc3RlbmVySWQ_bWF0Y2hlcygnWzAtOUEtRl17OH0tWzAtOUEtRl17NH0tWzAtOUEtRl17NH0tWzAtOUEtRl17NH0tWzAtOUEtRl17MTJ9Jyk-cGFydG5lcl90eXBlZF9kaWQ9JTdCJTIySEFSRFdBUkVfSURGQSUyMiUzQSUyMiR7cmVxdWVzdC5saXN0ZW5lcklkfSUyMiU3RDwjZWxzZT5wYXJ0bmVyX2RldmljZV9pZD0ke3JlcXVlc3QubGlzdGVuZXJJZCF9PC8jaWY-",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=355&buzz_key=dsp&value=&segment_key=&account_id=54&order=[ORDER]&ord=[CACHEBUSTER]",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=659&buzz_key=ua&value=&segment_key=&account_id=108&ord=5005514843",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://trkn.us/pixel/conv/ppt=25729;g=sitewide;gid=65494;ord=360bc8a1-bd08-4728-b734-e86633bcb852",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://analytics.o11.tech/a/ts_.htm?ver=1.2141.277&cid=c076#cdmn=analytics.o11.tech&lm=e&tt=tcs.dhj&aqet=pv&pubid=d61a58d685f8a665b025bac54359d668&evid=483db6d1-1b69-4e52-aea5-e36df107d17e&dmn=ramp.com&cid=c076&lbl=c076&flbl=pxcel&ll=e&ver=1.2141.277&ell=e&cck=_autid&pn=%2Fen-gb%2F&qs=na&rdn=ramp.com&rpn=%2Fen-gb%2F&rqs=na&ipaddr=MTgyLjc3LjY4LjEzMA%3D%3D&cc=IN&cont=AS&rc=DL",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84d2b492-54ab-4296-993d-c09833bb81cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&tw_session_start=1&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84d2b492-54ab-4296-993d-c09833bb81cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&tw_session_start=1&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://ramp-com.chilipiper.com/web-data/deanonymization/iframe/?tenantId=ramp.financial&parentOrigin=https%3A%2F%2Framp.com&debug=error&consentDenied=false",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=56376157&Ver=2&mid=f1111e21-776d-4686-81a8-83c6b10a92be&bo=1&sid=cf1cb430de8611f1a50b630a373783b8&vid=cf1ca7b0de8611f1a1504bccb25a6f47&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Ramp%20United%20Kingdom%3A%20Corporate%20Cards%20%26%20Expense%20Management&p=https%3A%2F%2Framp.com%2Fen-gb%2F&r=&lt=980&evt=pageLoad&sv=2&cdb=AQAQ&rn=921409",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://api.vector.co/pixel/phoenix/sync-container?duid=306cd0a5fff5--01m77p1x9mpm7w3z2y02avkdpr&ds=did-006l&euns=1&s=&version=v3.17.0&cd=.ramp.com&pv=a91dab42-0be8-418a-b7ef-808de8363fd7",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.podscribe.com/tag?action=view&user_id=b71eff5b-e366-423f-86a2-269a0ec95bbc&advertiser=ramp&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Framp.com%2Fen-gb%2F&device_id=360bc8a1-bd08-4728-b734-e86633bcb852&first_visited_at=1794480600401&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Framp.com%2Fen-gb%2F&event_url=https%3A%2F%2Framp.com%2Fen-gb%2F&source=js-tag+v1.2.3&cachebust=1794480601797",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://ramp-com.chilipiper.com/chat/loader/?embedOrigin=https%3A%2F%2Framp.com&workspaceId=fef2da9a-11bc-48f7-bd29-1762b38b7d10&tenantId=ramp.financial&tabId=1e4c4cc8-de01-48c0-8b75-8611351ae50e",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/i/adsct?bci=4&cv=98%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=05cd4fb0-d06a-4f99-bdb6-1e02403e8ad5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=98%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=05cd4fb0-d06a-4f99-bdb6-1e02403e8ad5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://googleads.g.doubleclick.net/pagead/html/r20261111/r20190131/zrt_lookup.html",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.ck-ie.com/tz17712529524212.gif?gdpr=undefined&gdpr_consent=[GDPR_CONSENT]&puid=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cs.playdigo.com/26930c0cb91bdcac9ca7e68d18f50682.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://eu-rtbstack-cm.admixer.net/cm?client=c4527281-5aa5-4c8e-bc53-a80bb3f99470&dsp=124&partnerUserID=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://csync.copper6.com/a6541175d0d1408eb1d7202c01a3e56f.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://s.ad.smaato.net/c/?dspInit=1518&dspCookie=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQxOTImdGw9MTI5NjAw&piggybackCookie=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://sync.outbrain.com/cookie-sync?p=loudecho&uid=427a1cf60f56c000d0b555a90576&initiator=partner&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=56376157&Ver=2&mid=f1111e21-776d-4686-81a8-83c6b10a92be&bo=1&sid=cf1cb430de8611f1a50b630a373783b8&vid=cf1ca7b0de8611f1a1504bccb25a6f47&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Ramp%20United%20Kingdom%3A%20Corporate%20Cards%20%26%20Expense%20Management&p=https%3A%2F%2Framp.com%2Fen-gb%2F&r=&lt=980&evt=pageLoad&sv=2&cdb=AQAQ&rn=921409",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://cs.playdigo.com/26930c0cb91bdcac9ca7e68d18f50682.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 8276,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://csync.copper6.com/a6541175d0d1408eb1d7202c01a3e56f.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 8278,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://s.ad.smaato.net/c/?dspInit=1518&dspCookie=427a1cf60f56c000d0b555a90576",
+        "rect": {
+          "x": 0,
+          "y": 8279,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://sync.outbrain.com/cookie-sync?p=loudecho&uid=427a1cf60f56c000d0b555a90576&initiator=partner&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 8281,
+          "width": 1,
+          "height": 1
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 7222,
+    "actualTravel": 7382,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://ramp.com/en-gb/",
+    "title": "Ramp United Kingdom: Corporate Cards & Expense Management",
+    "documentHeight": 8282,
+    "contentHeight": 8282,
+    "contentTop": -7382,
+    "scrollY": 7382,
+    "ready": "antialiased",
+    "bodyStyle": {
+      "fontFamily": "Lausanne, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "lab(2.83994 0.367254 0.969091)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "_R_",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "RyuLiveRegionStatus",
+        "tag": "DIV",
+        "rect": {
+          "x": -1,
+          "y": 892,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "RyuLiveRegionAlert",
+        "tag": "DIV",
+        "rect": {
+          "x": -1,
+          "y": 892,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "c076frame",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "batBeacon379111952545",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "li_sync_frame",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": -7382,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "podscribe-request",
+        "tag": "IMG",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "chili-loader",
+        "tag": "IFRAME",
+        "rect": {
+          "x": 0,
+          "y": 8275,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 349,
+          "y": -7253,
+          "width": 742,
+          "height": 46
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 400,
+          "y": -6013,
+          "width": 640,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 104,
+          "y": -5348,
+          "width": 389,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "28px",
+          "lineHeight": "32px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 400,
+          "y": -4823,
+          "width": 640,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 175,
+          "y": -4540,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 175,
+          "y": -4414,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 175,
+          "y": -4341,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 175,
+          "y": -4268,
+          "width": 421,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 39,
+        "rect": {
+          "x": 400,
+          "y": -3341,
+          "width": 640,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(100 0 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 400,
+          "y": -2351,
+          "width": 640,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "40px",
+          "lineHeight": "42px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 88,
+          "y": -2224,
+          "width": 196,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 531,
+          "y": -2224,
+          "width": 178,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 973,
+          "y": -2224,
+          "width": 242,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 88,
+          "y": -1938,
+          "width": 254,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 531,
+          "y": -1938,
+          "width": 108,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 973,
+          "y": -1938,
+          "width": 129,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 64,
+          "y": -1576,
+          "width": 1312,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 64,
+          "y": -1477,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 64,
+          "y": -1406,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 64,
+          "y": -1335,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 64,
+          "y": -1264,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 64,
+          "y": -1193,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 50,
+        "rect": {
+          "x": 64,
+          "y": -1122,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 64,
+          "y": -1051,
+          "width": 1312,
+          "height": 70
+        },
+        "style": {
+          "fontFamily": "Lausanne, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "lab(2.83994 0.367254 0.969091)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://ramp.com/en-gb",
+      "https://ramp.com/customers",
+      "https://ramp.com/en-gb/pricing",
+      "https://app.ramp.com/sign-in",
+      "https://ramp.com/see-a-demo",
+      "https://ramp.com/en-gb/signup",
+      "https://ramp.com/en-gb",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/customers/elevenlabs",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/integrations",
+      "http://ramp.com/en-gb/corporate-cards",
+      "http://ramp.com/en-gb/expense-management",
+      "http://ramp.com/en-gb/accounts-payable",
+      "https://ramp.com/blog/how-to-find-vat-number",
+      "http://ramp.com/en-gb/pricing",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/careers",
+      "https://ramp.com/customers",
+      "https://ramp.com/en-gb/corporate-cards",
+      "https://ramp.com/en-gb/expense-management",
+      "https://ramp.com/en-gb/procurement",
+      "https://ramp.com/en-gb/accounts-payable",
+      "https://trust.ramp.com/",
+      "https://ramp.com/en-gb/accounting-automation-software",
+      "https://ramp.com/en-gb/intelligence",
+      "https://ramp.com/en-gb/reporting",
+      "https://ramp.com/integrations",
+      "https://ramp.com/en-gb/global",
+      "https://apps.apple.com/us/app/ramp/id1628197245?pt=125123265&ct=website-footer-11-17-22&mt=8",
+      "https://play.google.com/store/apps/details?id=com.ramp.android.app",
+      "https://www.linkedin.com/company/ramp",
+      "https://x.com/tryramp",
+      "https://www.facebook.com/rampcard",
+      "https://ramp.com/legal/platform-agreement",
+      "https://ramp.com/editorial-guidelines",
+      "https://ramp.com/legal/privacy-policy",
+      "https://ramp.com/data-privacy-opt-out",
+      "https://apps.apple.com/us/app/ramp/id1628197245?pt=125123265&ct=website-footer-11-17-22&mt=8",
+      "https://play.google.com/store/apps/details?id=com.ramp.android.app",
+      "https://www.linkedin.com/company/ramp",
+      "https://x.com/tryramp",
+      "https://www.facebook.com/rampcard"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/bombora/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/equativ/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/experian/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/eyeota/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/g/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/index/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/l/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/n/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/o/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/pubmatic/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/triplelift/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/x/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipv4.d.adroll.com/seg4/HPBFOULJSRGITHZ4WRAFBE/TL3J4VU4XJBU7PNHS73ILO?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&cookie=&adroll_s_ref=&keyw=&p0=1873&adroll_external_data=&adroll_version=2.0",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.googletagmanager.com/ns.html?id=GTM-WFDFDWP",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/f7642869-a6a1-4a9f-a4cb-5198378e80d7",
+        "poster": "",
+        "width": 2624,
+        "height": 1360
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/f7642869-a6a1-4a9f-a4cb-5198378e80d7",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Visa.355_9vam15bk7.svg",
+        "poster": "",
+        "width": 77,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Attio.19fqyaxe2nqxz.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Shopify.21i20b873241-.svg",
+        "poster": "",
+        "width": 288,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ElevenLabs.0f4kkk953cc86.svg",
+        "poster": "",
+        "width": 171,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Discord.40hgyznlk8qge.svg",
+        "poster": "",
+        "width": 300,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Fyxer.083wa_5qmcixa.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Multiverse.013o2lvaffn-k.svg",
+        "poster": "",
+        "width": 167,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Stripe.2xnggcmadh_n5.svg",
+        "poster": "",
+        "width": 213,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Clay.16mkgjpdf8e7b.webp",
+        "poster": "",
+        "width": 509,
+        "height": 163
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Cursor.229rlgf232hfs.svg",
+        "poster": "",
+        "width": 300,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/Eventbrite.3sinruab-mb3z.svg",
+        "poster": "",
+        "width": 300,
+        "height": 107
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/SoundCloud.3c56ox8gcw-mt.svg",
+        "poster": "",
+        "width": 208,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2Fad193983-a737-46e3-8a16-64b4c52e330f&w=1920&q=75",
+        "poster": "",
+        "width": 1782,
+        "height": 1782
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/1c5a48d6-3905-4373-9b7c-bf42d830bd9a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/1c5a48d6-3905-4373-9b7c-bf42d830bd9a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/fe78c242-9bb1-49d5-af4e-0c2e432ced6a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/fe78c242-9bb1-49d5-af4e-0c2e432ced6a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/5b4af938-1723-4bef-bb61-505ba377964a",
+        "poster": "",
+        "width": 2272,
+        "height": 2048
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/5b4af938-1723-4bef-bb61-505ba377964a",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.air.inc/dc15044a-95e4-4e0e-b5a9-3f36b893266d",
+        "poster": "",
+        "width": 1288,
+        "height": 1160
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.air.inc/dc15044a-95e4-4e0e-b5a9-3f36b893266d",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F9917b108-5f39-48b3-a3cd-d67550a59e56&w=3840&q=75",
+        "poster": "",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F014ec8b6-18e2-4983-a3ba-9167f2b99b97&w=2048&q=75",
+        "poster": "",
+        "width": 2048,
+        "height": 2892
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2F89c018b7-6cca-49e9-adb3-b42bf088f9ee&w=256&q=75",
+        "poster": "",
+        "width": 216,
+        "height": 175
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/image?url=https%3A%2F%2Fcdn.air.inc%2Fc137aeb1-e9e2-4cac-bf62-3d08692fa76a&w=750&q=75",
+        "poster": "",
+        "width": 732,
+        "height": 634
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ObviouslyNyc.1ovv_8ab4uckn.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/AppStoreBadge.2dsx6q2dhtc7z.svg",
+        "poster": "",
+        "width": 81,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/GooglePlayBadge.30zjr_-a14axl.svg",
+        "poster": "",
+        "width": 81,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/ObviouslyNyc.1ovv_8ab4uckn.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/AppStoreBadge.2dsx6q2dhtc7z.svg",
+        "poster": "",
+        "width": 81,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ramp.com/_next/static/immutable/media/GooglePlayBadge.30zjr_-a14axl.svg",
+        "poster": "",
+        "width": 81,
+        "height": 24
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3938919135399013&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1794480599&plat=2%3A16777216%2C9%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32%2C43%3A32%2C44%3A32&format=0x0&url=https%3A%2F%2Framp.com%2Fen-gb%2F&pra=5&aiof=14&asro=0&aimartd=4&uach=WyJtYWNPUyIsIjI3LjIuMSIsImFybSIsIiIsIjE1Ny4wLjgxMDMuNTEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90LUEuQnJhbmQiLCI5OS4wLjAuMCJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ny4wLjgxMDMuNTEiXSxbIkNocm9taXVtIiwiMTU3LjAuODEwMy41MSJdXSwwXQ..&dt=1794480598894&bpp=4&bdt=812&idt=106&shv=r20261111&mjsv=m202611090101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=5547760021566&frm=20&pv=2&u_tz=330&u_his=20&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=16&adx=-12245933&ady=-12245933&biw=1440&bih=900&scr_x=0&scr_y=0&eid=95401822%2C95404664%2C95408436%2C95408908%2C95409065%2C122882144%2C122882147%2C95407167%2C122882174&oid=2&pvsid=7530842444493201&tmod=1209877334&uas=0&nvt=1&fsapi=1&fc=1920&brdim=22%2C22%2C22%2C22%2C800%2C0%2C756%2C556%2C1440%2C900&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&plas=452x505_l%7C452x505_r&bz=0.53&pgls=CAk.&ifi=1&uci=a!1&fsb=1&dtd=141",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://strategicmedia-12-adswizz.attribution.adswizz.com/fire?pixelId=dd320ecd-93d0-4fab-b542-3ed32ef33f5b&type=sitevisit&subtype=PageVisit1&aw_0_req.gdpr=true&redirectURL=aHR0cHM6Ly9waXhlbC50YXBhZC5jb20vaWRzeW5jL2V4L3JlY2VpdmU_cGFydG5lcl9pZD0yOTk0JjwjaWYgcmVxdWVzdC5saXN0ZW5lcklkP21hdGNoZXMoJ1swLTlhLWZdezh9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezEyfScpPnBhcnRuZXJfdHlwZWRfZGlkPSU3QiUyMkhBUkRXQVJFX0FORFJPSURfQURfSUQlMjIlM0ElMjIke3JlcXVlc3QubGlzdGVuZXJJZH0lMjIlN0Q8I2Vsc2VpZiByZXF1ZXN0Lmxpc3RlbmVySWQ_bWF0Y2hlcygnWzAtOUEtRl17OH0tWzAtOUEtRl17NH0tWzAtOUEtRl17NH0tWzAtOUEtRl17NH0tWzAtOUEtRl17MTJ9Jyk-cGFydG5lcl90eXBlZF9kaWQ9JTdCJTIySEFSRFdBUkVfSURGQSUyMiUzQSUyMiR7cmVxdWVzdC5saXN0ZW5lcklkfSUyMiU3RDwjZWxzZT5wYXJ0bmVyX2RldmljZV9pZD0ke3JlcXVlc3QubGlzdGVuZXJJZCF9PC8jaWY-",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=355&buzz_key=dsp&value=&segment_key=&account_id=54&order=[ORDER]&ord=[CACHEBUSTER]",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cnv.event.prod.bidr.io/log/cnv?tag_id=659&buzz_key=ua&value=&segment_key=&account_id=108&ord=5005514843",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://trkn.us/pixel/conv/ppt=25729;g=sitewide;gid=65494;ord=360bc8a1-bd08-4728-b734-e86633bcb852",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://analytics.o11.tech/a/ts_.htm?ver=1.2141.277&cid=c076#cdmn=analytics.o11.tech&lm=e&tt=tcs.dhj&aqet=pv&pubid=d61a58d685f8a665b025bac54359d668&evid=483db6d1-1b69-4e52-aea5-e36df107d17e&dmn=ramp.com&cid=c076&lbl=c076&flbl=pxcel&ll=e&ver=1.2141.277&ell=e&cck=_autid&pn=%2Fen-gb%2F&qs=na&rdn=ramp.com&rpn=%2Fen-gb%2F&rqs=na&ipaddr=MTgyLjc3LjY4LjEzMA%3D%3D&cc=IN&cont=AS&rc=DL",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84d2b492-54ab-4296-993d-c09833bb81cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&tw_session_start=1&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84d2b492-54ab-4296-993d-c09833bb81cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&tw_session_start=1&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://ramp-com.chilipiper.com/web-data/deanonymization/iframe/?tenantId=ramp.financial&parentOrigin=https%3A%2F%2Framp.com&debug=error&consentDenied=false",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=56376157&Ver=2&mid=f1111e21-776d-4686-81a8-83c6b10a92be&bo=1&sid=cf1cb430de8611f1a50b630a373783b8&vid=cf1ca7b0de8611f1a1504bccb25a6f47&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Ramp%20United%20Kingdom%3A%20Corporate%20Cards%20%26%20Expense%20Management&p=https%3A%2F%2Framp.com%2Fen-gb%2F&r=&lt=980&evt=pageLoad&sv=2&cdb=AQAQ&rn=921409",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://api.vector.co/pixel/phoenix/sync-container?duid=306cd0a5fff5--01m77p1x9mpm7w3z2y02avkdpr&ds=did-006l&euns=1&s=&version=v3.17.0&cd=.ramp.com&pv=a91dab42-0be8-418a-b7ef-808de8363fd7",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://verifi.podscribe.com/tag?action=view&user_id=b71eff5b-e366-423f-86a2-269a0ec95bbc&advertiser=ramp&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Framp.com%2Fen-gb%2F&device_id=360bc8a1-bd08-4728-b734-e86633bcb852&first_visited_at=1794480600401&stid=&ipv4=182.77.68.130&ipv6=&url=https%3A%2F%2Framp.com%2Fen-gb%2F&event_url=https%3A%2F%2Framp.com%2Fen-gb%2F&source=js-tag+v1.2.3&cachebust=1794480601797",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://ramp-com.chilipiper.com/chat/loader/?embedOrigin=https%3A%2F%2Framp.com&workspaceId=fef2da9a-11bc-48f7-bd29-1762b38b7d10&tenantId=ramp.financial&tabId=1e4c4cc8-de01-48c0-8b75-8611351ae50e",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://t.co/i/adsct?bci=4&cv=98%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=05cd4fb0-d06a-4f99-bdb6-1e02403e8ad5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=98%260&dv=Asia%2FCalcutta%26en-GB%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%26800%26600%268%2624%26800%26600%260%26na%261&eci=2&event_id=05cd4fb0-d06a-4f99-bdb6-1e02403e8ad5&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4a6aa8be-2e9c-4298-b87f-3cfee02fc7ca&tw_ch_fvl=Not-A.Brand%2F99.0.0.0%2CGoogle%20Chrome%2F157.0.8103.51%2CChromium%2F157.0.8103.51&tw_ch_pv=27.2.1&tw_document_href=https%3A%2F%2Framp.com%2Fen-gb%2F&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1794480599976-759283022&twpid=tw.1794480599976.666724385508638721&txn_id=o6r93&type=javascript&version=2.4.12",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://googleads.g.doubleclick.net/pagead/html/r20261111/r20190131/zrt_lookup.html",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.ck-ie.com/tz17712529524212.gif?gdpr=undefined&gdpr_consent=[GDPR_CONSENT]&puid=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cs.playdigo.com/26930c0cb91bdcac9ca7e68d18f50682.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://eu-rtbstack-cm.admixer.net/cm?client=c4527281-5aa5-4c8e-bc53-a80bb3f99470&dsp=124&partnerUserID=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://csync.copper6.com/a6541175d0d1408eb1d7202c01a3e56f.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://s.ad.smaato.net/c/?dspInit=1518&dspCookie=427a1cf60f56c000d0b555a90576",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQxOTImdGw9MTI5NjAw&piggybackCookie=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://sync.outbrain.com/cookie-sync?p=loudecho&uid=427a1cf60f56c000d0b555a90576&initiator=partner&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 180000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 10000,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=ab37cab0d738e5ef5f5b342147f810c8-1794480601060&pv=17721829923.53635&arrfrr=https%3A%2F%2Framp.com%2Fen-gb%2F&advertisable=HPBFOULJSRGITHZ4WRAFBE",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=56376157&Ver=2&mid=f1111e21-776d-4686-81a8-83c6b10a92be&bo=1&sid=cf1cb430de8611f1a50b630a373783b8&vid=cf1ca7b0de8611f1a1504bccb25a6f47&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Ramp%20United%20Kingdom%3A%20Corporate%20Cards%20%26%20Expense%20Management&p=https%3A%2F%2Framp.com%2Fen-gb%2F&r=&lt=980&evt=pageLoad&sv=2&cdb=AQAQ&rn=921409",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://cs.playdigo.com/26930c0cb91bdcac9ca7e68d18f50682.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 894,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://csync.copper6.com/a6541175d0d1408eb1d7202c01a3e56f.gif?puid=427a1cf60f56c000d0b555a90576&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 896,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://s.ad.smaato.net/c/?dspInit=1518&dspCookie=427a1cf60f56c000d0b555a90576",
+        "rect": {
+          "x": 0,
+          "y": 897,
+          "width": 1,
+          "height": 1
+        }
+      },
+      {
+        "url": "https://sync.outbrain.com/cookie-sync?p=loudecho&uid=427a1cf60f56c000d0b555a90576&initiator=partner&gdpr=undefined&gdpr_consent=[GDPR_CONSENT]",
+        "rect": {
+          "x": 0,
+          "y": 899,
+          "width": 1,
+          "height": 1
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [
+    "Uncaught"
+  ],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 8203,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

@@ -40,7 +40,7 @@
     {
       "name": "captures",
       "path": "data/landing-pages.json",
-      "count": 57,
+      "count": 93,
       "evidence": "local-recordings-and-dom-facts"
     },
     {
@@ -59,6 +59,24 @@
       "name": "media-resources",
       "path": "data/video-resources.json",
       "count": 297,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "google-fonts",
+      "path": "data/google-fonts.json",
+      "count": 1961,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "threejs",
+      "path": "data/threejs-examples.json",
+      "count": 623,
+      "evidence": "linked-metadata"
+    },
+    {
+      "name": "icons",
+      "path": "data/open-icons.json",
+      "count": 7285,
       "evidence": "linked-metadata"
     }
   ],

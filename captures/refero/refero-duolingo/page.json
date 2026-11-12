@@ -1,0 +1,1735 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-duolingo",
+  "name": "Duolingo — homepage",
+  "url": "https://www.duolingo.com/",
+  "source": "https://styles.refero.design/style/95b472c5-fc07-46a8-a11f-c5432e290fcd",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:47:58.521Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.duolingo.com/robots.txt",
+    "checkedAt": "2026-11-12T10:47:58.521Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/sessions/"
+      },
+      {
+        "allow": false,
+        "path": "/extend_session/"
+      },
+      {
+        "allow": false,
+        "path": "/session_element_solutions/"
+      },
+      {
+        "allow": false,
+        "path": "/friendships/"
+      },
+      {
+        "allow": false,
+        "path": "/vocabularies/"
+      },
+      {
+        "allow": false,
+        "path": "/diagnostics/"
+      },
+      {
+        "allow": false,
+        "path": "/skills/"
+      },
+      {
+        "allow": false,
+        "path": "/translations/"
+      },
+      {
+        "allow": false,
+        "path": "/translation/"
+      },
+      {
+        "allow": false,
+        "path": "/contribute/"
+      },
+      {
+        "allow": false,
+        "path": "/documents/"
+      },
+      {
+        "allow": false,
+        "path": "/matchmaker/"
+      },
+      {
+        "allow": false,
+        "path": "/logger/"
+      },
+      {
+        "allow": false,
+        "path": "/events/"
+      },
+      {
+        "allow": false,
+        "path": "/facebook/"
+      },
+      {
+        "allow": false,
+        "path": "/twitter/"
+      },
+      {
+        "allow": false,
+        "path": "/words/"
+      },
+      {
+        "allow": false,
+        "path": "/translate_jobs/"
+      },
+      {
+        "allow": false,
+        "path": "/oauth/"
+      },
+      {
+        "allow": false,
+        "path": "/data/"
+      },
+      {
+        "allow": false,
+        "path": "/unsubscribe"
+      },
+      {
+        "allow": false,
+        "path": "/deactivate"
+      },
+      {
+        "allow": false,
+        "path": "/pm/"
+      },
+      {
+        "allow": false,
+        "path": "/profile/"
+      },
+      {
+        "allow": false,
+        "path": "/register/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 0,
+        "contentTop": 900,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 831,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 0,
+        "contentTop": 900,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2950,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 1797,
+        "contentTop": -897,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5354,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 4004,
+        "contentTop": -3104,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7621,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 5675,
+        "contentTop": -4775,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9235,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.duolingo.com/",
+        "scrollY": 6903,
+        "contentTop": -6003,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://www.duolingo.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.duolingo.com/2023-05-23/config",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.duolingo.com/api/1/courses/list",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.duolingo.com/api/1/sync/batch",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://www.duolingo.com/manifest.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://www.duolingo.com/users/undefined/streak-goal-current",
+      "status": 404,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.duolingo.com/users/undefined/streak-goal-next-options",
+      "status": 404,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://zombie.duolingo.com/0/web.json",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 51058,
+      "sha256": "2aa14a46bdbea7d97039e394a5a7a1b11f233d8189b4e854f7cf61568cae7e55"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 51543,
+      "sha256": "1fd34d5d78fae753dc88b1333c8f77c7d27e1fa74ed3eaafda0091e0b1443da5"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 45479,
+      "sha256": "1f5eba0be76297bb1f9b377b2fb4355c85bd50e8a732ddd16dc626a38bafb286"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 37460,
+      "sha256": "0f9786c710cc4d300d4df8cb6f0e6dd91f3fba1f8780a26427f7e25cbe6d8971"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 59792,
+      "sha256": "dbdef96a6b5cff3a584c50a516f13a0f3b9d6873591a317c68ab7ed067dc28c5"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 42105,
+      "sha256": "4f89ac9e1437fac6f182095812f7941898653c19ddd741a39506fcf39da8869e"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 282109,
+      "sha256": "fb352a1dbb955e0ac587878f6bc4a02e4e72c3ca31329378975ee970054085c4"
+    }
+  ],
+  "initial": {
+    "url": "https://www.duolingo.com/",
+    "title": "Duolingo - The world’s most popular way to learn",
+    "documentHeight": 7803,
+    "contentHeight": 7803,
+    "contentTop": 900,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sans-serif",
+      "fontSize": "17px",
+      "lineHeight": "20px",
+      "fontWeight": "400",
+      "color": "rgb(241, 247, 251)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 53,
+        "rect": {
+          "x": 734,
+          "y": 325,
+          "width": 480,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "duolingo-sans, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(75, 75, 75)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 226,
+          "y": 1183,
+          "width": 457,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 741,
+          "y": 1713,
+          "width": 435,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 226,
+          "y": 2243,
+          "width": 374,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 711,
+          "y": 2755,
+          "width": 503,
+          "height": 120
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 429,
+          "y": 3352,
+          "width": 583,
+          "height": 160
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(4, 44, 96)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 226,
+          "y": 5647,
+          "width": 502,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 429,
+          "y": 6163,
+          "width": 583,
+          "height": 160
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.duolingo.com/",
+      "https://www.duolingo.com/register",
+      "https://www.duolingo.com/course/en/en/Learn-English",
+      "https://www.duolingo.com/chess",
+      "https://www.duolingo.com/math",
+      "https://www.duolingo.com/course/es/en/Learn-Spanish",
+      "https://www.duolingo.com/course/fr/en/Learn-French",
+      "https://www.duolingo.com/course/de/en/Learn-German",
+      "https://www.duolingo.com/course/it/en/Learn-Italian",
+      "https://www.duolingo.com/course/pt/en/Learn-Portuguese",
+      "https://www.duolingo.com/course/nl-NL/en/Learn-Dutch",
+      "https://www.duolingo.com/course/ja/en/Learn-Japanese",
+      "https://www.duolingo.com/course/ar/en/Learn-Arabic",
+      "https://www.duolingo.com/course/cs/en/Learn-Czech",
+      "https://www.duolingo.com/course/cy/en/Learn-Welsh",
+      "https://www.duolingo.com/course/da/en/Learn-Danish",
+      "https://www.duolingo.com/course/el/en/Learn-Greek",
+      "https://www.duolingo.com/course/eo/en/Learn-Esperanto",
+      "https://www.duolingo.com/course/fi/en/Learn-Finnish",
+      "https://www.duolingo.com/course/ga/en/Learn-Irish",
+      "https://www.duolingo.com/course/gd/en/Learn-Scottish%20Gaelic",
+      "https://www.duolingo.com/course/he/en/Learn-Hebrew",
+      "https://www.duolingo.com/course/hi/en/Learn-Hindi",
+      "https://www.duolingo.com/course/ht/en/Learn-Haitian%20Creole",
+      "https://www.duolingo.com/course/hu/en/Learn-Hungarian",
+      "https://www.duolingo.com/course/hv/en/Learn-High%20Valyrian",
+      "https://www.duolingo.com/course/hw/en/Learn-Hawaiian",
+      "https://www.duolingo.com/course/id/en/Learn-Indonesian",
+      "https://www.duolingo.com/course/ko/en/Learn-Korean",
+      "https://www.duolingo.com/course/la/en/Learn-Latin",
+      "https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l",
+      "https://www.duolingo.com/course/nv/en/Learn-Navajo",
+      "https://www.duolingo.com/course/pl/en/Learn-Polish",
+      "https://www.duolingo.com/course/ro/en/Learn-Romanian",
+      "https://www.duolingo.com/course/ru/en/Learn-Russian",
+      "https://www.duolingo.com/course/sv/en/Learn-Swedish",
+      "https://www.duolingo.com/course/sw/en/Learn-Swahili",
+      "https://www.duolingo.com/course/tlh/en/Learn-Klingon",
+      "https://www.duolingo.com/course/tr/en/Learn-Turkish",
+      "https://www.duolingo.com/course/uk/en/Learn-Ukrainian",
+      "https://www.duolingo.com/course/vi/en/Learn-Vietnamese",
+      "https://www.duolingo.com/course/yi/en/Learn-Yiddish",
+      "https://www.duolingo.com/course/zh/en/Learn-Chinese%20Simplified",
+      "https://www.duolingo.com/course/zu/en/Learn-Zulu",
+      "https://www.duolingo.com/efficacy",
+      "https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8",
+      "https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsplash",
+      "https://englishtest.duolingo.com/en",
+      "https://www.duolingo.com/register",
+      "https://www.duolingo.com/courses",
+      "https://about.duolingo.com/",
+      "https://about.duolingo.com/",
+      "https://www.duolingo.com/efficacy",
+      "https://duolingo.com/handbook",
+      "https://research.duolingo.com/",
+      "https://careers.duolingo.com/#careers",
+      "https://store.duolingo.com/",
+      "https://press.duolingo.com/",
+      "https://investors.duolingo.com/",
+      "https://about.duolingo.com/#contact",
+      "https://www.duolingo.com/",
+      "https://schools.duolingo.com/",
+      "https://englishtest.duolingo.com/en",
+      "https://podcast.duolingo.com/",
+      "https://www.duolingo.com/business",
+      "https://www.duolingo.com/super",
+      "https://www.duolingo.com/gift",
+      "https://blog.duolingo.com/duolingo-max/",
+      "https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsite_map",
+      "https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8",
+      "https://www.duolingo.com/help",
+      "https://duolingoschools.zendesk.com/hc/en-us",
+      "https://englishtest.duolingo.com/faq",
+      "https://status.duolingo.com/",
+      "https://www.duolingo.com/guidelines",
+      "https://www.duolingo.com/terms",
+      "https://www.duolingo.com/privacy",
+      "https://about.duolingo.com/?dnsspi#dnsspi",
+      "https://blog.duolingo.com/",
+      "https://www.instagram.com/duolingo",
+      "https://www.tiktok.com/@duolingo",
+      "https://twitter.com/duolingo",
+      "https://www.youtube.com/user/duolingo",
+      "https://www.linkedin.com/company/duolingo",
+      "https://ar.duolingo.com/",
+      "https://bn.duolingo.com/",
+      "https://cs.duolingo.com/",
+      "https://de.duolingo.com/",
+      "https://el.duolingo.com/",
+      "https://en.duolingo.com/",
+      "https://es.duolingo.com/",
+      "https://fr.duolingo.com/",
+      "https://hi.duolingo.com/",
+      "https://hu.duolingo.com/",
+      "https://id.duolingo.com/",
+      "https://it.duolingo.com/",
+      "https://ja.duolingo.com/",
+      "https://kn.duolingo.com/",
+      "https://ko.duolingo.com/",
+      "https://mr.duolingo.com/",
+      "https://dn.duolingo.com/",
+      "https://pa.duolingo.com/",
+      "https://pl.duolingo.com/",
+      "https://pt.duolingo.com/",
+      "https://ro.duolingo.com/",
+      "https://ru.duolingo.com/",
+      "https://sv.duolingo.com/",
+      "https://ta.duolingo.com/",
+      "https://te.duolingo.com/",
+      "https://th.duolingo.com/",
+      "https://tl.duolingo.com/",
+      "https://tr.duolingo.com/",
+      "https://uk.duolingo.com/",
+      "https://ur.duolingo.com/",
+      "https://vi.duolingo.com/",
+      "https://zs.duolingo.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/f92d5f2f7d56636846861c458c0d0b6c.svg",
+        "poster": "",
+        "width": 179,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/c6eae48dd48246c89e415b89f9e55282.svg",
+        "poster": "",
+        "width": 14,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbe17e16aa4a106032d8e3521eaed13e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c8bad7c09aaf7bc29ddddc50808adb54.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/395c8a6ee9783610b578b02fda405e85.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/59a90a2cedd48b751a8fd22014768fd7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/482fda142ee4abd728ebf4ccce5d3307.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c71db846ffab7e0a74bc6971e34ad82e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/635a09df9323279d39934a991edd4510.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/27d253ae1272917fc9f4a79459aacd53.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/de945d789e249dcd74333a6996472ef8.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/edea4fa18ff3e7d8c0282de3f102aaed.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/9ab6930a263c981b57f9d578ac97cae7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/828bf0fea457d3beaaab3d6c0bfcc975.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f773f1b240623072e48843ecdf90d756.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/6af84a7cb8e99ea8a567c2b9c55b9926.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/8db373482261397a3159d3f370eed2f3.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/6de7e4731b2a82a6458268e1a3d67ce4.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/b4d0e4f6451f504e1441eb93efdbea5e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ef0bfb96037b127473bd7bcbfde1a6ed.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/09eba3135efe8fe93a4662dba813b921.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f818f545a703ddaa046ca8786e781742.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/73837fa39dbf1bcc4c95a17a58ed0ffb.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/8cb302b44c183c1a8ec3b90caf90d922.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2ed8d0a73eab3c9cba0290e2b459684a.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2880099b038848abbfd11104097953ad.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/312e21f793c555787d01a45e20ee8191.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/339c0413e542f19b234971d7740447e7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ec5835ac9f465ff3dad4b1b8725d4314.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f7cee6cc09270371b097129faf792c2a.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/90b37d97edc66e830dc2286279548f67.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbc8ad0cfe2596d5193376ebdc3e969c.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f095084e6ec400e631d62c3d95fefaa2.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/357e13bb10cf86fc06552d563957e2e6.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/eadd7804652170c33814a89482f1f353.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f578430c9b7ab617c107893afbb501c0.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/335311988405b4354e1b6ae9037c02db.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/76d654213a8282b0ebc25b4f535ee003.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bc80a9518cd6d5af6ae14e8b22b8a1f4.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7c6e12bc57527843082f7f5bb77c9862.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2b077d42185bc45d4896ed55f15c4fea.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/55bad151fa6a8d9e2376fc9697c671c8.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/9905aa3a86fcb9e351b0b3bfaf04d8b9.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/112e1531d0ac198a9424bd1b0a7166e6.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/23ab11cb1e1a9aff54facdf57833373d.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/08ec8d0260c55c054e1b97bcbc96ea0f.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/833a22b2834050d139f266a29899bb00.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/9d3c2c99dd19996319a372f79b2ed3c1.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/229d5f88cc9df2eb0b68f39466500911.svg",
+        "poster": "",
+        "width": 267,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/22fce01f6df43e0472d7585afad9a43a.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/3a733db6d6873e1a915f70cf72554ce3.svg",
+        "poster": "",
+        "width": 606,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/a50e95b2b4e8c91d610b9c7318389c1e.svg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/890eb76de9a395b182c1c28322721405.svg",
+        "poster": "",
+        "width": 272,
+        "height": 150
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.recaptcha.net/recaptcha/enterprise/anchor?ar=1&k=6LcLOdsjAAAAAFfwGusLLnnn492SOGhsCh-uEAvI&co=aHR0cHM6Ly93d3cuZHVvbGluZ28uY29tOjQ0Mw..&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=madb4znxbg54",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6743,
+    "actualTravel": 6903,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.duolingo.com/",
+    "title": "Duolingo - The world’s most popular way to learn",
+    "documentHeight": 7803,
+    "contentHeight": 7803,
+    "contentTop": -6003,
+    "scrollY": 6903,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "sans-serif",
+      "fontSize": "17px",
+      "lineHeight": "20px",
+      "fontWeight": "400",
+      "color": "rgb(241, 247, 251)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 53,
+        "rect": {
+          "x": 734,
+          "y": -6578,
+          "width": 480,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "duolingo-sans, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(75, 75, 75)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 226,
+          "y": -5720,
+          "width": 457,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 741,
+          "y": -5190,
+          "width": 435,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 226,
+          "y": -4660,
+          "width": 374,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 711,
+          "y": -4148,
+          "width": 503,
+          "height": 120
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 429,
+          "y": -3551,
+          "width": 583,
+          "height": 160
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(4, 44, 96)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 226,
+          "y": -1256,
+          "width": 502,
+          "height": 60
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 429,
+          "y": -740,
+          "width": 583,
+          "height": 160
+        },
+        "style": {
+          "fontFamily": "feather, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "normal",
+          "fontWeight": "700",
+          "color": "rgb(88, 204, 2)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.duolingo.com/",
+      "https://www.duolingo.com/register",
+      "https://www.duolingo.com/register",
+      "https://www.duolingo.com/course/en/en/Learn-English",
+      "https://www.duolingo.com/chess",
+      "https://www.duolingo.com/math",
+      "https://www.duolingo.com/course/es/en/Learn-Spanish",
+      "https://www.duolingo.com/course/fr/en/Learn-French",
+      "https://www.duolingo.com/course/de/en/Learn-German",
+      "https://www.duolingo.com/course/it/en/Learn-Italian",
+      "https://www.duolingo.com/course/pt/en/Learn-Portuguese",
+      "https://www.duolingo.com/course/nl-NL/en/Learn-Dutch",
+      "https://www.duolingo.com/course/ja/en/Learn-Japanese",
+      "https://www.duolingo.com/course/ar/en/Learn-Arabic",
+      "https://www.duolingo.com/course/cs/en/Learn-Czech",
+      "https://www.duolingo.com/course/cy/en/Learn-Welsh",
+      "https://www.duolingo.com/course/da/en/Learn-Danish",
+      "https://www.duolingo.com/course/el/en/Learn-Greek",
+      "https://www.duolingo.com/course/eo/en/Learn-Esperanto",
+      "https://www.duolingo.com/course/fi/en/Learn-Finnish",
+      "https://www.duolingo.com/course/ga/en/Learn-Irish",
+      "https://www.duolingo.com/course/gd/en/Learn-Scottish%20Gaelic",
+      "https://www.duolingo.com/course/he/en/Learn-Hebrew",
+      "https://www.duolingo.com/course/hi/en/Learn-Hindi",
+      "https://www.duolingo.com/course/ht/en/Learn-Haitian%20Creole",
+      "https://www.duolingo.com/course/hu/en/Learn-Hungarian",
+      "https://www.duolingo.com/course/hv/en/Learn-High%20Valyrian",
+      "https://www.duolingo.com/course/hw/en/Learn-Hawaiian",
+      "https://www.duolingo.com/course/id/en/Learn-Indonesian",
+      "https://www.duolingo.com/course/ko/en/Learn-Korean",
+      "https://www.duolingo.com/course/la/en/Learn-Latin",
+      "https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l",
+      "https://www.duolingo.com/course/nv/en/Learn-Navajo",
+      "https://www.duolingo.com/course/pl/en/Learn-Polish",
+      "https://www.duolingo.com/course/ro/en/Learn-Romanian",
+      "https://www.duolingo.com/course/ru/en/Learn-Russian",
+      "https://www.duolingo.com/course/sv/en/Learn-Swedish",
+      "https://www.duolingo.com/course/sw/en/Learn-Swahili",
+      "https://www.duolingo.com/course/tlh/en/Learn-Klingon",
+      "https://www.duolingo.com/course/tr/en/Learn-Turkish",
+      "https://www.duolingo.com/course/uk/en/Learn-Ukrainian",
+      "https://www.duolingo.com/course/vi/en/Learn-Vietnamese",
+      "https://www.duolingo.com/course/yi/en/Learn-Yiddish",
+      "https://www.duolingo.com/course/zh/en/Learn-Chinese%20Simplified",
+      "https://www.duolingo.com/course/zu/en/Learn-Zulu",
+      "https://www.duolingo.com/efficacy",
+      "https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8",
+      "https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsplash",
+      "https://englishtest.duolingo.com/en",
+      "https://www.duolingo.com/register",
+      "https://www.duolingo.com/courses",
+      "https://about.duolingo.com/",
+      "https://about.duolingo.com/",
+      "https://www.duolingo.com/efficacy",
+      "https://duolingo.com/handbook",
+      "https://research.duolingo.com/",
+      "https://careers.duolingo.com/#careers",
+      "https://store.duolingo.com/",
+      "https://press.duolingo.com/",
+      "https://investors.duolingo.com/",
+      "https://about.duolingo.com/#contact",
+      "https://www.duolingo.com/",
+      "https://schools.duolingo.com/",
+      "https://englishtest.duolingo.com/en",
+      "https://podcast.duolingo.com/",
+      "https://www.duolingo.com/business",
+      "https://www.duolingo.com/super",
+      "https://www.duolingo.com/gift",
+      "https://blog.duolingo.com/duolingo-max/",
+      "https://play.google.com/store/apps/details?hl=en&id=com.duolingo&referrer=utm_source%3Dduolingo.com%26utm_medium%3Dduolingo_web%26utm_content%3Ddownload_button%26utm_campaign%3Dsite_map",
+      "https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128?mt=8",
+      "https://www.duolingo.com/help",
+      "https://duolingoschools.zendesk.com/hc/en-us",
+      "https://englishtest.duolingo.com/faq",
+      "https://status.duolingo.com/",
+      "https://www.duolingo.com/guidelines",
+      "https://www.duolingo.com/terms",
+      "https://www.duolingo.com/privacy",
+      "https://about.duolingo.com/?dnsspi#dnsspi",
+      "https://blog.duolingo.com/",
+      "https://www.instagram.com/duolingo",
+      "https://www.tiktok.com/@duolingo",
+      "https://twitter.com/duolingo",
+      "https://www.youtube.com/user/duolingo",
+      "https://www.linkedin.com/company/duolingo",
+      "https://ar.duolingo.com/",
+      "https://bn.duolingo.com/",
+      "https://cs.duolingo.com/",
+      "https://de.duolingo.com/",
+      "https://el.duolingo.com/",
+      "https://en.duolingo.com/",
+      "https://es.duolingo.com/",
+      "https://fr.duolingo.com/",
+      "https://hi.duolingo.com/",
+      "https://hu.duolingo.com/",
+      "https://id.duolingo.com/",
+      "https://it.duolingo.com/",
+      "https://ja.duolingo.com/",
+      "https://kn.duolingo.com/",
+      "https://ko.duolingo.com/",
+      "https://mr.duolingo.com/",
+      "https://dn.duolingo.com/",
+      "https://pa.duolingo.com/",
+      "https://pl.duolingo.com/",
+      "https://pt.duolingo.com/",
+      "https://ro.duolingo.com/",
+      "https://ru.duolingo.com/",
+      "https://sv.duolingo.com/",
+      "https://ta.duolingo.com/",
+      "https://te.duolingo.com/",
+      "https://th.duolingo.com/",
+      "https://tl.duolingo.com/",
+      "https://tr.duolingo.com/",
+      "https://uk.duolingo.com/",
+      "https://ur.duolingo.com/",
+      "https://vi.duolingo.com/",
+      "https://zs.duolingo.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/f92d5f2f7d56636846861c458c0d0b6c.svg",
+        "poster": "",
+        "width": 179,
+        "height": 42
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbe17e16aa4a106032d8e3521eaed13e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c8bad7c09aaf7bc29ddddc50808adb54.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/395c8a6ee9783610b578b02fda405e85.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/59a90a2cedd48b751a8fd22014768fd7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/482fda142ee4abd728ebf4ccce5d3307.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c71db846ffab7e0a74bc6971e34ad82e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/635a09df9323279d39934a991edd4510.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/27d253ae1272917fc9f4a79459aacd53.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/de945d789e249dcd74333a6996472ef8.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/edea4fa18ff3e7d8c0282de3f102aaed.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/9ab6930a263c981b57f9d578ac97cae7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/828bf0fea457d3beaaab3d6c0bfcc975.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f773f1b240623072e48843ecdf90d756.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/6af84a7cb8e99ea8a567c2b9c55b9926.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/8db373482261397a3159d3f370eed2f3.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/6de7e4731b2a82a6458268e1a3d67ce4.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/b4d0e4f6451f504e1441eb93efdbea5e.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ef0bfb96037b127473bd7bcbfde1a6ed.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/09eba3135efe8fe93a4662dba813b921.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f818f545a703ddaa046ca8786e781742.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/73837fa39dbf1bcc4c95a17a58ed0ffb.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/8cb302b44c183c1a8ec3b90caf90d922.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2ed8d0a73eab3c9cba0290e2b459684a.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2880099b038848abbfd11104097953ad.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/312e21f793c555787d01a45e20ee8191.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/339c0413e542f19b234971d7740447e7.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ec5835ac9f465ff3dad4b1b8725d4314.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f7cee6cc09270371b097129faf792c2a.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/90b37d97edc66e830dc2286279548f67.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbc8ad0cfe2596d5193376ebdc3e969c.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f095084e6ec400e631d62c3d95fefaa2.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/357e13bb10cf86fc06552d563957e2e6.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/eadd7804652170c33814a89482f1f353.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/f578430c9b7ab617c107893afbb501c0.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/335311988405b4354e1b6ae9037c02db.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/76d654213a8282b0ebc25b4f535ee003.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bc80a9518cd6d5af6ae14e8b22b8a1f4.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7c6e12bc57527843082f7f5bb77c9862.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/2b077d42185bc45d4896ed55f15c4fea.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/55bad151fa6a8d9e2376fc9697c671c8.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/9905aa3a86fcb9e351b0b3bfaf04d8b9.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/vendor/112e1531d0ac198a9424bd1b0a7166e6.svg",
+        "poster": "",
+        "width": 70,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/23ab11cb1e1a9aff54facdf57833373d.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/08ec8d0260c55c054e1b97bcbc96ea0f.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/833a22b2834050d139f266a29899bb00.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/9d3c2c99dd19996319a372f79b2ed3c1.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/229d5f88cc9df2eb0b68f39466500911.svg",
+        "poster": "",
+        "width": 267,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/22fce01f6df43e0472d7585afad9a43a.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/3a733db6d6873e1a915f70cf72554ce3.svg",
+        "poster": "",
+        "width": 606,
+        "height": 88
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/a50e95b2b4e8c91d610b9c7318389c1e.svg",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d35aaqx5ub95lt.cloudfront.net/images/splash/lottie/890eb76de9a395b182c1c28322721405.svg",
+        "poster": "",
+        "width": 272,
+        "height": 150
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://www.recaptcha.net/recaptcha/enterprise/anchor?ar=1&k=6LcLOdsjAAAAAFfwGusLLnnn492SOGhsCh-uEAvI&co=aHR0cHM6Ly93d3cuZHVvbGluZ28uY29tOjQ0Mw..&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=madb4znxbg54",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9235,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

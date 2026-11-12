@@ -15,7 +15,20 @@ const COLLECTIONS = {
   lusion:            { file: 'lusion.json',              label: 'Lusion index',     short: 'Lusion',     dot: '#fb923c' },
   fonts:             { file: 'envato-award-fonts.json',  label: 'Fonts',            short: 'Font',       dot: '#e879f9' },
   'media-resources': { file: 'video-resources.json',     label: 'Resources',        short: 'Resource',   dot: '#94a3b8' },
+  'google-fonts':    { file: 'google-fonts.json',        label: 'Google Fonts',     short: 'Google Font', dot: '#60a5fa' },
+  threejs:           { file: 'threejs-examples.json',    label: 'Three.js',         short: 'Three.js',   dot: '#22d3ee' },
+  icons:             { file: 'open-icons.json',          label: 'Icons',            short: 'Icon',       dot: '#c084fc' },
 };
+const loadedFonts = new Set();
+function loadGoogleFont(family) {
+  // only the glyphs of the family name are requested (text=), so each card costs a few KB
+  if (loadedFonts.has(family) || loadedFonts.size > 400) return;
+  loadedFonts.add(family);
+  const l = document.createElement('link');
+  l.rel = 'stylesheet';
+  l.href = `https://fonts.googleapis.com/css2?family=${encodeURIComponent(family).replace(/%20/g, '+')}&text=${encodeURIComponent(family + 'Aa')}&display=swap`;
+  document.head.append(l);
+}
 const PAGE = 36;
 const BASE = new URL('../', location.href);
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -41,8 +54,11 @@ function safeUrl(value) {
   if (typeof value !== 'string' || !value || value.startsWith('//')) return null;
   try { const u = new URL(value, BASE); return ['http:', 'https:'].includes(u.protocol) ? u.href : null; } catch { return null; }
 }
+const REPO_BLOB = 'https://github.com/satiricalguru/Frontend-Library/blob/main/';
 function link(text, value, cls = 'pill') {
   const a = node('a', cls, text);
+  // repo Markdown renders on GitHub; served raw by the static host it would show as plain text
+  if (typeof value === 'string' && /^(?![a-z]+:|\/\/)[\w./-]+\.md$/i.test(value)) value = REPO_BLOB + value.replace(/^\.?\//, '');
   const href = safeUrl(value);
   a.href = href || '#';
   if (href && new URL(href).origin !== location.origin) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
@@ -96,6 +112,34 @@ function visual(item, { large = false } = {}) {
     v.append(node('small', '', [item.theme, item.category].filter(Boolean).join(' · ')), node('b', '', item.name), bar);
     return v;
   }
+  if (c === 'codrops' && safeUrl(item.preview)) {
+    const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Preview of ${item.name}`;
+    img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
+    img.addEventListener('error', () => img.replaceWith(typeVisual(item, v)), { once: true });
+    v.append(img, node('span', 'badge', item.kind === 'article-reference' ? 'article' : 'demo repo'));
+    return v;
+  }
+  if (c === 'threejs' && safeUrl(item.preview)) {
+    const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Screenshot of the three.js example ${item.name}`;
+    img.loading = 'lazy'; img.decoding = 'async';
+    img.addEventListener('error', () => img.replaceWith(typeVisual(item, v)), { once: true });
+    v.append(img, node('span', 'badge', item.category));
+    return v;
+  }
+  if (c === 'icons' && safeUrl(item.svg)) {
+    v.classList.add('v-icon');
+    const img = node('img'); img.src = safeUrl(item.svg); img.alt = `${item.name} icon`; img.loading = 'lazy'; img.decoding = 'async';
+    img.width = 64; img.height = 64;
+    v.append(img, node('span', 'k', item.set));
+    return v;
+  }
+  if (c === 'google-fonts') {
+    loadGoogleFont(item.name);
+    v.classList.add('v-font', 'gf');
+    const b = node('b', '', item.name); b.style.fontFamily = `'${item.name.replace(/'/g, '')}', var(--display)`;
+    v.append(b, node('span', 'k', [item.category, item.axes?.length ? 'variable' : `${item.styles} styles`].filter(Boolean).join(' · ')));
+    return v;
+  }
   if (c === 'fonts') {
     const cat = item.category || '';
     const cls = cat.includes('script') ? 'script' : cat === 'serif' ? 'serif' : cat === 'decorative' ? 'decorative' : 'sans';
@@ -120,7 +164,7 @@ function typeVisual(item, v = node('div', 'card-visual')) {
 function subtitle(item) {
   const bits = [];
   if (item.collection === 'styles') bits.push((item.fonts || []).slice(0, 2).join(', '));
-  else if (item.collection === 'captures') bits.push((item.tags || []).filter((t) => t !== 'lusion').slice(0, 3).join(' · '));
+  else if (item.collection === 'captures') bits.push([item.group === 'refero' ? 'brand homepage · via Refero' : 'Lusion', ...(item.tags || []).filter((t) => t !== 'lusion' && t !== 'refero' && t !== 'landing-page').slice(0, 2)].join(' · '));
   else if (item.description) bits.push(item.description);
   else bits.push([item.category, ...(item.tags || [])].filter(Boolean).slice(0, 3).join(' · '));
   return bits.join(' ').trim() || domain(item.url);
@@ -180,6 +224,10 @@ function openDrawer(item) {
     row(dl, 'Colors', wrap);
   }
   row(dl, 'Typefaces', item.fonts);
+  row(dl, 'Designers', item.designers);
+  row(dl, 'Styles', item.styles);
+  row(dl, 'Variable axes', item.axes);
+  row(dl, 'Icon set', item.set);
   row(dl, 'Theme', item.theme);
   row(dl, 'Category', item.category || item.section);
   row(dl, 'Platform', item.platform);
@@ -196,6 +244,9 @@ function openDrawer(item) {
   const open = link('Open original ↗', item.url, 'pill pill--solid'); links.append(open);
   if (item.remix) links.append(link('Remix ↗', item.remix));
   if (item.demo) links.append(link('Live demo ↗', item.demo));
+  if (item.code) links.append(link('Source code ↗', item.code));
+  if (item.svg) links.append(link('SVG ↗', item.svg));
+  if (item.cssUrl) { const b = node('button', 'pill', 'Copy CSS link'); b.type = 'button'; b.addEventListener('click', () => copy(item.cssUrl)); links.append(b); }
   if (item.guide) links.append(link('Capture notes', item.guide));
   if (item.record) links.append(link('Evidence JSON', item.record));
   if (item.localDesignPath) links.append(link('Read DESIGN.md', item.localDesignPath));
@@ -219,6 +270,10 @@ function records() {
 function compute() {
   const words = state.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const list = records().filter((it) => (!state.theme || it.theme === state.theme) && words.every((w) => it.searchText.includes(w)));
+  if (!words.length && state.type === 'codrops') {
+    // lead with entries that have a real preview image; link-only articles go last
+    list.sort((a, b) => Number(!!b.preview) - Number(!!a.preview));
+  }
   if (words.length) {
     const score = (it) => words.reduce((s, w) => s + (it.nameLower.startsWith(w) ? 3 : it.nameLower.includes(w) ? 2 : 0), 0);
     list.sort((a, b) => score(b) - score(a));
@@ -275,6 +330,7 @@ function sync() {
   themesEl.querySelectorAll('button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.theme === state.theme)));
   document.querySelectorAll('[data-view]').forEach((b) => { if (b.tagName === 'BUTTON') b.setAttribute('aria-pressed', String(b.dataset.view === state.view)); });
   grid.dataset.view = state.view;
+  grid.dataset.type = state.type;
   state.shown = PAGE;
   render();
 }
@@ -308,8 +364,10 @@ function ensure(kind) {
   if (kind === 'all') return Promise.all(Object.keys(COLLECTIONS).map(ensure));
   if (loaded[kind]) return Promise.resolve();
   if (!pending[kind]) {
-    pending[kind] = fetch(new URL(`data/${COLLECTIONS[kind].file}`, BASE))
-      .then((r) => { if (!r.ok) throw new Error(`Could not load ${COLLECTIONS[kind].file} (${r.status})`); return r.json(); })
+    const url = new URL(`data/${COLLECTIONS[kind].file}`, BASE);
+    const attempt = () => fetch(url).then((r) => { if (!r.ok) throw new Error(`Could not load ${COLLECTIONS[kind].file} (${r.status})`); return r.json(); });
+    // one retry: a single network hiccup shouldn't take the whole viewer down
+    pending[kind] = attempt().catch(() => new Promise((res) => setTimeout(res, 900)).then(attempt))
       .then((data) => {
         loaded[kind] = data.items.map((it) => ({ ...it, collection: kind, nameLower: String(it.name || '').toLowerCase(), searchText: JSON.stringify(it).toLowerCase() }));
         if (state.type === kind || state.type === 'all') render();

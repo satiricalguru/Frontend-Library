@@ -1,0 +1,3044 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-spline",
+  "name": "Spline — homepage",
+  "url": "https://spline.design/",
+  "source": "https://styles.refero.design/style/b36d5c7c-9b28-4c99-b5a8-69ce03621410",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:52:47.506Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://spline.design/robots.txt",
+    "checkedAt": "2026-11-12T10:52:47.505Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 0,
+        "contentTop": 65,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top",
+          "h-hero"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1062,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 0,
+        "contentTop": 65,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top",
+          "h-hero"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3064,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 2002,
+        "contentTop": -1937,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top",
+          "agents",
+          "work",
+          "h-work"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 9512,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 4465,
+        "contentTop": -4400,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top",
+          "h-review",
+          "export"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 14383,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 6327,
+        "contentTop": -6262,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top",
+          "export"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 16626,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://spline.design/",
+        "scrollY": 7677,
+        "contentTop": -7612,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "top"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://cdn.spline.design/_assets/_videos/mars-rover-v2.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://prod.spline.design/glfgXBW2B4o-p1kM/scene.splinecode",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://prod.spline.design/k6LtAOpIg6SufYQ4/scene.splinecode",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://prod.spline.design/LBcuzYYUJP9DQsMY/scene.splinecode",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://prod.spline.design/ZIloIOkaB5v3Q89d/scene.splinecode",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://spline.design/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://spline.design/_next/static/build-TfctsWXpff2fKS/_buildManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/build-TfctsWXpff2fKS/_clientMiddlewareManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/build-TfctsWXpff2fKS/_ssgManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/01q_x0ipsu21t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/031hkivwp00rl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0a69djan1tjr7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0co_4fasbpfxx.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0ku46a1_75hc8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0kzky39-7lytq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0ndf-0d6skkqg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/0u6zjg2-5y-id.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/15-3d0s336fyt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/174cx3wqo3l85.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/185zsuh67m_3i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1dp3b3-2_b134.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1fsp8x-nyjxbo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1grxdm6is38j2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1iyjcq8qs4l1d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1j224fcthqp0-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1v5uk49jr862w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1z4r92nc4zljy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/1zctro7oxk-f2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2-mwy5fx37iis.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/20-njnkbz2dj7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2ee_sdkgjot__.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2g_irgam3w0h-.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2hv13bqo5rdy6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2np4dtzgehab7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2nuy6827w_v3c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2pr3v0lwum_ai.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2s9cqqczq5uxx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/2xozgc-9951q6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/32j5-1nampwiq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/390u0r0-q1qiv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3b80of5cvyjem.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3dvw5r735vyhf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3fdm301xd5gj9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3oqsyaew-qmah.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3ru_0y9489ehv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/3xxov452le3ws.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/401kwbll_gn-8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/40u2h84_urmef.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/chunks/turbopack-3h_ctkfaeun7f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/media/07a39a8a4660cc7c-s.p.1v5bejj26fx9h.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/media/605ce01b664af129-s.p.0zr6hhvz-h9nw.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/api/geoip",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://spline.design/fonts/SplineSans-Medium.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://spline.design/fonts/SplineSans-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://spline.design/images/customers/Alloy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/amazon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/andrew-oscilar.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/Giphy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/google.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/koji-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/Luma.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/meta.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/microsoft.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/openai.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/oscilar-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/pavel-koji.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/resend-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/scale.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/shopify.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/snapchat.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/webflow.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/customers/zeh-resend.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/editor/matcap.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/editor/physical.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/showcase/brand-marketing-640.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/showcase/mars-rover.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/home-v2/showcase/water-simulation-640.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://spline.design/images/icon_favicon16x16.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://spline.design/images/icon_favicon32x32.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 45052,
+      "sha256": "f0aa876e9d628904b7daa0a5f62bf489d8cf405f505370d7fde07bc438b59161"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 45982,
+      "sha256": "6a783cd81f7332601fedb106d2e94923316d4acff265898cfd7763c1be95ff16"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 73946,
+      "sha256": "81a73e6d088e1a658270cefda767884f8e11b9cd06357c9a0a97753640233df3"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 55869,
+      "sha256": "9e93c1da3b39cb5668052701b947059f276d390eabe5b9438d39f225248129b8"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 77622,
+      "sha256": "3482389505047365be89eaad84394812650b2837d4941765451c875cb819168a"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 47255,
+      "sha256": "9975abface412831586a387693e388e89b8b474de01cb596df69bb8ccb313e15"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 294548,
+      "sha256": "a89b66b0adc37a9b347eed9184c3e5f3a9239ed69ce6cc79a3d89ccc8be73c40"
+    }
+  ],
+  "initial": {
+    "url": "https://spline.design/",
+    "title": "Spline - Free 3D Design Tool in Your Browser",
+    "documentHeight": 8577,
+    "contentHeight": 8577,
+    "contentTop": 65,
+    "scrollY": 0,
+    "ready": "_1L8nha_variable IBZpSa_variable",
+    "bodyStyle": {
+      "fontFamily": "\"Spline Sans\", system-ui, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "h-hero",
+        "characters": 43,
+        "rect": {
+          "x": 505,
+          "y": 213,
+          "width": 430,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-flow",
+        "characters": 37,
+        "rect": {
+          "x": 60,
+          "y": 1820,
+          "width": 644,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 60,
+          "y": 2264,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 401,
+          "y": 2264,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 742,
+          "y": 2264,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 1082,
+          "y": 2264,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-work",
+        "characters": 46,
+        "rect": {
+          "x": 380,
+          "y": 2656,
+          "width": 680,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 350,
+          "y": 3360,
+          "width": 353,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-build",
+        "characters": 33,
+        "rect": {
+          "x": 860,
+          "y": 3754,
+          "width": 520,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-review",
+        "characters": 31,
+        "rect": {
+          "x": 60,
+          "y": 4653,
+          "width": 520,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-export",
+        "characters": 34,
+        "rect": {
+          "x": 60,
+          "y": 5427,
+          "width": 644,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 60,
+          "y": 6321,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 514,
+          "y": 6321,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 969,
+          "y": 6321,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-voices",
+        "characters": 27,
+        "rect": {
+          "x": 60,
+          "y": 6689,
+          "width": 644,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-cta",
+        "characters": 20,
+        "rect": {
+          "x": 60,
+          "y": 7508,
+          "width": 747,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 60,
+          "y": 8178,
+          "width": 297,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 492,
+          "y": 8058,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 492,
+          "y": 8358,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 720,
+          "y": 8058,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 720,
+          "y": 8204,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 948,
+          "y": 8058,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1176,
+          "y": 8058,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1176,
+          "y": 8204,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 986,
+        "height": 675,
+        "rect": {
+          "x": 377,
+          "y": 806,
+          "width": 986,
+          "height": 675
+        }
+      },
+      {
+        "id": "",
+        "width": 986,
+        "height": 675,
+        "rect": {
+          "x": 377,
+          "y": 806,
+          "width": 986,
+          "height": 675
+        }
+      },
+      {
+        "id": "",
+        "width": 52,
+        "height": 52,
+        "rect": {
+          "x": 1299,
+          "y": 1417,
+          "width": 52,
+          "height": 52
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": -114,
+          "y": 3731,
+          "width": 597,
+          "height": 531
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 967,
+          "y": 4591,
+          "width": 587,
+          "height": 531
+        }
+      }
+    ],
+    "links": [
+      "https://spline.design/",
+      "https://spline.design/customers",
+      "https://spline.design/enterprise",
+      "https://spline.design/pricing",
+      "https://spline.design/enterprise",
+      "https://app.spline.design/signin?site_version=v2&site_landing=%2F&site_page=%2F",
+      "https://app.spline.design/arena",
+      "https://spline.design/mcp",
+      "https://app.spline.design/new?prompt=A%20rover%20you%20can%20drive%20across%20red%20Mars%20dunes",
+      "https://spline.design/ai-generate",
+      "https://spline.design/mcp",
+      "https://spline.design/3d-design",
+      "https://spline.design/web",
+      "https://spline.design/ios",
+      "https://spline.design/android",
+      "https://spline.design/customers/oscilar",
+      "https://spline.design/customers/resend",
+      "https://spline.design/customers/koji-studio",
+      "https://app.spline.design/signin",
+      "https://spline.design/mcp",
+      "https://spline.design/",
+      "https://chatgpt.com/?prompt=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://claude.ai/new?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://www.google.com/search?udm=50&q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://www.perplexity.ai/search?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://grok.com/?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://spline.design/3d-design",
+      "https://spline.design/hana",
+      "https://omma.build/",
+      "https://spline.design/ai-generate",
+      "https://spline.design/mcp",
+      "https://spline.design/arena",
+      "https://spline.design/pricing",
+      "https://spline.design/enterprise",
+      "https://spline.design/web",
+      "https://spline.design/ios",
+      "https://spline.design/android",
+      "https://spline.design/download",
+      "https://spline.design/spline-mirror",
+      "https://spline.design/download-mirror",
+      "https://docs.spline.design/",
+      "https://spline.design/academy",
+      "https://www.npmjs.com/package/@splinetool/runtime",
+      "https://spline.design/solutions",
+      "https://community.spline.design/",
+      "https://spline.design/blog",
+      "https://spline.design/changelog",
+      "https://spline.design/education",
+      "https://spline.design/contra",
+      "https://spline.design/affiliate",
+      "https://spline.design/customers",
+      "https://www.ycombinator.com/companies/spline/jobs",
+      "https://spline.design/security",
+      "https://spline.design/terms",
+      "https://spline.design/privacy",
+      "https://twitter.com/splinetool",
+      "https://instagram.com/splinetool",
+      "https://www.youtube.com/@splinetool",
+      "https://www.tiktok.com/@splinedesign",
+      "https://discord.gg/M9hNDMqvnw"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/phong.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/scale.svg",
+        "poster": "",
+        "width": 83,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/google.svg",
+        "poster": "",
+        "width": 88,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/shopify.svg",
+        "poster": "",
+        "width": 106,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/amazon.svg",
+        "poster": "",
+        "width": 94,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Giphy.svg",
+        "poster": "",
+        "width": 85,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/webflow.svg",
+        "poster": "",
+        "width": 130,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Alloy.svg",
+        "poster": "",
+        "width": 100,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/openai.svg",
+        "poster": "",
+        "width": 96,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/microsoft.svg",
+        "poster": "",
+        "width": 128,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Luma.svg",
+        "poster": "",
+        "width": 67,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/meta.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/snapchat.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/forbes.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/siemens.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/burton.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/scale.svg",
+        "poster": "",
+        "width": 83,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/google.svg",
+        "poster": "",
+        "width": 88,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/shopify.svg",
+        "poster": "",
+        "width": 106,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/amazon.svg",
+        "poster": "",
+        "width": 94,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Giphy.svg",
+        "poster": "",
+        "width": 85,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/webflow.svg",
+        "poster": "",
+        "width": 130,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Alloy.svg",
+        "poster": "",
+        "width": 100,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/openai.svg",
+        "poster": "",
+        "width": 96,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/microsoft.svg",
+        "poster": "",
+        "width": 128,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Luma.svg",
+        "poster": "",
+        "width": 67,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/meta.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/snapchat.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/forbes.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/siemens.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/burton.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/mars-rover-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/water-simulation-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/construction-site-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/interactive-website-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/brand-marketing-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/physical.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/matcap.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/physical.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/oscilar-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/andrew-oscilar.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/resend-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/zeh-resend.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/koji-logo.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/pavel-koji.png",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 900,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 900,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 48000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 8000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 5000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 7517,
+    "actualTravel": 7677,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://spline.design/",
+    "title": "Spline - Free 3D Design Tool in Your Browser",
+    "documentHeight": 8577,
+    "contentHeight": 8577,
+    "contentTop": -7612,
+    "scrollY": 7677,
+    "ready": "_1L8nha_variable IBZpSa_variable",
+    "bodyStyle": {
+      "fontFamily": "\"Spline Sans\", system-ui, -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "h-hero",
+        "characters": 43,
+        "rect": {
+          "x": 505,
+          "y": -7464,
+          "width": 430,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-flow",
+        "characters": 37,
+        "rect": {
+          "x": 60,
+          "y": -5857,
+          "width": 644,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 60,
+          "y": -5413,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 401,
+          "y": -5413,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 742,
+          "y": -5413,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 1082,
+          "y": -5413,
+          "width": 298,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-work",
+        "characters": 46,
+        "rect": {
+          "x": 380,
+          "y": -5021,
+          "width": 680,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 350,
+          "y": -4317,
+          "width": 353,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-build",
+        "characters": 33,
+        "rect": {
+          "x": 860,
+          "y": -3923,
+          "width": 520,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-review",
+        "characters": 31,
+        "rect": {
+          "x": 60,
+          "y": -3024,
+          "width": 520,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-export",
+        "characters": 34,
+        "rect": {
+          "x": 60,
+          "y": -2250,
+          "width": 644,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 60,
+          "y": -1356,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 514,
+          "y": -1356,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 969,
+          "y": -1356,
+          "width": 411,
+          "height": 30
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "30px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-voices",
+        "characters": 27,
+        "rect": {
+          "x": 60,
+          "y": -988,
+          "width": 644,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "h-cta",
+        "characters": 20,
+        "rect": {
+          "x": 60,
+          "y": -169,
+          "width": 747,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "Geist, \"Geist Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontSize": "56px",
+          "lineHeight": "64px",
+          "fontWeight": "450",
+          "color": "rgba(255, 255, 255, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 60,
+          "y": 501,
+          "width": 297,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 492,
+          "y": 381,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 492,
+          "y": 681,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 720,
+          "y": 381,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 720,
+          "y": 527,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 948,
+          "y": 381,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1176,
+          "y": 381,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1176,
+          "y": 527,
+          "width": 204,
+          "height": 17
+        },
+        "style": {
+          "fontFamily": "\"Geist Mono\", \"Geist Mono Fallback\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "11px",
+          "lineHeight": "17.05px",
+          "fontWeight": "400",
+          "color": "rgb(138, 138, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 986,
+        "height": 675,
+        "rect": {
+          "x": 377,
+          "y": -6967,
+          "width": 986,
+          "height": 675
+        }
+      },
+      {
+        "id": "",
+        "width": 986,
+        "height": 675,
+        "rect": {
+          "x": 377,
+          "y": -6967,
+          "width": 986,
+          "height": 675
+        }
+      },
+      {
+        "id": "",
+        "width": 52,
+        "height": 52,
+        "rect": {
+          "x": 1299,
+          "y": -6356,
+          "width": 52,
+          "height": 52
+        }
+      },
+      {
+        "id": "",
+        "width": 597,
+        "height": 531,
+        "rect": {
+          "x": -114,
+          "y": -3946,
+          "width": 597,
+          "height": 531
+        }
+      },
+      {
+        "id": "",
+        "width": 597,
+        "height": 531,
+        "rect": {
+          "x": -114,
+          "y": -3946,
+          "width": 597,
+          "height": 531
+        }
+      },
+      {
+        "id": "",
+        "width": 587,
+        "height": 531,
+        "rect": {
+          "x": 967,
+          "y": -3086,
+          "width": 587,
+          "height": 531
+        }
+      },
+      {
+        "id": "",
+        "width": 587,
+        "height": 531,
+        "rect": {
+          "x": 967,
+          "y": -3086,
+          "width": 587,
+          "height": 531
+        }
+      },
+      {
+        "id": "",
+        "width": 1320,
+        "height": 640,
+        "rect": {
+          "x": 100,
+          "y": -1950,
+          "width": 1241,
+          "height": 602
+        }
+      }
+    ],
+    "links": [
+      "https://spline.design/",
+      "https://spline.design/customers",
+      "https://spline.design/enterprise",
+      "https://spline.design/pricing",
+      "https://spline.design/enterprise",
+      "https://app.spline.design/signin?site_version=v2&site_landing=%2F&site_page=%2F",
+      "https://app.spline.design/arena",
+      "https://spline.design/mcp",
+      "https://app.spline.design/new?prompt=A%20rover%20you%20can%20drive%20across%20red%20Mars%20dunes",
+      "https://spline.design/ai-generate",
+      "https://spline.design/mcp",
+      "https://spline.design/3d-design",
+      "https://spline.design/web",
+      "https://spline.design/ios",
+      "https://spline.design/android",
+      "https://spline.design/customers/oscilar",
+      "https://spline.design/customers/resend",
+      "https://spline.design/customers/koji-studio",
+      "https://app.spline.design/signin",
+      "https://spline.design/mcp",
+      "https://spline.design/",
+      "https://chatgpt.com/?prompt=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://claude.ai/new?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://www.google.com/search?udm=50&q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://www.perplexity.ai/search?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://grok.com/?q=I%20want%20to%20understand%20Spline%2C%20a%203D%20design%20tool%20for%20building%20interactive%203D%20and%202D%20experiences%20with%20your%20team%20and%20AI%20agents%2C%20and%20shipping%20them%20to%20the%20web%2C%20iOS%20and%20Android.%20Use%20web%20search%20to%20read%20their%20website%20at%20https%3A%2F%2Fspline.design%20(with%20an%20agent-readable%20summary%20at%20https%3A%2F%2Fspline.design%2Fllms.txt)%20and%20their%20docs%20at%20https%3A%2F%2Fdocs.spline.design%20(with%20its%20own%20at%20https%3A%2F%2Fdocs.spline.design%2Fllms.txt)%2C%20then%20summarise%20what%20Spline%20does%2C%20its%20main%20features%2C%20and%20what%20makes%20it%20different%20from%20other%203D%20design%20tools.",
+      "https://spline.design/3d-design",
+      "https://spline.design/hana",
+      "https://omma.build/",
+      "https://spline.design/ai-generate",
+      "https://spline.design/mcp",
+      "https://spline.design/arena",
+      "https://spline.design/pricing",
+      "https://spline.design/enterprise",
+      "https://spline.design/web",
+      "https://spline.design/ios",
+      "https://spline.design/android",
+      "https://spline.design/download",
+      "https://spline.design/spline-mirror",
+      "https://spline.design/download-mirror",
+      "https://docs.spline.design/",
+      "https://spline.design/academy",
+      "https://www.npmjs.com/package/@splinetool/runtime",
+      "https://spline.design/solutions",
+      "https://community.spline.design/",
+      "https://spline.design/blog",
+      "https://spline.design/changelog",
+      "https://spline.design/education",
+      "https://spline.design/contra",
+      "https://spline.design/affiliate",
+      "https://spline.design/customers",
+      "https://www.ycombinator.com/companies/spline/jobs",
+      "https://spline.design/security",
+      "https://spline.design/terms",
+      "https://spline.design/privacy",
+      "https://twitter.com/splinetool",
+      "https://instagram.com/splinetool",
+      "https://www.youtube.com/@splinetool",
+      "https://www.tiktok.com/@splinedesign",
+      "https://discord.gg/M9hNDMqvnw"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/phong.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/gradient.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/scale.svg",
+        "poster": "",
+        "width": 83,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/google.svg",
+        "poster": "",
+        "width": 88,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/shopify.svg",
+        "poster": "",
+        "width": 106,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/amazon.svg",
+        "poster": "",
+        "width": 94,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Giphy.svg",
+        "poster": "",
+        "width": 85,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/webflow.svg",
+        "poster": "",
+        "width": 130,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Alloy.svg",
+        "poster": "",
+        "width": 100,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/openai.svg",
+        "poster": "",
+        "width": 96,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/microsoft.svg",
+        "poster": "",
+        "width": 128,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Luma.svg",
+        "poster": "",
+        "width": 67,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/meta.svg",
+        "poster": "",
+        "width": 119,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/snapchat.svg",
+        "poster": "",
+        "width": 50,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/forbes.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/siemens.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/burton.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/scale.svg",
+        "poster": "",
+        "width": 83,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/google.svg",
+        "poster": "",
+        "width": 88,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/shopify.svg",
+        "poster": "",
+        "width": 106,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/amazon.svg",
+        "poster": "",
+        "width": 94,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Giphy.svg",
+        "poster": "",
+        "width": 85,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/webflow.svg",
+        "poster": "",
+        "width": 130,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Alloy.svg",
+        "poster": "",
+        "width": 100,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/openai.svg",
+        "poster": "",
+        "width": 96,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/microsoft.svg",
+        "poster": "",
+        "width": 128,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/Luma.svg",
+        "poster": "",
+        "width": 67,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/meta.svg",
+        "poster": "",
+        "width": 119,
+        "height": 25
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/snapchat.svg",
+        "poster": "",
+        "width": 50,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/forbes.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/siemens.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/burton.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/mars-rover.webp",
+        "poster": "",
+        "width": 792,
+        "height": 445
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/water-simulation-640.webp",
+        "poster": "",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/construction-site-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/interactive-website-640.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/showcase/brand-marketing-640.webp",
+        "poster": "",
+        "width": 640,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/physical.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/matcap.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/physical.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/home-v2/editor/fresnel.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/oscilar-logo.svg",
+        "poster": "",
+        "width": 130,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/andrew-oscilar.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/resend-logo.svg",
+        "poster": "",
+        "width": 300,
+        "height": 63
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/zeh-resend.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/koji-logo.svg",
+        "poster": "",
+        "width": 36,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/images/customers/pavel-koji.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://spline.design/_next/static/immutable/media/spline-logo-128.30a2cr50ow49g.webp",
+        "poster": "",
+        "width": 128,
+        "height": 128
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": "auto",
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 48000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 8000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 5000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 350,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1200,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 16626,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

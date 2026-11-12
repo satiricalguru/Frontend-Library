@@ -1,0 +1,4663 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-dollar-shave-club",
+  "name": "Dollar Shave Club — homepage",
+  "url": "https://www.dollarshaveclub.com/",
+  "source": "https://styles.refero.design/style/6d72f05e-dce6-43ad-9532-f61bf211ed46",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:55:38.134Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.dollarshaveclub.com/robots.txt",
+    "checkedAt": "2026-11-12T10:55:38.126Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/products/account"
+      },
+      {
+        "allow": true,
+        "path": "/products/orders"
+      },
+      {
+        "allow": true,
+        "path": "/products/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/*/products/account"
+      },
+      {
+        "allow": true,
+        "path": "/*/products/orders"
+      },
+      {
+        "allow": true,
+        "path": "/*/products/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/collections/account"
+      },
+      {
+        "allow": true,
+        "path": "/collections/orders"
+      },
+      {
+        "allow": true,
+        "path": "/collections/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/*/collections/account"
+      },
+      {
+        "allow": true,
+        "path": "/*/collections/orders"
+      },
+      {
+        "allow": true,
+        "path": "/*/collections/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/pages/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/*/pages/checkout"
+      },
+      {
+        "allow": true,
+        "path": "/blogs/*account"
+      },
+      {
+        "allow": true,
+        "path": "/blogs/*orders"
+      },
+      {
+        "allow": true,
+        "path": "/blogs/*checkout"
+      },
+      {
+        "allow": true,
+        "path": "/*/blogs/*account"
+      },
+      {
+        "allow": true,
+        "path": "/*/blogs/*orders"
+      },
+      {
+        "allow": true,
+        "path": "/*/blogs/*checkout"
+      },
+      {
+        "allow": false,
+        "path": "/admin"
+      },
+      {
+        "allow": false,
+        "path": "/cart/"
+      },
+      {
+        "allow": false,
+        "path": "/*/cart/"
+      },
+      {
+        "allow": false,
+        "path": "/checkout"
+      },
+      {
+        "allow": false,
+        "path": "/*/checkout"
+      },
+      {
+        "allow": false,
+        "path": "/checkouts/"
+      },
+      {
+        "allow": false,
+        "path": "/*/checkouts/"
+      },
+      {
+        "allow": false,
+        "path": "/orders"
+      },
+      {
+        "allow": false,
+        "path": "/*/orders"
+      },
+      {
+        "allow": true,
+        "path": "/account/login"
+      },
+      {
+        "allow": true,
+        "path": "/*/account/login"
+      },
+      {
+        "allow": false,
+        "path": "/account"
+      },
+      {
+        "allow": false,
+        "path": "/*/account"
+      },
+      {
+        "allow": false,
+        "path": "/56839438384"
+      },
+      {
+        "allow": false,
+        "path": "/cdn/wpm/*.js"
+      },
+      {
+        "allow": false,
+        "path": "/services"
+      },
+      {
+        "allow": false,
+        "path": "/sf_*"
+      },
+      {
+        "allow": false,
+        "path": "/.well-known/shopify/monorail"
+      },
+      {
+        "allow": false,
+        "path": "/cart.js"
+      },
+      {
+        "allow": false,
+        "path": "/*/cart.js"
+      },
+      {
+        "allow": false,
+        "path": "/recommendations/products"
+      },
+      {
+        "allow": false,
+        "path": "/*/recommendations/products"
+      },
+      {
+        "allow": false,
+        "path": "/collections/*sort_by*"
+      },
+      {
+        "allow": false,
+        "path": "/*/collections/*sort_by*"
+      },
+      {
+        "allow": false,
+        "path": "/collections/*+*"
+      },
+      {
+        "allow": false,
+        "path": "/collections/*%2B*"
+      },
+      {
+        "allow": false,
+        "path": "/collections/*%2b*"
+      },
+      {
+        "allow": false,
+        "path": "/*/collections/*+*"
+      },
+      {
+        "allow": false,
+        "path": "/*/collections/*%2B*"
+      },
+      {
+        "allow": false,
+        "path": "/*/collections/*%2b*"
+      },
+      {
+        "allow": false,
+        "path": "/collections/*filter*&*filter*"
+      },
+      {
+        "allow": false,
+        "path": "/*/collections/*filter*&*filter*"
+      },
+      {
+        "allow": false,
+        "path": "/blogs/*+*"
+      },
+      {
+        "allow": false,
+        "path": "/blogs/*%2B*"
+      },
+      {
+        "allow": false,
+        "path": "/blogs/*%2b*"
+      },
+      {
+        "allow": false,
+        "path": "/*/blogs/*+*"
+      },
+      {
+        "allow": false,
+        "path": "/*/blogs/*%2B*"
+      },
+      {
+        "allow": false,
+        "path": "/*/blogs/*%2b*"
+      },
+      {
+        "allow": false,
+        "path": "/*?*ls=*&ls=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?*ls%3*ls%3*"
+      },
+      {
+        "allow": false,
+        "path": "/*?*oseid=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?*preview_theme_id=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?*preview_script_id=*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 0,
+        "contentTop": 121,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__custom_liquid_jVPUhg",
+          "shopify-section-template--18751524438064__custom_liquid_9cxNEW",
+          "dscTrack",
+          "CartDrawer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 3259,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 0,
+        "contentTop": 121,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__custom_liquid_jVPUhg",
+          "shopify-section-template--18751524438064__custom_liquid_9cxNEW",
+          "dscTrack",
+          "CartDrawer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 6729,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 1735,
+        "contentTop": -1614,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-4",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__multicolumn_DGjez3",
+          "Slider-template--18751524438064__multicolumn_DGjez3",
+          "Slide-template--18751524438064__multicolumn_DGjez3-1",
+          "Slide-template--18751524438064__multicolumn_DGjez3-2",
+          "Slide-template--18751524438064__multicolumn_DGjez3-3",
+          "shopify-section-template--18751524438064__multicolumn_iNkHw7",
+          "Slider-template--18751524438064__multicolumn_iNkHw7",
+          "Slide-template--18751524438064__multicolumn_iNkHw7-1",
+          "Slide-template--18751524438064__multicolumn_iNkHw7-2",
+          "Slide-template--18751524438064__multicolumn_iNkHw7-3",
+          "shopify-section-template--18751524438064__image_hero_with_text_k7DBKH",
+          "Hero-template--18751524438064__image_hero_with_text_k7DBKH",
+          "CartDrawer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 8750,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 3874,
+        "contentTop": -3753,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-4",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__custom_liquid_C7TVFW",
+          "videoCarousel",
+          "shopify-section-template--18751524438064__centered_product_carousel_XFiiVc",
+          "CenteredCarouselHeading-template--18751524438064__centered_product_carousel_XFiiVc",
+          "CenteredCarousel-template--18751524438064__centered_product_carousel_XFiiVc",
+          "swiper-wrapper-69bca6eeebc42085",
+          "CartDrawer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 10518,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 5489,
+        "contentTop": -5368,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-4",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__component_accordion_97TPKx",
+          "shopify-section-template--18751524438064__image_with_text_g7Fcdi",
+          "ImageWithText--template--18751524438064__image_with_text_g7Fcdi",
+          "CartDrawer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 12608,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://us.dollarshaveclub.com/",
+        "scrollY": 6680,
+        "contentTop": -6559,
+        "pageTransform": "none",
+        "visibleIds": [
+          "best-sellers",
+          "predictive-search-results-best-sellers",
+          "predictive-search-option-product-1",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-2",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-3",
+          "discount-estimate-sections--18751532433456__header",
+          "predictive-search-option-product-4",
+          "discount-estimate-sections--18751532433456__header",
+          "MainContent",
+          "shopify-section-template--18751524438064__image_with_text_g7Fcdi",
+          "shopify-section-sections--18751532400688__footer_XRUrRH",
+          "accordion-explore",
+          "Details-explore-footer",
+          "Collapsible-explore-footer",
+          "accordion-customer-service",
+          "Details-customer-service-footer",
+          "Collapsible-customer-service-footer",
+          "accordion-column-3",
+          "Details-column-3-footer",
+          "Collapsible-column-3-footer",
+          "CartDrawer"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://i.us.dollarshaveclub.com/nb-collector",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "XHR"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/.well-known/shopify/fec/produce",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Ping"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/.well-known/shopify/monorail/unstable/produce_batch",
+      "status": 200,
+      "mimeType": "",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/a/elevar/browser/bulk",
+      "status": 204,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/a/elevar/static/configs/0e234869721045807356579739d3763970537cb7/config.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/a/elevar/static/getelevar/3.40.0/dl-app-embed-block.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/api/collect",
+      "status": 204,
+      "mimeType": "",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/apps/loggedincustomer",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cart.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "XHR"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_1_1.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_2.png",
+      "status": 200,
+      "mimeType": "image/jxl",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_1.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_4.jpg",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/1_BodyWash-Groupshot.png",
+      "status": 200,
+      "mimeType": "image/jxl",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/2blade_hp_hero__desktop-v2.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/4B-DTC-Image_1.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/50_Routine_Blocks_3_1c87daab-1090-480f-9067-2287353f74d3.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/AntiP_Seaspray_Amber_2.7_oz.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/assets-logo-stacked-orange_3x_d3a0487c-4de7-44fe-9400-88fd1410289a.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Blades_a9f2f96c-3b37-44d5-b4af-82fbc46db847.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/dollar-shave-club-body-shaver-handle-SKU.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/dsc_favicon.png",
+      "status": 200,
+      "mimeType": "image/jxl",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/DTC-BRE-6B-Best-Image7.jpg",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/face_hero.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Guarantee_ed94924b-10d7-4c73-bb6c-866fe0a86284.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/heavy-metal-handles-fan-1400.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/NRP_Mini__beard_oil_PDP_Product-Transparent.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/PDP-Handle-Hero_2048x2048-BRE.gif",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Perks-Subscribe_db155369-af7e-4b60-8ee6-71491868cec5.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Post_Shave_Dew_3.4_oz.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Prep_Scrub_3_oz.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Price_697e81ef-25ca-46ed-8399-0b5cd0ea15a0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Products-Subscribe.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/sbs.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Schedule-Subscribe_09e815eb-f609-4434-a7a6-3d2ba59754d6.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Shave_Cream_6_oz.png",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/base.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.cart-cross-sell.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.cart-cross-sell.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.component-cart-drawer.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.header.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.runtime.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.theme.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.theme.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.vendors-alpine.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.vendors-swiper.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/bundle.vendors.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/cape-bootstrap.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/cart-drawer.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/cart.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/collapsible-content.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-accordion.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-card.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-cart-cross-sell.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-cart.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-discounts.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-image-with-text.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-list-menu.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-list-social.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-predictive-search.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-price.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-search.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-slider.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-slideshow.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/component-totals.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/constants.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/details-disclosure.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/details-modal.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/DSC_Specter-Black.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/DSC_Specter-Bold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/DSC_Specter-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/global.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/ketch.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/klaviyo-mystery-gift.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/klaviyo-mystery-gift.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/predictive-search.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/pubsub.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/quantity-popover.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/quantity-popover.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/quick-add.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/quick-add.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/search-form.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/387/assets/section-footer.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/80/assets/DSC_Specter-Black.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/80/assets/DSC_Specter-Bold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shop/t/80/assets/DSC_Specter-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/071c0ba4.xaz7A-s-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/0754daa8.xIJgsBwl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/0f5b1987.90y-2X2F.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/10dab80e.DsFCPlVL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/1493337c.tsWNH931.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/164ad2e3.C-5qLE0Z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/17324a0b.G5wsI9SL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/17db3e71.CgKx-UyP.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/17f6d6d8.DIM9bjlh.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/19286c78.DY691Pur.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/1befea5c.BoE1MeM4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/2bff2525.Dx-OU_tf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/2c7267bc.CnAtIeH_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/2e90ff7a.LLyWoXn5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/2f5db8a5.C1Mwpp-n.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/30df5a02.CoGiRhHN.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/33cd60c3.LstUQUHF.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/37c3ef79.DwN7gD2N.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/394584e5.vutYWRwW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/3c7ea602.DcYnpmGe.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/3cbb1bee.BhQQz77q.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/3ff26d79.iiU5ZgeL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/40bf165a.Bd9_Qsdf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/41038fc5.BmQ1O8-5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4296d9aa.C_KywlWY.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4431ba3a.BpGPoW5K.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4509beb0.BErOWICi.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4618373b.CQtuVq7z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/486c3fda.DJS2bLsu.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/49758c58.D2bpzNKx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4b77f49a.yTsj6MCT.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/4db11b69.B5isU_Jn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/53feb4a7.B7AawO4_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/56132226.CthBLGWm.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/565bff04.DsKYpUCB.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/58f88e89.CHsRifr7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/5d5cabdf.BkmyfPBh.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/5d731017.CShYadAg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/5f07060a.CJU7pDK3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/6073d960.BBb1zYTK.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/630ba094.vNuCqZis.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/651bb548.BPJKlf6Z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/66ce9bb7.CRxjzlHj.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/676eb8e9.BdWJbHb5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/68101692.Cs1QZ9Ob.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/6a2fc6d6.BGEPcpli.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/6b0dea54.tKrToyEk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/6ec9a0fa.BSQAHYxH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/70676095.DzD-sa2b.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/729daf6a.D5U9Kjg4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/77821758.CIHBOvKY.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/77d9e668.C1XHZ1UO.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/7edfee1d.CZ_L1MzQ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/82d59f8f.yekctR5t.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/83f74304.DBlNe0R6.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/842452fd.micJ2fWL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/8b1d1f25.TRS5C1PF.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/8b7d6012.C87O_87H.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/8d7e1337.D1SAQfdV.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/8d9b1fe6.BUQZ0ce4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/928dbd30.voxNfSVG.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/94493b3a.Dzm8PCtk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/99cd9b25.DvnieaNf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/9c33421f.CnoRBWwd.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/9e5d8eb8.LM7m9FaB.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a0df1226.DqJBAhGs.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a1e203ee.DeRJOUAE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a45fed45.Bw-Xt5nq.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a56386a6.BNaUQ4BE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a8202753.DNWawknS.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/a9ee22a0.D0eAH9ab.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/app.Bu_7arKl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/04c08e5c0e.CuRoM9zv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/094b08b72ax6347b32e.BnCfquhk.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/256cc32287.B1YSPUDc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/4eb5df94d4.DnQzjrf9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/4eb5df94d4x8800e970.DyqIVqbZ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/4eb5df94d4x8d382f2f.CRpcZnVJ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/4eb5df94d4xccd7bc85.BLwMKVOp.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/4eb5df94d4xdf1e779b.CpR5hiDV.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/5caf6ce603.87JMHPUK.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/621ec27e44.B5DPTpH4.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/69c8bed031.BEvzDDvy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/6e3faf45e1.Du9dByaI.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/6e3faf45e1x0e0212c9.ct4xfivv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/7188aae948xccd7bc85.Bi1nHaU-.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/90ea855f49.uZEuHncj.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/966e3f4d79.gzvCNwz_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/a50c8864f4.DiwHZivn.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/app.CGRs8DQS.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/b8ae203a5b.D9SfDfsb.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/deferred-boot.go7TNwtm.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/e36cbfe439.DbY8BfR0.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/assets/e8404cbaefx27591707.B68J3GgF.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/b01c110b.CHT6A5Gl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/b0920c52.f3SwORi7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/b71b03d1.T4Tgco0J.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/c0466e46.CfGmsFpI.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/c1adaf81.Cx57sSL5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/c1e3be47.CQGnRFSg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/c328865d.BCB1O5to.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/c7b92b97.BgPGGqhl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/cb6adac5.Bl30j75Z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/ce604576.DRj3vMAG.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/e4ba0749.i8CsP_I4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/eec09ba3.BrFsF_E9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/f00fed33.Cs8a7KxA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/f025431a.BlsbPO0-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/f0d1912a.uymPz6Al.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/f1384cc2.BX1JbjgR.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/f1754c88.Brd5q1On.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/faece749.CVJ-S9Ia.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/fb3b4968.Dhspug2Q.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/polyfills.D0W86EaH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/sandbox-2025-07.CZdpQ8gH.worker.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/checkout-web/assets/c1/sandbox.OOP_eSEp.worker.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.15.1.min.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/storefront/assets/shop_events_listener-819172a8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-f0e26bdf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/storefront/assets/storefront/storefronts.moderate.specrules-eb468f32.json",
+      "status": 200,
+      "mimeType": "application/speculationrules+json",
+      "type": "Other"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/shopifycloud/storefront/assets/storefront/webmcp-cfeae510.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/cdn/wpm/ba415808dw2c139137pa995880fm244b3dcfm.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/checkouts/internal/preloads.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/products/body-shaver-handle",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/products/stuffed-stocking-bundle",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/products/trusty-starter-set",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/services/login_with_shop/buyer/callback",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/shopify_pay/accelerated_checkout",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/app/web-pixel-1693777968@a3321ca85cf5aaf6b57585fcd8d67b3a~2/pixel.modern.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/app/web-pixel-350289968@7ae63d00911d5ee26809bf1e3232d852/sandbox/modern/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-114982960@1/sandbox/modern/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-151879728@2/sandbox/modern/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-33357872@11/sandbox/modern/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 142897,
+      "sha256": "1d972b6bdc61bd54b44d43c0b594fdf6b74c4bfc87ce7830982f32a79969d1f4"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 144204,
+      "sha256": "02d0c657e11391aab9393b433ae561cd5d37f95872542c7fc7c71d30a9f2917c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 106184,
+      "sha256": "17f8729273c0385de2aae9410f769776c8ddb1e452ec568b4c084ab38d6e509c"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 118319,
+      "sha256": "504a5d6e02afb6f9c2ce353514700d3bae1fa7c5b3c932528968b600efbf5220"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 134059,
+      "sha256": "837d94bbc7abcd8f1e24617f8c90bf2863e393d97543ed07f94593c1f0bc80a0"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 52299,
+      "sha256": "bfc48c759accc8dfd5cd0585b362043644b9a9d8f4e17430aa2352dfda9e6f0f"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 724930,
+      "sha256": "e28299faa0fe974cd3db2fbd6f72e2d2040bda0a84243c7ef98e978a216ce14f"
+    }
+  ],
+  "initial": {
+    "url": "https://us.dollarshaveclub.com/",
+    "title": "Razors, Handles & Grooming Goodness | Dollar Shave Club",
+    "documentHeight": 7580,
+    "contentHeight": 7580,
+    "contentTop": 121,
+    "scrollY": 0,
+    "ready": "js",
+    "bodyStyle": {
+      "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(20, 41, 120)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_jVPUhg",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 121,
+          "width": 1440,
+          "height": 550
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_9cxNEW",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 671,
+          "width": 1440,
+          "height": 647
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_afknyx",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1318,
+          "width": 1440,
+          "height": 300
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_DGjez3",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1618,
+          "width": 1440,
+          "height": 349
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_w3UpiL",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1968,
+          "width": 1440,
+          "height": 93
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_iNkHw7",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 2060,
+          "width": 1440,
+          "height": 403
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__image_hero_with_text_k7DBKH",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 2464,
+          "width": 1440,
+          "height": 818
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_7KXd9P",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3282,
+          "width": 1440,
+          "height": 519
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_C7TVFW",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3801,
+          "width": 1440,
+          "height": 714
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__centered_product_carousel_XFiiVc",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 4515,
+          "width": 1440,
+          "height": 802
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__component_accordion_97TPKx",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 5317,
+          "width": 1440,
+          "height": 596
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__image_with_text_g7Fcdi",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 5913,
+          "width": 1440,
+          "height": 788
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 759,
+          "width": 1440,
+          "height": 57
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "57.2px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 45,
+          "y": 1666,
+          "width": 1350,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 70,
+          "y": 1790,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 523,
+          "y": 1790,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 975,
+          "y": 1790,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 125,
+          "y": 2096,
+          "width": 1190,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "57.6px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 70,
+          "y": 2268,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 523,
+          "y": 2268,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 975,
+          "y": 2268,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 60,
+          "y": 2973,
+          "width": 620,
+          "height": 110
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "55px",
+          "lineHeight": "55px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 45,
+          "y": 3330,
+          "width": 1350,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 70,
+          "y": 3623,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 523,
+          "y": 3623,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 975,
+          "y": 3623,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 140,
+          "y": 3905,
+          "width": 1160,
+          "height": 44
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "44px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 198,
+          "y": 4369,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 493,
+          "y": 4369,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 787,
+          "y": 4369,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 1110,
+          "y": 4369,
+          "width": 113,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "CenteredCarouselHeading-template--18751524438064__centered_product_carousel_XFiiVc",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 4551,
+          "width": 1440,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "title-template--18751524438064__centered_product_carousel_XFiiVc-7692768608304",
+        "characters": 33,
+        "rect": {
+          "x": -960,
+          "y": 4947,
+          "width": 175,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "16.9px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "title-template--18751524438064__centered_product_carousel_XFiiVc-7137524547632",
+        "characters": 18,
+        "rect": {
+          "x": -695,
+          "y": 4947,
+          "width": 175,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "16.9px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/#MainContent",
+      "https://us.dollarshaveclub.com/collections/early-black-friday-deals",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/the-trusty-2-blade",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/collections/starter-sets",
+      "https://us.dollarshaveclub.com/collections/10-and-under",
+      "https://us.dollarshaveclub.com/",
+      "https://us.dollarshaveclub.com/collections/shave",
+      "https://us.dollarshaveclub.com/collections/womens",
+      "https://us.dollarshaveclub.com/collections/skin-body",
+      "https://us.dollarshaveclub.com/collections/hair",
+      "https://us.dollarshaveclub.com/collections/sets-bundles",
+      "https://us.dollarshaveclub.com/collections/featured",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/collections/bulk-save",
+      "https://us.dollarshaveclub.com/collections/military",
+      "https://us.dollarshaveclub.com/collections/college",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/beard-oil",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/electric-razor-vs-cartridge-razor-which-fits-your-routine",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/how-to-prep-your-beard-for-no-shave-november",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/sensitive-skin-shaving-101-a-no-bs-routine-to-help-prevent-bumps-and-burn",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/tailgate-ready-game-day-grooming-gear-to-rep-your-team",
+      "https://us.dollarshaveclub.com/account/login?return_to=%2F",
+      "https://us.dollarshaveclub.com/cart",
+      "https://us.dollarshaveclub.com/account/login",
+      "https://us.dollarshaveclub.com/account",
+      "https://ask.dollarshaveclub.com/en-US",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/womens-glowing-starter-set",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/womens-glowing-starter-set",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/products/stuffed-stocking-bundle",
+      "https://us.dollarshaveclub.com/collections/bulk-save",
+      "https://us.dollarshaveclub.com/collections/early-black-friday-deals",
+      "https://us.dollarshaveclub.com/products/trusty-starter-set",
+      "https://us.dollarshaveclub.com/products/trusty-starter-set",
+      "https://us.dollarshaveclub.com/collections/shave",
+      "https://us.dollarshaveclub.com/products/foil-shaver-consumer-unit",
+      "https://us.dollarshaveclub.com/products/foil-shaver-consumer-unit",
+      "https://us.dollarshaveclub.com/products/fully-loaded-starter-set",
+      "https://us.dollarshaveclub.com/products/fully-loaded-starter-set",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/hydrating-face-wash",
+      "https://us.dollarshaveclub.com/products/hydrating-face-wash",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/the-signature-6-blade-razor",
+      "https://us.dollarshaveclub.com/products/the-signature-6-blade-razor",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/the-classic-4-blade-razor",
+      "https://us.dollarshaveclub.com/products/the-classic-4-blade-razor",
+      "https://us.dollarshaveclub.com/products/diamond-grip-handle",
+      "https://us.dollarshaveclub.com/products/diamond-grip-handle",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/body-shaver-handle",
+      "https://us.dollarshaveclub.com/products/body-shaver-handle",
+      "https://us.dollarshaveclub.com/products/post-shave-dew",
+      "https://us.dollarshaveclub.com/products/post-shave-dew",
+      "https://us.dollarshaveclub.com/products/antiperspirant",
+      "https://us.dollarshaveclub.com/products/antiperspirant",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/shave-cream",
+      "https://us.dollarshaveclub.com/products/shave-cream",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/collections/best-sellers",
+      "https://us.dollarshaveclub.com/collections/shop-all",
+      "https://www.facebook.com/DollarShaveClub",
+      "https://twitter.com/DollarShaveClub",
+      "https://www.pinterest.com/dollarshaveclub/",
+      "https://www.instagram.com/dollarshaveclub/",
+      "https://www.youtube.com/user/DollarShaveClub",
+      "https://www.tiktok.com/@dollarshaveclub",
+      "https://us.dollarshaveclub.com/collections/shop-all",
+      "https://dsc.aspireiq.com/join/dollar-shave-club-affiliate-program",
+      "https://us.dollarshaveclub.com/pages/partnerships",
+      "https://ask.dollarshaveclub.com/en-US/is-there-a-shipping-fee-192352",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles",
+      "https://us.dollarshaveclub.com/pages/careers",
+      "https://ask.dollarshaveclub.com/en-US",
+      "https://ask.dollarshaveclub.com/en-US/how-do-i-contact-you-192340",
+      "https://us.dollarshaveclub.com/pages/gift-cards",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://ask.dollarshaveclub.com/en-US/what-is-your-refund-policy-192370",
+      "https://ask.dollarshaveclub.com/en-US/privacy-policy-195939",
+      "https://ask.dollarshaveclub.com/en-US/terms-of-service-195938",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/pages/promotion-information",
+      "https://ask.dollarshaveclub.com/en-US/what-is-your-refund-policy-192370",
+      "https://ask.dollarshaveclub.com/en-US/privacy-policy-195939",
+      "https://ask.dollarshaveclub.com/en-US/terms-of-service-195938",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/pages/promotion-information",
+      "https://us.dollarshaveclub.com/#",
+      "https://www.facebook.com/DollarShaveClub",
+      "https://twitter.com/DollarShaveClub",
+      "https://www.pinterest.com/dollarshaveclub/",
+      "https://www.instagram.com/dollarshaveclub/",
+      "https://www.youtube.com/user/DollarShaveClub",
+      "https://www.tiktok.com/@dollarshaveclub",
+      "https://us.dollarshaveclub.com/collections/all",
+      "https://us.dollarshaveclub.com/account/login",
+      "https://us.dollarshaveclub.com/account",
+      "https://us.dollarshaveclub.com/account",
+      "https://us.dollarshaveclub.com/account"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/assets-logo-stacked-orange_3x_d3a0487c-4de7-44fe-9400-88fd1410289a.png?v=1674761535&width=90",
+        "poster": "",
+        "width": 90,
+        "height": 52
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/sbs.png?v=1782164294&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/NRP_Mini__beard_oil_PDP_Product-Transparent.png?v=1769470738&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/heavy-metal-handles-fan-1400.webp?v=1793036022&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_1_1.png?v=1792520258&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_2.png?v=1792520374&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_1.png?v=1789677605&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_4.jpg?v=1789677347&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/Desktop_-_BFEA.webp?v=1793973421",
+        "poster": "",
+        "width": 2880,
+        "height": 1100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/199_NO_FRILLS.png?v=1793996522",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/3_d3aa416d-621c-47a5-ae3c-274dba8ad3c4.png?v=1793296023",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/4_38ac4423-9803-4c60-bed0-41742a113045.png?v=1793296023",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/1_f48e3c31-4657-4e4c-937c-9056bd163ecb.png?v=1793296025",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/5_cadc7490-25e2-45e7-a46d-20a18c82d7b8.png?v=1793296022",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/desktop_170399e0-fb71-4b62-b6b3-29d41f9ef2a7.png?v=1793130113",
+        "poster": "",
+        "width": 2880,
+        "height": 600
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Blades_a9f2f96c-3b37-44d5-b4af-82fbc46db847.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 47,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Price_697e81ef-25ca-46ed-8399-0b5cd0ea15a0.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 52,
+        "height": 47
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Guarantee_ed94924b-10d7-4c73-bb6c-866fe0a86284.png?v=1781789027&width=400",
+        "poster": "",
+        "width": 38,
+        "height": 46
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/Stars-number-orange.png?v=1781797080",
+        "poster": "",
+        "width": 682,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/2blade_hp_hero__mobile-v2.png?v=1792114098&width=750",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Products-Subscribe.png?v=1781531444&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Schedule-Subscribe_09e815eb-f609-4434-a7a6-3d2ba59754d6.png?v=1781789026&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Perks-Subscribe_db155369-af7e-4b60-8ee6-71491868cec5.png?v=1781789026&width=1600",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/face_hero.png?v=1792600608&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/DTC-BRE-6B-Best-Image7.jpg?v=1761325297&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/1_BodyWash-Groupshot.png?v=1782832471&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Hydrating_Face_Wash_5_oz.png?v=1762197956&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Prep_Scrub_3_oz.png?v=1762197951&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/6B-DTC-Image_1.png?v=1762198126&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/sbs.png?v=1782164294&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/4B-DTC-Image_1.png?v=1762198127&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/PDP-Handle-Hero_2048x2048-BRE.gif?v=1760051495&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/1_BodyWash-Groupshot.png?v=1782832471&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/dollar-shave-club-body-shaver-handle-SKU.png?v=1762197948&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Post_Shave_Dew_3.4_oz.png?v=1762197950&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/AntiP_Seaspray_Amber_2.7_oz.png?v=1770847853&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Prep_Scrub_3_oz.png?v=1762197951&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Shave_Cream_6_oz.png?v=1762197944&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/heavy-metal-handles-fan-1400.webp?v=1793036022&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/50_Routine_Blocks_3_1c87daab-1090-480f-9067-2287353f74d3.png?v=1781789027&width=1500",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/assets-logo-stacked-orange_3x_d3a0487c-4de7-44fe-9400-88fd1410289a.png?v=1674761535&width=350",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/app/web-pixel-350289968@7ae63d00911d5ee26809bf1e3232d852/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-33357872@11/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-114982960@1/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-151879728@2/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://chatwidget.kodif.ai/?app_id=962aa847-6869-43e3-a25b-e45ab4b139eb&app_position=left&demo_page=false&is_mobile=false&flow_version_uuid=null&hide_header=false&hide_footer=false&playground=false&open=false&debug=false&disable_autofocus=false&page_url=https%3A%2F%2Fus.dollarshaveclub.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://dollar-shave-club-store.shopify-checkout.config.gorgias.chat/shopify-checkout-chat-storage-sync",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=259002895&tm=gtm002&Ver=2&mid=2d4eb5db-0a21-450b-88f8-320004b3a692&bo=1&sid=9dd46ce0de8711f1a15e13c071e87196&vid=9dd4aad0de8711f1b4681b1ac0d502c5&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Razors,%20Handles%20%26%20Grooming%20Goodness%20%7C%20Dollar%20Shave%20Club&p=https%3A%2F%2Fus.dollarshaveclub.com%2F&r=&lt=8611&evt=pageLoad&sv=2&cdb=AQUR&rn=569521",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 100,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6520,
+    "actualTravel": 6680,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://us.dollarshaveclub.com/",
+    "title": "Razors, Handles & Grooming Goodness | Dollar Shave Club",
+    "documentHeight": 7580,
+    "contentHeight": 7580,
+    "contentTop": -6559,
+    "scrollY": 6680,
+    "ready": "js header-sticky--hidden",
+    "bodyStyle": {
+      "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(20, 41, 120)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_jVPUhg",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -6559,
+          "width": 1440,
+          "height": 550
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_9cxNEW",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -6009,
+          "width": 1440,
+          "height": 647
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_afknyx",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5362,
+          "width": 1440,
+          "height": 300
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_DGjez3",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5062,
+          "width": 1440,
+          "height": 349
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_w3UpiL",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -4712,
+          "width": 1440,
+          "height": 93
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_iNkHw7",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -4620,
+          "width": 1440,
+          "height": 403
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__image_hero_with_text_k7DBKH",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -4216,
+          "width": 1440,
+          "height": 818
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__multicolumn_7KXd9P",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -3398,
+          "width": 1440,
+          "height": 519
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__custom_liquid_C7TVFW",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -2879,
+          "width": 1440,
+          "height": 714
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__centered_product_carousel_XFiiVc",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -2165,
+          "width": 1440,
+          "height": 802
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__component_accordion_97TPKx",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -1363,
+          "width": 1440,
+          "height": 596
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "shopify-section-template--18751524438064__image_with_text_g7Fcdi",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -767,
+          "width": 1440,
+          "height": 788
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": -5921,
+          "width": 1440,
+          "height": 57
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "57.2px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 45,
+          "y": -5014,
+          "width": 1350,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 70,
+          "y": -4890,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 523,
+          "y": -4890,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 975,
+          "y": -4890,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 125,
+          "y": -4584,
+          "width": 1190,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "57.6px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 70,
+          "y": -4412,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 523,
+          "y": -4412,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 975,
+          "y": -4412,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 60,
+          "y": -3707,
+          "width": 620,
+          "height": 110
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "55px",
+          "lineHeight": "55px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 45,
+          "y": -3350,
+          "width": 1350,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "38.4px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 70,
+          "y": -3057,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 523,
+          "y": -3057,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 975,
+          "y": -3057,
+          "width": 395,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "800",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 140,
+          "y": -2775,
+          "width": 1160,
+          "height": 44
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "44px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 198,
+          "y": -2311,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 493,
+          "y": -2311,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 787,
+          "y": -2311,
+          "width": 165,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 1110,
+          "y": -2311,
+          "width": 113,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "13.2px",
+          "fontWeight": "900",
+          "color": "rgb(31, 47, 138)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "CenteredCarouselHeading-template--18751524438064__centered_product_carousel_XFiiVc",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": -2129,
+          "width": 1440,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "900",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "title-template--18751524438064__centered_product_carousel_XFiiVc-7692768608304",
+        "characters": 33,
+        "rect": {
+          "x": -960,
+          "y": -1733,
+          "width": 175,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "16.9px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "title-template--18751524438064__centered_product_carousel_XFiiVc-7137524547632",
+        "characters": 18,
+        "rect": {
+          "x": -695,
+          "y": -1733,
+          "width": 175,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"DSC Specter\", Helvetica, Arial, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "16.9px",
+          "fontWeight": "800",
+          "color": "rgb(20, 41, 120)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/#MainContent",
+      "https://us.dollarshaveclub.com/collections/early-black-friday-deals",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/the-trusty-2-blade",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/collections/starter-sets",
+      "https://us.dollarshaveclub.com/collections/10-and-under",
+      "https://us.dollarshaveclub.com/",
+      "https://us.dollarshaveclub.com/collections/shave",
+      "https://us.dollarshaveclub.com/collections/womens",
+      "https://us.dollarshaveclub.com/collections/skin-body",
+      "https://us.dollarshaveclub.com/collections/hair",
+      "https://us.dollarshaveclub.com/collections/sets-bundles",
+      "https://us.dollarshaveclub.com/collections/featured",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/collections/bulk-save",
+      "https://us.dollarshaveclub.com/collections/military",
+      "https://us.dollarshaveclub.com/collections/college",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/beard-oil",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/electric-razor-vs-cartridge-razor-which-fits-your-routine",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/how-to-prep-your-beard-for-no-shave-november",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/sensitive-skin-shaving-101-a-no-bs-routine-to-help-prevent-bumps-and-burn",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles/tailgate-ready-game-day-grooming-gear-to-rep-your-team",
+      "https://us.dollarshaveclub.com/account/login?return_to=%2F",
+      "https://us.dollarshaveclub.com/cart",
+      "https://us.dollarshaveclub.com/account/login",
+      "https://us.dollarshaveclub.com/account",
+      "https://ask.dollarshaveclub.com/en-US",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/womens-glowing-starter-set",
+      "https://us.dollarshaveclub.com/products/the-no-frills-starter-set",
+      "https://us.dollarshaveclub.com/products/womens-glowing-starter-set",
+      "https://us.dollarshaveclub.com/collections/electric-grooming",
+      "https://us.dollarshaveclub.com/products/stuffed-stocking-bundle",
+      "https://us.dollarshaveclub.com/collections/bulk-save",
+      "https://us.dollarshaveclub.com/collections/early-black-friday-deals",
+      "https://us.dollarshaveclub.com/products/trusty-starter-set",
+      "https://us.dollarshaveclub.com/products/trusty-starter-set",
+      "https://us.dollarshaveclub.com/collections/shave",
+      "https://us.dollarshaveclub.com/products/foil-shaver-consumer-unit",
+      "https://us.dollarshaveclub.com/products/foil-shaver-consumer-unit",
+      "https://us.dollarshaveclub.com/products/fully-loaded-starter-set",
+      "https://us.dollarshaveclub.com/products/fully-loaded-starter-set",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/hydrating-face-wash",
+      "https://us.dollarshaveclub.com/products/hydrating-face-wash",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/the-signature-6-blade-razor",
+      "https://us.dollarshaveclub.com/products/the-signature-6-blade-razor",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/shave-butter",
+      "https://us.dollarshaveclub.com/products/the-classic-4-blade-razor",
+      "https://us.dollarshaveclub.com/products/the-classic-4-blade-razor",
+      "https://us.dollarshaveclub.com/products/diamond-grip-handle",
+      "https://us.dollarshaveclub.com/products/diamond-grip-handle",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/flushable-wipes",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/whole-body-wash",
+      "https://us.dollarshaveclub.com/products/body-shaver-handle",
+      "https://us.dollarshaveclub.com/products/body-shaver-handle",
+      "https://us.dollarshaveclub.com/products/post-shave-dew",
+      "https://us.dollarshaveclub.com/products/post-shave-dew",
+      "https://us.dollarshaveclub.com/products/antiperspirant",
+      "https://us.dollarshaveclub.com/products/antiperspirant",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/prep-scrub",
+      "https://us.dollarshaveclub.com/products/shave-cream",
+      "https://us.dollarshaveclub.com/products/shave-cream",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/products/heavy-metal-handle",
+      "https://us.dollarshaveclub.com/collections/best-sellers",
+      "https://us.dollarshaveclub.com/collections/shop-all",
+      "https://www.facebook.com/DollarShaveClub",
+      "https://twitter.com/DollarShaveClub",
+      "https://www.pinterest.com/dollarshaveclub/",
+      "https://www.instagram.com/dollarshaveclub/",
+      "https://www.youtube.com/user/DollarShaveClub",
+      "https://www.tiktok.com/@dollarshaveclub",
+      "https://us.dollarshaveclub.com/collections/shop-all",
+      "https://dsc.aspireiq.com/join/dollar-shave-club-affiliate-program",
+      "https://us.dollarshaveclub.com/pages/partnerships",
+      "https://ask.dollarshaveclub.com/en-US/is-there-a-shipping-fee-192352",
+      "https://us.dollarshaveclub.com/blogs/club-chronicles",
+      "https://us.dollarshaveclub.com/pages/careers",
+      "https://ask.dollarshaveclub.com/en-US",
+      "https://ask.dollarshaveclub.com/en-US/how-do-i-contact-you-192340",
+      "https://us.dollarshaveclub.com/pages/gift-cards",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://ask.dollarshaveclub.com/en-US/what-is-your-refund-policy-192370",
+      "https://ask.dollarshaveclub.com/en-US/privacy-policy-195939",
+      "https://ask.dollarshaveclub.com/en-US/terms-of-service-195938",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/pages/promotion-information",
+      "https://ask.dollarshaveclub.com/en-US/what-is-your-refund-policy-192370",
+      "https://ask.dollarshaveclub.com/en-US/privacy-policy-195939",
+      "https://ask.dollarshaveclub.com/en-US/terms-of-service-195938",
+      "https://ask.dollarshaveclub.com/en-US/website-accessibility-428786",
+      "https://us.dollarshaveclub.com/pages/promotion-information",
+      "https://us.dollarshaveclub.com/#",
+      "https://www.facebook.com/DollarShaveClub",
+      "https://twitter.com/DollarShaveClub",
+      "https://www.pinterest.com/dollarshaveclub/",
+      "https://www.instagram.com/dollarshaveclub/",
+      "https://www.youtube.com/user/DollarShaveClub",
+      "https://www.tiktok.com/@dollarshaveclub",
+      "https://us.dollarshaveclub.com/collections/all",
+      "https://us.dollarshaveclub.com/account/login",
+      "https://us.dollarshaveclub.com/account",
+      "https://us.dollarshaveclub.com/account",
+      "https://us.dollarshaveclub.com/account"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/assets-logo-stacked-orange_3x_d3a0487c-4de7-44fe-9400-88fd1410289a.png?v=1674761535&width=90",
+        "poster": "",
+        "width": 90,
+        "height": 52
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/sbs.png?v=1782164294&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/NRP_Mini__beard_oil_PDP_Product-Transparent.png?v=1769470738&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/heavy-metal-handles-fan-1400.webp?v=1793036022&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_1_1.png?v=1792520258&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/October_blog_post_2.png?v=1792520374&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_1.png?v=1789677605&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/articles/September_Blog_post_4.jpg?v=1789677347&width=234",
+        "poster": "",
+        "width": 234,
+        "height": 225
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/Desktop_-_BFEA.webp?v=1793973421",
+        "poster": "",
+        "width": 2880,
+        "height": 1100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/199_NO_FRILLS.png?v=1793996522",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/3_d3aa416d-621c-47a5-ae3c-274dba8ad3c4.png?v=1793296023",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/4_38ac4423-9803-4c60-bed0-41742a113045.png?v=1793296023",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/1_f48e3c31-4657-4e4c-937c-9056bd163ecb.png?v=1793296025",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/5_cadc7490-25e2-45e7-a46d-20a18c82d7b8.png?v=1793296022",
+        "poster": "",
+        "width": 3000,
+        "height": 3000
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/desktop_170399e0-fb71-4b62-b6b3-29d41f9ef2a7.png?v=1793130113",
+        "poster": "",
+        "width": 2880,
+        "height": 600
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Blades_a9f2f96c-3b37-44d5-b4af-82fbc46db847.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 47,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Price_697e81ef-25ca-46ed-8399-0b5cd0ea15a0.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 52,
+        "height": 47
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Guarantee_ed94924b-10d7-4c73-bb6c-866fe0a86284.png?v=1781789027&width=400",
+        "poster": "",
+        "width": 38,
+        "height": 46
+      },
+      {
+        "tag": "IMG",
+        "url": "https://cdn.shopify.com/s/files/1/0568/3943/8384/files/Stars-number-orange.png?v=1781797080",
+        "poster": "",
+        "width": 682,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 175,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 175,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Stars-blue_ace2867f-2d5f-4604-9669-89bc8b5f9bdd.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 175,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/2blade_hp_hero__desktop-v2.png?v=1792114098&width=1500",
+        "poster": "",
+        "width": 1440,
+        "height": 760
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Products-Subscribe.png?v=1781531444&width=400",
+        "poster": "",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Schedule-Subscribe_09e815eb-f609-4434-a7a6-3d2ba59754d6.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Perks-Subscribe_db155369-af7e-4b60-8ee6-71491868cec5.png?v=1781789026&width=400",
+        "poster": "",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5990f7714a4947caa3fa51373f522c82.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/face_hero.png?v=1792600608&width=240",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/efce8b260b37427bbdbff924dea15496.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/DTC-BRE-6B-Best-Image7.jpg?v=1761325297&width=240",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/7943102eeb71457f846b473427408dbd.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=240",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.shopify.com/videos/c/o/v/5d4c08de5ad84388b61dcbdd51f73341.mp4#t=0.1",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/1_BodyWash-Groupshot.png?v=1782832471&width=240",
+        "poster": "",
+        "width": 240,
+        "height": 240
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Hydrating_Face_Wash_5_oz.png?v=1762197956&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Prep_Scrub_3_oz.png?v=1762197951&width=240",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/6B-DTC-Image_1.png?v=1762198126&width=533",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/sbs.png?v=1782164294&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/4B-DTC-Image_1.png?v=1762198127&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/PDP-Handle-Hero_2048x2048-BRE.gif?v=1760051495&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/OWC_50Pck_Flat_FOP_Minty.png?v=1762197969&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/1_BodyWash-Groupshot.png?v=1782832471&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/dollar-shave-club-body-shaver-handle-SKU.png?v=1762197948&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Post_Shave_Dew_3.4_oz.png?v=1762197950&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/AntiP_Seaspray_Amber_2.7_oz.png?v=1770847853&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Prep_Scrub_3_oz.png?v=1762197951&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/Shave_Cream_6_oz.png?v=1762197944&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/heavy-metal-handles-fan-1400.webp?v=1793036022&width=360",
+        "poster": "",
+        "width": 317,
+        "height": 317
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/50_Routine_Blocks_3_1c87daab-1090-480f-9067-2287353f74d3.png?v=1781789027&width=750",
+        "poster": "",
+        "width": 650,
+        "height": 650
+      },
+      {
+        "tag": "IMG",
+        "url": "https://us.dollarshaveclub.com/cdn/shop/files/assets-logo-stacked-orange_3x_d3a0487c-4de7-44fe-9400-88fd1410289a.png?v=1674761535&width=350",
+        "poster": "",
+        "width": 350,
+        "height": 200
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/app/web-pixel-350289968@7ae63d00911d5ee26809bf1e3232d852/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-33357872@11/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-114982960@1/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-151879728@2/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://us.dollarshaveclub.com/web-pixels@a415808dw2c139137pa995880fm244b3dcf/custom/web-pixel-shopify-custom-pixel@0530/sandbox/modern/",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://chatwidget.kodif.ai/?app_id=962aa847-6869-43e3-a25b-e45ab4b139eb&app_position=left&demo_page=false&is_mobile=false&flow_version_uuid=null&hide_header=false&hide_footer=false&playground=false&open=false&debug=false&disable_autofocus=false&page_url=https%3A%2F%2Fus.dollarshaveclub.com%2F",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IFRAME",
+        "url": "https://dollar-shave-club-store.shopify-checkout.config.gorgias.chat/shopify-checkout-chat-storage-sync",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=259002895&tm=gtm002&Ver=2&mid=2d4eb5db-0a21-450b-88f8-320004b3a692&bo=1&sid=9dd46ce0de8711f1a15e13c071e87196&vid=9dd4aad0de8711f1b4681b1ac0d502c5&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Razors,%20Handles%20%26%20Grooming%20Goodness%20%7C%20Dollar%20Shave%20Club&p=https%3A%2F%2Fus.dollarshaveclub.com%2F&r=&lt=8611&evt=pageLoad&sv=2&cdb=AQUR&rn=569521",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 100,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 250,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 250,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=259002895&tm=gtm002&Ver=2&mid=2d4eb5db-0a21-450b-88f8-320004b3a692&bo=1&sid=9dd46ce0de8711f1a15e13c071e87196&vid=9dd4aad0de8711f1b4681b1ac0d502c5&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Razors,%20Handles%20%26%20Grooming%20Goodness%20%7C%20Dollar%20Shave%20Club&p=https%3A%2F%2Fus.dollarshaveclub.com%2F&r=&lt=8611&evt=pageLoad&sv=2&cdb=AQUR&rn=569521",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 12608,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

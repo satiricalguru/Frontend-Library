@@ -1,0 +1,5287 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-linear",
+  "name": "Linear — homepage",
+  "url": "https://linear.app/",
+  "source": "https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:43:47.629Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://linear.app/robots.txt",
+    "checkedAt": "2026-11-12T10:43:47.623Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/cdn-cgi/"
+      },
+      {
+        "allow": true,
+        "path": "/api/og/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 934,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3826,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 2378,
+        "contentTop": -2378,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6865,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 5306,
+        "contentTop": -5306,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8902,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 7517,
+        "contentTop": -7517,
+        "pageTransform": "none",
+        "visibleIds": [
+          "customers"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 11046,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://linear.app/",
+        "scrollY": 9090,
+        "contentTop": -9090,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://api.linear.app/report-violation",
+      "status": 204,
+      "mimeType": "text/plain",
+      "type": "Other"
+    },
+    {
+      "url": "https://constellation.linear.app/api/statuspage",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://e.linear.app/array/phc_PaCjzqaetuAlYgXjb0uftDOw8QzOmXfWIbD7nkaYrjr/config.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://e.linear.app/flags/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://linear.app/about",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/agents",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/ai",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/api/draft-mode/status",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/api/search-index",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/build",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/careers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/086b510a-f5da-414b-bc9d-228afb968600/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/1eb8f8b2-3593-473f-ba8a-acac99aa0300/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/21de8e51-12ad-4d17-e347-f0e038c3a000/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/22210a73-581d-42db-d42a-bf2907860300/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/302b16a5-f9ca-42f2-dbae-3c76f19b2d00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/36d030ed-3a7c-48bb-349b-0427c2b60d00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4d3381aa-fb2f-4d3d-1a06-957fc616d400/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/580cd9c0-2770-4fe4-1ad2-95c76fc6f000/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/6550520e-9e50-441d-b9e8-579be321f900/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/675bbc53-1be0-4106-e66e-35b93c172300/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/73b4dc1e-fe1a-4d5e-86f9-194c393c6200/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/7ea107e7-c1a0-4c99-756d-5837fd91f200/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/999402d6-1ba8-4124-27a1-ee86135acd00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/9bfa3c37-27a3-4cf8-7021-adb9c162da00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/ad091a28-fb2c-41be-409b-6b1774f3a200/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c2f6447a-d507-43c1-f3ab-3f2c6fbceb00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c7fa8f5f-d439-4329-6a65-de549b51e300/f=auto,fit=scale-down,metadata=none,width=2560",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c9d0b44c-78f9-4a9b-0a8e-f06a8187be00/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Other"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/cd9c3c96-fbba-4687-8e50-da703a608000/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/d0a00c69-e4c9-4e2f-cff9-ec1178dd7700/f=auto,fit=scale-down,metadata=none,width=64",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Other"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e0a81846-aac4-488d-743e-cac098b8f700/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e3bd83aa-9996-412f-0da3-7bf1f4701100/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f28b59f4-538c-4517-cfd7-510913015200/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Other"
+    },
+    {
+      "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f9ed2721-1966-4abc-129b-93aaac1a6200/f=auto,fit=scale-down,metadata=none",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://linear.app/changelog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/changelog/2026-09-24-new-controls-for-linear-coding-agent",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/changelog/2026-10-22-slack-and-github-loops",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/changelog/2026-11-04-mobile-diffs",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/coding-agent",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/contact",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/contact/sales",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/customers",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/customers/openai",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/customers/ramp",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/docs",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/download",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://linear.app/homepage",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/intake",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/join-slack",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/now",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/now/introducing-loops",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/plan",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://linear.app/static/favicon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    },
+    {
+      "url": "https://linear.app/static/pwa.webmanifest",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://linear.app/switch",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://static.linear.app/assets/pwa/icon_180.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://static.linear.app/fonts/Berkeley-Mono-Variable.woff2",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://static.linear.app/fonts/InterVariable.woff2",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Font"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/_ME5gjye.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/_usm-od-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/-35cWKHt2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/0FpnNjzl2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/2Phlrn672.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/2qxCKI3I2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/3-Go0cZx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/3c5X3eSm.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/3lDM4EZY.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/3uMqgk5e2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/4iviJ6az.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/6bB0FUqp.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/7GVU4UFx2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/7IQhUn_O2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/7s9XdIOD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/8bZa3TJJ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/8isNek7B2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/9BOuA1uk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/9rwFyFZ8.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/9u0o59to.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/9WtHOedw2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/a4_n3xNL2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/aA9adWQg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/AI7ezYe7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/AUKdmzMC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B_3sQc65.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B_UsYqCK.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B-goKlZB.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B0_L6HoU2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B0i3ULcw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B0LvKNLB2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B0sEay8n.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B1bM7u-K.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B1zjSBoA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B2fFMCGz.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B2Mc9Rxv2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B2YJFI-i.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B3iQ8bK32.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B4C2iMPK.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B4TEnYjZ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B5FGchrT.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B6INV3Gn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B6LjMRIh.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B77bWpQo.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B7L0BYGq.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B7rL1bJb.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B8EjVuen.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B8iU2I5i2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B8sU7wnW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B95oowRx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/B9QZArTx2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BAlACcic2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bb79AD7Y2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BBaffHj22.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BbIxaVJ_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BBmmNNUq.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BccwXzHn.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bcd4nfVX2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BCoM3a1q2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BD_w0nEL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BdJxbex_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BDXuCZZC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BdzORUXt.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BEpv4NfU2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BFNhd0D5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BGGeYvDf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BgT-iUd9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bh44-w2O.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bh8aRxWl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BhHwIFeg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BHiOMeCA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BhV2hZLw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BI8wLQgZ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BiaPPKg_2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BiCoqVIl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BinniWDg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BiOTV0sH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BitC9C_92.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BJ3EwGvE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BJDM19da2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BjDxissx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BjMCfGPE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bjtym9IH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BJZnKIpL.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BKZa6ClT.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BL-T_kUl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BLd49qYl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BlfLjScU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BLTj90Tf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BMolfD8n.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BNami1E22.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BNT4wX4x.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BNvEuKEG2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BO3xhqjN.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Boe_qq5X2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BOeyK5b82.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BP35EXMX.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bpebe2tZ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bphs1fh7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BqCdaKhA2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BQQJcm5X.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BR4VwmRu.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Br7ZWXss2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BrfFYWVe.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/brn-X8ee2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BRs-ERWe2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BsAiBOXc2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BSeZx6Mz.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BSS6mk0d.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bt0ftErN.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/btJFf8gZ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BTSveL2H.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BTUf5XUs.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BtZgn2gi2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BU_A08x3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bu5pLkT32.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BUfPnMZk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BWg0FkAd2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BxEOQVRJ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BxExmSGD2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Bxx1NKTa2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BytIhVDd.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BZ8eCKoX.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BzJbsrb-2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BZKrHvVH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/BzMyLvsP2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C-46blOy2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C-5IhzBs2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C0FnF6B9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C0MQ8RN1.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C2zsxegY2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C3mDhH-82.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C4fWvoBd.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C4zEA4nt2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C5jCwdfc2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C6azW-M1.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C6sP2Zc-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C7vlcYPa.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C8OqIDDX.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/C9VYLJSp.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CA-BVInA2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CA9cEMou.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CaBaaNa6.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CAMwrvW0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CAsA-z7Z2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CAX0wTk6.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Cb1FNt7o.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CbtwnHoq.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CCDRKjCD2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CCg0W94f.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CcNFhpZA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CCyuZrBd.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CD8JhbYh.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CDCEbsXK2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CDHi7kpv2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CdTPGpAH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CeBO-g9G.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CegCXmeb2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CeiYpfol.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Cf0Di_tx.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CfA8kPyW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CFbmjXfF.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CfU04Ur5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Cg2GgE0Q.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CGE5FfwZ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CHHpSbd82.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/ChoHx2SE.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Ci03IR6N.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CirSui3h2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CIsSy7ps2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CjdaDzNb.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CJTpo9d7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CJXF16cU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CjzZW9Vn2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CK1V3bQ12.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Ckze-gpO.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CmfKxc0_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CMG2NgvK.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CMGWgPV0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CNRPp1cr2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Co7hRGV82.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CPFiPgGc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CpPiRFWE2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Cq5r7HIC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CrYY0HH5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Ctdy-yZR2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CTrW5t-x.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CtXhFtgl.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CugrzBFW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CUL8jQ2d2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CuPLM5v4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CWFuTwea2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CwlALpxD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CWn7pqFI.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CXm48iUU2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CyfaUWpO.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CZ0HRCrk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CzCwKYgP2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CzRGnK05.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/CzWrZ1Yw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D_BWkx5V.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D-JHAsXW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D0GjqZa72.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D0kAXd-u.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D12oSp17.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D3R3lqqH.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D5k1eVRO2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D69-7ZPA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D6t_rLQl2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D8EyHNz92.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D8QiWW5l.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/D8uxvtmN2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DaBYDsks.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DagWZyVF.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DaNFe-Et2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DB-KNO3H.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DB0hHKMi.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dbd-SOyW.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DbdcTPn-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dbj0O7Vm.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DCaD5VGI.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DcAFtiUi.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DCFxFqJw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DcKqXGMf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DcO5POw12.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Ddls57Is.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DeLh6bgs2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DEwGrBdo.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DEWUzrr7.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DFdXERSY.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DFnxcxOo2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DFt3LahU.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DgaQw0Sm2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DgCJQ9Ra.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DgfD_GjS2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dgli_qr0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DGQ6tVsH2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DGQkpfhG2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DHPQMtJq.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DjeefwS_2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dk2h02-A2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DkDBYOHP.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DKpgsyA_.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DlH5DVfQ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DmsxnKTi2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DmwW5mjK2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DMXDh0o9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dn-ZBK3J.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DNa5baRm.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DnbRvxnM.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DnwkbitR.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DoDKuR8_2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DoUmP9am.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DoypFC1V.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DP845oQC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DP8UeXtP2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DPdCyRwj.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DpFa9wH9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DPFl_7KF2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DPrTek7O2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DpuBqitv.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DPUmdNZH2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dq70Kne-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DqX5RZ752.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DsGEToX72.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DsH6FiCG2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DsOMu5R1.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DSU6VpPN.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DtFfLz8F.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DtOatrqM2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DUFzZrxw.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DUuB5asI2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DVdlNPq3.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DVJv1wEy2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DVtaxVV02.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dw7Zj1sF.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DwClppUp2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dx1Z6dF1.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Dy2LObLQ.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/DyCHDkCr.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/e9JV3ux6.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Elxe2pWn2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/ES19l9R4.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/fAtu6OMv.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Fomljd0o.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/gONpwKHj.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/gr7kmfF22.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/grGKC7972.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/H2k8QmT02.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/h4wYP-lk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/H9LxUDGK.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/hJW5x2ZO.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/HWxiAcsI2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/iHIjEsQ9.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Iz7k55_g2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/jFk9ftPg.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/jGxC-_N12.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Jz4rZRt12.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/KiGRSBu62.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/KM6kxeLE2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/KSuuBj8D.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/KY3oQn9y.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/l-eKEIET2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Lj8teqXU2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/NtUXjHoL2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/NTZ6Jhfk.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/nwgQtU9D2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/oCQ0wL8Y2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/oOl2ESvj.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/oonEyYaa.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/pcDfwd4O.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/PEoTTirz2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/PjAu01nB2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/pP0XQgOA.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/q4iVwegc.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/QMIPQqWC.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/qpRzA2GM.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/QsrqsSS2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/R1elXbWQ2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/rP2zpUml.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/RV-UIiGi.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/s-Z7NL3L.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/SGRPdhrk2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/SgSVWgXf.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/soMBoKJ92.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/TCpaUJ5z.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/traHSwXV2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/UdcVRPjg2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/uLpKse412.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/UM2czmWn2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/uNKW3-Wp.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/UrZa2zQo2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/VCY9QS0Q.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Vkgsbnl0.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/vnj678Hs.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/vQub1LdY2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/W40GJRG32.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/WxB5GNs-.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/XJYwHRfu2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/yJOC_3-52.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/ypENJWzz.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/YSopIvoB.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/zFWAzyH5.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/ZNpLma6b2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Zry45WIT2.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/ZtOo9diD.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/chunks/Zw_WZ2go.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/1JB2_akh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/2AMbo6gs.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/3p32EmO1.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/4CaDvCAO.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/8rXQlL7b.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B_o0UWrp.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B18TDZc7.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B1AV-EHC.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B3bY1KZ9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B3YDtSYv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B6ktxgTN.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B78R7IPt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B7Vj6PGO.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/B8NROO5R.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BawEoh5D.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BbEgf70c.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BcuWEN6k.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bd5QIL90.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Be8AmnGL.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BENTb6HO.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BEZjGLsi.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BfZYz5nq.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BgWy7Ry5.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BidLeFPM.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BIXggqMq.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BK-W7yF8.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bl8l9ltc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BlGFcVAC.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Blq4ZW3W.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BLwuA93h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bqz7t842.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BRlQ108u.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bu8ZjQBR.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BUY_OmUN.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BveEXJw_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bx92uoV_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BY9UWHDh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/BZhROxbd.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Bzma05ER.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C_4Tjvnx.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C_t738hq.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C-dCEHFh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C5eK_nNg.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C6C3dg78.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/C6C8UtQI.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CbcodEv9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CbW7-ce6.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CDNhOIeb.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CDNJI-Em.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Cds8fjKR.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CglTyOw3.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Cj2HgZSq.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CJHe2QFv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CKbGNVib.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CknOazgn.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CLFYElM_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CQK76iOY.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Cr3Z649h.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CsDolGbX.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CSS5Uy7F.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Ct485xq8.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Cu_2HSqy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CUeIRO5w.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CvqZrrmU.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CwOsfUTE.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CwQxFBtR.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CWXL7otR.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CX5ehBfa.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CXgJnZ6d.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CYyj-U-H.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/CZy5xRP-.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DAb6YYB9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DArACK4a.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DbdcWoVO.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DBLOnC2O.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DbXWD_FZ.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DCkYdNzn.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DiDxChsd.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DklkrXO9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DLqU4A0l.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DM5BVKTu.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DqZG-Kol.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DRErGxqG.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Du_PUr_E.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DwNzeosu.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DYNohEY1.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/DZzYukRd.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/E_qIfNR9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/ekSA4PCN.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/eu7gfZFk.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/fZ-cD0Ge.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/JcdFCBuT.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/mYgpGelO.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/n7tZohPd.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/ndmC6VjV.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/OQYwYjDv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/pcGZUK31.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/pCJmCDk0.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/PR-WOC0k.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/q2FgrJcT.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Q8aWFXDL.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/QsUcxlaa.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/RnTSqYU1.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/sH7gRHif.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/Tpxbzi3N.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/um6Z0REl.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/vfNSRYu7.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/x-EIA565.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/x7J9ZJps.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://static.linear.app/web/_next/static/css/yd2-J_YX.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 72544,
+      "sha256": "7bf79117068b2295792dacaed6f8e9caddbb78ba6a76ad86ec3dae20e1dfdef6"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 72572,
+      "sha256": "26d11556bf4b5e11455fc6b1a7fab437cd3973afc9be70dcf66692a51ffaaa89"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 75985,
+      "sha256": "253619deb76c12973a84488aa11b94639858d5dfde3ac570ca429a7de62cdb74"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 43906,
+      "sha256": "9675a6b8bde7132a1659b2810cd089c3d2c0b3cd1639c4e71e2ad982bf574547"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 68030,
+      "sha256": "c21f5cfa2c902131be27f34e178f4e2926f49677aaf3ad2f289860e081cacb9f"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 34882,
+      "sha256": "4a4bbb275202e4076f0942d0181e2cd9b6729740926211f7bd6443d04932b846"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 268832,
+      "sha256": "855b71e867225af945879dd97400e0423aac57b3f215ffdca49e9a88f7ec2c87"
+    }
+  ],
+  "initial": {
+    "url": "https://linear.app/",
+    "title": "Linear – The system for product development",
+    "documentHeight": 9990,
+    "contentHeight": 9990,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "enhanced js",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(247, 248, 248)",
+      "backgroundColor": "rgb(8, 9, 10)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "skip-nav",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 72,
+          "width": 1440,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 152,
+        "rect": {
+          "x": 78,
+          "y": 272,
+          "width": 1282,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 373,
+          "y": 643,
+          "width": 630,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26.6px",
+          "fontWeight": "590",
+          "color": "rgb(208, 214, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 373,
+          "y": 744,
+          "width": 630,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "fontWeight": "590",
+          "color": "rgb(208, 214, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 155,
+        "rect": {
+          "x": 46,
+          "y": 1596,
+          "width": 1250,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(138, 143, 152)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": 2674,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": 3910,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 78,
+          "y": 5149,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": 6391,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 78,
+          "y": 7644,
+          "width": 224,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 359,
+          "y": 9014,
+          "width": 722,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "72px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 304,
+          "y": 9523,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 528,
+          "y": 9523,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 752,
+          "y": 9523,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 976,
+          "y": 9523,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1200,
+          "y": 9523,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://linear.app/#skip-nav",
+      "https://linear.app/homepage",
+      "https://linear.app/customers",
+      "https://linear.app/pricing",
+      "https://linear.app/now",
+      "https://linear.app/contact",
+      "https://linear.app/docs",
+      "https://linear.app/login",
+      "https://linear.app/login",
+      "https://linear.app/signup",
+      "https://linear.app/now/introducing-loops",
+      "https://linear.app/now/introducing-loops",
+      "https://linear.app/customers",
+      "https://linear.app/intake",
+      "https://linear.app/plan",
+      "https://linear.app/ai",
+      "https://linear.app/build",
+      "https://linear.app/changelog/2026-11-04-mobile-diffs",
+      "https://linear.app/changelog/2026-10-22-slack-and-github-loops",
+      "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
+      "https://linear.app/changelog/2026-09-24-new-controls-for-linear-coding-agent",
+      "https://linear.app/changelog",
+      "https://linear.app/customers/openai",
+      "https://linear.app/customers/ramp",
+      "https://linear.app/customers/opendoor",
+      "https://linear.app/customers/openai",
+      "https://linear.app/customers/ramp",
+      "https://linear.app/customers",
+      "https://linear.app/signup",
+      "https://linear.app/contact/sales",
+      "https://linear.app/login",
+      "https://linear.app/download",
+      "https://linear.app/",
+      "https://linear.app/intake",
+      "https://linear.app/plan",
+      "https://linear.app/ai",
+      "https://linear.app/build",
+      "https://linear.app/pricing",
+      "https://linear.app/security",
+      "https://linear.app/asks",
+      "https://linear.app/agents",
+      "https://linear.app/coding-agent",
+      "https://linear.app/customer-requests",
+      "https://linear.app/insights",
+      "https://linear.app/mobile",
+      "https://linear.app/reviews",
+      "https://linear.app/integrations",
+      "https://linear.app/changelog",
+      "https://linear.app/about",
+      "https://linear.app/customers",
+      "https://linear.app/careers",
+      "https://linear.app/now",
+      "https://linear.app/method",
+      "https://linear.app/quality",
+      "https://linear.app/brand",
+      "https://linear.app/switch",
+      "https://linear.app/download",
+      "https://linear.app/docs",
+      "https://linear.app/developers",
+      "https://linear.app/enterprise",
+      "https://linear.app/startups",
+      "https://linearstatus.com/",
+      "https://linear.app/legal",
+      "https://linear.app/contact",
+      "https://linear.app/join-slack",
+      "https://x.com/linear",
+      "https://github.com/linear",
+      "https://www.youtube.com/@linear",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/legal",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/legal",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/6600ca96-e49b-4fd9-c03a-7979faddad00/f=auto,fit=scale-down,metadata=none,width=2560",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c7fa8f5f-d439-4329-6a65-de549b51e300/f=auto,fit=scale-down,metadata=none,width=2560",
+        "poster": "",
+        "width": 2560,
+        "height": 1429
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f28b59f4-538c-4517-cfd7-510913015200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c2f6447a-d507-43c1-f3ab-3f2c6fbceb00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c2f6447a-d507-43c1-f3ab-3f2c6fbceb00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/086b510a-f5da-414b-bc9d-228afb968600/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/302b16a5-f9ca-42f2-dbae-3c76f19b2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/1eb8f8b2-3593-473f-ba8a-acac99aa0300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/6550520e-9e50-441d-b9e8-579be321f900/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4d3381aa-fb2f-4d3d-1a06-957fc616d400/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/7ea107e7-c1a0-4c99-756d-5837fd91f200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/580cd9c0-2770-4fe4-1ad2-95c76fc6f000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/22210a73-581d-42db-d42a-bf2907860300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/7d7115d9-a0eb-4a92-5900-3ca3ee077d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/584d7dbd-ff4a-41bb-4fab-74fd5217a400/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/d0a00c69-e4c9-4e2f-cff9-ec1178dd7700/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 33,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c16152f3-a36c-468e-89ae-f87c2f244d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c9d0b44c-78f9-4a9b-0a8e-f06a8187be00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/675bbc53-1be0-4106-e66e-35b93c172300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/ad091a28-fb2c-41be-409b-6b1774f3a200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/36d030ed-3a7c-48bb-349b-0427c2b60d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/36d030ed-3a7c-48bb-349b-0427c2b60d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c9d0b44c-78f9-4a9b-0a8e-f06a8187be00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f9ed2721-1966-4abc-129b-93aaac1a6200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/21de8e51-12ad-4d17-e347-f0e038c3a000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f28b59f4-538c-4517-cfd7-510913015200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e3bd83aa-9996-412f-0da3-7bf1f4701100/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/21de8e51-12ad-4d17-e347-f0e038c3a000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e0a81846-aac4-488d-743e-cac098b8f700/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 8930,
+    "actualTravel": 9090,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://linear.app/",
+    "title": "Linear – The system for product development",
+    "documentHeight": 9990,
+    "contentHeight": 9990,
+    "contentTop": -9090,
+    "scrollY": 9090,
+    "ready": "enhanced js",
+    "bodyStyle": {
+      "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(247, 248, 248)",
+      "backgroundColor": "rgb(8, 9, 10)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "skip-nav",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": -9018,
+          "width": 1440,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 152,
+        "rect": {
+          "x": 78,
+          "y": -8818,
+          "width": 1282,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 373,
+          "y": -8447,
+          "width": 630,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "26.6px",
+          "fontWeight": "590",
+          "color": "rgb(208, 214, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 373,
+          "y": -8346,
+          "width": 630,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "fontWeight": "590",
+          "color": "rgb(208, 214, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 155,
+        "rect": {
+          "x": 46,
+          "y": -7494,
+          "width": 1250,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(138, 143, 152)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": -6416,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": -5180,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 78,
+          "y": -3941,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 78,
+          "y": -2699,
+          "width": 542,
+          "height": 83
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 78,
+          "y": -1446,
+          "width": 224,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "48px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 359,
+          "y": -76,
+          "width": 722,
+          "height": 144
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "72px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 304,
+          "y": 433,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 528,
+          "y": 433,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 752,
+          "y": 433,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 976,
+          "y": 433,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 1200,
+          "y": 433,
+          "width": 160,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Inter Variable\", \"SF Pro Display\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "19.5px",
+          "fontWeight": "510",
+          "color": "rgb(247, 248, 248)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://linear.app/#skip-nav",
+      "https://linear.app/homepage",
+      "https://linear.app/customers",
+      "https://linear.app/pricing",
+      "https://linear.app/now",
+      "https://linear.app/contact",
+      "https://linear.app/docs",
+      "https://linear.app/login",
+      "https://linear.app/login",
+      "https://linear.app/signup",
+      "https://linear.app/now/introducing-loops",
+      "https://linear.app/now/introducing-loops",
+      "https://linear.app/customers",
+      "https://linear.app/intake",
+      "https://linear.app/plan",
+      "https://linear.app/ai",
+      "https://linear.app/build",
+      "https://linear.app/changelog/2026-11-04-mobile-diffs",
+      "https://linear.app/changelog/2026-10-22-slack-and-github-loops",
+      "https://linear.app/changelog/2026-10-08-stacked-pull-requests",
+      "https://linear.app/changelog/2026-09-24-new-controls-for-linear-coding-agent",
+      "https://linear.app/changelog",
+      "https://linear.app/customers/openai",
+      "https://linear.app/customers/ramp",
+      "https://linear.app/customers/opendoor",
+      "https://linear.app/customers/openai",
+      "https://linear.app/customers/ramp",
+      "https://linear.app/customers",
+      "https://linear.app/signup",
+      "https://linear.app/contact/sales",
+      "https://linear.app/login",
+      "https://linear.app/download",
+      "https://linear.app/",
+      "https://linear.app/intake",
+      "https://linear.app/plan",
+      "https://linear.app/ai",
+      "https://linear.app/build",
+      "https://linear.app/pricing",
+      "https://linear.app/security",
+      "https://linear.app/asks",
+      "https://linear.app/agents",
+      "https://linear.app/coding-agent",
+      "https://linear.app/customer-requests",
+      "https://linear.app/insights",
+      "https://linear.app/mobile",
+      "https://linear.app/reviews",
+      "https://linear.app/integrations",
+      "https://linear.app/changelog",
+      "https://linear.app/about",
+      "https://linear.app/customers",
+      "https://linear.app/careers",
+      "https://linear.app/now",
+      "https://linear.app/method",
+      "https://linear.app/quality",
+      "https://linear.app/brand",
+      "https://linear.app/switch",
+      "https://linear.app/download",
+      "https://linear.app/docs",
+      "https://linear.app/developers",
+      "https://linear.app/enterprise",
+      "https://linear.app/startups",
+      "https://linearstatus.com/",
+      "https://linear.app/legal",
+      "https://linear.app/contact",
+      "https://linear.app/join-slack",
+      "https://x.com/linear",
+      "https://github.com/linear",
+      "https://www.youtube.com/@linear",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/legal",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup",
+      "https://linear.app/privacy",
+      "https://linear.app/terms",
+      "https://linear.app/legal",
+      "https://linear.app/dpa",
+      "https://linear.app/legal/aup"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/6600ca96-e49b-4fd9-c03a-7979faddad00/f=auto,fit=scale-down,metadata=none,width=2560",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c7fa8f5f-d439-4329-6a65-de549b51e300/f=auto,fit=scale-down,metadata=none,width=2560",
+        "poster": "",
+        "width": 2560,
+        "height": 1429
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f28b59f4-538c-4517-cfd7-510913015200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c2f6447a-d507-43c1-f3ab-3f2c6fbceb00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c2f6447a-d507-43c1-f3ab-3f2c6fbceb00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/086b510a-f5da-414b-bc9d-228afb968600/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/302b16a5-f9ca-42f2-dbae-3c76f19b2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/1eb8f8b2-3593-473f-ba8a-acac99aa0300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/6550520e-9e50-441d-b9e8-579be321f900/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4d3381aa-fb2f-4d3d-1a06-957fc616d400/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/7ea107e7-c1a0-4c99-756d-5837fd91f200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 56,
+        "height": 56
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/580cd9c0-2770-4fe4-1ad2-95c76fc6f000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 192,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/22210a73-581d-42db-d42a-bf2907860300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 144,
+        "height": 144
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/7d7115d9-a0eb-4a92-5900-3ca3ee077d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/584d7dbd-ff4a-41bb-4fab-74fd5217a400/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/4552f8d7-6f37-4319-68b4-12654bef4e00/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/d0a00c69-e4c9-4e2f-cff9-ec1178dd7700/f=auto,fit=scale-down,metadata=none,width=64",
+        "poster": "",
+        "width": 33,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c16152f3-a36c-468e-89ae-f87c2f244d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c9d0b44c-78f9-4a9b-0a8e-f06a8187be00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/675bbc53-1be0-4106-e66e-35b93c172300/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/ad091a28-fb2c-41be-409b-6b1774f3a200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/36d030ed-3a7c-48bb-349b-0427c2b60d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/36d030ed-3a7c-48bb-349b-0427c2b60d00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c9d0b44c-78f9-4a9b-0a8e-f06a8187be00/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f9ed2721-1966-4abc-129b-93aaac1a6200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/21de8e51-12ad-4d17-e347-f0e038c3a000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f28b59f4-538c-4517-cfd7-510913015200/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e3bd83aa-9996-412f-0da3-7bf1f4701100/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/21de8e51-12ad-4d17-e347-f0e038c3a000/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e0a81846-aac4-488d-743e-cac098b8f700/f=auto,fit=scale-down,metadata=none",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 2800,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1600,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 11046,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

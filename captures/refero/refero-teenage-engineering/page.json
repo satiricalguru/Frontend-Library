@@ -1,0 +1,1012 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-teenage-engineering",
+  "name": "teenage engineering — homepage",
+  "url": "https://teenage.engineering/",
+  "source": "https://styles.refero.design/style/aecf9dda-5cba-4dc7-9e73-59b65d895cdf",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:52:33.410Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://teenage.engineering/robots.txt",
+    "checkedAt": "2026-11-12T10:52:33.409Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/support"
+      },
+      {
+        "allow": false,
+        "path": "/b2b"
+      },
+      {
+        "allow": false,
+        "path": "/store/checkout"
+      },
+      {
+        "allow": false,
+        "path": "/store/_feeds"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "header",
+          "background"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 841,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "header",
+          "background"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2158,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 1277,
+        "contentTop": -1277,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "background"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3884,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 2849,
+        "contentTop": -2849,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "background"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 5265,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 4038,
+        "contentTop": -4038,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "background"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 6907,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://teenage.engineering/",
+        "scrollY": 4925,
+        "contentTop": -4925,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "background",
+          "1st-text",
+          "2nd-text",
+          "3rd-text"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://assets.teenage.engineering/_img/6ada1e46982c0e6e3c49faf7_2048.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.teenage.engineering/_img/6ada1e511588cd68653a8ed9_2048.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.teenage.engineering/_img/6ada1e5a153add6dc1ad8754_2048.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.teenage.engineering/_img/6ada1e62bd7c5766c0fd2219_2048.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://assets.teenage.engineering/_img/6ada2eeb86dd0c795533d648_opt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://teenage.engineering/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://teenage.engineering/_api/mw/track/view",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://teenage.engineering/_api/mw2/countries.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://teenage.engineering/_api/mw2/country",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://teenage.engineering/_api/mw2/products.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://teenage.engineering/assets/404.C11ssyYf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/API.D04gas-N.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/app-context.BmQEkhCy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/app-context.eObw6oyV.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/block.2tPiDhcW.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/block.BPJp8MO-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/button.B8x4Racb.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/button.CVAlNJb1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/cart-api.CCj2PPv0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/chunk-EVOBXE3Y.Bo9w5Xmx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/chunk.C3L1JmsE.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/container.D5S0EBRN.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/container.dVm2W4Ta.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/cx.DA6Zou2u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/Dict.Ru2aDesr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/entry.client.xiH9c8by.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/error-boundary.C1WJhyJe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/error-page.768rt8bP.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/error-page.8k_twQst.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/errors.BGqLsbjs.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/exports.XkwUcwmT.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/fetch.BHvLi5zE.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/flex.C4wW179p.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/flex.Ceu2zhmu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/form.BL5sLaeQ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/grid.BPtO4oiR.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/grid.pGLcpLux.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/image.B2cBDLbL.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/image.YQ569BL-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/index-C7nSB-pD.Dn21QmAC.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/isLightColor.cOnFXptv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/jsx-runtime.DjJFMYa8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/layout.DeChRR7W.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/layout.YeMOyE3m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/link.CJifxVgc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/link.vCOxmn-l.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/manifest-6f74581a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/message-context.Sbi_FCmw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/newsletter-form.CmbmHE10.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/newsletter._J-sYwn0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/not-found-page.Cbb_jp4j.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/not-found-page.Cpn5495n.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/page-title.DGHiDrd6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/preload-helper.BLOlk0zM.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/react-dom.QZk9ja-W.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/root.CHQSwVVp.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/root.CyKTWa8o.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/shop.BWaT74JB.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/spinner.CDDf_qcL.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/spinner.CWi6Gr0j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/structured-data.CsXGAe7s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/te013.C3kLKCGU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/te013.EFV_ohh2.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/TE20L.B96qqQct.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://teenage.engineering/assets/TE20T.C-qNTEkY.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://teenage.engineering/assets/technotype-bold.D1bK9_6H.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://teenage.engineering/assets/technotype-regular.Du4IkkVb.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://teenage.engineering/assets/tracking-pixel.CckcTxnr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/tracking.DkIXMnpU.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/urls.Cu1q5-sd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/use-slider.DNeObS21.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/assets/video-js.Br91EyVy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://teenage.engineering/assets/video-js.LtSHpziZ.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://teenage.engineering/favicon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://teenage.engineering/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 68885,
+      "sha256": "d1868e95807fa66b3486d2ebdd4366ef50ee94c46756ef50e42d8606c2b22fd9"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 68885,
+      "sha256": "d1868e95807fa66b3486d2ebdd4366ef50ee94c46756ef50e42d8606c2b22fd9"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 42694,
+      "sha256": "3c2a606fdb8bd2643a01abcddaaa6cf1210a08b84868d82158eebe5364254464"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 26794,
+      "sha256": "29806bfcedaedc46ff0dca05be0aa3708935fa9178d19a32aba4c08a3c2cbecb"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 15595,
+      "sha256": "28f1971d9bf53a61bf7dc81b2f6a1e10ceabfcf784fba86ad230e6f94bbd42cc"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 67103,
+      "sha256": "3f0d2d89ee0d93197b0af4492127ddfd1ed92025c8bbc6deb7f7ecb4c55379f9"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 154960,
+      "sha256": "96d7da843be145c33a33260e496c4470e53804a133a3230aebee0a5d2b8d1c32"
+    }
+  ],
+  "initial": {
+    "url": "https://teenage.engineering/",
+    "title": "teenage engineering",
+    "documentHeight": 5856,
+    "contentHeight": 5856,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "te-20, Unicode, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "300",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [],
+    "canvases": [],
+    "links": [
+      "https://teenage.engineering/",
+      "https://teenage.engineering/products",
+      "https://teenage.engineering/products/audio-and-synthesizers",
+      "https://teenage.engineering/products/wireless-speakers",
+      "https://teenage.engineering/designs",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store/special-offers",
+      "https://teenage.engineering/newsletter",
+      "https://www.instagram.com/teenageengineering/",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/guides",
+      "https://support.teenage.engineering/",
+      "https://teenage.engineering/products",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/downloads",
+      "https://teenage.engineering/guides",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/privacy-policy",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/privacy-policy",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/newsletter",
+      "https://teenage.engineering/retailers",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/press",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/store/support/returns",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/guides",
+      "https://teenage.engineering/downloads",
+      "https://support.teenage.engineering/",
+      "https://teenage.engineering/press",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/store/support/returns",
+      "https://teenage.engineering/",
+      "https://teenage.engineering/store/checkout"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e46982c0e6e3c49faf7_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e511588cd68653a8ed9_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e5a153add6dc1ad8754_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e62bd7c5766c0fd2219_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2eeb86dd0c795533d648_opt.svg",
+        "poster": "",
+        "width": 890,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada22f71092e771c47a74fe_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada230506b0be71c5d64991_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2312f3cc7171c56f5522_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada234cf663dc71c40afb6b_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada232143f2a971c4dd2a2a_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada232c03f2ae71c5475261_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2f2357f1907ccd9cef75_opt.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://teenage.engineering/_api/mw/track/view?p=/",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 4796,
+    "actualTravel": 4925,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://teenage.engineering/",
+    "title": "teenage engineering",
+    "documentHeight": 5856,
+    "contentHeight": 5856,
+    "contentTop": -4925,
+    "scrollY": 4925,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "te-20, Unicode, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "300",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [],
+    "canvases": [],
+    "links": [
+      "https://teenage.engineering/",
+      "https://teenage.engineering/products",
+      "https://teenage.engineering/products/audio-and-synthesizers",
+      "https://teenage.engineering/products/wireless-speakers",
+      "https://teenage.engineering/designs",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store/special-offers",
+      "https://teenage.engineering/newsletter",
+      "https://www.instagram.com/teenageengineering/",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/guides",
+      "https://support.teenage.engineering/",
+      "https://teenage.engineering/products",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/now",
+      "https://teenage.engineering/downloads",
+      "https://teenage.engineering/guides",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/",
+      "https://teenage.engineering/store/checkout",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/privacy-policy",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/privacy-policy",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/products/ep-35/magazine",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/store/ep-35",
+      "https://teenage.engineering/newsletter",
+      "https://teenage.engineering/retailers",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/press",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/store/support/returns",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/store",
+      "https://teenage.engineering/guides",
+      "https://teenage.engineering/downloads",
+      "https://support.teenage.engineering/",
+      "https://teenage.engineering/press",
+      "https://teenage.engineering/contact",
+      "https://teenage.engineering/terms-and-conditions",
+      "https://teenage.engineering/store/support/returns",
+      "https://teenage.engineering/",
+      "https://teenage.engineering/store/checkout"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e46982c0e6e3c49faf7_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e511588cd68653a8ed9_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e5a153add6dc1ad8754_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada1e62bd7c5766c0fd2219_2048.webp",
+        "poster": "",
+        "width": 1411,
+        "height": 1411
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2eeb86dd0c795533d648_opt.svg",
+        "poster": "",
+        "width": 890,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada22f71092e771c47a74fe_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada230506b0be71c5d64991_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2312f3cc7171c56f5522_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada234cf663dc71c40afb6b_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada232143f2a971c4dd2a2a_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada232c03f2ae71c5475261_128.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://assets.teenage.engineering/_img/6ada2f2357f1907ccd9cef75_opt.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://teenage.engineering/_api/mw/track/view?p=/",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 6907,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

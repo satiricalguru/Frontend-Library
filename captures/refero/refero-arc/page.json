@@ -1,0 +1,3125 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-arc",
+  "name": "Arc — homepage",
+  "url": "https://arc.net/",
+  "source": "https://styles.refero.design/style/acfb6fa1-3aed-4e64-8522-7f332a796de8",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:46:34.862Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://arc.net/robots.txt",
+    "checkedAt": "2026-11-12T10:46:34.862Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/api/redirect-links/link/*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 830,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2357,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 1364,
+        "contentTop": -1364,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "farewell"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4073,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 3037,
+        "contentTop": -3037,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "move-to-dia",
+          "move-to-dia-title"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6185,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 4304,
+        "contentTop": -4304,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "move-to-dia",
+          "faq"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 7855,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://arc.net/",
+        "scrollY": 5252,
+        "contentTop": -5252,
+        "pageTransform": "none",
+        "visibleIds": [
+          "__next",
+          "faq"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://arc.net/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/726-2a05a6fdd6742973.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/framework-552547284f246270.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/main-0ed5ce4e590b0f33.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/pages/_app-ce1c6c2210cd306c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/pages/index-c704613b0b04703c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/chunks/webpack-c7e72f719ef4fcbc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/css/6d65f8dcbcc1dcc5.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://arc.net/_next/static/xqqt6gbdtWX4-lyetxWqd/_buildManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/_next/static/xqqt6gbdtWX4-lyetxWqd/_ssgManifest.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/apple-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/arc-hero.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/arc-logo/color.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/arc-logo/outline.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/chat-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/command-key.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-activity.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-adventure.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-beatles.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-calendar.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-design.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-discord.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-figma.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-github.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-gmail.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-hendrix.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-jazz.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-nike.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-notion.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-nyt.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-reddit.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-spotify.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-third-self.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/fav-vox.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/hero-edge.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/import-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/josh-signature.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/abby.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/adam.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/adena.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/alexandra-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/ben.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/brahm-2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/brian.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/callan-3.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/charlie-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/christian-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/christine.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/connor-2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/dustin.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/elizabeth.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/freddy.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/hursh.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/jane.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/jeremy.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/jessi-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/jlo.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/jm-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/joel.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/julia.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/kasper.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/loren.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/matthew-3.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/max-2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/mikotaj.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/patrick-l-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/patrick-m-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/renato-2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/rishi.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/rosey.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/saleem.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/samir.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/seb-1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/sherry-2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/signatures/tara.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/tbc-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/farewell/assets/windows-logo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://arc.net/favicon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://arc.net/fonts/205TF-Exposure-[-10].woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://arc.net/fonts/ABCFavoritMono-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://arc.net/fonts/ABCOracle-Book.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://arc.net/fonts/ABCOracle-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://arc.net/fonts/marlin.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://arc.net/js/arcnet-script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 35627,
+      "sha256": "80529d2cac89cd2db06b55c11143323ae33a9b7219f8d40b5eb18b4e8dd5cef4"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 35627,
+      "sha256": "80529d2cac89cd2db06b55c11143323ae33a9b7219f8d40b5eb18b4e8dd5cef4"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 59503,
+      "sha256": "c16fe5c2cd5ade8df5d840301c8f25c5f467d4033ce3d4d6215676c84ec50e49"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 64874,
+      "sha256": "d779013ba0b2a7ca513d4dad1334906e1035d97d5c3e77bb44b3d37e839e4e62"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 60023,
+      "sha256": "f66f00753efa2b444b0def2bcb027452fc9f12090fb3bb4957feac5e70c0d235"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 48250,
+      "sha256": "ce984c332001dd28f1a56991880c9b9b85c2faa6c801e1e43fcdb114fb58c6cc"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 260562,
+      "sha256": "5617e674339ea01fb734249ab531579dde823b23b2624dd27e32a21fcf93e3fb"
+    }
+  ],
+  "initial": {
+    "url": "https://arc.net/",
+    "title": "A farewell to Arc",
+    "documentHeight": 6173,
+    "contentHeight": 6173,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Marlin, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(11, 11, 11)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "move-to-dia",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3420,
+          "width": 1440,
+          "height": 1262
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "faq",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 4681,
+          "width": 1440,
+          "height": 1036
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "hero-title",
+        "characters": 17,
+        "rect": {
+          "x": 436,
+          "y": 443,
+          "width": 567,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "76px",
+          "lineHeight": "85.88px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "farewell-title",
+        "characters": 48,
+        "rect": {
+          "x": 413,
+          "y": 900,
+          "width": 615,
+          "height": 98
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "38px",
+          "lineHeight": "49.02px",
+          "fontWeight": "350",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "timeline-title",
+        "characters": 8,
+        "rect": {
+          "x": 185,
+          "y": 2923,
+          "width": 504,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "move-to-dia-title",
+        "characters": 20,
+        "rect": {
+          "x": 185,
+          "y": 3621,
+          "width": 666,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 212,
+          "y": 3955,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 185,
+          "y": 4132,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 185,
+          "y": 4309,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 185,
+          "y": 4460,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "faq-title",
+        "characters": 9,
+        "rect": {
+          "x": 185,
+          "y": 4895,
+          "width": 1069,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 185,
+          "y": 5035,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 185,
+          "y": 5110,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 185,
+          "y": 5186,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 185,
+          "y": 5261,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 185,
+          "y": 5535,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 185,
+          "y": 5673,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 185,
+          "y": 6018,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 185,
+          "y": 6113,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 185,
+          "y": 5337,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 185,
+          "y": 5412,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 185,
+          "y": 5590,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 185,
+          "y": 5766,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 185,
+          "y": 5487,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 53,
+        "rect": {
+          "x": 185,
+          "y": 5563,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://arc.net/#farewell",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://releases.arc.net/release/Arc-latest.dmg",
+      "https://releases.arc.net/windows/ArcInstaller.exe",
+      "https://resources.arc.net/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://www.diabrowser.com/download"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-logo/outline.svg",
+        "poster": "",
+        "width": 292,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-logo/color.svg",
+        "poster": "",
+        "width": 262,
+        "height": 220
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/josh-signature.webp",
+        "poster": "",
+        "width": 493,
+        "height": 175
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/tbc-logo.svg",
+        "poster": "",
+        "width": 302,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/rosey.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/ben.webp",
+        "poster": "",
+        "width": 428,
+        "height": 389
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/adena.webp",
+        "poster": "",
+        "width": 328,
+        "height": 176
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/loren.webp",
+        "poster": "",
+        "width": 428,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/max-2.webp",
+        "poster": "",
+        "width": 342,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/rishi.webp",
+        "poster": "",
+        "width": 428,
+        "height": 164
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jeremy.webp",
+        "poster": "",
+        "width": 428,
+        "height": 218
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/abby.webp",
+        "poster": "",
+        "width": 428,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jlo.webp",
+        "poster": "",
+        "width": 309,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/samir.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/elizabeth.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/brahm-2.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jm-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/hursh.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/alexandra-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/callan-3.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/seb-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/freddy.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/connor-2.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/brian.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/patrick-m-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/adam.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/patrick-l-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/matthew-3.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jessi-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/joel.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/dustin.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jane.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/charlie-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/renato-2.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/tara.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/christine.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/kasper.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/christian-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/sherry-2.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/saleem.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/julia.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/mikotaj.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/command-key.svg",
+        "poster": "",
+        "width": 11,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/import-icon.svg",
+        "poster": "",
+        "width": 22,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-spotify.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-hero.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-reddit.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-spotify.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-adventure.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-third-self.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-beatles.png",
+        "poster": "",
+        "width": 64,
+        "height": 41
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-jazz.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-hendrix.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nike.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-vox.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-design.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-design.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-discord.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/chat-icon.svg",
+        "poster": "",
+        "width": 19,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/apple-logo.svg",
+        "poster": "",
+        "width": 13,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/windows-logo.svg",
+        "poster": "",
+        "width": 14,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/tbc-logo.svg",
+        "poster": "",
+        "width": 302,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/import-icon.svg",
+        "poster": "",
+        "width": 22,
+        "height": 18
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 5113,
+    "actualTravel": 5252,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://arc.net/",
+    "title": "A farewell to Arc",
+    "documentHeight": 6173,
+    "contentHeight": 6173,
+    "contentTop": -5252,
+    "scrollY": 5252,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "Marlin, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(11, 11, 11)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "move-to-dia",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -1832,
+          "width": 1440,
+          "height": 1262
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "faq",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -571,
+          "width": 1440,
+          "height": 1036
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "hero-title",
+        "characters": 17,
+        "rect": {
+          "x": 436,
+          "y": -4809,
+          "width": 567,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "76px",
+          "lineHeight": "85.88px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "farewell-title",
+        "characters": 48,
+        "rect": {
+          "x": 413,
+          "y": -4352,
+          "width": 615,
+          "height": 98
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "38px",
+          "lineHeight": "49.02px",
+          "fontWeight": "350",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "timeline-title",
+        "characters": 8,
+        "rect": {
+          "x": 185,
+          "y": -2329,
+          "width": 504,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "move-to-dia-title",
+        "characters": 20,
+        "rect": {
+          "x": 185,
+          "y": -1631,
+          "width": 666,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 185,
+          "y": -1297,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 185,
+          "y": -1120,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 185,
+          "y": -943,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 212,
+          "y": -792,
+          "width": 490,
+          "height": 28
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "20px",
+          "lineHeight": "28.4px",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "faq-title",
+        "characters": 9,
+        "rect": {
+          "x": 185,
+          "y": -357,
+          "width": 1069,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "\"Exposure VAR\", \"Iowan Old Style\", Georgia, serif",
+          "fontSize": "64px",
+          "lineHeight": "68px",
+          "fontWeight": "600",
+          "color": "rgba(0, 0, 0, 0.85)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 185,
+          "y": -217,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 185,
+          "y": -142,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 185,
+          "y": -66,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 185,
+          "y": 9,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 185,
+          "y": 283,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 185,
+          "y": 421,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 185,
+          "y": 766,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 185,
+          "y": 861,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 185,
+          "y": 85,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 185,
+          "y": 160,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 185,
+          "y": 338,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 185,
+          "y": 514,
+          "width": 590,
+          "height": 19
+        },
+        "style": {
+          "fontFamily": "\"ABC Favorit Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+          "fontSize": "13px",
+          "lineHeight": "18.59px",
+          "fontWeight": "400",
+          "color": "rgb(159, 159, 159)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 185,
+          "y": 235,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 53,
+        "rect": {
+          "x": 185,
+          "y": 311,
+          "width": 1069,
+          "height": 74
+        },
+        "style": {
+          "fontFamily": "\"ABC Oracle\", -apple-system, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "350",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://arc.net/#farewell",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://releases.arc.net/release/Arc-latest.dmg",
+      "https://releases.arc.net/windows/ArcInstaller.exe",
+      "https://resources.arc.net/",
+      "https://www.diabrowser.com/",
+      "https://www.diabrowser.com/download",
+      "https://www.diabrowser.com/download"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-logo/outline.svg",
+        "poster": "",
+        "width": 292,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-logo/color.svg",
+        "poster": "",
+        "width": 262,
+        "height": 220
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/josh-signature.webp",
+        "poster": "",
+        "width": 493,
+        "height": 175
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/tbc-logo.svg",
+        "poster": "",
+        "width": 302,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/rosey.webp",
+        "poster": "",
+        "width": 428,
+        "height": 259
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/ben.webp",
+        "poster": "",
+        "width": 428,
+        "height": 389
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/adena.webp",
+        "poster": "",
+        "width": 328,
+        "height": 176
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/loren.webp",
+        "poster": "",
+        "width": 428,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/max-2.webp",
+        "poster": "",
+        "width": 342,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/rishi.webp",
+        "poster": "",
+        "width": 428,
+        "height": 164
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jeremy.webp",
+        "poster": "",
+        "width": 428,
+        "height": 218
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/abby.webp",
+        "poster": "",
+        "width": 428,
+        "height": 189
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jlo.webp",
+        "poster": "",
+        "width": 309,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/samir.webp",
+        "poster": "",
+        "width": 428,
+        "height": 101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/elizabeth.webp",
+        "poster": "",
+        "width": 428,
+        "height": 145
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/brahm-2.webp",
+        "poster": "",
+        "width": 428,
+        "height": 344
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jm-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 129
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/hursh.webp",
+        "poster": "",
+        "width": 428,
+        "height": 140
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/alexandra-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 197
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/callan-3.webp",
+        "poster": "",
+        "width": 428,
+        "height": 201
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/seb-1.webp",
+        "poster": "",
+        "width": 350,
+        "height": 428
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/freddy.webp",
+        "poster": "",
+        "width": 428,
+        "height": 237
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/connor-2.webp",
+        "poster": "",
+        "width": 428,
+        "height": 117
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/brian.webp",
+        "poster": "",
+        "width": 428,
+        "height": 280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/patrick-m-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 177
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/adam.webp",
+        "poster": "",
+        "width": 394,
+        "height": 194
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/patrick-l-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 277
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/matthew-3.webp",
+        "poster": "",
+        "width": 428,
+        "height": 277
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jessi-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 302
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/joel.webp",
+        "poster": "",
+        "width": 428,
+        "height": 214
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/dustin.webp",
+        "poster": "",
+        "width": 428,
+        "height": 239
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/jane.webp",
+        "poster": "",
+        "width": 428,
+        "height": 362
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/charlie-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/renato-2.webp",
+        "poster": "",
+        "width": 428,
+        "height": 171
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/tara.webp",
+        "poster": "",
+        "width": 428,
+        "height": 126
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/christine.webp",
+        "poster": "",
+        "width": 428,
+        "height": 135
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/kasper.webp",
+        "poster": "",
+        "width": 428,
+        "height": 181
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/christian-1.webp",
+        "poster": "",
+        "width": 428,
+        "height": 223
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/sherry-2.webp",
+        "poster": "",
+        "width": 428,
+        "height": 276
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/saleem.webp",
+        "poster": "",
+        "width": 428,
+        "height": 192
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/julia.webp",
+        "poster": "",
+        "width": 428,
+        "height": 187
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/signatures/mikotaj.webp",
+        "poster": "",
+        "width": 428,
+        "height": 244
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/command-key.svg",
+        "poster": "",
+        "width": 11,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/import-icon.svg",
+        "poster": "",
+        "width": 22,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-spotify.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/arc-hero.webp",
+        "poster": "",
+        "width": 1247,
+        "height": 638
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-reddit.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-spotify.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-adventure.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-airbnb.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-third-self.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nyt.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-beatles.png",
+        "poster": "",
+        "width": 64,
+        "height": 41
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-jazz.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-hendrix.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-nike.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-vox.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-design.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-figma.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-design.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-activity.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-discord.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-calendar.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-gmail.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-github.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/fav-notion.png",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/chat-icon.svg",
+        "poster": "",
+        "width": 19,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/apple-logo.svg",
+        "poster": "",
+        "width": 13,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/windows-logo.svg",
+        "poster": "",
+        "width": 14,
+        "height": 14
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/tbc-logo.svg",
+        "poster": "",
+        "width": 302,
+        "height": 86
+      },
+      {
+        "tag": "IMG",
+        "url": "https://arc.net/farewell/assets/import-icon.svg",
+        "poster": "",
+        "width": 22,
+        "height": 18
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 7855,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

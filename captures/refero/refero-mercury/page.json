@@ -1,0 +1,3571 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-mercury",
+  "name": "Mercury — homepage",
+  "url": "https://mercury.com/",
+  "source": "https://styles.refero.design/style/3172cd4d-118a-4a16-a259-6b634d32322e",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:49:42.066Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://mercury.com/robots.txt",
+    "checkedAt": "2026-11-12T10:49:42.066Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "*?_rsc=*"
+      },
+      {
+        "allow": false,
+        "path": "*/investor-database?*"
+      },
+      {
+        "allow": false,
+        "path": "*/perks?*"
+      },
+      {
+        "allow": false,
+        "path": "*/raise/software-stack?*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 0,
+        "contentTop": 49,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 830,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 0,
+        "contentTop": 49,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2721,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 3448,
+        "contentTop": -3399,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller",
+          "radix-_R_d96olubt6lb_-content-CbFhkBknR1OO6ZZ5NCMj8Q"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4872,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 7028,
+        "contentTop": -6979,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6334,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 10044,
+        "contentTop": -9995,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller",
+          "disclaimer-section",
+          "disclaimers",
+          "footnote-business-treasury-rate-of-return-and-condensed-ria"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 8323,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://mercury.com/",
+        "scrollY": 10783,
+        "contentTop": -10734,
+        "pageTransform": "none",
+        "visibleIds": [
+          "root",
+          "theme-switch-scroller",
+          "disclaimer-section",
+          "disclaimers",
+          "footnote-business-treasury-rate-of-return-and-condensed-ria",
+          "footnote-business-io-cashback"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://aapi.mercury.com/v1/i",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://aapi.mercury.com/v1/p",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://aapi.mercury.com/v1/t",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://cdn.mercury.com/static/js/pixel/oaiq.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/01135ooybvc21.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/01g4p9tx0vpz8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/027rulsbhprkd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/032eoxa09hrg9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/076nneszlsock.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/07zih0vp2j58g.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0aj--bxww308c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0c_rif1-flzbr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0gszwka6g57z_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0jsgidzbm-s5h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0lgx2f3g4drqi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0qaostl6zskrr.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0teh851ynez-p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/0to-0vp_eeonb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1_s1wwaz2ji5-.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1-n23f60civz-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1166r_8kddrk6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/12v96vby2ebu-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/13ixwg7xl7vbb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/18fjvnz4i80vw.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1c8gqp5w6fiou.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1ff4qbf938nkr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1l63dxqk9-t5z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1nzumidt6bjkv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1oznwamnf3696.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1pwzdms1jaomy.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1qblz3y6o7osu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1qn5u0x3tfn9z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/1xp5i8f4-6ysb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2_jmk2m389nvo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2-uf9k-wutwxz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2-y-o72fpyo32.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/20jloi3x02ipt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/20oelyb623kcd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/26ft6dhmgfhfy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2dmc_6idml2dt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2ds5ilfgn80ug.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2es9h-eyfuhwc.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2f0ji-4z0fvnu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2hn7raakgv2py.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2jzplayhi3uym.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2k2_ox0v-b2_z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2mnyr46kklsiq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2olk5h74xe2di.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2oq_yl18xlhs6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2rj8kwmgi9jox.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2s58-hk_5yrcg.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2sx3qqp-5zigy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2u__zc8t57e3m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2u1x6kubfy615.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2uob38io4t3sm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2wcl8o_maf7sy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/2y-p89nxvnkk5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3_5ro41oq43u9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3_sfut306y3hf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3-6xrxlv7xgf-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/30-yekwhszvrz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/31ggkrebw1wby.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/34pkiv0ngvtgu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3axpfgv71-88u.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3eio07mgxtyhz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3ik7zp5thv4zx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/3op2jaxl_h-yw.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/41cu023n5fgcf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/442cn6r86nwag.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/44vjh7aqd_lvl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/458fqu_31yc6p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/chunks/turbopack-18_5df4vs6w4n.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/ArcadiaDisplay_Variable-s.p.37a6szvr8v8r0.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/ArcadiaText_Variable-s.p.1x_q7ztf_htve.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/d6c1ff7e86974212-s.p.40sczeszzbjw1.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/flow_1_poster.0hlowvftbyuy5.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/hero_end_frame_xl.3npvt8o-inl6q.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_fine_light-s.p.3ogn08h5umff1.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_fine_medium_italic-s.p.1cu0jwslo2rfp.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_fine_medium-s.p.1-axsg1d1zpv9.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_fine_regular_italic-s.p.0kgy7ullc-n1m.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_headline_light_italic-s.p.287v3vlo3shaa.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_headline_medium_italic-s.p.0dh9c7ptm5ct1.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_headline_regular_italic-s.p.0utm66okn5ry3.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_headline_regular-s.p.41845ccf2x5wc.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_text_medium_italic-s.p.3-5i7rmp2hyid.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_text_medium-s.p.046d9rbkniotb.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_text_regular_italic-s.p.3r-3185mmzn23.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_next/static/media/tiempos_text_regular-s.p.1stfi_1_oajtc.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://mercury.com/_vercel/speed-insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/a-4-a/c.js",
+      "status": 200,
+      "mimeType": "text/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://mercury.com/15u18hhl",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/about",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/accounting-firms",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/agencies-and-consultants",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/api",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/api/referral-attributions",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/blog/categories/meridian",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/blog/how-mercury-works-with-partner-banks",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/business-payments",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/climate",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/command",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/contact",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/contact/sales",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/design-system/hg/button-stable-fluid-gradient-bg.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://mercury.com/ecommerce",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/healthcare-services",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Other"
+    },
+    {
+      "url": "https://mercury.com/jobs",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/legal",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/legal/disclosures/treasury",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/legal/privacy",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/life-science",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/llc-banking",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/mcp",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/partnerships",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/payroll",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/perks",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/personal-banking",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/real-estate-and-construction",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/releases",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/saas",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/spend-management",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/vc-funds",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://mercury.com/videos/hero/flow_1.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://mercury.com/videos/hero/flow_2.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://mercury.com/videos/hero/flow_3.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://mercury.com/videos/hero/flow_4.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://mercury.com/web3",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 110643,
+      "sha256": "910fce9fb040e5be346ea82ff4cc212f2576bc1932aef96535d395d632168ad9"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 110643,
+      "sha256": "910fce9fb040e5be346ea82ff4cc212f2576bc1932aef96535d395d632168ad9"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 46494,
+      "sha256": "c1ca6d989dbb7b534ecbbc14fc3e5415cf3bc5fb6de99ed373663fbdd018babc"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 34972,
+      "sha256": "a799e159a3c43b209244310b4afac17253156141b40d69b04fefb5bc9999dbce"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 111671,
+      "sha256": "1f070ad195ace4642146f4cd61c9a521c98b386d2c9485f2e0c262cfbaabf5fa"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 154064,
+      "sha256": "78637f3309c072c15d8a6d89e315a280e844b3e1c41455d6f52352f9534952e9"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 338572,
+      "sha256": "7800067d4e9c865cdf6c41274f16e5e88ac7480b353217063696582f5badf04f"
+    }
+  ],
+  "initial": {
+    "url": "https://mercury.com/",
+    "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+    "documentHeight": 13033,
+    "contentHeight": 13033,
+    "contentTop": 49,
+    "scrollY": 0,
+    "ready": "box-border h-fit min-h-full w-full text-[16px]",
+    "bodyStyle": {
+      "fontFamily": "arcadia, \"arcadia Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 384,
+          "y": 144,
+          "width": 672,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "49.3472px",
+          "lineHeight": "54.2819px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 120,
+          "y": -2787,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 120,
+          "y": -2653,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 120,
+          "y": -2606,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 120,
+          "y": -2560,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 64,
+        "rect": {
+          "x": 384,
+          "y": 3473,
+          "width": 672,
+          "height": 145
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 176,
+          "y": 6378,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 176,
+          "y": 6490,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 176,
+          "y": 6536,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 720,
+          "y": 7044,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 720,
+          "y": 7202,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 720,
+          "y": 7248,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 63,
+        "rect": {
+          "x": 384,
+          "y": 8492,
+          "width": 672,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 240,
+          "y": 9941,
+          "width": 256,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 592,
+          "y": 9941,
+          "width": 256,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 944,
+          "y": 9941,
+          "width": 256,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 384,
+          "y": 10306,
+          "width": 672,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 240,
+          "y": 10587,
+          "width": 264,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 768,
+          "y": 10587,
+          "width": 268,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 208,
+          "y": 11969,
+          "width": 341,
+          "height": 936
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "12px",
+          "lineHeight": "16.8px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 148,
+        "height": 44,
+        "rect": {
+          "x": -2,
+          "y": -2,
+          "width": 149,
+          "height": 44
+        }
+      }
+    ],
+    "links": [
+      "https://mercury.com/mcp",
+      "https://mercury.com/",
+      "https://mercury.com/pricing",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/books",
+      "https://mercury.com/payroll",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/business-banking",
+      "https://mercury.com/working-capital-loans",
+      "https://mercury.com/venture-debt",
+      "https://mercury.com/treasury",
+      "https://mercury.com/credit",
+      "https://mercury.com/spend-management",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/invoicing",
+      "https://mercury.com/accounting-integrations",
+      "https://mercury.com/command",
+      "https://mercury.com/insights",
+      "https://mercury.com/mcp",
+      "https://mercury.com/api",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/tech-ai-startups",
+      "https://mercury.com/ecommerce",
+      "https://mercury.com/agencies-and-consultants",
+      "https://mercury.com/vc-funds",
+      "https://mercury.com/web3",
+      "https://mercury.com/accounting-firms",
+      "https://mercury.com/saas",
+      "https://mercury.com/llc-banking",
+      "https://mercury.com/life-science",
+      "https://mercury.com/climate",
+      "https://mercury.com/real-estate-and-construction",
+      "https://mercury.com/healthcare-services",
+      "https://mercury.com/blog",
+      "https://mercury.com/blog/topics/starting-a-business",
+      "https://mercury.com/blog/topics/scaling-and-growth",
+      "https://mercury.com/blog/categories/meridian",
+      "https://mercury.com/blog/categories/inside-mercury",
+      "https://mercury.com/perks",
+      "https://mercury.com/perks/bundles/startup-launch",
+      "https://mercury.com/perks/bundles/customer-growth",
+      "https://mercury.com/perks/bundles/ecommerce",
+      "https://mercury.com/tools",
+      "https://mercury.com/investor-database",
+      "https://mercury.com/safe",
+      "https://mercury.com/tools/cash-burn-rate-calculator",
+      "https://mercury.com/releases",
+      "https://mercury.com/about",
+      "https://mercury.com/events",
+      "https://mercury.com/partnerships",
+      "https://mercury.com/jobs",
+      "https://support.mercury.com/hc/en-us/business",
+      "https://mercury.com/faq",
+      "https://mercury.com/switch-to-mercury",
+      "https://mercury.com/contact",
+      "https://mercury.com/",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/pricing",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-treasury-rate-of-return-and-condensed-ria",
+      "https://mercury.com/#footnote-mercury-venture-debt",
+      "https://mercury.com/#footnote-business-io-cashback",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://mercury.com/#footnote-business-io-cashback",
+      "https://mercury.com/credit",
+      "https://mercury.com/#footnote-rtp",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/credit",
+      "https://mercury.com/#footnote-business-treasury-rate-of-return-and-condensed-ria",
+      "https://mercury.com/treasury",
+      "https://mercury.com/#footnote-business-relationship-manager-disclaimer",
+      "https://mercury.com/#footnote-business-1-in-3-startups-use-mercury",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized",
+      "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized",
+      "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+      "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+      "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+      "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/contact/sales",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://mercury.com/#footnote-personal-apy",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/business-banking",
+      "https://mercury.com/treasury",
+      "https://mercury.com/credit",
+      "https://mercury.com/working-capital-loans",
+      "https://mercury.com/venture-debt",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/pricing",
+      "https://mercury.com/switch-to-mercury",
+      "https://mercury.com/command",
+      "https://mercury.com/insights",
+      "https://mercury.com/mcp",
+      "https://mercury.com/api",
+      "https://mercury.com/security",
+      "https://status.mercury.com/",
+      "https://mercury.com/perks",
+      "https://support.mercury.com/hc/en-us/sections/28736349558420-Getting-Started",
+      "https://mercury.com/blog/categories/meridian",
+      "https://mercury.com/blog",
+      "https://mercury.com/tools",
+      "https://mercury.com/events",
+      "https://mercury.com/business-formation-resources",
+      "https://mercury.com/peak-season",
+      "https://mercury.com/releases",
+      "https://mercury.com/compare/mercury-business-banking-vs-chase",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/bill-pay",
+      "https://mercury.com/invoicing",
+      "https://mercury.com/spend-management",
+      "https://www.mercury.com/books",
+      "https://mercury.com/accounting-integrations",
+      "https://mercury.com/payroll",
+      "https://mercury.com/safe",
+      "https://mercury.com/ecommerce",
+      "https://mercury.com/agencies-and-consultants",
+      "https://mercury.com/saas",
+      "https://mercury.com/vc-funds",
+      "https://mercury.com/web3",
+      "https://mercury.com/llc-banking",
+      "https://mercury.com/life-science",
+      "https://mercury.com/accounting-firms",
+      "https://mercury.com/climate",
+      "https://mercury.com/real-estate-and-construction",
+      "https://mercury.com/healthcare-services",
+      "https://app.mercury.com/signup",
+      "https://app.mercury.com/login",
+      "https://apps.apple.com/us/app/mercury-powerful-banking/id1491984028",
+      "https://play.google.com/store/apps/dev?id=7011991507842528981&pli=1",
+      "https://mercury.com/blog/how-mercury-works-with-partner-banks",
+      "https://mercury.com/about",
+      "https://mercury.com/jobs",
+      "https://mercury.com/partnerships",
+      "https://mercury.com/contact",
+      "https://mercury.com/legal",
+      "https://mercury.com/legal/privacy",
+      "https://www.x.com/mercury",
+      "https://www.linkedin.com/company/mercuryhq",
+      "https://www.youtube.com/@Mercuryfi",
+      "https://www.instagram.com/mercuryfi/",
+      "https://www.tiktok.com/@mercury.fi",
+      "https://mercury.com/how-mercury-works",
+      "https://rnt.com/files/ddm/bank-list/pbl-rtncu.pdf",
+      "https://column.com/legal/sweep-program-network-banks/",
+      "https://rnt.com/files/ddm/bank-list/pbl-rtncu.pdf",
+      "https://column.com/legal/sweep-program-network-banks",
+      "https://mercury.com/blog/inside-mercury/how-mercury-works-with-partner-banks",
+      "https://www.ssga.com/us/en/institutional/resources/doc-viewer#mrgxx&prospectus",
+      "https://morganstanley.prospectus-express.com/summary.asp?doctype=pros&clientid=morganstll&fundid=617455258+",
+      "https://support.mercury.com/hc/en-us/articles/54826857082900-Understanding-Treasury-ladders",
+      "https://apexfintechsolutions.com/legal/disclosures/",
+      "https://mercury.com/external/ZKRtAtXyTReMW9bYWc2qWQ",
+      "https://mercury.com/legal/disclosures/treasury",
+      "https://www.nmlsconsumeraccess.org/",
+      "https://www.nmlsconsumeraccess.org/",
+      "https://support.mercury.com/hc/en-us/articles/28768794858772-Qualifying-for-IO",
+      "https://support.mercury.com/hc/en-us/articles/39968809104148-Receiving-real-time-payments-RTP"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero_start_frame_xl.39vs55l6ttdit.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 2403,
+        "height": 901
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+        "poster": "",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-md.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-sm.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/static/media/hero_end_frame_xl.3npvt8o-inl6q.jpg",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/static/media/hero_end_frame_xl.3npvt8o-inl6q.jpg",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764095939-2025_fem_testimonial-linear_2x1.webp?ar64=Mjox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764095998-2025_fem_testimonial-linear_9x16.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764169450-2025_fem_homepage-testimonial-gainful_4x5.webp?ar64=Mjox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764173362-2025_fem_testimonial-gainful_9x16.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764096101-2025_fem_testimonial-ways-and-means_2x1.webp?ar64=Mjox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764096181-2025_fem_testimonial-ways-and-means_9x16-webp.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764181747-2025_fem_homepage-virtual-cards_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAJACT/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764016774-2025_fem_homepage-invoicing_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKoARACT/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764189457-2025_fem_homepage-apply-online_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764189501-2025_fem_homepage-cards_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhIQEBMLEQ4NDBANDQ0NDRQNDQ0YFxUZGBYTFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0LFQ0QHC8cFh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAAAwEEBQYH/8QAGxAAAwEBAAMAAAAAAAAAAAAAAAEDAgQUIlH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIR/9oADAMBAAIRAxEAPwDrLvMXrqkkVNNL6I00xxCsedFUAxNce5JTEZsm5w0xT5ogBCWknXLF6IACnaH/2Q==",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764029665-2025_fem_homepage-apply-online_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764029696-2025_fem_homepage-cards_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoKEwgLDQcRDg0KBwgNDh0NFgcYFxUZGBYTIhUaHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHRAKHC8cFhwvLy8vLy8vLy8vLy8vLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEwMBIgACEQEDEQH/xAAZAAEAAgMAAAAAAAAAAAAAAAAAAwYEBQf/xAAfEAACAgEEAwAAAAAAAAAAAAAAAwECQQQRE2EhMlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGBEBAQADAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AOvNsuckDmqiseTEZDNsmHqKNmuQTGGbONQnb2gFf49R2B+IC1zWlsELV0jABCWii4V/AAU3Wf/Z",
+        "poster": "",
+        "width": 19,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAlQAAAAAD/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764618945-2025_fem_homepage-cashback_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764619012-2025_fem_homepage-net-yield_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEwMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAlQAAAAAD/9k=",
+        "poster": "",
+        "width": 19,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764618964-2025_fem_homepage-cashback_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764085176-2025_fem_homepage-net-yield_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764098544-2025_fem_homepage-total-visibility_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBxAICAYIBwcGCA0GDg4QBw0GBxENDREYFxUZGCIfIiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAQEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAgcB/8QAFRABAQAAAAAAAAAAAAAAAAAAABH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAMAwEAAhEDEQA/ANSpUhBTiqODJGP/2Q==",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICA8LChULDhgOGhEZFRYODg8NFx8ZIhYVIhUdHysjHR0oHRUaJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA8QEC8dIhw7Ly8vLy8vLy8vOy8vLy8vLy8vLy8vLy81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAEAQIHAP/EABsQAAIDAQEBAAAAAAAAAAAAAAABAgQRAwUS/8QAFgEAAwAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/ANTpVoSWi1U5KWhaE8iN5z+psNnsFQyB9CtySTOLenmIkcXJNDZ//9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764018322-2025_fem_homepage-guidance_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764621344-2025_fem_homepage-portfolio_4x5.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1785824097-2026_fem_security_4x5.png?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764621041-2025_fem_homepage-net-yield_4x5.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1792609241-2026_fem_homepage_in-the-press-newcomer.png?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764097664-2025_fem_homepage_in-the-press-fast-co_3x2-webp.webp?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1781551637-homepage-2025-in-the-press-cnbc.png?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&asc=G&cdb=ARoT&rn=829178",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=603859",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=420849",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=36479",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=359832",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=7&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=817645",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=8&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=131324",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=9&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=conversion&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=530531",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=10&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=Loaded%20a%20Page&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=518889",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=1&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&cdb=ARoT&rn=54182",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=navbar&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=217994",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=navbar&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=850",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 0,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&asc=G&cdb=ARoT&rn=829178",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=603859",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=420849",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=36479",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=359832",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=7&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=817645",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=8&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=131324",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=9&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=conversion&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=530531",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=10&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=Loaded%20a%20Page&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=518889",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=1&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&cdb=ARoT&rn=54182",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=navbar&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=217994",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=navbar&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=850",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 11973,
+    "actualTravel": 10783,
+    "coverage": 0.901
+  },
+  "final": {
+    "url": "https://mercury.com/",
+    "title": "Online Business Banking For Startups, Small Businesses & Scaling Companies",
+    "documentHeight": 11683,
+    "contentHeight": 11683,
+    "contentTop": -10734,
+    "scrollY": 10783,
+    "ready": "box-border h-fit min-h-full w-full text-[16px]",
+    "bodyStyle": {
+      "fontFamily": "arcadia, \"arcadia Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 384,
+          "y": -10639,
+          "width": 672,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "49.3472px",
+          "lineHeight": "54.2819px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 120,
+          "y": -9448,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 120,
+          "y": -9314,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 120,
+          "y": -9267,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 120,
+          "y": -9221,
+          "width": 496,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 64,
+        "rect": {
+          "x": 384,
+          "y": -8710,
+          "width": 672,
+          "height": 145
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 176,
+          "y": -5805,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 176,
+          "y": -5693,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 31,
+        "rect": {
+          "x": 176,
+          "y": -5647,
+          "width": 528,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 41,
+        "rect": {
+          "x": 720,
+          "y": -5139,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 720,
+          "y": -4981,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 720,
+          "y": -4935,
+          "width": 512,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 63,
+        "rect": {
+          "x": 384,
+          "y": -3691,
+          "width": 672,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 49,
+        "rect": {
+          "x": 240,
+          "y": -2242,
+          "width": 256,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 592,
+          "y": -2242,
+          "width": 256,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 944,
+          "y": -2242,
+          "width": 256,
+          "height": 67
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 384,
+          "y": -1877,
+          "width": 672,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "42px",
+          "lineHeight": "48.3px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 240,
+          "y": -1596,
+          "width": 264,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 768,
+          "y": -1596,
+          "width": 268,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "arcadiaDisplay, \"arcadiaDisplay Fallback\"",
+          "fontSize": "28px",
+          "lineHeight": "33.6px",
+          "fontWeight": "480",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 208,
+          "y": -164,
+          "width": 341,
+          "height": 936
+        },
+        "style": {
+          "fontFamily": "arcadia, \"arcadia Fallback\"",
+          "fontSize": "12px",
+          "lineHeight": "16.8px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 243)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 148,
+        "height": 44,
+        "rect": {
+          "x": -2,
+          "y": -2,
+          "width": 149,
+          "height": 44
+        }
+      }
+    ],
+    "links": [
+      "https://mercury.com/mcp",
+      "https://mercury.com/",
+      "https://mercury.com/pricing",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/books",
+      "https://mercury.com/payroll",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/business-banking",
+      "https://mercury.com/working-capital-loans",
+      "https://mercury.com/venture-debt",
+      "https://mercury.com/treasury",
+      "https://mercury.com/credit",
+      "https://mercury.com/spend-management",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/invoicing",
+      "https://mercury.com/accounting-integrations",
+      "https://mercury.com/command",
+      "https://mercury.com/insights",
+      "https://mercury.com/mcp",
+      "https://mercury.com/api",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/tech-ai-startups",
+      "https://mercury.com/ecommerce",
+      "https://mercury.com/agencies-and-consultants",
+      "https://mercury.com/vc-funds",
+      "https://mercury.com/web3",
+      "https://mercury.com/accounting-firms",
+      "https://mercury.com/saas",
+      "https://mercury.com/llc-banking",
+      "https://mercury.com/life-science",
+      "https://mercury.com/climate",
+      "https://mercury.com/real-estate-and-construction",
+      "https://mercury.com/healthcare-services",
+      "https://mercury.com/blog",
+      "https://mercury.com/blog/topics/starting-a-business",
+      "https://mercury.com/blog/topics/scaling-and-growth",
+      "https://mercury.com/blog/categories/meridian",
+      "https://mercury.com/blog/categories/inside-mercury",
+      "https://mercury.com/perks",
+      "https://mercury.com/perks/bundles/startup-launch",
+      "https://mercury.com/perks/bundles/customer-growth",
+      "https://mercury.com/perks/bundles/ecommerce",
+      "https://mercury.com/tools",
+      "https://mercury.com/investor-database",
+      "https://mercury.com/safe",
+      "https://mercury.com/tools/cash-burn-rate-calculator",
+      "https://mercury.com/releases",
+      "https://mercury.com/about",
+      "https://mercury.com/events",
+      "https://mercury.com/partnerships",
+      "https://mercury.com/jobs",
+      "https://support.mercury.com/hc/en-us/business",
+      "https://mercury.com/faq",
+      "https://mercury.com/switch-to-mercury",
+      "https://mercury.com/contact",
+      "https://mercury.com/",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/pricing",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/redirect",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/login",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-treasury-rate-of-return-and-condensed-ria",
+      "https://mercury.com/#footnote-mercury-venture-debt",
+      "https://mercury.com/#footnote-business-io-cashback",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://mercury.com/#footnote-business-io-cashback",
+      "https://mercury.com/credit",
+      "https://mercury.com/#footnote-rtp",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/credit",
+      "https://mercury.com/#footnote-business-treasury-rate-of-return-and-condensed-ria",
+      "https://mercury.com/treasury",
+      "https://mercury.com/#footnote-business-relationship-manager-disclaimer",
+      "https://mercury.com/#footnote-business-1-in-3-startups-use-mercury",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized",
+      "https://www.newcomer.co/p/mercury-crosses-1-billion-annualized",
+      "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+      "https://www.fastcompany.com/91574324/mercury-launches-virtual-credit-cards-ai-agents",
+      "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+      "https://www.cnbc.com/2026/05/20/fintech-mercury-valuation-fundraise-bank-charter.html",
+      "https://app.mercury.com/signup",
+      "https://mercury.com/contact/sales",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://demo.mercury.com/dashboard",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/#footnote-business-not-a-bank-2026",
+      "https://mercury.com/#footnote-personal-apy",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/business-banking",
+      "https://mercury.com/treasury",
+      "https://mercury.com/credit",
+      "https://mercury.com/working-capital-loans",
+      "https://mercury.com/venture-debt",
+      "https://mercury.com/personal-banking",
+      "https://mercury.com/pricing",
+      "https://mercury.com/switch-to-mercury",
+      "https://mercury.com/command",
+      "https://mercury.com/insights",
+      "https://mercury.com/mcp",
+      "https://mercury.com/api",
+      "https://mercury.com/security",
+      "https://status.mercury.com/",
+      "https://mercury.com/perks",
+      "https://support.mercury.com/hc/en-us/sections/28736349558420-Getting-Started",
+      "https://mercury.com/blog/categories/meridian",
+      "https://mercury.com/blog",
+      "https://mercury.com/tools",
+      "https://mercury.com/events",
+      "https://mercury.com/business-formation-resources",
+      "https://mercury.com/peak-season",
+      "https://mercury.com/releases",
+      "https://mercury.com/compare/mercury-business-banking-vs-chase",
+      "https://mercury.com/business-payments",
+      "https://mercury.com/bill-pay",
+      "https://mercury.com/invoicing",
+      "https://mercury.com/spend-management",
+      "https://www.mercury.com/books",
+      "https://mercury.com/accounting-integrations",
+      "https://mercury.com/payroll",
+      "https://mercury.com/safe",
+      "https://mercury.com/ecommerce",
+      "https://mercury.com/agencies-and-consultants",
+      "https://mercury.com/saas",
+      "https://mercury.com/vc-funds",
+      "https://mercury.com/web3",
+      "https://mercury.com/llc-banking",
+      "https://mercury.com/life-science",
+      "https://mercury.com/accounting-firms",
+      "https://mercury.com/climate",
+      "https://mercury.com/real-estate-and-construction",
+      "https://mercury.com/healthcare-services",
+      "https://app.mercury.com/signup",
+      "https://app.mercury.com/login",
+      "https://apps.apple.com/us/app/mercury-powerful-banking/id1491984028",
+      "https://play.google.com/store/apps/dev?id=7011991507842528981&pli=1",
+      "https://mercury.com/blog/how-mercury-works-with-partner-banks",
+      "https://mercury.com/about",
+      "https://mercury.com/jobs",
+      "https://mercury.com/partnerships",
+      "https://mercury.com/contact",
+      "https://mercury.com/legal",
+      "https://mercury.com/legal/privacy",
+      "https://www.x.com/mercury",
+      "https://www.linkedin.com/company/mercuryhq",
+      "https://www.youtube.com/@Mercuryfi",
+      "https://www.instagram.com/mercuryfi/",
+      "https://www.tiktok.com/@mercury.fi",
+      "https://mercury.com/how-mercury-works",
+      "https://rnt.com/files/ddm/bank-list/pbl-rtncu.pdf",
+      "https://column.com/legal/sweep-program-network-banks/",
+      "https://rnt.com/files/ddm/bank-list/pbl-rtncu.pdf",
+      "https://column.com/legal/sweep-program-network-banks",
+      "https://mercury.com/blog/inside-mercury/how-mercury-works-with-partner-banks",
+      "https://www.ssga.com/us/en/institutional/resources/doc-viewer#mrgxx&prospectus",
+      "https://morganstanley.prospectus-express.com/summary.asp?doctype=pros&clientid=morganstll&fundid=617455258+",
+      "https://support.mercury.com/hc/en-us/articles/54826857082900-Understanding-Treasury-ladders",
+      "https://apexfintechsolutions.com/legal/disclosures/",
+      "https://mercury.com/external/ZKRtAtXyTReMW9bYWc2qWQ",
+      "https://mercury.com/legal/disclosures/treasury",
+      "https://www.nmlsconsumeraccess.org/",
+      "https://www.nmlsconsumeraccess.org/",
+      "https://support.mercury.com/hc/en-us/articles/28768794858772-Qualifying-for-IO",
+      "https://support.mercury.com/hc/en-us/articles/39968809104148-Receiving-real-time-payments-RTP"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero_start_frame_xl.39vs55l6ttdit.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 2403,
+        "height": 901
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+        "poster": "",
+        "width": 1920,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-md.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://mercury.com/videos/hero/hero-scrub-sm.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/static/media/hero_end_frame_xl.3npvt8o-inl6q.jpg",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/flow_1.mp4",
+        "poster": "https://mercury.com/_next/static/media/flow_1_poster.0hlowvftbyuy5.jpg",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/flow_2.mp4",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/flow_3.mp4",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://mercury.com/videos/hero/flow_4.mp4",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://mercury.com/_next/static/media/hero_end_frame_xl.3npvt8o-inl6q.jpg",
+        "poster": "",
+        "width": 3840,
+        "height": 1440
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764095939-2025_fem_testimonial-linear_2x1.webp?ar64=Mjox&auto=format&dpr=0.75&fit=crop",
+        "poster": "",
+        "width": 1440,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764095998-2025_fem_testimonial-linear_9x16.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764169450-2025_fem_homepage-testimonial-gainful_4x5.webp?ar64=Mjox&auto=format&dpr=0.5&fit=crop",
+        "poster": "",
+        "width": 1440,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764173362-2025_fem_testimonial-gainful_9x16.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764096101-2025_fem_testimonial-ways-and-means_2x1.webp?ar64=Mjox&auto=format&dpr=0.75&fit=crop",
+        "poster": "",
+        "width": 1440,
+        "height": 720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764096181-2025_fem_testimonial-ways-and-means_9x16-webp.webp?ar64=OToxNg&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764181747-2025_fem_homepage-virtual-cards_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAJACT/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764016774-2025_fem_homepage-invoicing_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKoARACT/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764189457-2025_fem_homepage-apply-online_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764189501-2025_fem_homepage-cards_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhIQEBMLEQ4NDBANDQ0NDRQNDQ0YFxUZGBYTFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0LFQ0QHC8cFh0vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAaAAACAgMAAAAAAAAAAAAAAAAAAwEEBQYH/8QAGxAAAwEBAAMAAAAAAAAAAAAAAAEDAgQUIlH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIR/9oADAMBAAIRAxEAPwDrLvMXrqkkVNNL6I00xxCsedFUAxNce5JTEZsm5w0xT5ogBCWknXLF6IACnaH/2Q==",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764029665-2025_fem_homepage-apply-online_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 1376,
+        "height": 1720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764029696-2025_fem_homepage-cards_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoKEwgLDQcRDg0KBwgNDh0NFgcYFxUZGBYTIhUaHysjGh0oHSEWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHRAKHC8cFhwvLy8vLy8vLy8vLy8vLzUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEwMBIgACEQEDEQH/xAAZAAEAAgMAAAAAAAAAAAAAAAAAAwYEBQf/xAAfEAACAgEEAwAAAAAAAAAAAAAAAwECQQQRE2EhMlH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGBEBAQADAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AOvNsuckDmqiseTEZDNsmHqKNmuQTGGbONQnb2gFf49R2B+IC1zWlsELV0jABCWii4V/AAU3Wf/Z",
+        "poster": "",
+        "width": 19,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAGAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAlQAAAAAD/9k=",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764618945-2025_fem_homepage-cashback_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764619012-2025_fem_homepage-net-yield_1x1.webp?ar64=MTox&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgFCgoFBQwFBQUFBREJCgUMFxMZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEwMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AKyAlQAAAAAD/9k=",
+        "poster": "",
+        "width": 19,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764618964-2025_fem_homepage-cashback_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764085176-2025_fem_homepage-net-yield_4x5.webp?ar64=NDo1&auto=format&fit=crop",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764098544-2025_fem_homepage-total-visibility_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBxAICAYIBwcGCA0GDg4QBw0GBxENDREYFxUZGCIfIiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRAQEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAgcB/8QAFRABAQAAAAAAAAAAAAAAAAAAABH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAMAwEAAhEDEQA/ANSpUhBTiqODJGP/2Q==",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICA8LChULDhgOGhEZFRYODg8NFx8ZIhYVIhUdHysjHR0oHRUaJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA8QEC8dIhw7Ly8vLy8vLy8vOy8vLy8vLy8vLy8vLy81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAEAAwEAAAAAAAAAAAAAAAAEAQIHAP/EABsQAAIDAQEBAAAAAAAAAAAAAAABAgQRAwUS/8QAFgEAAwAAAAAAAAAAAAAAAAAAAQID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/ANTpVoSWi1U5KWhaE8iN5z+psNnsFQyB9CtySTOLenmIkcXJNDZ//9k=",
+        "poster": "",
+        "width": 24,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764018322-2025_fem_homepage-guidance_3x2.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1316,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764621344-2025_fem_homepage-portfolio_4x5.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1376,
+        "height": 1720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1785824097-2026_fem_security_4x5.png?auto=format&fit=crop",
+        "poster": "",
+        "width": 1376,
+        "height": 1720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764621041-2025_fem_homepage-net-yield_4x5.webp?auto=format&fit=crop",
+        "poster": "",
+        "width": 1376,
+        "height": 1720
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1792609241-2026_fem_homepage_in-the-press-newcomer.png?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1764097664-2025_fem_homepage_in-the-press-fast-co_3x2-webp.webp?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.datocms-assets.com/115132/1781551637-homepage-2025-in-the-press-cnbc.png?ar64=Mzoy&auto=format&fit=crop",
+        "poster": "",
+        "width": 1320,
+        "height": 880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&asc=G&cdb=ARoT&rn=829178",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=603859",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=420849",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=36479",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=359832",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=7&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=817645",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=8&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=131324",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=9&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=conversion&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=530531",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=10&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=Loaded%20a%20Page&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=518889",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=1&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&cdb=ARoT&rn=54182",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=navbar&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=217994",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=navbar&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=850",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=page-engagement&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=5315",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=page-engagement&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=623970",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=scroll&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=530164",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 0,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 670,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=1&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&asc=G&cdb=ARoT&rn=829178",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=603859",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=420849",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=36479",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=359832",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=7&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=817645",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=8&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=gtag.config&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=131324",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=9&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=conversion&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=530531",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=148017306&Ver=2&mid=1befc395-6c6a-40dd-bd9f-0906cebf3a34&bo=10&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=Loaded%20a%20Page&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&asc=G&cdb=ARoT&rn=518889",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=1&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&pi=918639831&lg=en-GB&sw=800&sh=600&sc=24&nwd=1&tl=Online%20Business%20Banking%20For%20Startups,%20Small%20Businesses%20%26%20Scaling%20Companies&p=https%3A%2F%2Fmercury.com%2F&r=&lt=1373&evt=pageLoad&sv=2&cdb=ARoT&rn=54182",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=2&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=navbar&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=217994",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=3&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=navbar&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=850",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=4&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&ea=track&el=page-engagement&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=5315",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=5&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=page-engagement&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=623970",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://bat.bing.com/action/0?ti=211048328&Ver=2&mid=3345f48e-5eda-410b-9704-cbccd32953e9&bo=6&sid=c5eacd50de8611f1bf3e479af1fdc46c&vid=c5eaa8a0de8611f19f63c7d705faba3f&vids=0&msclkid=N&tpp=1&ea=scroll&en=Y&p=https%3A%2F%2Fmercury.com%2F&sw=800&sh=600&sc=24&nwd=1&evt=custom&cdb=ARoT&rn=530164",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 8323,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

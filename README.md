@@ -2,56 +2,53 @@
 
 <div align="center">
 
-<img src=".github/assets/fl-logo.svg" width="96" alt="Frontend Library FL logo">
+<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/banner.jpg" width="100%" alt="FRONTEND LIBRARY — 14,518 source-linked references: design systems, captured landing pages, WebGL, motion, fonts and icons"></a>
 
-<br>
+<h3>The reference shelf for people who build interfaces.</h3>
 
-<img src=".github/assets/generated/hero.svg" width="100%" alt="Frontend Library: 4,556 source-linked design, motion, WebGL and landing-page references">
-
-<p><b>Landing-page evidence, WebGL demos, design systems, media resources and reusable frontend code—for developers, contributors and AI agents.</b></p>
+<p>Design systems, captured landing pages, Three.js &amp; WebGL demos, motion, open-source fonts and icons — <b>14,518 entries</b>, each linked to the exact page it came from. Built for developers, designers and the AI agents working alongside them.</p>
 
 <p>
-  <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&color=2563EB" alt="GitHub stars"></a>
-  <a href="SOURCES.md"><img src="https://img.shields.io/badge/entries-4%2C556-38BDF8?style=for-the-badge" alt="4,556 indexed references"></a>
-  <a href="SOURCES.md"><img src="https://img.shields.io/badge/every%20entry-source%20linked-2563EB?style=for-the-badge" alt="Every entry is source linked"></a>
-  <a href="https://github.com/satiricalguru/Frontend-Library/pulls"><img src="https://img.shields.io/badge/PRs-welcome-0EA5E9?style=for-the-badge&logo=github" alt="PRs welcome"></a>
+  <a href="https://frontend-library-xi-pied.vercel.app"><img src="https://img.shields.io/badge/OPEN%20THE%20WEBSITE-%E2%86%97-eef0f7?style=for-the-badge&labelColor=07080c" alt="Open the website"></a>
+  <a href="https://frontend-library-xi-pied.vercel.app/library/"><img src="https://img.shields.io/badge/BROWSE%20THE%20LIBRARY-14%2C518-4d65ff?style=for-the-badge&labelColor=07080c" alt="Browse the library: 14,518 references"></a>
+  <a href="https://github.com/satiricalguru/Frontend-Library/stargazers"><img src="https://img.shields.io/github/stars/satiricalguru/Frontend-Library?style=for-the-badge&label=STARS&color=4d65ff&labelColor=07080c" alt="GitHub stars"></a>
 </p>
 
 <p>
-  <a href="#landing-page-references-for-people-and-ai-agents">Landing pages & agents</a> ·
+  <a href="#-the-website">Website</a> ·
   <a href="#-whats-inside">What's inside</a> ·
+  <a href="#landing-page-references-for-people-and-ai-agents">Captures &amp; agents</a> ·
   <a href="#-animation-snippets">Snippets</a> ·
-  <a href="#-components">Components</a> ·
   <a href="#-design-systems">Design systems</a> ·
   <a href="#-motion--transitions">Motion</a> ·
   <a href="#-fonts">Fonts</a> ·
-  <a href="#-inspiration">Inspiration</a> ·
-  <a href="#-contributors">Contributors</a> ·
+  <a href="#-contributing">Contribute</a> ·
   <a href="SOURCES.md">Source tracker</a>
 </p>
 
 </div>
 
-<br>
+## 🌐 The website
+
+**[frontend-library-xi-pied.vercel.app](https://frontend-library-xi-pied.vercel.app)** — a Three.js scroll story where every tile is a real brand palette from the library (nebula → shelf → wall), plus a searchable viewer for all 13 collections.
+
+<a href="https://frontend-library-xi-pied.vercel.app"><img src=".github/assets/readme/hero-scroll.gif" width="100%" alt="Scrolling the Frontend Library homepage: thousands of colored tiles gather from a cloud into a spiral shelf, then settle into a flat wall while the headline dissolves word by word"></a>
 
 <table>
   <tr>
-    <td width="33%"><img src=".github/assets/gifs/split-text-reveal.gif" width="100%" alt="Headline rising word by word"></td>
-    <td width="33%"><img src=".github/assets/gifs/magnetic-button.gif" width="100%" alt="Button pulled toward a moving cursor"></td>
-    <td width="33%"><img src=".github/assets/gifs/number-pop-in.gif" width="100%" alt="Digits rolling on a 3D drum"></td>
+    <td width="50%"><a href="https://frontend-library-xi-pied.vercel.app/library/?type=styles"><img src=".github/assets/readme/library-styles.jpg" width="100%" alt="Library viewer showing brand design-system tiles drawn in each brand's own colors"></a><br><sub><b>Design systems</b> · every brand drawn in its own palette, click to copy colors</sub></td>
+    <td width="50%"><a href="https://frontend-library-xi-pied.vercel.app/library/?type=threejs"><img src=".github/assets/readme/library-threejs.jpg" width="100%" alt="Library viewer showing official three.js example screenshots"></a><br><sub><b>Three.js examples</b> · live demo and pinned source for each one</sub></td>
   </tr>
 </table>
 
 ## Landing-page references for people and AI agents
 
-**4,556 indexed references**, complemented by local capture packages, 12 original animations and a reusable component. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
-
-![Searchable Frontend Library viewer](.github/assets/library-desktop.jpg)
+**14,518 indexed references**, complemented by local capture packages (35 brand homepages discovered through the Refero index among them), 12 original animations and a reusable component. This is a growing reference library for studying composition, WebGL scenes, scroll animation, design constraints and the assets needed to implement them.
 
 <!-- capture-stats:start -->
-**57 evidence packages across 56 source routes · 57 browser recordings · 342 visual checkpoints · 1242 unique observed resource URLs.**
+**93 evidence packages across 92 source routes · 92 browser recordings · 552 visual checkpoints · 5147 unique observed resource URLs.**
 
-52 completed captures · 5 need review · 0 failed. Packages include desktop/mobile variants and diagnostic captures; [see coverage and limitations](docs/reference-library/README.md).
+84 completed captures · 8 need review · 1 failed. Packages include desktop/mobile variants and diagnostic captures; [see coverage and limitations](docs/reference-library/README.md).
 <!-- capture-stats:end -->
 
 <table>
@@ -66,6 +63,10 @@
 | New collection | Entries | What an agent can inspect |
 |:--|--:|:--|
 | [Lusion page evidence](docs/reference-library/README.md) | See capture statistics | Viewport screenshots, browser recordings, layout/type facts and resource URLs; status and limits per package |
+| [Refero brand homepages](docs/reference-library/README.md) | 35 | Live homepages of brands in the Refero index, captured only where the site's robots rules allow AI crawlers |
+| [Google Fonts](fonts/google-fonts/) | 1,961 | Every open-source family with designers, styles, variable axes and a ready CSS link |
+| [Three.js examples](animations/threejs-examples/) | 623 | Official WebGL, WebGPU and WebXR examples with screenshots, live demos and pinned source |
+| [Lucide + Tabler icons](icons/open-icons/) | 7,285 | Icon names, categories and tags at pinned npm versions, with SVG links |
 | [Codrops WebGL & creative demos](inspiration/codrops/) | 315 | 297 official demo repositories and 18 article links, with demo/code links where observed |
 | [DESIGN.md analyses](styles/design-md/) | 84 | Complete attributed Markdown analyses, pinned to an upstream commit under MIT |
 | [Media, motion & design resources](images/video-resources/) | 297 | 10 stock-video providers plus photos, audio, mockups, animation tools, inspiration and compression resources |
@@ -80,7 +81,7 @@ No build step. With Python 3 installed, run from the checkout:
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open [the local viewer](http://127.0.0.1:8000/library/). Search names and techniques, switch collections, inspect palettes and play recordings. Press `/` to focus search.
+Open [the local viewer](http://127.0.0.1:8000/library/), or use the hosted one at [frontend-library-xi-pied.vercel.app/library](https://frontend-library-xi-pied.vercel.app/library/). Search names and techniques, switch collections, inspect palettes and play recordings. Press `/` to focus search.
 
 ### Give agents useful evidence
 
@@ -111,6 +112,7 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 
 ## ✨ Why Frontend Library
 
+- 🌐 **A real website.** Browse everything at [frontend-library-xi-pied.vercel.app](https://frontend-library-xi-pied.vercel.app) — no clone or build needed.
 - 🧭 **One place to look.** Design-and-motion sources, local page evidence and licensed design analyses, indexed into searchable Markdown tables and JSON.
 - 🧾 **Every entry is traceable.** Each row links to the original, and [SOURCES.md](SOURCES.md) plus [data/sources.csv](data/sources.csv) record the exact page it was collected from.
 - 🎨 **Real design data.** Brand palettes and typefaces for 1,342 websites, plus a ready-to-import [`palettes.css`](styles/refero-design-systems/palettes.css).
@@ -123,6 +125,9 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 
 | Collection | Entries | Folder | Collected from |
 |:--|--:|:--|:--|
+| 🔤 Open-source font families | 1,961 | [fonts/google-fonts](fonts/google-fonts/) | [fonts.google.com](https://fonts.google.com/) |
+| ✳️ Open icons (Lucide + Tabler) | 7,285 | [icons/open-icons](icons/open-icons/) | [lucide.dev](https://lucide.dev/) · [tabler.io/icons](https://tabler.io/icons) |
+| 🧊 Three.js examples | 623 | [animations/threejs-examples](animations/threejs-examples/) | [threejs.org/examples](https://threejs.org/examples/) |
 | 🎨 Brand design systems | 1,342 | [styles/refero-design-systems](styles/refero-design-systems/) | [styles.refero.design](https://styles.refero.design/) |
 | 🔤 Award & celebration fonts | 1,225 | [fonts/envato-award-fonts](fonts/envato-award-fonts/) | [elements.envato.com/fonts/awards](https://elements.envato.com/fonts/awards) |
 | 🌀 Motion examples & UI | 616 | [animations/motion-dev](animations/motion-dev/) | [motion.dev/examples](https://motion.dev/examples) |
@@ -301,7 +306,7 @@ Have questions, comments, or feedback? Start a [GitHub Discussion](https://githu
 
 ## ⚖️ Credits & licensing
 
-Link catalogs store **links and short factual metadata** (names, colors, typefaces, categories). The local DESIGN.md analyses retain their upstream MIT licence and attribution. Captures are reference evidence and grant no reuse licence for underlying models, shaders, fonts or source code. All linked designs, fonts, code and media belong to their creators: [Lusion](https://lusion.co/), [Refero](https://styles.refero.design/), [Motion](https://motion.dev/), [Transitions.dev](https://transitions.dev/), [Godly](https://godly.design/) and [Envato](https://elements.envato.com/), [Codrops](https://tympanus.net/codrops/tag/webgl/), [VoltAgent](https://github.com/VoltAgent/awesome-design-md) and [Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#stock-videos). Follow each source's terms before using anything you find through this library. The snippets in [animations/snippets](animations/snippets/) are original work under the [MIT licence](animations/snippets/LICENSE).
+Link catalogs store **links and short factual metadata** (names, colors, typefaces, categories). The local DESIGN.md analyses retain their upstream MIT licence and attribution. Captures are reference evidence and grant no reuse licence for underlying models, shaders, fonts or source code. All linked designs, fonts, code and media belong to their creators: [Lusion](https://lusion.co/), [Refero](https://styles.refero.design/), [Motion](https://motion.dev/), [Transitions.dev](https://transitions.dev/), [Godly](https://godly.design/) and [Envato](https://elements.envato.com/), [Codrops](https://tympanus.net/codrops/tag/webgl/), [Google Fonts](https://fonts.google.com/), [three.js](https://threejs.org/), [Lucide](https://lucide.dev/), [Tabler Icons](https://tabler.io/icons), [VoltAgent](https://github.com/VoltAgent/awesome-design-md) and [Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers#stock-videos). Follow each source's terms before using anything you find through this library. The snippets in [animations/snippets](animations/snippets/) are original work under the [MIT licence](animations/snippets/LICENSE).
 
 ---
 

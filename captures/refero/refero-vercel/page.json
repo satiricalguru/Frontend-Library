@@ -1,0 +1,2620 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-vercel",
+  "name": "Vercel — homepage",
+  "url": "https://vercel.com/",
+  "source": "https://styles.refero.design/style/f24daf3a-d43f-4dec-85a9-8ac1d5148a03",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:44:42.670Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://vercel.com/robots.txt",
+    "checkedAt": "2026-11-12T10:44:42.670Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/api/og/*"
+      },
+      {
+        "allow": true,
+        "path": "/api/docs-og*"
+      },
+      {
+        "allow": true,
+        "path": "/api/product-og*"
+      },
+      {
+        "allow": true,
+        "path": "/api/dynamic-og*"
+      },
+      {
+        "allow": true,
+        "path": "/api/model-og*"
+      },
+      {
+        "allow": true,
+        "path": "/api/www/avatar/*"
+      },
+      {
+        "allow": false,
+        "path": ""
+      },
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/oauth"
+      },
+      {
+        "allow": false,
+        "path": "/confirm"
+      },
+      {
+        "allow": false,
+        "path": "/notifications"
+      },
+      {
+        "allow": false,
+        "path": "/old-browser.html"
+      },
+      {
+        "allow": false,
+        "path": "/preauthorize"
+      },
+      {
+        "allow": false,
+        "path": "/signup?*"
+      },
+      {
+        "allow": false,
+        "path": "/invites/"
+      },
+      {
+        "allow": false,
+        "path": "/blog/authors"
+      },
+      {
+        "allow": false,
+        "path": "/changelog/authors"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 987,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 0,
+        "contentTop": 64,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2371,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 1137,
+        "contentTop": -1073,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3786,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 2539,
+        "contentTop": -2475,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 5316,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 3598,
+        "contentTop": -3534,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 7299,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://vercel.com/",
+        "scrollY": 4388,
+        "contentTop": -4324,
+        "pageTransform": "none",
+        "visibleIds": [
+          "nav-panel-products",
+          "nav-panel-resources"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://vercel.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://vercel.com/.well-known/otel/metrics",
+      "status": 204,
+      "mimeType": "text/plain",
+      "type": "Ping"
+    },
+    {
+      "url": "https://vercel.com/.well-known/vercel/microfrontends/client-config",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/3628f7ea4ecd82e3/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/agents",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/api/jwt",
+      "status": 403,
+      "mimeType": "text/plain",
+      "type": "Ping"
+    },
+    {
+      "url": "https://vercel.com/api/stream/internal",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Ping"
+    },
+    {
+      "url": "https://vercel.com/backends",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/contact/sales",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/docs",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/docs/flags/flags-sdk-reference",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/docs/frameworks/backend/nitro",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/docs/frameworks/full-stack/nuxt",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/docs/frameworks/full-stack/sveltekit",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/docs/rest-api/sdk",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/domains",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/drop",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/e62b3a9e28ed8bca/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/enterprise",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/home",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/kb",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/login",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/manifest.webmanifest",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://vercel.com/marketplace",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/new",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/sandbox",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://vercel.com/signup",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Prefetch"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/image",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/01jxo5sz8-l-h.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/064291yu6lu44.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/07dadan2wu9fk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/07ofm5imesq0s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/07xyivgmntaeg.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0ce03c3xulo32.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0h-3azbyow04j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0j_0xlo6il1w-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0pi69-r6vh2o4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0srgwkg8j1pvd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0u63e1jh94drx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0vjn616s61pnn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0x689dxj9jh9l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/0xoavhxawo-lz.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1-xrzunp-83ei.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/12r146i2i7bk3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/13n84m2dvump4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/13qvi75cde8zr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/13vukv35u_gmn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/15h0jwehxdkb5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/18cq4urj_qca4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/18wgpajakgos0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/19zptwgp46zrk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1b5bgunohalos.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1bay1iql6klqe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1bu6ooumg-art.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1cn9a4rbte6f0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1i5lenw76p68y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1jjb7v2i6m-k0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1kfls6b4qzpnz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1n7d19_4euz0p.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1nwb6pnpjf8fx.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1pq0hlrt_t8i1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1ucx8cw75c95c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1wcx8nh7bd2-9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1wh5tq2pu5gc0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/1zf_v4ki6imvu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/20l_ur1s6vlwt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/20lh--wdkbfzt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/20n6vsvj5p2hu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/20zh2_xzio92m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/22vg0d5do2kva.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/23vhen70hxbhh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2587vqw2jiya2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/295i4lrfyyk2_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2d1s3keh0ca81.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2fu81p1giqmp3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2gjwjhbt8brft.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2ieup63l8rt3a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2jv47pojg2uye.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2k2jqqbr1_cvq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2k66t16abl6aq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2mlkgep40kn3n.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2mrpnnl5v7aeg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2ovfvo7r5n7g7.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2p9qt97t7i013.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2tuks1z52b5g8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2ycpcue4bl57a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/2yxeiz8-ahuyu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3-9axuqs9-isq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/32gc2hve3zfw-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/33_26c5vdpus0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/346an826r3aqq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/36o_cd5bx1xcy.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/37ewlxgs41zvq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3c7t4krnp6m9f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3f5ny8v3uk_y9.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3ho0fj_sfnpy4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3ki5zounus07j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3lazehlm_n5r4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3lobm0tlv_d0_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3rmswep2j0crq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3s7txngqjqjxf.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3sxqz8xh9wufe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3u82rwmj_1n8p.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3wxhnzdidwuiz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/3xei25796r0dd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/44bcd09ytlgnf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/chunks/turbopack-3vuaw2t57vjx3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/07a39a8a4660cc7c.p.1v5bejj26fx9h.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/fallback-dark-noise.1g4qc_ge4kn9s.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/Geist_Variable-s.p.2wz-lhd5-5z0-.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/GeistPixel_Circle.p.33ptqjycga8_k.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/GeistPixel_Grid.p.2u9udzfirdsy9.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/GeistPixel_Line.p.2mkbez_3692ug.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/GeistPixel_Square.p.3i-voztpvqxl2.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/GeistPixel_Triangle.p.2yt1keahkoo6c.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-dark.44opgk1h22zu1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-light.44opgk1h22zu1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-dark.3a_-818hc-m_2.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-light.404d-vkjpq-4k.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-dark.2s69z6l-k1q-7.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-light.19_d6xia9t_gb.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 40894,
+      "sha256": "fb66a7b7227d919b7ee5fe44279b3b71ba055ad10ed611ab58ce1af5ac175e4a"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 39934,
+      "sha256": "37b811ddcccc01c0a6fc22b43311e3a8289a61d23cc32b78d237fc55e5909e4c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 54949,
+      "sha256": "baa81d5eba6d48c7a8a9240e94043a539935da48dbb1c913a8616af5c49099e6"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 58510,
+      "sha256": "88155e78cdf0a68d5e8dee7eb1b9d8aaac8e98cfa8196004a6e8e3faafbfb47f"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 66229,
+      "sha256": "0b909124919e844a9f62a6f0982b59cacd30574c9d5f39e44a696c8319beb748"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 44302,
+      "sha256": "0344eae493103bc7327a87ee70d1ad40e5534cb88aa660bb31df8516b36b8e3a"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 224547,
+      "sha256": "57803215df440b2c722c846d2b93e6c7613cc8030410b639fea630f2c57db5c3"
+    }
+  ],
+  "initial": {
+    "url": "https://vercel.com/",
+    "title": "Agentic Infrastructure - Vercel",
+    "documentHeight": 5333,
+    "contentHeight": 5333,
+    "contentTop": 64,
+    "scrollY": 0,
+    "ready": "VEU71W_className _MjUWG_className VEU71W_variable _MjUWG_variable dark-theme",
+    "bodyStyle": {
+      "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(237, 237, 237)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "vercel-organization-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "vercel-homepage-service-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "vercel-homepage-software-application-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 24,
+          "y": 328,
+          "width": 444,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 52,
+        "rect": {
+          "x": 24,
+          "y": 1108,
+          "width": 673,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 52,
+        "rect": {
+          "x": 495,
+          "y": 1981,
+          "width": 921,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 24,
+          "y": 2853,
+          "width": 921,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 24,
+          "y": 3679,
+          "width": 921,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 401,
+          "y": 4519,
+          "width": 638,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 24,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 260,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 496,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 732,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 968,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 1204,
+          "y": 4775,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 24,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 260,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 496,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 732,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 968,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 1204,
+          "y": 5095,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1080,
+        "height": 720,
+        "rect": {
+          "x": 180,
+          "y": 88,
+          "width": 1080,
+          "height": 720
+        }
+      }
+    ],
+    "links": [
+      "https://vercel.com/#geist-skip-nav",
+      "https://vercel.com/home",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/passport",
+      "https://vercel.com/connect",
+      "https://vercel.com/eve",
+      "https://vercel.com/security",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/workflows",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://vercel.com/oss",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://vercel.com/docs",
+      "https://vercel.com/about",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/ai",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/for/retail",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://community.vercel.com/",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/login",
+      "https://vercel.com/signup",
+      "https://vercel.com/dashboard",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/passport",
+      "https://vercel.com/connect",
+      "https://vercel.com/eve",
+      "https://vercel.com/security",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/workflows",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://vercel.com/oss",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://vercel.com/docs",
+      "https://vercel.com/about",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/ai",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/for/retail",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://community.vercel.com/",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/login",
+      "https://vercel.com/signup",
+      "https://vercel.com/signup",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/backends",
+      "https://vercel.com/agents",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/new",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/workflows",
+      "https://vercel.com/connect",
+      "https://vercel.com/passport",
+      "https://vercel.com/eve",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/security",
+      "https://vercel.com/security/web-application-firewall",
+      "https://vercel.com/security/bot-management",
+      "https://vercel.com/botid",
+      "https://vercel.com/drop",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://skills.sh/",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://eve.dev/",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/docs/frameworks/full-stack/nuxt",
+      "https://vercel.com/docs/frameworks/full-stack/sveltekit",
+      "https://vercel.com/docs/frameworks/backend/nitro",
+      "https://vercel.com/solutions/turborepo",
+      "https://vercel.com/docs/frameworks/full-stack/tanstack-start",
+      "https://vercel.com/docs/frameworks/backend/fastapi",
+      "https://vercel.com/docs/frameworks",
+      "https://vercel.com/docs/rest-api/sdk",
+      "https://vercel.com/workflows",
+      "https://vercel.com/docs/flags/flags-sdk-reference",
+      "https://vercel.com/chat",
+      "https://vercel.com/docs/queues/sdk",
+      "https://streamdown.ai/",
+      "https://vercel.com/solutions/ai-apps",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/solutions/composable-commerce",
+      "https://vercel.com/solutions/platform-engineering",
+      "https://vercel.com/solutions/design-engineering",
+      "https://vercel.com/docs",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/academy",
+      "https://vercel.com/i",
+      "https://community.vercel.com/",
+      "https://is-agentic.com/",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/templates",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://vercel.com/about",
+      "https://vercel.com/careers",
+      "https://vercel.com/press",
+      "https://vercel.com/events",
+      "https://vercel.com/startups",
+      "https://vercel.com/shipped",
+      "https://vercel.com/open-source-program",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/help",
+      "https://vercel.com/legal/privacy-notice",
+      "https://vercel.com/legal/terms",
+      "https://vercel.com/legal/cookie-policy",
+      "https://vercel.com/legal/dpa",
+      "https://vercel.com/legal/acceptable-use-policy",
+      "https://vercel.com/legal",
+      "https://security.vercel.com/",
+      "https://www.vercel-status.com/",
+      "https://github.com/vercel",
+      "https://x.com/vercel",
+      "https://linkedin.com/company/vercel",
+      "https://youtube.com/@VercelHQ",
+      "https://www.instagram.com/vercel/",
+      "https://vercel.com/home",
+      "https://www.vercel-status.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-mobile.3b4fyu5pe7opg.webp&w=1920&q=95",
+        "poster": "",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-desktop.25ylksegigbc-.webp&w=1920&q=95",
+        "poster": "",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-dark.webp",
+        "poster": "",
+        "width": 950,
+        "height": 500
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-dark.webp",
+        "poster": "",
+        "width": 633,
+        "height": 355
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-light.44opgk1h22zu1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-dark.44opgk1h22zu1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-light.19_d6xia9t_gb.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-dark.2s69z6l-k1q-7.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-light.404d-vkjpq-4k.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-dark.3a_-818hc-m_2.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+        "poster": "",
+        "width": 115,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+        "poster": "",
+        "width": 115,
+        "height": 100
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 4273,
+    "actualTravel": 4388,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://vercel.com/",
+    "title": "Agentic Infrastructure - Vercel",
+    "documentHeight": 5930,
+    "contentHeight": 5930,
+    "contentTop": -4324,
+    "scrollY": 4388,
+    "ready": "VEU71W_className _MjUWG_className VEU71W_variable _MjUWG_variable dark-theme",
+    "bodyStyle": {
+      "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(237, 237, 237)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "vercel-organization-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "vercel-homepage-service-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "vercel-homepage-software-application-json-ld",
+        "tag": "SCRIPT",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 24,
+          "y": -4060,
+          "width": 444,
+          "height": 128
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "400",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 52,
+        "rect": {
+          "x": 24,
+          "y": -3280,
+          "width": 673,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 52,
+        "rect": {
+          "x": 495,
+          "y": -2407,
+          "width": 921,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 24,
+          "y": -1535,
+          "width": 921,
+          "height": 112
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 24,
+          "y": -710,
+          "width": 921,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 401,
+          "y": 284,
+          "width": 638,
+          "height": 56
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "56px",
+          "lineHeight": "56px",
+          "fontWeight": "450",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 24,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 260,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 496,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 732,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 968,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 1204,
+          "y": 748,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 24,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 260,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 496,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 732,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 13,
+        "rect": {
+          "x": 968,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 1204,
+          "y": 1068,
+          "width": 212,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "GeistSans, \"GeistSans Fallback\"",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "rgb(237, 237, 237)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1080,
+        "height": 720,
+        "rect": {
+          "x": 180,
+          "y": -4300,
+          "width": 1080,
+          "height": 720
+        }
+      },
+      {
+        "id": "",
+        "width": 685,
+        "height": 280,
+        "rect": {
+          "x": 922,
+          "y": -273,
+          "width": 685,
+          "height": 280
+        }
+      }
+    ],
+    "links": [
+      "https://vercel.com/#geist-skip-nav",
+      "https://vercel.com/home",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/passport",
+      "https://vercel.com/connect",
+      "https://vercel.com/eve",
+      "https://vercel.com/security",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/workflows",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://vercel.com/oss",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://vercel.com/docs",
+      "https://vercel.com/about",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/ai",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/for/retail",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://community.vercel.com/",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/login",
+      "https://vercel.com/signup",
+      "https://vercel.com/dashboard",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/passport",
+      "https://vercel.com/connect",
+      "https://vercel.com/eve",
+      "https://vercel.com/security",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/workflows",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://vercel.com/oss",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://vercel.com/docs",
+      "https://vercel.com/about",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/ai",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/for/retail",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://community.vercel.com/",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/login",
+      "https://vercel.com/signup",
+      "https://vercel.com/signup",
+      "https://vercel.com/contact/sales",
+      "https://vercel.com/backends",
+      "https://vercel.com/agents",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/new",
+      "https://vercel.com/ai-sdk",
+      "https://vercel.com/ai-gateway",
+      "https://vercel.com/sandbox",
+      "https://vercel.com/workflows",
+      "https://vercel.com/connect",
+      "https://vercel.com/passport",
+      "https://vercel.com/eve",
+      "https://vercel.com/products/previews",
+      "https://vercel.com/cdn",
+      "https://vercel.com/fluid",
+      "https://vercel.com/products/observability",
+      "https://vercel.com/security",
+      "https://vercel.com/security/web-application-firewall",
+      "https://vercel.com/security/bot-management",
+      "https://vercel.com/botid",
+      "https://vercel.com/drop",
+      "https://vercel.com/agent",
+      "https://vercel.com/plugin",
+      "https://skills.sh/",
+      "https://vercel.com/domains",
+      "https://v0.app/",
+      "https://eve.dev/",
+      "https://vercel.com/frameworks/nextjs",
+      "https://vercel.com/docs/frameworks/full-stack/nuxt",
+      "https://vercel.com/docs/frameworks/full-stack/sveltekit",
+      "https://vercel.com/docs/frameworks/backend/nitro",
+      "https://vercel.com/solutions/turborepo",
+      "https://vercel.com/docs/frameworks/full-stack/tanstack-start",
+      "https://vercel.com/docs/frameworks/backend/fastapi",
+      "https://vercel.com/docs/frameworks",
+      "https://vercel.com/docs/rest-api/sdk",
+      "https://vercel.com/workflows",
+      "https://vercel.com/docs/flags/flags-sdk-reference",
+      "https://vercel.com/chat",
+      "https://vercel.com/docs/queues/sdk",
+      "https://streamdown.ai/",
+      "https://vercel.com/solutions/ai-apps",
+      "https://vercel.com/for/web-apps",
+      "https://vercel.com/solutions/marketing-sites",
+      "https://vercel.com/for/platforms",
+      "https://vercel.com/solutions/composable-commerce",
+      "https://vercel.com/solutions/platform-engineering",
+      "https://vercel.com/solutions/design-engineering",
+      "https://vercel.com/docs",
+      "https://vercel.com/blog",
+      "https://vercel.com/changelog",
+      "https://vercel.com/kb",
+      "https://vercel.com/academy",
+      "https://vercel.com/i",
+      "https://community.vercel.com/",
+      "https://is-agentic.com/",
+      "https://vercel.com/customers",
+      "https://vercel.com/marketplace",
+      "https://vercel.com/templates",
+      "https://vercel.com/partners/solution-partners",
+      "https://vercel.com/partners/aws",
+      "https://vercel.com/about",
+      "https://vercel.com/careers",
+      "https://vercel.com/press",
+      "https://vercel.com/events",
+      "https://vercel.com/startups",
+      "https://vercel.com/shipped",
+      "https://vercel.com/open-source-program",
+      "https://vercel.com/enterprise",
+      "https://vercel.com/pricing",
+      "https://vercel.com/help",
+      "https://vercel.com/legal/privacy-notice",
+      "https://vercel.com/legal/terms",
+      "https://vercel.com/legal/cookie-policy",
+      "https://vercel.com/legal/dpa",
+      "https://vercel.com/legal/acceptable-use-policy",
+      "https://vercel.com/legal",
+      "https://security.vercel.com/",
+      "https://www.vercel-status.com/",
+      "https://github.com/vercel",
+      "https://x.com/vercel",
+      "https://linkedin.com/company/vercel",
+      "https://youtube.com/@VercelHQ",
+      "https://www.instagram.com/vercel/",
+      "https://vercel.com/home",
+      "https://www.vercel-status.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-mobile.3b4fyu5pe7opg.webp&w=1920&q=95",
+        "poster": "",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/image?url=%2Fvc-ap-vercel-marketing%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Ffallback-dark-glow-desktop.25ylksegigbc-.webp&w=1920&q=95",
+        "poster": "",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-dark.webp",
+        "poster": "",
+        "width": 950,
+        "height": 500
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/notion-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-dark.webp",
+        "poster": "",
+        "width": 633,
+        "height": 355
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/zapier-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-dark.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-mobile-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-dark.webp",
+        "poster": "",
+        "width": 950,
+        "height": 532
+      },
+      {
+        "tag": "IMG",
+        "url": "https://lishhsx6kmthaacj.public.blob.vercel-storage.com/mintlify-desktop-light.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-light.44opgk1h22zu1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-claude-color-dark.44opgk1h22zu1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-light.19_d6xia9t_gb.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-open-ai-color-dark.2s69z6l-k1q-7.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-light.404d-vkjpq-4k.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/logo-cursor-color-dark.3a_-818hc-m_2.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-light.3_gxxexgi1nmy.svg",
+        "poster": "",
+        "width": 115,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://vercel.com/vc-ap-vercel-marketing/_next/static/immutable/media/vercel-dark.1f3cgy23m5_jy.svg",
+        "poster": "",
+        "width": 115,
+        "height": 100
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 7299,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

@@ -1,0 +1,3449 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-github",
+  "name": "GitHub — homepage",
+  "url": "https://github.com/",
+  "source": "https://styles.refero.design/style/c3ceca5c-d329-4559-b947-016172941ba2",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:47:21.993Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://github.com/robots.txt",
+    "checkedAt": "2026-11-12T10:47:21.992Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/*?tab=achievements&achievement=*"
+      },
+      {
+        "allow": true,
+        "path": "/marketplace/*?tab=readme$"
+      },
+      {
+        "allow": true,
+        "path": "/marketplace/*?tab=transparency$"
+      },
+      {
+        "allow": true,
+        "path": "/enterprise/contact?*"
+      },
+      {
+        "allow": true,
+        "path": "/enterprise/contact/data-residency?*"
+      },
+      {
+        "allow": true,
+        "path": "/features/codespaces?*"
+      },
+      {
+        "allow": true,
+        "path": "/features/copilot/plans?*"
+      },
+      {
+        "allow": true,
+        "path": "/security/advanced-security/demo?*"
+      },
+      {
+        "allow": true,
+        "path": "/security/contact-sales?*"
+      },
+      {
+        "allow": true,
+        "path": "/security/plans?*"
+      },
+      {
+        "allow": true,
+        "path": "/topics/*?q=*"
+      },
+      {
+        "allow": true,
+        "path": "/topics/*?*&q=*"
+      },
+      {
+        "allow": true,
+        "path": "/orgs/*/repositories?q=*"
+      },
+      {
+        "allow": true,
+        "path": "/orgs/*/repositories?*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/account-login"
+      },
+      {
+        "allow": false,
+        "path": "/copilot/"
+      },
+      {
+        "allow": false,
+        "path": "/copilot/c/"
+      },
+      {
+        "allow": false,
+        "path": "/ekansa/Open-Context-Data"
+      },
+      {
+        "allow": false,
+        "path": "/ekansa/opencontext-*"
+      },
+      {
+        "allow": false,
+        "path": "/Explodingstuff/"
+      },
+      {
+        "allow": false,
+        "path": "/gist/"
+      },
+      {
+        "allow": false,
+        "path": "/search/advanced"
+      },
+      {
+        "allow": false,
+        "path": "/search$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_committer_data.json$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_committer_data.json?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/archive/"
+      },
+      {
+        "allow": false,
+        "path": "/*/blame/"
+      },
+      {
+        "allow": false,
+        "path": "/*/cache/"
+      },
+      {
+        "allow": false,
+        "path": "/*/raw/"
+      },
+      {
+        "allow": false,
+        "path": "/*/tree/"
+      },
+      {
+        "allow": false,
+        "path": "*/tarball/"
+      },
+      {
+        "allow": false,
+        "path": "*/zipball/"
+      },
+      {
+        "allow": false,
+        "path": "/.git/"
+      },
+      {
+        "allow": false,
+        "path": "*/.git/"
+      },
+      {
+        "allow": false,
+        "path": "/*.git$"
+      },
+      {
+        "allow": false,
+        "path": "/*.atom$"
+      },
+      {
+        "allow": false,
+        "path": "/*report-abuse?report=*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/commits/"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/*/*?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/*/*?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/*?*?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/*?*?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/actions?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/actions?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/free-trials?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/free-trials?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/manage?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/manage?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/models?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/models?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/new?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/new?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/publishers?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/publishers?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/recently-added?tab=readme$"
+      },
+      {
+        "allow": false,
+        "path": "/marketplace/recently-added?tab=transparency$"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*/*?q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*/*?*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*?q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*?*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/*/repositories?q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/*/repositories?*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*?*/repositories?q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*?*/repositories?*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?source=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&source=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&source=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&source=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?ref_cta=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&ref_cta=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?plan=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&plan=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?return_to=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&return_to=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?ref_loc=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&ref_loc=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?setup_organization=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&setup_organization=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?source_repo=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&source_repo=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?ref_page=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&ref_page=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?referrer=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&referrer=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?report=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&report=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&report=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&report=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?author=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&author=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&author=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&author=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?since=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&since=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&since=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&since=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?until=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&until=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&until=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&until=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?tab=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&tab=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?q=*&tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/topics/*?*&q=*&tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?source=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&source=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&source=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&source=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?ref_cta=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&ref_cta=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?plan=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&plan=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?return_to=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&return_to=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?ref_loc=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&ref_loc=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?setup_organization=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&setup_organization=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?source_repo=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&source_repo=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?ref_page=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&ref_page=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?referrer=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&referrer=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?report=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&report=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&report=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&report=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?author=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&author=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&author=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&author=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?since=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&since=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&since=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&since=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?until=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&until=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&until=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&until=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?tab=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&tab=*&q=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?q=*&tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/orgs/*/repositories?*&q=*&tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/biztools$"
+      },
+      {
+        "allow": false,
+        "path": "/biztools?*"
+      },
+      {
+        "allow": false,
+        "path": "/biztools/*"
+      },
+      {
+        "allow": false,
+        "path": "/businesses$"
+      },
+      {
+        "allow": false,
+        "path": "/businesses?*"
+      },
+      {
+        "allow": false,
+        "path": "/businesses/*"
+      },
+      {
+        "allow": false,
+        "path": "/enterprises$"
+      },
+      {
+        "allow": false,
+        "path": "/enterprises?*"
+      },
+      {
+        "allow": false,
+        "path": "/enterprises/*"
+      },
+      {
+        "allow": false,
+        "path": "/organizations$"
+      },
+      {
+        "allow": false,
+        "path": "/organizations?*"
+      },
+      {
+        "allow": false,
+        "path": "/organizations/*"
+      },
+      {
+        "allow": false,
+        "path": "/settings$"
+      },
+      {
+        "allow": false,
+        "path": "/settings?*"
+      },
+      {
+        "allow": false,
+        "path": "/settings/*"
+      },
+      {
+        "allow": false,
+        "path": "/stafftools$"
+      },
+      {
+        "allow": false,
+        "path": "/stafftools?*"
+      },
+      {
+        "allow": false,
+        "path": "/stafftools/*"
+      },
+      {
+        "allow": false,
+        "path": "/users/*/billing$"
+      },
+      {
+        "allow": false,
+        "path": "/users/*/billing?*"
+      },
+      {
+        "allow": false,
+        "path": "/users/*/billing/*"
+      },
+      {
+        "allow": false,
+        "path": "/writing$"
+      },
+      {
+        "allow": false,
+        "path": "/writing?*"
+      },
+      {
+        "allow": false,
+        "path": "/writing/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/branches$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/branches?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/branches/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/comments$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/comments?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/comments/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/compare$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/compare?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/compare/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors_list$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors_list?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors_list/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors-list$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors-list?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/contributors-list/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/download$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/download?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/download/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/forks$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/forks?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/forks/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/graphs$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/graphs?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/graphs/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/new$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/new?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/new/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/search$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/search?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/issues/search/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/milestones/new$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/milestones/new?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/milestones/new/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/network$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/network?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/network/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/projects$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/projects?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/projects/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse-new$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse-new?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse-new/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_committer_data$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_committer_data?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_committer_data/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_diffstat_summary$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_diffstat_summary?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/pulse_diffstat_summary/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/revisions$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/revisions?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/revisions/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/stargazers$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/stargazers?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/stargazers/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/tags$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/tags?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/tags/*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/watchers$"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/watchers?*"
+      },
+      {
+        "allow": false,
+        "path": "/*/*/watchers/*"
+      },
+      {
+        "allow": false,
+        "path": "/*?source=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&source=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&ref_cta=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&plan=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&return_to=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&ref_loc=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&setup_organization=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&source_repo=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&ref_page=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&referrer=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?report=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&report=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?author=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&author=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?since=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&since=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?until=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&until=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&tab=*"
+      },
+      {
+        "allow": false,
+        "path": "/*?q=*"
+      },
+      {
+        "allow": false,
+        "path": "/*&q=*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 0,
+        "contentTop": 68,
+        "pageTransform": "none",
+        "visibleIds": [
+          "_R_nd_",
+          "_R_17d_",
+          "_R_1nd_",
+          "_R_27d_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1078,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 0,
+        "contentTop": 68,
+        "pageTransform": "none",
+        "visibleIds": [
+          "_R_nd_",
+          "_R_17d_",
+          "_R_1nd_",
+          "_R_27d_"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3179,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 1751,
+        "contentTop": -1683,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5331,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 3905,
+        "contentTop": -3837,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7083,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 5533,
+        "contentTop": -5465,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 9156,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://github.com/",
+        "scrollY": 6734,
+        "contentTop": -6666,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://api.github.com/_private/browser/stats",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Ping"
+    },
+    {
+      "url": "https://collector.github.com/github/collect",
+      "status": 204,
+      "mimeType": "text/plain",
+      "type": "Ping"
+    },
+    {
+      "url": "https://github.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://github.com/manifest.json",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 84849,
+      "sha256": "8ada26a2326ca72c654a46a512e797d2f2b15679a5710c5f52ab15e9ae55cd88"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 84471,
+      "sha256": "fff5519a4d7d7d869af88b0dd73dc27b1d474ffdf3cd3de979b8982fea175e1f"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 82060,
+      "sha256": "8caab83534132db54e9e7c677ac1c9064d411f26ca70a992f53395ded8c6d05c"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 57805,
+      "sha256": "e51e75896257866705f2071fafcc0fac473f59c98be936db9a96cc019a663868"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 52661,
+      "sha256": "18d947af849b8acba907e8547403b2e4b0afe3c7a83891584ff193f395cf8e21"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 54636,
+      "sha256": "4276880747f0d2ac449c3c11c7a3b64776d5814f254dd8e062e432604ec30efd"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 338216,
+      "sha256": "046cfc9ec88116c1b225e53bd458de0935eeea4ae95c6cd9acddde14d1305d57"
+    }
+  ],
+  "initial": {
+    "url": "https://github.com/",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub",
+    "documentHeight": 7634,
+    "contentHeight": 7634,
+    "contentTop": 68,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "fontWeight": "400",
+      "color": "rgb(31, 35, 40)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 457,
+          "y": 190,
+          "width": 526,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "61.6px",
+          "fontWeight": "440",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_95_",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": 530,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": 1533,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_al_",
+        "characters": 15,
+        "rect": {
+          "x": 16,
+          "y": 1730,
+          "width": 1408,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "40px",
+          "lineHeight": "48px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_al_-0",
+        "characters": 6,
+        "rect": {
+          "x": 362,
+          "y": 2374,
+          "width": 125,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "28px",
+          "lineHeight": "37.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_al_-1",
+        "characters": 7,
+        "rect": {
+          "x": 953,
+          "y": 2373,
+          "width": 125,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "28px",
+          "lineHeight": "37.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_il_",
+        "characters": 23,
+        "rect": {
+          "x": 16,
+          "y": 2681,
+          "width": 1408,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "40px",
+          "lineHeight": "48px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-0",
+        "characters": 7,
+        "rect": {
+          "x": 188,
+          "y": 3213,
+          "width": 71,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-1",
+        "characters": 12,
+        "rect": {
+          "x": 780,
+          "y": 3212,
+          "width": 123,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-2",
+        "characters": 13,
+        "rect": {
+          "x": 168,
+          "y": 3817,
+          "width": 132,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-3",
+        "characters": 17,
+        "rect": {
+          "x": 563,
+          "y": 3817,
+          "width": 162,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-4",
+        "characters": 10,
+        "rect": {
+          "x": 958,
+          "y": 3816,
+          "width": 118,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_j5_",
+        "characters": 52,
+        "rect": {
+          "x": 177,
+          "y": 4250,
+          "width": 563,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "34px",
+          "lineHeight": "44.2px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 129,
+          "y": 4475,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 177,
+          "y": 5168,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "400",
+          "color": "rgb(88, 99, 91)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 5366,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 193,
+          "y": 5494,
+          "width": 266,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 63,
+        "rect": {
+          "x": 588,
+          "y": 5494,
+          "width": 266,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 982,
+          "y": 5494,
+          "width": 265,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 129,
+          "y": 5845,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_5cl_",
+        "characters": 44,
+        "rect": {
+          "x": 189,
+          "y": 6365,
+          "width": 459,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "34px",
+          "lineHeight": "44.2px",
+          "fontWeight": "460",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": 6604,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "subscribe-to-newsletter",
+        "characters": 24,
+        "rect": {
+          "x": 112,
+          "y": 6728,
+          "width": 520,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "480",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 175,
+        "height": 175,
+        "rect": {
+          "x": 633,
+          "y": 435,
+          "width": 175,
+          "height": 175
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 129,
+          "y": 3979,
+          "width": 300,
+          "height": 150
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 129,
+          "y": 5845,
+          "width": 300,
+          "height": 150
+        }
+      }
+    ],
+    "links": [
+      "https://github.com/#start-of-content",
+      "https://github.com/",
+      "https://github.com/login",
+      "https://github.com/platform",
+      "https://github.com/features/copilot",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/features/codespaces",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/features",
+      "https://docs.github.com/en",
+      "https://learn.github.com/skills",
+      "https://learn.github.com/credentials",
+      "https://github.com/features/ai",
+      "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-copilot-overview",
+      "https://github.com/marketplace",
+      "https://github.com/trending",
+      "https://github.com/open-source/sponsors",
+      "https://github.com/resources/articles",
+      "https://github.blog/changelog/",
+      "https://github.com/enterprise",
+      "https://github.com/team",
+      "https://github.com/enterprise/startups",
+      "https://github.com/solutions/industry/nonprofits",
+      "https://github.com/solutions/industry/healthcare",
+      "https://github.com/solutions/industry/financial-services",
+      "https://github.com/solutions/industry/manufacturing",
+      "https://github.com/solutions/industry/government",
+      "https://github.com/solutions/industry",
+      "https://github.com/why-github",
+      "https://github.com/customer-stories",
+      "https://github.com/solutions/executive-insights",
+      "https://github.com/trust-center",
+      "https://github.com/security/advanced-security",
+      "https://github.com/features/copilot/copilot-business",
+      "https://github.com/enterprise/premium-support",
+      "https://docs.github.com/en",
+      "https://github.com/resources",
+      "https://github.blog/",
+      "https://github.com/resources/events",
+      "https://github.com/orgs/community/discussions",
+      "https://github.com/customer-stories",
+      "https://github.com/marketplace",
+      "https://help.github.com/",
+      "https://learn.github.com/skills",
+      "https://www.githubstatus.com/",
+      "https://github.com/about",
+      "https://github.com/partners",
+      "https://github.blog/changelog/",
+      "https://githubuniverse.com/",
+      "https://github.com/pricing",
+      "https://github.com/login",
+      "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/events/universe/recap?utm_source=homepage-eyebrow-banner-universe-recap&utm_medium=web&utm_campaign=universe-2026&locale=en-US",
+      "https://github.com/features/copilot",
+      "https://github.com/dlinkerartwork/paletteiq/pull/5",
+      "https://github.com/huggingface/nanowhale",
+      "https://github.com/Graphify-Labs/graphify",
+      "https://github.com/Anapaya/scion-sdk/commit/ed3af624daa0bffdba96978190f474d778b34eae",
+      "https://github.com/dataciviclab/italia-corpus/pull/153",
+      "https://github.com/Tencent/WeKnora/pull/5450",
+      "https://github.com/elder-plinius/CL4R1T4S",
+      "https://github.com/bruno-infradev/infradev/commit/b9da508470060bbbab2cf4e955028f32585018ef",
+      "https://github.com/gedeyandi123/traceq/pull/3",
+      "https://github.com/ShimiG/youtube-music/pull/79",
+      "https://github.com/wailsapp/wails",
+      "https://github.com/elementum228-cpu/Cartagenamall/commit/dca62fceebacd7ee2362e376ba8c1132b0a46b97",
+      "https://github.com/dlinkerartwork/paletteiq/pull/5",
+      "https://github.com/platform",
+      "https://github.com/pricing",
+      "https://github.com/features/copilot",
+      "https://github.com/features/copilot/plans",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/features/codespaces",
+      "https://github.com/get_started?with=enterprise",
+      "https://github.com/customer-stories/figma",
+      "https://github.com/customer-stories/mercedes-benz",
+      "https://github.com/customer-stories/mercado-libre",
+      "https://github.com/google-deepmind/mujoco",
+      "https://github.com/astral-sh/ruff",
+      "https://github.com/Homebrew/brew",
+      "https://github.com/vitejs/vite",
+      "https://github.com/nushell/nushell",
+      "https://github.com/aquasecurity/trivy",
+      "https://github.com/sindresorhus/awesome",
+      "https://github.com/GyulyVGC/sniffnet",
+      "https://github.com/rustdesk/rustdesk",
+      "https://github.com/nlohmann/json",
+      "https://github.com/servo/servo",
+      "https://github.com/cli/cli",
+      "https://github.com/",
+      "https://github.com/newsletter",
+      "https://github.com/platform",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/features/copilot",
+      "https://github.com/features/codespaces",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/pricing",
+      "https://github.com/team",
+      "https://github.com/resources",
+      "https://github.com/github-roadmap",
+      "https://github.com/resources/articles/devops-tools-comparison",
+      "https://github.com/features",
+      "https://docs.github.com/integrations/concepts/about-building-integrations",
+      "https://github.com/education",
+      "https://cli.github.com/",
+      "https://github.com/apps/desktop",
+      "https://github.com/mobile",
+      "https://github.com/marketplace",
+      "https://github.com/mcp",
+      "https://skills.github.com/",
+      "https://github.com/features/ai",
+      "https://docs.github.com/",
+      "https://github.community/",
+      "https://github.com/services",
+      "https://github.com/enterprise/premium-support",
+      "https://www.githubstatus.com/",
+      "https://support.github.com/?tags=dotcom-footer",
+      "https://github.com/sitemap",
+      "https://github.com/about",
+      "https://github.com/why-github",
+      "https://github.com/customer-stories?type=enterprise",
+      "https://github.blog/",
+      "https://github.careers/",
+      "https://github.com/about/diversity",
+      "https://github.com/partners",
+      "https://socialimpact.github.com/",
+      "https://thegithubshop.com/",
+      "https://github.com/git-guides",
+      "https://docs.github.com/site-policy/github-terms/github-terms-of-service",
+      "https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement",
+      "https://www.linkedin.com/company/github",
+      "https://www.instagram.com/github",
+      "https://www.youtube.com/github",
+      "https://x.com/github",
+      "https://www.tiktok.com/@github",
+      "https://www.twitch.tv/github",
+      "https://github.com/github"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/changelog-fd687bff072883b0.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/changelog-dark-b1c25ae971bd641b.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/universe-a98cd54821b27569.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/universe-a98cd54821b27569.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-9ccb55275227c79b036824fc/b44aaf40a80735ae613a6db469af23c1/ducky-shadows.png",
+        "poster": "",
+        "width": 156,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://github.githubassets.com/assets/hero-light-402fcc3b21efb4cd.mp4",
+        "poster": "",
+        "width": 2561,
+        "height": 1726
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-platform-1-light-d1af443446caafe7.webp",
+        "poster": "",
+        "width": 1476,
+        "height": 1260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-platform-2-light-deba569ff3c98363.webp",
+        "poster": "",
+        "width": 984,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-1-light-3a999d15192f9ed9.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-2-light-bb0bc31df1d658b8.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-3-light-e2458d99331b9f87.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-4-light-c6d08e31ba77efdd.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-5-light-51976df09d6ae707.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f899e02bc1ad1a5df31a307f/6acd0742069d2c9591b307f87e903a69/avatar-5.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-01ac80921a7a68bb3d4ce527/b8f43648b9c0fa6cdb8946ed2be492cf/avatar-1.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-1bdfd19a362a9b42660488c1/dd6db8061a69e8cd6f3611e6b495b3dd/avatar-2.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f6d013dea6d5575cba3b8294/41503e0438e56c6ebb8827c41e3c6fa8/avatar-3.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-5de180004bab10ed7bf6174a/6609dfc82864ffad130f96c32866ca62/avatar-4.webp",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/ducky-c9ab74b64c4d1e8d.webp",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 833,
+        "iterations": "3"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "paused",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 4466.667,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6574,
+    "actualTravel": 6734,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://github.com/",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub",
+    "documentHeight": 7634,
+    "contentHeight": 7634,
+    "contentTop": -6666,
+    "scrollY": 6734,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+      "fontSize": "14px",
+      "lineHeight": "21px",
+      "fontWeight": "400",
+      "color": "rgb(31, 35, 40)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": -6734,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 457,
+          "y": -6544,
+          "width": 526,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "56px",
+          "lineHeight": "61.6px",
+          "fontWeight": "440",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_95_",
+        "characters": 19,
+        "rect": {
+          "x": 0,
+          "y": -6204,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": -5201,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_al_",
+        "characters": 15,
+        "rect": {
+          "x": 16,
+          "y": -5004,
+          "width": 1408,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "40px",
+          "lineHeight": "48px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_al_-0",
+        "characters": 6,
+        "rect": {
+          "x": 362,
+          "y": -4360,
+          "width": 125,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "28px",
+          "lineHeight": "37.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_al_-1",
+        "characters": 7,
+        "rect": {
+          "x": 953,
+          "y": -4361,
+          "width": 125,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "28px",
+          "lineHeight": "37.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_il_",
+        "characters": 23,
+        "rect": {
+          "x": 16,
+          "y": -4053,
+          "width": 1408,
+          "height": 48
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "40px",
+          "lineHeight": "48px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-0",
+        "characters": 7,
+        "rect": {
+          "x": 188,
+          "y": -3521,
+          "width": 71,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-1",
+        "characters": 12,
+        "rect": {
+          "x": 780,
+          "y": -3522,
+          "width": 123,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-2",
+        "characters": 13,
+        "rect": {
+          "x": 168,
+          "y": -2917,
+          "width": 132,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-3",
+        "characters": 17,
+        "rect": {
+          "x": 563,
+          "y": -2917,
+          "width": 162,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "_R_il_-4",
+        "characters": 10,
+        "rect": {
+          "x": 958,
+          "y": -2918,
+          "width": 118,
+          "height": 26
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_j5_",
+        "characters": 52,
+        "rect": {
+          "x": 177,
+          "y": -2484,
+          "width": 563,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "34px",
+          "lineHeight": "44.2px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 129,
+          "y": -2259,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 22,
+        "rect": {
+          "x": 177,
+          "y": -1566,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "400",
+          "color": "rgb(88, 99, 91)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": -1368,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 54,
+        "rect": {
+          "x": 193,
+          "y": -1240,
+          "width": 266,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 63,
+        "rect": {
+          "x": 588,
+          "y": -1240,
+          "width": 266,
+          "height": 123
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 982,
+          "y": -1240,
+          "width": 265,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "22px",
+          "lineHeight": "30.8px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 129,
+          "y": -889,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans VF\", -apple-system, \"system-ui\", \"Segoe UI\", \"Noto Sans Backtick Fix\", \"Noto Sans\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "_R_5cl_",
+        "characters": 44,
+        "rect": {
+          "x": 189,
+          "y": -369,
+          "width": 459,
+          "height": 88
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "34px",
+          "lineHeight": "44.2px",
+          "fontWeight": "460",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 0,
+          "y": -130,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans\", MonaSansFallback, -apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+          "fontSize": "24px",
+          "lineHeight": "36px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "subscribe-to-newsletter",
+        "characters": 24,
+        "rect": {
+          "x": 112,
+          "y": -6,
+          "width": 520,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "\"Mona Sans Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "21px",
+          "fontWeight": "480",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 175,
+        "height": 175,
+        "rect": {
+          "x": 633,
+          "y": -6299,
+          "width": 175,
+          "height": 175
+        }
+      },
+      {
+        "id": "",
+        "width": 137,
+        "height": 137,
+        "rect": {
+          "x": 404,
+          "y": -2774,
+          "width": 137,
+          "height": 137
+        }
+      },
+      {
+        "id": "",
+        "width": 137,
+        "height": 137,
+        "rect": {
+          "x": 399,
+          "y": -845,
+          "width": 137,
+          "height": 137
+        }
+      }
+    ],
+    "links": [
+      "https://github.com/#start-of-content",
+      "https://github.com/",
+      "https://github.com/login",
+      "https://github.com/platform",
+      "https://github.com/features/copilot",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/features/codespaces",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/features",
+      "https://docs.github.com/en",
+      "https://learn.github.com/skills",
+      "https://learn.github.com/credentials",
+      "https://github.com/features/ai",
+      "https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-copilot-overview",
+      "https://github.com/marketplace",
+      "https://github.com/trending",
+      "https://github.com/open-source/sponsors",
+      "https://github.com/resources/articles",
+      "https://github.blog/changelog/",
+      "https://github.com/enterprise",
+      "https://github.com/team",
+      "https://github.com/enterprise/startups",
+      "https://github.com/solutions/industry/nonprofits",
+      "https://github.com/solutions/industry/healthcare",
+      "https://github.com/solutions/industry/financial-services",
+      "https://github.com/solutions/industry/manufacturing",
+      "https://github.com/solutions/industry/government",
+      "https://github.com/solutions/industry",
+      "https://github.com/why-github",
+      "https://github.com/customer-stories",
+      "https://github.com/solutions/executive-insights",
+      "https://github.com/trust-center",
+      "https://github.com/security/advanced-security",
+      "https://github.com/features/copilot/copilot-business",
+      "https://github.com/enterprise/premium-support",
+      "https://docs.github.com/en",
+      "https://github.com/resources",
+      "https://github.blog/",
+      "https://github.com/resources/events",
+      "https://github.com/orgs/community/discussions",
+      "https://github.com/customer-stories",
+      "https://github.com/marketplace",
+      "https://help.github.com/",
+      "https://learn.github.com/skills",
+      "https://www.githubstatus.com/",
+      "https://github.com/about",
+      "https://github.com/partners",
+      "https://github.blog/changelog/",
+      "https://githubuniverse.com/",
+      "https://github.com/pricing",
+      "https://github.com/login",
+      "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/",
+      "https://github.com/events/universe/recap?utm_source=homepage-eyebrow-banner-universe-recap&utm_medium=web&utm_campaign=universe-2026&locale=en-US",
+      "https://github.com/features/copilot",
+      "https://github.com/dlinkerartwork/paletteiq/pull/5",
+      "https://github.com/huggingface/nanowhale",
+      "https://github.com/Graphify-Labs/graphify",
+      "https://github.com/Anapaya/scion-sdk/commit/ed3af624daa0bffdba96978190f474d778b34eae",
+      "https://github.com/dataciviclab/italia-corpus/pull/153",
+      "https://github.com/Tencent/WeKnora/pull/5450",
+      "https://github.com/elder-plinius/CL4R1T4S",
+      "https://github.com/bruno-infradev/infradev/commit/b9da508470060bbbab2cf4e955028f32585018ef",
+      "https://github.com/gedeyandi123/traceq/pull/3",
+      "https://github.com/ShimiG/youtube-music/pull/79",
+      "https://github.com/wailsapp/wails",
+      "https://github.com/elementum228-cpu/Cartagenamall/commit/dca62fceebacd7ee2362e376ba8c1132b0a46b97",
+      "https://github.com/dlinkerartwork/paletteiq/pull/5",
+      "https://github.com/platform",
+      "https://github.com/pricing",
+      "https://github.com/features/copilot",
+      "https://github.com/features/copilot/plans",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/features/codespaces",
+      "https://github.com/get_started?with=enterprise",
+      "https://github.com/customer-stories/figma",
+      "https://github.com/customer-stories/mercedes-benz",
+      "https://github.com/customer-stories/mercado-libre",
+      "https://github.com/google-deepmind/mujoco",
+      "https://github.com/astral-sh/ruff",
+      "https://github.com/Homebrew/brew",
+      "https://github.com/vitejs/vite",
+      "https://github.com/nushell/nushell",
+      "https://github.com/aquasecurity/trivy",
+      "https://github.com/sindresorhus/awesome",
+      "https://github.com/GyulyVGC/sniffnet",
+      "https://github.com/rustdesk/rustdesk",
+      "https://github.com/nlohmann/json",
+      "https://github.com/servo/servo",
+      "https://github.com/cli/cli",
+      "https://github.com/",
+      "https://github.com/newsletter",
+      "https://github.com/platform",
+      "https://github.com/features/actions",
+      "https://github.com/features/code-quality",
+      "https://github.com/features/copilot",
+      "https://github.com/features/codespaces",
+      "https://github.com/security/advanced-security/code-security",
+      "https://github.com/security/advanced-security/secret-protection",
+      "https://github.com/pricing",
+      "https://github.com/team",
+      "https://github.com/resources",
+      "https://github.com/github-roadmap",
+      "https://github.com/resources/articles/devops-tools-comparison",
+      "https://github.com/features",
+      "https://docs.github.com/integrations/concepts/about-building-integrations",
+      "https://github.com/education",
+      "https://cli.github.com/",
+      "https://github.com/apps/desktop",
+      "https://github.com/mobile",
+      "https://github.com/marketplace",
+      "https://github.com/mcp",
+      "https://skills.github.com/",
+      "https://github.com/features/ai",
+      "https://docs.github.com/",
+      "https://github.community/",
+      "https://github.com/services",
+      "https://github.com/enterprise/premium-support",
+      "https://www.githubstatus.com/",
+      "https://support.github.com/?tags=dotcom-footer",
+      "https://github.com/sitemap",
+      "https://github.com/about",
+      "https://github.com/why-github",
+      "https://github.com/customer-stories?type=enterprise",
+      "https://github.blog/",
+      "https://github.careers/",
+      "https://github.com/about/diversity",
+      "https://github.com/partners",
+      "https://socialimpact.github.com/",
+      "https://thegithubshop.com/",
+      "https://github.com/git-guides",
+      "https://docs.github.com/site-policy/github-terms/github-terms-of-service",
+      "https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement",
+      "https://www.linkedin.com/company/github",
+      "https://www.instagram.com/github",
+      "https://www.youtube.com/github",
+      "https://x.com/github",
+      "https://www.tiktok.com/@github",
+      "https://www.twitch.tv/github",
+      "https://github.com/github"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/platform-4ce65ae0bf273ce2.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/platform-dark-ac89fbf373737ed3.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/copilot-e2b89335a66dba00.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/copilot-dark-2b28403b6080e898.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/changelog-fd687bff072883b0.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/changelog-dark-b1c25ae971bd641b.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/universe-a98cd54821b27569.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/universe-a98cd54821b27569.png",
+        "poster": "",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-9ccb55275227c79b036824fc/b44aaf40a80735ae613a6db469af23c1/ducky-shadows.png",
+        "poster": "",
+        "width": 156,
+        "height": 96
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://github.githubassets.com/assets/hero-light-402fcc3b21efb4cd.mp4",
+        "poster": "",
+        "width": 2561,
+        "height": 1726
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-platform-1-light-d1af443446caafe7.webp",
+        "poster": "",
+        "width": 1476,
+        "height": 1260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-platform-2-light-deba569ff3c98363.webp",
+        "poster": "",
+        "width": 984,
+        "height": 840
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-1-light-3a999d15192f9ed9.webp",
+        "poster": "",
+        "width": 912,
+        "height": 592
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-2-light-bb0bc31df1d658b8.webp",
+        "poster": "",
+        "width": 912,
+        "height": 592
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-3-light-e2458d99331b9f87.webp",
+        "poster": "",
+        "width": 912,
+        "height": 592
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-4-light-c6d08e31ba77efdd.webp",
+        "poster": "",
+        "width": 912,
+        "height": 592
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/features-ways-5-light-51976df09d6ae707.webp",
+        "poster": "",
+        "width": 912,
+        "height": 592
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f899e02bc1ad1a5df31a307f/6acd0742069d2c9591b307f87e903a69/avatar-5.webp",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-01ac80921a7a68bb3d4ce527/b8f43648b9c0fa6cdb8946ed2be492cf/avatar-1.webp",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-1bdfd19a362a9b42660488c1/dd6db8061a69e8cd6f3611e6b495b3dd/avatar-2.webp",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-f6d013dea6d5575cba3b8294/41503e0438e56c6ebb8827c41e3c6fa8/avatar-3.webp",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://images.ctfassets.net/8aevphvgewt8/home2026-5de180004bab10ed7bf6174a/6609dfc82864ffad130f96c32866ca62/avatar-4.webp",
+        "poster": "",
+        "width": 96,
+        "height": 96
+      },
+      {
+        "tag": "IMG",
+        "url": "https://github.githubassets.com/assets/ducky-c9ab74b64c4d1e8d.webp",
+        "poster": "",
+        "width": 100,
+        "height": 96
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 4000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1400,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 60000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1799.9999999999998,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 1799.9999999999998,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 833,
+        "iterations": "3"
+      },
+      {
+        "type": "Animation",
+        "playState": "running",
+        "duration": 9166.667,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 9156,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

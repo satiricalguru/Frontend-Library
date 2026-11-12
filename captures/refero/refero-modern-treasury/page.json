@@ -1,0 +1,1955 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-modern-treasury",
+  "name": "Modern Treasury — homepage",
+  "url": "https://www.moderntreasury.com/",
+  "source": "https://styles.refero.design/style/2e9b3dcb-f937-488d-891c-351c7366188f",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:54:57.303Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.moderntreasury.com/robots.txt",
+    "checkedAt": "2026-11-12T10:54:57.285Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/cms"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/cms"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": false,
+        "path": "/api/"
+      },
+      {
+        "allow": false,
+        "path": "/cms"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1036,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3942,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 1345,
+        "contentTop": -1345,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6624,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 2998,
+        "contentTop": -2998,
+        "pageTransform": "none",
+        "visibleIds": [
+          "_R_17av5ssnqdb_-panel"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8498,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 4249,
+        "contentTop": -4249,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10952,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.moderntreasury.com/",
+        "scrollY": 5184,
+        "contentTop": -5184,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://www.moderntreasury.com/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/image",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0_uc8ov2d_4hh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0.-_s6.i2h~nh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0.9y3qxj-~byg.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/04rlhloixny06.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/05~vn1sqe6mgo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/05ae58b0zkx11.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/06gnzvhhw40_o.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0a5z~dp5syhr0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0bfoodjwntex7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0bsaz51dugv6-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0c1ha~5enn47a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0dr90wxd1d5ja.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0h-x-meto31k_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0i.l9589uvx0j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0jhr.cs-cc~.i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0k6c9i47ki3cm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0kqory2xsush5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0m97bbjp.vgzu.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0rwwge57xnfls.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0ws4qwj_gnrzr.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0x_6kyj96msh5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0xxsuox2t8akn.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/0y0pq5e9dosfn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/10xtq6jbhnwew.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/128aahewwf1we.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/13~3tdw~e16a3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/160.g-kh77nor.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/16gm_ykgyk_2e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_next/static/chunks/turbopack-17yfsgds95do1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/_vercel/insights/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/api/u",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/bg-grid.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-1-anchoragedigital.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-10-forma.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-11-gofundme.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-12-groma.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-13-gusto.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-14-homegrown.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-15-korber.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-16-masterworks.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-17-morse.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-18-navan.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-19-nftydoor.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-2-avidxchange.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-20-nomad.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-21-parafin.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-22-procore.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-23-producepay.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-24-robinhood.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-25-sana.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-26-settle.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-27-side.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-28-splitwise.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-29-spritz.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-3-bamboohr.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-30-stewart.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-31-symphony.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-32-valon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-33-wingspan.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-4-bilt.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-5-check.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-6-classpass.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-8-drivewealth.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-9-float.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-mono/mt-mono-regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-mono/mt-mono-semibold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-neue/mt-neue-display-roman.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-neue/mt-neue-text-roman.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-sans/mt-sans-italic.var.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/fonts/mt-sans/mt-sans.var.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/home/quote-logo-nftydoor.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/homepage-hero-desktop.webm",
+      "status": 206,
+      "mimeType": "video/webm",
+      "type": "Media"
+    },
+    {
+      "url": "https://www.moderntreasury.com/assets/ui/chevron_sort.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.moderntreasury.com/e1edbc4532b535b6/script.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.moderntreasury.com/favicon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 81701,
+      "sha256": "95b355535756201ca40c255cbc57d116d70e6598cbd191821e9a707cee8f8700"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 81749,
+      "sha256": "f7b4950bea50414218601191d4967f74f063883e3b039bfce9e0b3865a1edb1a"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 95914,
+      "sha256": "414bfd03fbf6eda7439789f86d4c0b652ee7a05e5c394a81bb210a19e9c95e1d"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 85681,
+      "sha256": "9dd5e355770d48465b4791df61f29485a2308998223160fae0a9502efc7ef18a"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 73914,
+      "sha256": "42c1cd9802ac8bf12f465758750d85f8559a9a8ad873d4117950d4e80ebbe0ee"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 71292,
+      "sha256": "5c76b6c75219fc6697832d0f87278019b735ccbd6b64c5d96742ce13291c4ead"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 279925,
+      "sha256": "3033abcade605346f981ac96c9f834f9df286889fe968965242969f8cf0b1ea5"
+    }
+  ],
+  "initial": {
+    "url": "https://www.moderntreasury.com/",
+    "title": "Modern Treasury | Multi-Rail Payment Service Provider",
+    "documentHeight": 6108,
+    "contentHeight": 6108,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "mt-sans, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 272,
+          "y": 204,
+          "width": 896,
+          "height": 156
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "71px",
+          "lineHeight": "78.1px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 452,
+          "y": 1240,
+          "width": 536,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 168,
+          "y": 1394,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 792,
+          "y": 1394,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 168,
+          "y": 2003,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 792,
+          "y": 2003,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 336,
+          "y": 2901,
+          "width": 768,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 491,
+          "y": 3814,
+          "width": 457,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 152,
+          "y": 3961,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 560,
+          "y": 3961,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 968,
+          "y": 3961,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 522,
+          "y": 4672,
+          "width": 396,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.moderntreasury.com/",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/pricing",
+      "https://app.moderntreasury.com/login",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/products/stablecoins",
+      "https://www.moderntreasury.com/products/ledgers",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/global-usd-accounts",
+      "https://www.moderntreasury.com/solutions/lending",
+      "https://www.moderntreasury.com/solutions/payroll",
+      "https://www.moderntreasury.com/solutions/rewards-points",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/solutions/stablecoin-wallets",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://www.moderntreasury.com/resources",
+      "https://www.moderntreasury.com/journal",
+      "https://www.moderntreasury.com/newsroom",
+      "https://docs.moderntreasury.com/payments/docs/overview",
+      "https://docs.moderntreasury.com/ledgers/docs/overview",
+      "https://docs.moderntreasury.com/platform/reference/getting-started",
+      "https://docs.moderntreasury.com/platform/changelog",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/pricing",
+      "https://app.moderntreasury.com/login",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://www.moderntreasury.com/events/how-they-built-it",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/customers/nftydoor",
+      "https://www.moderntreasury.com/newsroom/press-releases/palus-finance-selects-modern-treasury-to-power-multi-rail-payments-for-treasury-management",
+      "https://www.moderntreasury.com/newsroom/press-releases/spritz-selects-modern-treasury-to-unify-multi-rail-consumer-payments",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/products/ledgers",
+      "https://www.moderntreasury.com/products/stablecoins",
+      "https://www.moderntreasury.com/resources",
+      "https://www.moderntreasury.com/journal",
+      "https://www.moderntreasury.com/learn",
+      "https://www.moderntreasury.com/newsroom",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/global-usd-accounts",
+      "https://www.moderntreasury.com/solutions/lending",
+      "https://www.moderntreasury.com/solutions/payroll",
+      "https://www.moderntreasury.com/solutions/rewards-points",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/solutions/stablecoin-wallets",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://docs.moderntreasury.com/payments/docs/overview",
+      "https://docs.moderntreasury.com/ledgers/docs/overview",
+      "https://docs.moderntreasury.com/platform/reference/getting-started",
+      "https://docs.moderntreasury.com/platform/changelog",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/customers/navan",
+      "https://www.moderntreasury.com/customers/masterworks",
+      "https://www.moderntreasury.com/customers/parafin",
+      "https://www.moderntreasury.com/customers/procore",
+      "https://www.moderntreasury.com/about",
+      "https://www.moderntreasury.com/about#careers",
+      "https://www.moderntreasury.com/security",
+      "https://www.moderntreasury.com/legal/privacy-policy",
+      "https://www.moderntreasury.com/legal/terms-of-use",
+      "https://twitter.com/ModernTreasury",
+      "https://linkedin.com/company/Modern-Treasury",
+      "https://instagram.com/ModernTreasury",
+      "https://youtube.com/@ModernTreasury",
+      "https://www.moderntreasury.com/legal/privacy-policy"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://www.moderntreasury.com/assets/homepage-hero-desktop.webm",
+        "poster": "",
+        "width": 2400,
+        "height": 868
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-1-anchoragedigital.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 123,
+        "height": 28
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-2-avidxchange.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 130,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-3-bamboohr.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 142,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-4-bilt.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 94,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-5-check.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 89,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-6-classpass.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 116,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-8-drivewealth.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 151,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-9-float.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 70,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-10-forma.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 86,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-11-gofundme.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 91,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-12-groma.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 75,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-13-gusto.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 58,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-14-homegrown.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 119,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-15-korber.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 64,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-16-masterworks.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 158,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-17-morse.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 92,
+        "height": 13
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-18-navan.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 76,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-19-nftydoor.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 109,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-20-nomad.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 90,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-21-parafin.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 106,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-22-procore.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 120,
+        "height": 15
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-23-producepay.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 123,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-24-robinhood.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 118,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-25-sana.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-26-settle.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-27-side.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 78,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-28-splitwise.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 98,
+        "height": 35
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-29-spritz.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-30-stewart.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 116,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-31-symphony.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 128,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-32-valon.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 72,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-33-wingspan.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 118,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-pay-ins-payouts.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-programmatic-accounts.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-stablecoin-orchestration.png&w=3840&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-automate-manual-processes.png&w=3840&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/home/quote-logo-nftydoor.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fquote-logo-palus-finance.png&w=640&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/home/quote-logo-spritz.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 5048,
+    "actualTravel": 5184,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.moderntreasury.com/",
+    "title": "Modern Treasury | Multi-Rail Payment Service Provider",
+    "documentHeight": 6108,
+    "contentHeight": 6108,
+    "contentTop": -5184,
+    "scrollY": 5184,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "mt-sans, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 30,
+        "rect": {
+          "x": 272,
+          "y": -4980,
+          "width": 896,
+          "height": 156
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "71px",
+          "lineHeight": "78.1px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 452,
+          "y": -3944,
+          "width": 536,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 168,
+          "y": -3790,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 792,
+          "y": -3790,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 168,
+          "y": -3181,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 792,
+          "y": -3181,
+          "width": 480,
+          "height": 40
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "32px",
+          "lineHeight": "40px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 42,
+        "rect": {
+          "x": 336,
+          "y": -2283,
+          "width": 768,
+          "height": 118
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 491,
+          "y": -1370,
+          "width": 457,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 152,
+          "y": -1223,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 560,
+          "y": -1223,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 968,
+          "y": -1223,
+          "width": 320,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "mt-neue-text, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "lineHeight": "27.3px",
+          "fontWeight": "400",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 522,
+          "y": -512,
+          "width": 396,
+          "height": 59
+        },
+        "style": {
+          "fontFamily": "mt-neue-display, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "47px",
+          "lineHeight": "58.75px",
+          "fontWeight": "450",
+          "color": "rgb(21, 21, 21)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.moderntreasury.com/",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/pricing",
+      "https://app.moderntreasury.com/login",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/products/stablecoins",
+      "https://www.moderntreasury.com/products/ledgers",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/global-usd-accounts",
+      "https://www.moderntreasury.com/solutions/lending",
+      "https://www.moderntreasury.com/solutions/payroll",
+      "https://www.moderntreasury.com/solutions/rewards-points",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/solutions/stablecoin-wallets",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://www.moderntreasury.com/resources",
+      "https://www.moderntreasury.com/journal",
+      "https://www.moderntreasury.com/newsroom",
+      "https://docs.moderntreasury.com/payments/docs/overview",
+      "https://docs.moderntreasury.com/ledgers/docs/overview",
+      "https://docs.moderntreasury.com/platform/reference/getting-started",
+      "https://docs.moderntreasury.com/platform/changelog",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/pricing",
+      "https://app.moderntreasury.com/login",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://www.moderntreasury.com/events/how-they-built-it",
+      "https://www.moderntreasury.com/talk-to-us",
+      "https://app.moderntreasury.com/sign_up",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/customers/nftydoor",
+      "https://www.moderntreasury.com/newsroom/press-releases/palus-finance-selects-modern-treasury-to-power-multi-rail-payments-for-treasury-management",
+      "https://www.moderntreasury.com/newsroom/press-releases/spritz-selects-modern-treasury-to-unify-multi-rail-consumer-payments",
+      "https://www.moderntreasury.com/products/payments",
+      "https://www.moderntreasury.com/products/ledgers",
+      "https://www.moderntreasury.com/products/stablecoins",
+      "https://www.moderntreasury.com/resources",
+      "https://www.moderntreasury.com/journal",
+      "https://www.moderntreasury.com/learn",
+      "https://www.moderntreasury.com/newsroom",
+      "https://www.moderntreasury.com/solutions/embedded-payments",
+      "https://www.moderntreasury.com/solutions/global-usd-accounts",
+      "https://www.moderntreasury.com/solutions/lending",
+      "https://www.moderntreasury.com/solutions/payroll",
+      "https://www.moderntreasury.com/solutions/rewards-points",
+      "https://www.moderntreasury.com/solutions/stablecoin-orchestration",
+      "https://www.moderntreasury.com/solutions/stablecoin-wallets",
+      "https://www.moderntreasury.com/solutions/sub-accounts",
+      "https://docs.moderntreasury.com/payments/docs/overview",
+      "https://docs.moderntreasury.com/ledgers/docs/overview",
+      "https://docs.moderntreasury.com/platform/reference/getting-started",
+      "https://docs.moderntreasury.com/platform/changelog",
+      "https://www.moderntreasury.com/customers",
+      "https://www.moderntreasury.com/customers/navan",
+      "https://www.moderntreasury.com/customers/masterworks",
+      "https://www.moderntreasury.com/customers/parafin",
+      "https://www.moderntreasury.com/customers/procore",
+      "https://www.moderntreasury.com/about",
+      "https://www.moderntreasury.com/about#careers",
+      "https://www.moderntreasury.com/security",
+      "https://www.moderntreasury.com/legal/privacy-policy",
+      "https://www.moderntreasury.com/legal/terms-of-use",
+      "https://twitter.com/ModernTreasury",
+      "https://linkedin.com/company/Modern-Treasury",
+      "https://instagram.com/ModernTreasury",
+      "https://youtube.com/@ModernTreasury",
+      "https://www.moderntreasury.com/legal/privacy-policy"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://www.moderntreasury.com/assets/homepage-hero-desktop.webm",
+        "poster": "",
+        "width": 2400,
+        "height": 868
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-1-anchoragedigital.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 123,
+        "height": 28
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-2-avidxchange.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 130,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-3-bamboohr.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 142,
+        "height": 21
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-4-bilt.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 94,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-5-check.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 89,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-6-classpass.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 116,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-8-drivewealth.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 151,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-9-float.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 70,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-10-forma.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 86,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-11-gofundme.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 91,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-12-groma.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 75,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-13-gusto.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 58,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-14-homegrown.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 119,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-15-korber.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 64,
+        "height": 37
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-16-masterworks.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 158,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-17-morse.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 92,
+        "height": 13
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-18-navan.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 76,
+        "height": 17
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-19-nftydoor.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 109,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-20-nomad.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 90,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-21-parafin.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 106,
+        "height": 27
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-22-procore.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 120,
+        "height": 15
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-23-producepay.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 123,
+        "height": 22
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-24-robinhood.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 118,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-25-sana.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-26-settle.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-27-side.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 78,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-28-splitwise.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 98,
+        "height": 35
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-29-spritz.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 80,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-30-stewart.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 116,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-31-symphony.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 128,
+        "height": 20
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-32-valon.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 72,
+        "height": 18
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/carousel-logos/logo-33-wingspan.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 118,
+        "height": 19
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-pay-ins-payouts.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-programmatic-accounts.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-stablecoin-orchestration.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fbento-automate-manual-processes.png&w=750&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/home/quote-logo-nftydoor.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 320,
+        "height": 184
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/_next/image?url=%2Fassets%2Fhome%2Fquote-logo-palus-finance.png&w=384&q=75&dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 384,
+        "height": 216
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.moderntreasury.com/assets/home/quote-logo-spritz.svg?dpl=dpl_GVLgTz3hew81gDggHpov77e3oZss",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10952,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

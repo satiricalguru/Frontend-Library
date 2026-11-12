@@ -1,0 +1,3831 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-supabase",
+  "name": "Supabase — homepage",
+  "url": "https://supabase.com/",
+  "source": "https://styles.refero.design/style/632249f1-fd78-4c77-9b34-7bae37ff3e9b",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:46:18.080Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://supabase.com/robots.txt",
+    "checkedAt": "2026-11-12T10:46:18.080Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 0,
+        "contentTop": 65,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "products"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 840,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 0,
+        "contentTop": 65,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "products"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2561,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 1766,
+        "contentTop": -1701,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "dashboard",
+          "frameworks"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4577,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 3940,
+        "contentTop": -3875,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "examples",
+          "customer-stories"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8107,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 5581,
+        "contentTop": -5516,
+        "pageTransform": "none",
+        "visibleIds": [
+          "main",
+          "community",
+          "open-source",
+          "cta"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10111,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://supabase.com/",
+        "scrollY": 6791,
+        "contentTop": -6726,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://configcat.supabase.com/configuration-files/configcat-proxy/frontend-v2/config_v6.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://ph.supabase.com/api/surveys/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ph.supabase.com/array/phc_q2wUqNSr9AsKvH56PBbg9RX5dGKypQZi1gxk3cuSXJ5/config.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ph.supabase.com/flags/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ph.supabase.com/static/1.428.3/surveys.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ss.supabase.com/_/service_worker/6al0/sw_iframe.html",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://ss.supabase.com/4icgbaujh",
+      "status": 200,
+      "mimeType": "text/plain",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://ss.supabase.com/4icgbaujh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://ss.supabase.com/4icgbaujh/7wnp",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/106-be8827b364695383.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/1388-b8b7f45c84e01cbe.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/14-51aec3edcf2eb876.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/1513-002d52ab03b609b3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/2225-d3b219627f12ec51.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/234-ab8912399dbf2221.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/2542-3eb7456844b1aa26.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/301.eafb0135c3d97224.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3084-44e29b4359d64f1b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3260-88c1910d44a45c8b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3531-0ff4ba266b0cf2ad.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3695.de1a77f2884b7777.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3829-f98556ca269288f9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/3963-7a2f501ab18c4ad8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4299-38f6a7f96bb308ff.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4310-9446885cd3d02a7b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4318-7ca1a9f271c1721b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4321.03ec69f8498bc18c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4578.2b0e25fbcf302395.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4594-ce1c1701fdf401fb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4694-6fd53d3760fb12ba.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4751.b04bd067094df650.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/4906-3ddc0247b09692e8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/507-3b09af30c419da2f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/5289.9f283cf755895d91.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/5450-5ec86aa0cb42f0ef.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/54b60c1a.ee06d29f3611c761.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/6457-9d95ac2574e58a24.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/6829-048c8494e5cdfaa3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/701.21a39dc83bca3316.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/7124.3a2d0617c2592a62.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/7476-8c285855917d3d3a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/7509-0275000e2c41d0ae.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/7525-c511881123a45dc1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/7581-477522a57c4c83db.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/82bb98b3-eac88c237d9e7528.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/8598-f01c88ea0ddacbeb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/8763-2f2341f9f888ce6f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/8788-e41be18729bf29ab.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/8814-c1962e1275d2f077.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/953f2711-fc0999f8fe06ffbf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/9663.078986ed039721db.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/9755-872840f21f4b2697.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/9956.2bd30ceeec7dcc4d.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(home)/layout-40c3a86e1ac6a011.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(home)/page-5a26c7594e33261c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/auth/page-5e7892ee7da47eab.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/compute/page-28c40f4d4d8f1c52.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/database/page-3b847f2121e355e6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/edge-functions/page-183dc5fbc2196221.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/layout-2497c5ad159d4f27.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/realtime/page-33f3707aeb850d78.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/(products)/storage/page-aa7ad1556c15b668.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/events/page-a88ee0544f89acbd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/global-error-ca1ead3741daf341.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/layout-9065fc9f1515ff55.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/not-found-591327e2728646f9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/partners/page-64ec921d669a3045.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/app/pricing/page-d7a479cb1fea3e61.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/cbfddaed-3b83965d7e4a14e5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/e4726ba1-f0091752bf71629f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/main-app-539af29c7a2b47e9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/chunks/webpack-04180927fd7836f0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://supabase.com/_next/static/css/1e2dd839c4c40d56.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://supabase.com/_next/static/css/3d78a8b51577eb42.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://supabase.com/_next/static/css/59e17cfd9f81b3e7.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://supabase.com/_next/static/css/59e930fbc05db89a.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://supabase.com/_next/static/css/8c75fe765d459215.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://supabase.com/_next/static/media/443896d591e4f761-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://supabase.com/_next/static/media/8760c4774489e4ba-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://supabase.com/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://supabase.com/aup",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/auth",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/blog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/brand",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/careers",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/changelog",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/company",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/compute",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/contact-us",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/contact/sales",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers/chatbase",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers/exprealty",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers/lovable",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers/phoenix-energy",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/customers/rally",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/database",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/edge-functions",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/events",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/favicon/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://supabase.com/favicon/manifest.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://supabase.com/features",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/ga",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/images/blog/avatars/bryan-byrne-lovable.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/blog/avatars/kris-woods-phoenix-energy.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/blog/avatars/seth-siegler.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/blog/avatars/thiago-peres-rally.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/blog/avatars/yasser-elsaid-chatbase.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/customers/logos/chatbase-homepage-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/customers/logos/exprealty-homepage-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/customers/logos/lovable-homepage-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/customers/logos/phoenix-energy-homepage-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/customers/logos/rally-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/dashboard/supabase-table-editor.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/auth-active.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/auth-light.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/auth.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/data-apis-dark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/edge-functions-dark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/edge-functions-light.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/realtime-dark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/index/products/vector-dark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/expo.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/flutter.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/langchain.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/nextjs.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/openai.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/frameworks/stripe.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/hugging-face-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/logos/resend-wordmark.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/product/database/postgresql-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/images/supabase-logo-icon.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://supabase.com/launch-week",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/legal",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/modules/cron",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/modules/vector",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/open-source",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/open-source/contributing/supasquad",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/partners",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/partners/catalog",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/pricing",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/privacy",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/realtime",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/regions",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/rss.xml",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/security",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/agencies",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/agents",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/ai-builders",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/b2b-saas",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/beginners",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/developers",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/enterprise",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/finserv",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/hackathon",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/healthcare",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/hosted-postgres",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/innovation-teams",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/no-code",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/postgres-developers",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/startups",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/switch-from-firebase",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/switch-from-neon",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/solutions/vibe-coders",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/storage",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://supabase.com/support",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 70004,
+      "sha256": "b2fed23b19836356560d904ebaa8d79f058e3dd0e833dfa9e5228225351d14ab"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 70004,
+      "sha256": "b2fed23b19836356560d904ebaa8d79f058e3dd0e833dfa9e5228225351d14ab"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 40470,
+      "sha256": "419ac0f15e326bab06ed959b2de1f6173351a4cf01c778be1c826474a30c25b5"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 61723,
+      "sha256": "c6528019461cd8eb5a55621f73b295d7fcd16980e8eefaffbff24ecb623ae67d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 71775,
+      "sha256": "ef3f23fed995b9d4a97502337123c772b150465abc291a3d428bf413e83423d5"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 54741,
+      "sha256": "ba4ba907f4946383346f25bf482bf3f2992e9dc9a28ed569755ba310617028bf"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 311912,
+      "sha256": "cba45fe62c9141e4e3b572f1718858acb33c3e1e689d5b4e7545b519e7f12278"
+    }
+  ],
+  "initial": {
+    "url": "https://supabase.com/",
+    "title": "Supabase | The Postgres Development Platform",
+    "documentHeight": 7691,
+    "contentHeight": 7691,
+    "contentTop": 65,
+    "scrollY": 0,
+    "ready": "__variable_d157aa __variable_d9c8b0 __variable_f7dfae",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "450",
+      "color": "oklch(0.95 0.00275 157.5)",
+      "backgroundColor": "oklch(0.19 0.0025 157.5)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "products",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 451,
+          "width": 1440,
+          "height": 949
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "social-proof",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1400,
+          "width": 1440,
+          "height": 270
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "dashboard",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 1670,
+          "width": 1440,
+          "height": 862
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "frameworks",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 2533,
+          "width": 1440,
+          "height": 696
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "examples",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 3229,
+          "width": 1440,
+          "height": 898
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "customer-stories",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 4126,
+          "width": 1440,
+          "height": 812
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "community",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 4938,
+          "width": 1440,
+          "height": 909
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "open-source",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 5847,
+          "width": 1440,
+          "height": 373
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "cta",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": 6220,
+          "width": 1440,
+          "height": 375
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 176,
+          "y": 225,
+          "width": 536,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "46px",
+          "lineHeight": "46px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 227,
+          "y": 484,
+          "width": 145,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 777,
+          "y": 476,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 1052,
+          "y": 476,
+          "width": 118,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 227,
+          "y": 888,
+          "width": 61,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 502,
+          "y": 888,
+          "width": 68,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 777,
+          "y": 888,
+          "width": 50,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 1052,
+          "y": 888,
+          "width": 73,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 65,
+        "rect": {
+          "x": 176,
+          "y": 1758,
+          "width": 1088,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 176,
+          "y": 2629,
+          "width": 544,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 59,
+        "rect": {
+          "x": 176,
+          "y": 3325,
+          "width": 527,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 201,
+          "y": 3515,
+          "width": 488,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 751,
+          "y": 3515,
+          "width": 488,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 201,
+          "y": 3924,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 476,
+          "y": 3924,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 751,
+          "y": 3924,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 1026,
+          "y": 3924,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 176,
+          "y": 4222,
+          "width": 436,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 560,
+          "y": 5018,
+          "width": 319,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 176,
+          "y": 5943,
+          "width": 512,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 434,
+          "y": 6348,
+          "width": 572,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "40.8px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "footerHeading",
+        "characters": 6,
+        "rect": {
+          "x": -1,
+          "y": 6594,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://supabase.com/#main",
+      "https://supabase.com/",
+      "https://supabase.com/pricing",
+      "https://supabase.com/docs",
+      "https://supabase.com/blog",
+      "https://github.com/supabase/supabase",
+      "https://supabase.com/dashboard",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/pricing",
+      "https://supabase.com/docs",
+      "https://supabase.com/blog",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/storage",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/compute",
+      "https://supabase.com/realtime",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/modules/cron",
+      "https://supabase.com/modules/queues",
+      "https://supabase.com/features",
+      "https://supabase.com/dashboard",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/storage",
+      "https://supabase.com/realtime",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/docs/guides/api",
+      "https://supabase.com/docs/guides/getting-started/quickstarts/reactjs",
+      "https://supabase.com/docs/guides/examples",
+      "https://github.com/supabase-community/nextjs-subscription-payments",
+      "https://github.com/vercel/next.js/tree/canary/examples/with-supabase",
+      "https://github.com/supabase-community/vercel-ai-chatbot",
+      "https://github.com/langchain-ai/langchain-nextjs-template",
+      "https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management",
+      "https://github.com/supabase-community/create-t3-turbo",
+      "https://supabase.com/customers",
+      "https://supabase.com/customers/lovable",
+      "https://supabase.com/customers/lovable",
+      "https://supabase.com/customers/exprealty",
+      "https://supabase.com/customers/phoenix-energy",
+      "https://supabase.com/customers/chatbase",
+      "https://supabase.com/customers/rally",
+      "https://discord.supabase.com/",
+      "https://twitter.com/nerdburn/status/1356857261495214085",
+      "https://x.com/adeelibr/status/1981356783818985774",
+      "https://x.com/SteinlageScott/status/1958603243401183701",
+      "https://x.com/patrickc/status/1979157875600617913",
+      "https://x.com/TyronBache/status/1924425289959928039",
+      "https://x.com/BowTiedQilin/status/1497602628410388480",
+      "https://x.com/shadcn/status/1672913636132790272",
+      "https://x.com/MinimEditor/status/1954422981708722372",
+      "https://x.com/adm_lawson/status/1958216298309066887",
+      "https://x.com/Aliahsan_sfv/status/1967167095894098210",
+      "https://x.com/orlandopedro_/status/1958618806143578336",
+      "https://x.com/gokul_i/status/1958880167889133811",
+      "https://x.com/yatsiv_yuriy/status/1979182362480071162",
+      "https://x.com/sdusteric/status/1957703488470921550",
+      "https://x.com/dadooos_/status/1947924753618243663",
+      "https://github.com/supabase",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/security",
+      "https://supabase.com/",
+      "https://twitter.com/supabase",
+      "https://github.com/supabase",
+      "https://discord.supabase.com/",
+      "https://youtube.com/c/supabase",
+      "https://www.tiktok.com/@supabase.com",
+      "https://www.instagram.com/supabasecom",
+      "https://supabase.com/pricing",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/compute",
+      "https://supabase.com/realtime",
+      "https://supabase.com/storage",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/modules/cron",
+      "https://supabase.com/features",
+      "https://supabase.com/launch-week",
+      "https://supabase.com/solutions/ai-builders",
+      "https://supabase.com/solutions/no-code",
+      "https://supabase.com/solutions/beginners",
+      "https://supabase.com/solutions/developers",
+      "https://supabase.com/solutions/postgres-developers",
+      "https://supabase.com/solutions/vibe-coders",
+      "https://supabase.com/solutions/hackathon",
+      "https://supabase.com/solutions/startups",
+      "https://supabase.com/solutions/agencies",
+      "https://supabase.com/solutions/enterprise",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/solutions/hosted-postgres",
+      "https://supabase.com/solutions/b2b-saas",
+      "https://supabase.com/solutions/finserv",
+      "https://supabase.com/solutions/healthcare",
+      "https://supabase.com/solutions/agents",
+      "https://supabase.com/solutions/switch-from-firebase",
+      "https://supabase.com/solutions/switch-from-neon",
+      "https://supabase.com/blog",
+      "https://supabase.com/support",
+      "https://status.supabase.com/",
+      "https://supabase.com/partners",
+      "https://supabase.com/partners/catalog",
+      "https://supabase.com/kb",
+      "https://supabase.com/kb/topics/faqs",
+      "https://supabase.com/brand",
+      "https://supabase.com/security",
+      "https://supabase.com/regions",
+      "https://dbarena.com/",
+      "https://supabase.com/security",
+      "https://forms.supabase.com/hipaa2",
+      "https://supabase.com/docs",
+      "https://supabase.com/library",
+      "https://supabase.com/changelog",
+      "https://supabase.com/rss.xml",
+      "https://supabase.com/events",
+      "https://supabase.com/supasquad",
+      "https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md",
+      "https://supabase.com/open-source",
+      "https://dev.to/supabase",
+      "https://supabase.com/company",
+      "https://supabase.com/careers",
+      "https://supabase.com/ga",
+      "https://supabase.com/legal",
+      "https://supabase.com/privacy",
+      "https://supabase.com/aup",
+      "https://supabase.com/humans.txt",
+      "https://supabase.com/lawyers.txt",
+      "https://supabase.com/.well-known/security.txt",
+      "https://supabase.com/contact-us"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-dark.png&w=1920&q=100&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 585,
+        "height": 645
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-light.png&w=1920&q=100&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 585,
+        "height": 645
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-active.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 331,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-active-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/edge-functions-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/edge-functions-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/realtime-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 431
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/realtime-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/vector-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 390,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/vector-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/stripe.svg",
+        "poster": "",
+        "width": 77,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/nextjs.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/openai.svg",
+        "poster": "",
+        "width": 256,
+        "height": 260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/langchain.svg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/flutter.svg",
+        "poster": "",
+        "width": 121,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/expo.svg",
+        "poster": "",
+        "width": 166,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/lovable-homepage-icon.svg",
+        "poster": "",
+        "width": 1080,
+        "height": 1101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/bryan-byrne-lovable.jpeg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/exprealty-homepage-icon.svg",
+        "poster": "",
+        "width": 286,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/phoenix-energy-homepage-icon.svg",
+        "poster": "",
+        "width": 152,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/chatbase-homepage-icon.svg",
+        "poster": "",
+        "width": 136,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/rally-icon.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/lovable-homepage-icon.svg",
+        "poster": "",
+        "width": 1080,
+        "height": 1101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/bryan-byrne-lovable.jpeg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/exprealty-homepage-icon.svg",
+        "poster": "",
+        "width": 286,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/seth-siegler.jpg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/phoenix-energy-homepage-icon.svg",
+        "poster": "",
+        "width": 152,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/kris-woods-phoenix-energy.jpg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/chatbase-homepage-icon.svg",
+        "poster": "",
+        "width": 136,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/yasser-elsaid-chatbase.jpeg",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/rally-icon.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/thiago-peres-rally.jpeg",
+        "poster": "",
+        "width": 640,
+        "height": 520
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F66VSV9Mm_400x400.png&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2Fk0aPYRHF_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FnbmmwDll_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F_iAaSUQf_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F89h9ROOs_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FZmOmQeTl_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FTUYae5z7.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F5KvPPRZz_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FI5pY1PAA_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F2SQwtv8c_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FZjIOtCGg_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FEtC0mhne_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FY1swF6ef_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FFQsUZJMC_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FT42R9GFf_400x400.jpg&w=128&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 35000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 35000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 6631,
+    "actualTravel": 6791,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://supabase.com/",
+    "title": "Supabase | The Postgres Development Platform",
+    "documentHeight": 7691,
+    "contentHeight": 7691,
+    "contentTop": -6726,
+    "scrollY": 6791,
+    "ready": "__variable_d157aa __variable_d9c8b0 __variable_f7dfae",
+    "bodyStyle": {
+      "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "450",
+      "color": "oklch(0.95 0.00275 157.5)",
+      "backgroundColor": "oklch(0.19 0.0025 157.5)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "products",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -6340,
+          "width": 1440,
+          "height": 949
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "id": "social-proof",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5391,
+          "width": 1440,
+          "height": 270
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "dashboard",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -5121,
+          "width": 1440,
+          "height": 862
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "frameworks",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -4258,
+          "width": 1440,
+          "height": 696
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "examples",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -3562,
+          "width": 1440,
+          "height": 898
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "customer-stories",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -2665,
+          "width": 1440,
+          "height": 812
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "community",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -1853,
+          "width": 1440,
+          "height": 909
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "open-source",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -944,
+          "width": 1440,
+          "height": 373
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "cta",
+        "tag": "SECTION",
+        "rect": {
+          "x": 0,
+          "y": -571,
+          "width": 1440,
+          "height": 375
+        },
+        "style": {
+          "fontFamily": "Inter, \"Inter Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif, Inter, \"Helvetica Neue\", Helvetica, ui-sans-serif, system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "450",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 35,
+        "rect": {
+          "x": 176,
+          "y": -6566,
+          "width": 536,
+          "height": 92
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "46px",
+          "lineHeight": "46px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 227,
+          "y": -6307,
+          "width": 145,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 777,
+          "y": -6315,
+          "width": 116,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 14,
+        "rect": {
+          "x": 1052,
+          "y": -6315,
+          "width": 118,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 227,
+          "y": -5903,
+          "width": 61,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 502,
+          "y": -5903,
+          "width": 68,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 777,
+          "y": -5903,
+          "width": 50,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 1052,
+          "y": -5903,
+          "width": 73,
+          "height": 24
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 65,
+        "rect": {
+          "x": 176,
+          "y": -5033,
+          "width": 1088,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 176,
+          "y": -4162,
+          "width": 544,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 59,
+        "rect": {
+          "x": 176,
+          "y": -3466,
+          "width": 527,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 28,
+        "rect": {
+          "x": 201,
+          "y": -3276,
+          "width": 488,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 15,
+        "rect": {
+          "x": 751,
+          "y": -3276,
+          "width": 488,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 201,
+          "y": -2867,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 476,
+          "y": -2867,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 751,
+          "y": -2867,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 1026,
+          "y": -2867,
+          "width": 213,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "20px",
+          "fontWeight": "500",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 176,
+          "y": -2569,
+          "width": 436,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.684 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 560,
+          "y": -1773,
+          "width": 319,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 176,
+          "y": -848,
+          "width": 512,
+          "height": 38
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "37.7778px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 434,
+          "y": -443,
+          "width": 572,
+          "height": 41
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "40.8px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "footerHeading",
+        "characters": 6,
+        "rect": {
+          "x": -1,
+          "y": -197,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "Manrope, \"Manrope Fallback\", system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "fontWeight": "600",
+          "color": "oklch(0.95 0.00275 157.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://supabase.com/#main",
+      "https://supabase.com/",
+      "https://supabase.com/pricing",
+      "https://supabase.com/docs",
+      "https://supabase.com/blog",
+      "https://github.com/supabase/supabase",
+      "https://supabase.com/dashboard",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/pricing",
+      "https://supabase.com/docs",
+      "https://supabase.com/blog",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/storage",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/compute",
+      "https://supabase.com/realtime",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/modules/cron",
+      "https://supabase.com/modules/queues",
+      "https://supabase.com/features",
+      "https://supabase.com/dashboard",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/storage",
+      "https://supabase.com/realtime",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/docs/guides/api",
+      "https://supabase.com/docs/guides/getting-started/quickstarts/reactjs",
+      "https://supabase.com/docs/guides/examples",
+      "https://github.com/supabase-community/nextjs-subscription-payments",
+      "https://github.com/vercel/next.js/tree/canary/examples/with-supabase",
+      "https://github.com/supabase-community/vercel-ai-chatbot",
+      "https://github.com/langchain-ai/langchain-nextjs-template",
+      "https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management",
+      "https://github.com/supabase-community/create-t3-turbo",
+      "https://supabase.com/customers",
+      "https://supabase.com/customers/lovable",
+      "https://supabase.com/customers/lovable",
+      "https://supabase.com/customers/exprealty",
+      "https://supabase.com/customers/phoenix-energy",
+      "https://supabase.com/customers/chatbase",
+      "https://supabase.com/customers/rally",
+      "https://discord.supabase.com/",
+      "https://x.com/Rodrigo66799141/status/1959246083957100851",
+      "https://x.com/shadcn/status/1672913636132790272",
+      "https://x.com/MinimEditor/status/1954422981708722372",
+      "https://x.com/xthemadgeniusx/status/1960049950110384250",
+      "https://x.com/Aliahsan_sfv/status/1967167095894098210",
+      "https://x.com/orlandopedro_/status/1958618806143578336",
+      "https://x.com/pontusab/status/1958603243401183701",
+      "https://x.com/yatsiv_yuriy/status/1979182362480071162",
+      "https://x.com/sdusteric/status/1957703488470921550",
+      "https://twitter.com/nerdburn/status/1356857261495214085",
+      "https://x.com/adeelibr/status/1981356783818985774",
+      "https://x.com/SteinlageScott/status/1958603243401183701",
+      "https://x.com/patrickc/status/1979157875600617913",
+      "https://x.com/TyronBache/status/1924425289959928039",
+      "https://x.com/BowTiedQilin/status/1497602628410388480",
+      "https://github.com/supabase",
+      "https://supabase.com/dashboard/sign-up",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/security",
+      "https://supabase.com/",
+      "https://twitter.com/supabase",
+      "https://github.com/supabase",
+      "https://discord.supabase.com/",
+      "https://youtube.com/c/supabase",
+      "https://www.tiktok.com/@supabase.com",
+      "https://www.instagram.com/supabasecom",
+      "https://supabase.com/pricing",
+      "https://supabase.com/database",
+      "https://supabase.com/auth",
+      "https://supabase.com/edge-functions",
+      "https://supabase.com/compute",
+      "https://supabase.com/realtime",
+      "https://supabase.com/storage",
+      "https://supabase.com/modules/vector",
+      "https://supabase.com/modules/cron",
+      "https://supabase.com/features",
+      "https://supabase.com/launch-week",
+      "https://supabase.com/solutions/ai-builders",
+      "https://supabase.com/solutions/no-code",
+      "https://supabase.com/solutions/beginners",
+      "https://supabase.com/solutions/developers",
+      "https://supabase.com/solutions/postgres-developers",
+      "https://supabase.com/solutions/vibe-coders",
+      "https://supabase.com/solutions/hackathon",
+      "https://supabase.com/solutions/startups",
+      "https://supabase.com/solutions/agencies",
+      "https://supabase.com/solutions/enterprise",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/solutions/hosted-postgres",
+      "https://supabase.com/solutions/b2b-saas",
+      "https://supabase.com/solutions/finserv",
+      "https://supabase.com/solutions/healthcare",
+      "https://supabase.com/solutions/agents",
+      "https://supabase.com/solutions/switch-from-firebase",
+      "https://supabase.com/solutions/switch-from-neon",
+      "https://supabase.com/blog",
+      "https://supabase.com/support",
+      "https://status.supabase.com/",
+      "https://supabase.com/partners",
+      "https://supabase.com/partners/catalog",
+      "https://supabase.com/kb",
+      "https://supabase.com/kb/topics/faqs",
+      "https://supabase.com/brand",
+      "https://supabase.com/security",
+      "https://supabase.com/regions",
+      "https://dbarena.com/",
+      "https://supabase.com/security",
+      "https://forms.supabase.com/hipaa2",
+      "https://supabase.com/docs",
+      "https://supabase.com/library",
+      "https://supabase.com/changelog",
+      "https://supabase.com/rss.xml",
+      "https://supabase.com/events",
+      "https://supabase.com/supasquad",
+      "https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md",
+      "https://supabase.com/open-source",
+      "https://dev.to/supabase",
+      "https://supabase.com/company",
+      "https://supabase.com/careers",
+      "https://supabase.com/ga",
+      "https://supabase.com/legal",
+      "https://supabase.com/privacy",
+      "https://supabase.com/aup",
+      "https://supabase.com/humans.txt",
+      "https://supabase.com/lawyers.txt",
+      "https://supabase.com/.well-known/security.txt",
+      "https://supabase.com/contact-us"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-dark.png&w=1920&q=100&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 585,
+        "height": 645
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-light.png&w=1920&q=100&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 585,
+        "height": 645
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-active.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 331,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/auth-active-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/edge-functions-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/edge-functions-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/realtime-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 431
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/realtime-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/vector-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 390,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/vector-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-lines-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-dark.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 330,
+        "height": 430
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/index/products/data-apis-light.svg?dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://xguihxuzqibwxjnimxev.supabase.co/storage/v1/object/public/videos/marketing/website/supabase-table-editor.webm",
+        "poster": "https://supabase.com/images/index/dashboard/supabase-table-editor.png",
+        "width": 1916,
+        "height": 1080
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://xguihxuzqibwxjnimxev.supabase.co/storage/v1/object/public/videos/marketing/website/supabase-table-editor.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fdashboard%2Fsupabase-table-editor.png&w=1920&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 1920,
+        "height": 1081
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/stripe.svg",
+        "poster": "",
+        "width": 77,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/nextjs.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/openai.svg",
+        "poster": "",
+        "width": 256,
+        "height": 260
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/langchain.svg",
+        "poster": "",
+        "width": 100,
+        "height": 100
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/flutter.svg",
+        "poster": "",
+        "width": 121,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/logos/frameworks/expo.svg",
+        "poster": "",
+        "width": 166,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/lovable-homepage-icon.svg",
+        "poster": "",
+        "width": 1080,
+        "height": 1101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/bryan-byrne-lovable.jpeg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/exprealty-homepage-icon.svg",
+        "poster": "",
+        "width": 286,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/phoenix-energy-homepage-icon.svg",
+        "poster": "",
+        "width": 152,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/chatbase-homepage-icon.svg",
+        "poster": "",
+        "width": 136,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/rally-icon.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/lovable-homepage-icon.svg",
+        "poster": "",
+        "width": 1080,
+        "height": 1101
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/bryan-byrne-lovable.jpeg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/exprealty-homepage-icon.svg",
+        "poster": "",
+        "width": 286,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/seth-siegler.jpg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/phoenix-energy-homepage-icon.svg",
+        "poster": "",
+        "width": 152,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/kris-woods-phoenix-energy.jpg",
+        "poster": "",
+        "width": 800,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/chatbase-homepage-icon.svg",
+        "poster": "",
+        "width": 136,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/yasser-elsaid-chatbase.jpeg",
+        "poster": "",
+        "width": 400,
+        "height": 400
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/customers/logos/rally-icon.svg",
+        "poster": "",
+        "width": 24,
+        "height": 24
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/images/blog/avatars/thiago-peres-rally.jpeg",
+        "poster": "",
+        "width": 640,
+        "height": 520
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FukFtCkww_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FTUYae5z7.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F5KvPPRZz_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FXE8Oyngj_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F2SQwtv8c_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FZjIOtCGg_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FJwLEqyeo_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FY1swF6ef_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FFQsUZJMC_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F66VSV9Mm_400x400.png&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2Fk0aPYRHF_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FnbmmwDll_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F_iAaSUQf_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2F89h9ROOs_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://supabase.com/_next/image?url=%2Fimages%2Ftwitter-profiles%2FZmOmQeTl_400x400.jpg&w=64&q=75&dpl=dpl_9L1M8FAmy9k1NUDz2WCddZW7tUaJ",
+        "poster": "",
+        "width": 64,
+        "height": 64
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 35000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 35000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 600,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 30000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10111,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

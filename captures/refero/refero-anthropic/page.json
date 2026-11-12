@@ -1,0 +1,1754 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-anthropic",
+  "name": "Anthropic — homepage",
+  "url": "https://www.anthropic.com/",
+  "source": "https://styles.refero.design/style/d469cba4-c448-4a43-a033-883f8bfcdc42",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:49:27.997Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.anthropic.com/robots.txt",
+    "checkedAt": "2026-11-12T10:49:27.997Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 0,
+        "contentTop": 84,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 843,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 0,
+        "contentTop": 84,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2421,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 580,
+        "contentTop": -496,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4368,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 1295,
+        "contentTop": -1211,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 5692,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 1837,
+        "contentTop": -1753,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 7245,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.anthropic.com/",
+        "scrollY": 2242,
+        "contentTop": -2158,
+        "pageTransform": "none",
+        "visibleIds": [
+          "consent-banner",
+          "main-content"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89de0df04eb476beda5d5a7dbb0b36f628618135-1280x720.webp",
+      "status": 200,
+      "mimeType": "image/avif",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.anthropic.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0_a13kojiy1vf.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0_pfc4ix6fx0t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0-c74pgbjyzf4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/00gw0pda9q5in.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/097sat7y_0ur0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0h695thb5tf-w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0i__hwy6zl6e2.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0mlgxm5mjp-vi.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0s4gapj8--uv9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/0yvji1in-melh.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1_j8bw7lggwt1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/13gxn23nb18aq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/18ivudb5hecr6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1dsa6q3h2-m8w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1il1v0cz329ps.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1mlczai5z_i3f.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1nrphyg455hrm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1ppjblpyoneat.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1s-7zf9h-9ih8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/1vmm3vxr18ky2.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2_b3k118aqb2t.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/21-4fkt6rtlw0.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/21m5u_p1kqapx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/22v-ehdsv9f6c.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/29c-ianfmq4vw.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2hszzpoqcni-z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2ohy_x3ml90jz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2q41w0-xfka2l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2tsf03572xl_x.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/2x-b_noq-c31z.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3_9_k2h4oog8a.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3_osrdc49b3ly.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/32zmre2drp6i3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/37kx6qw8pz7f-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3bn98u21nxys2.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3d72pny881zaq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3e3qyyzdhbkf_.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3ea_gbe9nm9sb.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3flt3ge38-v9r.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3gtd-vcj57dua.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3ht-si02j3n1i.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3lfhvsoi4d4vt.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3lhm2m93jhyyb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3lzxfkmxeyqd-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3mzu5ge6p7-dr.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3pow79w607dvk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3t8o33da1i6rx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3ttj-kz4t7bbh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3u5o-ebj83axf.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/3zezic2vweo4q.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/41uzdv2ow-8z1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/42d_j2uu2fkig.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/43wp9agwclk70.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/chunks/turbopack-2c3mg3r-05n1w.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicMono_Italic_Web-s.p.0x1wr-4z1xgw3.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicMono_Roman_Web-s.p.16xhthj2n-pap.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicSans_Italic_Web-s.p.212cqpul8-axk.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicSans_Roman_Web-s.p.1e3n6bt4oqimz.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicSerif_Italic_Web-s.p.1fjksu1uimpf3.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/AnthropicSerif_Roman_Web-s.p.0twp0vwi-lncj.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/_next/static/media/JetBrainsMono_VF-s.p.3-7d89st7id7n.ttf",
+      "status": 200,
+      "mimeType": "font/ttf",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.anthropic.com/api/country",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.anthropic.com/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.anthropic.com/images/icons/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 102388,
+      "sha256": "11c671d3e898c8dd8d6fa78b430495192823ba1a63c17df88e882021aa9fe94c"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 86362,
+      "sha256": "5985abc676ab95cd2e3cc75dce88b55949fb18d9d48177d4c6166022cbd90fae"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 87179,
+      "sha256": "fd2471f8fce6a6ef9e68b656e5cdfed5a35a14db2c7285f317ca89cbc9e5d351"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 100612,
+      "sha256": "dd6cce9c31ed5ac9b35a7c075eb823cf9d529b30c0caacf79e9bdb43ad48e49a"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 121606,
+      "sha256": "2905a31798bf153047b4a29cad2d6f4f1ade5c4de1647f1ebec82fdf4679550d"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 59433,
+      "sha256": "e3d09a28c3ae5122a8caf18ff1aa5be6180ed0496c770f543ddad2c506d83b63"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 370169,
+      "sha256": "767fc801baf26b4766d5b03266e5e324234435e0480d2f2ffa437dc8504d26fd"
+    }
+  ],
+  "initial": {
+    "url": "https://www.anthropic.com/",
+    "title": "Home \\ Anthropic",
+    "documentHeight": 3243,
+    "contentHeight": 3243,
+    "contentTop": 84,
+    "scrollY": 0,
+    "ready": "tEBbKW_variable uImRTq_variable SNqwhG_variable j_XgJq_variable",
+    "bodyStyle": {
+      "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+      "fontSize": "16.6863px",
+      "lineHeight": "25.53px",
+      "fontWeight": "400",
+      "color": "rgb(20, 20, 19)",
+      "backgroundColor": "rgb(250, 249, 245)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "_r_0_",
+        "characters": 15,
+        "rect": {
+          "x": 1025,
+          "y": 646,
+          "width": 374,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.3725px",
+          "lineHeight": "21.2843px",
+          "fontWeight": "700",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 201,
+        "rect": {
+          "x": 80,
+          "y": 132,
+          "width": 1280,
+          "height": 153
+        },
+        "style": {
+          "fontFamily": "anthropicSerif, \"anthropicSerif Fallback\", serif",
+          "fontSize": "40.7843px",
+          "lineHeight": "50.9804px",
+          "fontWeight": "400",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 404,
+          "y": 562,
+          "width": 632,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "anthropicSerif, \"anthropicSerif Fallback\", serif",
+          "fontSize": "69.9608px",
+          "lineHeight": "69.9608px",
+          "fontWeight": "500",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 112,
+          "y": 1259,
+          "width": 352,
+          "height": 53
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 544,
+          "y": 1259,
+          "width": 352,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 976,
+          "y": 1259,
+          "width": 352,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 80,
+          "y": 1743,
+          "width": 1280,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 80,
+          "y": 2266,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 404,
+          "y": 2266,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 728,
+          "y": 2266,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 1052,
+          "y": 2266,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 512,
+          "y": 2535,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 512,
+          "y": 2587,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 512,
+          "y": 2639,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 512,
+          "y": 2691,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 512,
+          "y": 2743,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 512,
+          "y": 2795,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 512,
+          "y": 2847,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 512,
+          "y": 2899,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 512,
+          "y": 2951,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 512,
+          "y": 3083,
+          "width": 408,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 952,
+          "y": 3083,
+          "width": 408,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.anthropic.com/#main-content",
+      "https://www.anthropic.com/news",
+      "https://www.anthropic.com/",
+      "https://www.anthropic.com/search",
+      "https://www.anthropic.com/legal/cookies",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://claude.ai/",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://www.anthropic.com/claude/fable",
+      "https://www.anthropic.com/claude/mythos",
+      "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-opus-5-5",
+      "https://www.anthropic.com/claude/opus",
+      "https://www.anthropic.com/document/claude-opus-5-5-system-card",
+      "https://www.anthropic.com/claude-opus-5-5",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-sonnet-5-5",
+      "https://www.anthropic.com/claude/sonnet",
+      "https://www.anthropic.com/document/claude-sonnet-5-5-system-card",
+      "https://www.anthropic.com/claude-sonnet-5-5",
+      "https://www.anthropic.com/search?topic=institute",
+      "https://www.anthropic.com/institute",
+      "https://www.anthropic.com/research/team/alignment",
+      "https://www.anthropic.com/constitution",
+      "https://www.anthropic.com/search?topic=responsible-scaling-policy",
+      "https://www.anthropic.com/responsible-scaling-policy",
+      "https://www.anthropic.com/news/policy",
+      "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "https://www.anthropic.com/",
+      "https://claude.ai/",
+      "https://platform.claude.com/",
+      "https://www.youtube.com/@anthropic-ai",
+      "https://x.com/AnthropicAI",
+      "https://www.linkedin.com/company/anthropicresearch"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/f6f2a94fa2c9983158a721129f629ff6c9b3273b.webm",
+        "poster": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89de0df04eb476beda5d5a7dbb0b36f628618135-1280x720.webp?w=1920&auto=format",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/f6f2a94fa2c9983158a721129f629ff6c9b3273b.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/57f7b7e68494ac2dffb427a04a23dc643beab4c7.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1a9fa9ce10043f39139b19fef810307d8fe53c99-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F38139f03740c55031bb6a3cc17f3eed4436751a6-642x803.png&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5796088217c9da0352eca894fbb8331f6f207bc6-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F63773c39b7f3875c5a497e9f3549bdb5dc7c58fa-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 2183,
+    "actualTravel": 2242,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.anthropic.com/",
+    "title": "Home \\ Anthropic",
+    "documentHeight": 3243,
+    "contentHeight": 3243,
+    "contentTop": -2158,
+    "scrollY": 2242,
+    "ready": "tEBbKW_variable uImRTq_variable SNqwhG_variable j_XgJq_variable",
+    "bodyStyle": {
+      "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+      "fontSize": "16.6863px",
+      "lineHeight": "25.53px",
+      "fontWeight": "400",
+      "color": "rgb(20, 20, 19)",
+      "backgroundColor": "rgb(20, 20, 19)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "_r_0_",
+        "characters": 15,
+        "rect": {
+          "x": 1025,
+          "y": 646,
+          "width": 374,
+          "height": 21
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.3725px",
+          "lineHeight": "21.2843px",
+          "fontWeight": "700",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 201,
+        "rect": {
+          "x": 80,
+          "y": -2110,
+          "width": 1280,
+          "height": 153
+        },
+        "style": {
+          "fontFamily": "anthropicSerif, \"anthropicSerif Fallback\", serif",
+          "fontSize": "40.7843px",
+          "lineHeight": "50.9804px",
+          "fontWeight": "400",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 404,
+          "y": -1680,
+          "width": 632,
+          "height": 136
+        },
+        "style": {
+          "fontFamily": "anthropicSerif, \"anthropicSerif Fallback\", serif",
+          "fontSize": "69.9608px",
+          "lineHeight": "69.9608px",
+          "fontWeight": "500",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 112,
+          "y": -983,
+          "width": 352,
+          "height": 53
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 544,
+          "y": -983,
+          "width": 352,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 976,
+          "y": -983,
+          "width": 352,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 80,
+          "y": -499,
+          "width": 1280,
+          "height": 54
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 80,
+          "y": 24,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 21,
+        "rect": {
+          "x": 404,
+          "y": 24,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 728,
+          "y": 24,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 1052,
+          "y": 24,
+          "width": 308,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "21.3725px",
+          "lineHeight": "26.7157px",
+          "fontWeight": "700",
+          "color": "rgb(20, 20, 19)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 512,
+          "y": 293,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 512,
+          "y": 345,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 512,
+          "y": 397,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 512,
+          "y": 449,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 512,
+          "y": 501,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 512,
+          "y": 553,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 512,
+          "y": 605,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 512,
+          "y": 657,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 512,
+          "y": 709,
+          "width": 848,
+          "height": 52
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "16.6863px",
+          "lineHeight": "25.53px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 512,
+          "y": 841,
+          "width": 408,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 6,
+        "rect": {
+          "x": 952,
+          "y": 841,
+          "width": 408,
+          "height": 20
+        },
+        "style": {
+          "fontFamily": "anthropicSans, \"anthropicSans Fallback\", sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "20.02px",
+          "fontWeight": "400",
+          "color": "rgb(250, 249, 245)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.anthropic.com/#main-content",
+      "https://www.anthropic.com/news",
+      "https://www.anthropic.com/",
+      "https://www.anthropic.com/search",
+      "https://www.anthropic.com/legal/cookies",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://claude.ai/",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://www.anthropic.com/claude/fable",
+      "https://www.anthropic.com/claude/mythos",
+      "https://www.anthropic.com/claude-fable-5-2-mythos-5-2-system-card",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-opus-5-5",
+      "https://www.anthropic.com/claude/opus",
+      "https://www.anthropic.com/document/claude-opus-5-5-system-card",
+      "https://www.anthropic.com/claude-opus-5-5",
+      "https://www.anthropic.com/news/announcements",
+      "https://www.anthropic.com/claude-sonnet-5-5",
+      "https://www.anthropic.com/claude/sonnet",
+      "https://www.anthropic.com/document/claude-sonnet-5-5-system-card",
+      "https://www.anthropic.com/claude-sonnet-5-5",
+      "https://www.anthropic.com/search?topic=institute",
+      "https://www.anthropic.com/institute",
+      "https://www.anthropic.com/research/team/alignment",
+      "https://www.anthropic.com/constitution",
+      "https://www.anthropic.com/search?topic=responsible-scaling-policy",
+      "https://www.anthropic.com/responsible-scaling-policy",
+      "https://www.anthropic.com/news/policy",
+      "https://www.anthropic.com/news/core-views-on-ai-safety",
+      "https://www.anthropic.com/news",
+      "https://www.anthropic.com/",
+      "https://www.anthropic.com/search",
+      "https://www.anthropic.com/",
+      "https://claude.ai/",
+      "https://platform.claude.com/",
+      "https://www.youtube.com/@anthropic-ai",
+      "https://x.com/AnthropicAI",
+      "https://www.linkedin.com/company/anthropicresearch"
+    ],
+    "media": [
+      {
+        "tag": "VIDEO",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/f6f2a94fa2c9983158a721129f629ff6c9b3273b.webm",
+        "poster": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89de0df04eb476beda5d5a7dbb0b36f628618135-1280x720.webp?w=1920&auto=format",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/f6f2a94fa2c9983158a721129f629ff6c9b3273b.webm",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "SOURCE",
+        "url": "https://cdn.sanity.io/files/4zrzovbb/website/57f7b7e68494ac2dffb427a04a23dc643beab4c7.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1a9fa9ce10043f39139b19fef810307d8fe53c99-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F38139f03740c55031bb6a3cc17f3eed4436751a6-642x803.png&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5796088217c9da0352eca894fbb8331f6f207bc6-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F63773c39b7f3875c5a497e9f3549bdb5dc7c58fa-1712x2139.jpg&w=640&q=75",
+        "poster": "",
+        "width": 640,
+        "height": 800
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 7245,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

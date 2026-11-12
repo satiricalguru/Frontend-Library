@@ -16,11 +16,12 @@ def write(relative, content):
 
 def build():
     items = []
-    for path in sorted((ROOT / "captures/lusion").glob("*/page.json")):
+    for path in sorted((ROOT / "captures").glob("*/*/page.json")):
         record = json.loads(path.read_text())
         base = path.parent.relative_to(ROOT).as_posix()
         initial = record.get("initial", {})
-        tags = ["lusion", record["kind"], record.get("scroll", {}).get("mode", "unknown") + "-scroll"]
+        group = record.get("group") or path.parent.parent.name
+        tags = [group, record["kind"], record.get("scroll", {}).get("mode", "unknown") + "-scroll"]
         if initial.get("canvases"):
             tags.append("canvas")
         if record.get("video"):
@@ -30,7 +31,7 @@ def build():
                 "kind": record["kind"], "status": record["status"], "capturedAt": record["capturedAt"],
                 "viewport": record["viewport"], "tags": tags, "record": f"{base}/page.json", "guide": guide,
                 "checkpointCount": len(record.get("checkpoints", [])), "resourceCount": len(record.get("resources", [])),
-                "scrollCoverage": record.get("scroll", {}).get("coverage")}
+                "scrollCoverage": record.get("scroll", {}).get("coverage"), "group": group}
         if record.get("preview"):
             item["preview"] = f"{base}/{record['preview']}"
         if record.get("video"):
@@ -56,13 +57,13 @@ def build():
         write(guide, out)
     featured = {"lusion-home":0, "lusion-home-mobile":1, "live-ion":2, "lusion-about":3, "lusion-projects":4}
     items.sort(key=lambda item: (0 if item['status']=='captured' else 1, featured.get(item['id'],5), item['name'].lower()))
-    catalog = {"version": 1, "source": "https://lusion.co/", "count": len(items), "items": items}
+    catalog = {"version": 1, "source": "https://lusion.co/ and brand homepages discovered via https://styles.refero.design/", "count": len(items), "items": items}
     write("data/landing-pages.json", json.dumps(catalog, indent=2, ensure_ascii=False))
     good = [item for item in items if item["status"] == "captured"]
     videos = sum(bool(item.get("video")) for item in items)
     checkpoints = sum(item["checkpointCount"] for item in items)
     resources = sum(item["resourceCount"] for item in items)
-    unique_resources = {resource["url"] for path in (ROOT / "captures/lusion").glob("*/page.json")
+    unique_resources = {resource["url"] for path in (ROOT / "captures").glob("*/*/page.json")
                         for resource in json.loads(path.read_text()).get("resources", [])}
     summary = {"packages": len(items), "captured": len(good), "uniqueRoutes": len({item['url'] for item in items}),
                "videos": videos, "checkpoints": checkpoints, "observedResourceResponses": resources,
@@ -92,7 +93,8 @@ def build():
     for name, filename in [("styles", "refero-styles.json"), ("lusion", "lusion.json"), ("motion", "motion-examples.json"),
                            ("transitions", "transitions.json"), ("godly", "godly.json"), ("fonts", "envato-award-fonts.json"),
                            ("captures", "landing-pages.json"), ("codrops", "codrops-webgl.json"),
-                           ("design-md", "design-md.json"), ("media-resources", "video-resources.json")]:
+                           ("design-md", "design-md.json"), ("media-resources", "video-resources.json"),
+                           ("google-fonts", "google-fonts.json"), ("threejs", "threejs-examples.json"), ("icons", "open-icons.json")]:
         if not (ROOT / "data" / filename).exists():
             continue
         data = json.loads((ROOT / "data" / filename).read_text())

@@ -1,0 +1,3331 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-apple",
+  "name": "Apple — homepage",
+  "url": "https://www.apple.com/",
+  "source": "https://styles.refero.design/style/aecac5da-f397-4ddf-b71f-de1efc434cb8",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:53:11.136Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://www.apple.com/robots.txt",
+    "checkedAt": "2026-11-12T10:53:11.135Z",
+    "rules": [
+      {
+        "allow": false,
+        "path": "/*shop/browse/overlay/*"
+      },
+      {
+        "allow": false,
+        "path": "/*shop/iphone/payments/overlay/*"
+      },
+      {
+        "allow": false,
+        "path": "/cn/*/aow/*"
+      },
+      {
+        "allow": false,
+        "path": "/tmall*"
+      },
+      {
+        "allow": true,
+        "path": "/ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/*"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "holiday-2026",
+          "iphone-duo"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 923,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "holiday-2026",
+          "iphone-duo"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2350,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 1304,
+        "contentTop": -1304,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "iphone-duo"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 4528,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 2907,
+        "contentTop": -2907,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "apple-upgrade"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 6241,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 4121,
+        "contentTop": -4121,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "tv-media-gallery",
+          "endless-entertainment-gallery-item-1",
+          "media-gallery-item-1-link",
+          "endless-entertainment-gallery-item-2",
+          "media-gallery-item-2-link",
+          "endless-entertainment-gallery-item-3",
+          "media-gallery-item-3-link",
+          "endless-entertainment-gallery-item-4",
+          "media-gallery-item-4-link",
+          "endless-entertainment-gallery-item-5",
+          "media-gallery-item-5-link",
+          "endless-entertainment-gallery-item-6",
+          "media-gallery-item-6-link",
+          "endless-entertainment-gallery-item-7",
+          "media-gallery-item-7-link",
+          "endless-entertainment-gallery-item-8",
+          "media-gallery-item-8-link",
+          "endless-entertainment-gallery-item-9",
+          "media-gallery-item-9-link",
+          "fam-media-gallery",
+          "endless-entertainment-gallery-item-1",
+          "media-gallery-item-1",
+          "endless-entertainment-gallery-item-2",
+          "media-gallery-item-2",
+          "endless-entertainment-gallery-item-3",
+          "media-gallery-item-3",
+          "endless-entertainment-gallery-item-4",
+          "media-gallery-item-4",
+          "endless-entertainment-gallery-item-5",
+          "media-gallery-item-5",
+          "endless-entertainment-gallery-item-6",
+          "media-gallery-item-6",
+          "endless-entertainment-gallery-item-7",
+          "media-gallery-item-7",
+          "endless-entertainment-gallery-item-8",
+          "media-gallery-item-8",
+          "endless-entertainment-gallery-item-9",
+          "media-gallery-item-9",
+          "ac-globalfooter",
+          "footnote-2"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 8153,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://www.apple.com/",
+        "scrollY": 5027,
+        "contentTop": -5027,
+        "pageTransform": "none",
+        "visibleIds": [
+          "globalnav-curtain",
+          "ac-globalfooter",
+          "footnote-2",
+          "footer-directory-column-section-products",
+          "footer-directory-column-section-entertainment",
+          "footer-directory-column-section-storeservices",
+          "footer-directory-column-section-government",
+          "footer-directory-column-section-responsibility",
+          "footer-directory-column-section-about"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s5154826670629",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s51976157313424",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s52304466379283",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s52923420743307",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s53950522939864",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s58173667180352",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s58803087172623",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s59235348631430",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://securemetrics.apple.com/b/ss/applestoreww/1/JS-2.23.0/s59658311699948",
+      "status": 200,
+      "mimeType": "image/gif",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://www.apple.com/105/media/us/homepage/2026/5c860636-9312-49bb-9597-d145f535822c/anim/hero-green/largetall.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://www.apple.com/105/media/us/homepage/2026/abb2ec52-6e62-4771-84e4-d1e689324d6d/anim/promo/large.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://www.apple.com/105/media/us/homepage/2026/dfe63e15-1d50-4ed5-bffc-c121fa0b8626/anim/hero/largetall.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://www.apple.com/ac/globalfooter/8/en_US/scripts/ac-globalfooter.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/ac/globalfooter/8/en_US/styles/ac-globalfooter.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/ac/localeswitcher/4/en_IN/content/localeswitcher.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://www.apple.com/ac/localeswitcher/4/en_IN/styles/localeswitcher.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/ac/localeswitcher/4/en_US/scripts/localeswitcher.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/ac/localnav/9/styles/ac-localnav.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/api-www/global-elements/global-header/v1/assets/globalheader.umd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/api-www/global-elements/global-header/v1/flyouts",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.apple.com/autopush/us/fam-gallery/scripts/endless-entertainment-gallery.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/autopush/us/fam-gallery/styles/home-gallery.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/favicon.ico",
+      "status": 200,
+      "mimeType": "image/x-icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://www.apple.com/homepage/styles/index_3djd5z2w.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/metrics/ac-analytics/2.30.0/scripts/ac-analytics.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/metrics/ac-analytics/2.30.0/scripts/auto-init.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/metrics/data-relay/1.2.0/scripts/auto-relay.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/metrics/data-relay/1.2.0/scripts/data-relay.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/search-services/suggestions/defaultlinks/",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://www.apple.com/us/shop/bag/status",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/_commonjsHelpers-JypJ4tLA.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/AnimSystemModel-CyyfEbM8.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/ComponentMap-thvKzGgL.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/head.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/holiday2026.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/homepage.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/HpViewport-DHyTaS-L.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/index-DSp7vY0t.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/inline-media.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/inlineMediaSource-CPCc_KTS.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/iphone-duo.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/macbook-proled.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/main.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/scripts/videoWatch-Dp-HXwn9.built.js",
+      "status": 200,
+      "mimeType": "application/x-javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/styles/homepage.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/styles/inline-media.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/a/styles/main.built.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/airpods-pro-3/a/promo_airpods_pro_3__e4755qofhnyq_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/apple-watch-series-12/a/promo_apple_watch_series_12__gnlprtt8526a_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green__cxyzwl8xlggi_largetall.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green_startframe__b8v6z8n8eouu_largetall.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/ipad/a/promo_ipad__d9p5bux2okuq_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/promo_iphone_18_pro__9nn5m4mt2bmy_large.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated__ggqp9olf1ii6_largetall.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated_startframe__blm9gj3ulmc2_largetall.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/logos/apple-card/a/promo_logo_apple_card__28vxrcexz0ia_large.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/logos/apple-upgrade/a/promo_logo_apple_upgrade__lwuohffdzjem_large.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/logos/apple-watch-series-12/a/promo_logo_apple_watch_series_12__eck6698frlqq_large.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/v/homepage/images/macbook-pro-proled-xdr/a/hero_macbook_pro_proled_xdr__dqehhz1bv7ue_largetall.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_bold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 111540,
+      "sha256": "775eb3c64194dffd918b3b81c2e1b7c560243abcfcf74a9b8c035ba248eaffa4"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 111333,
+      "sha256": "b3dcf8ee4cf3cca695aa03469b0762b22058a1d5728ab591ba59aac44b8991bd"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 98915,
+      "sha256": "4102cd09a75c97d2d869f0a6ee41e6b0505a12304f6abf3f193e17e72218b330"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 59130,
+      "sha256": "ba9c7425d04a4fb4635c497b21aba4aa2fa74b31745949ff7add10eb86248176"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 148508,
+      "sha256": "310ab9002993af26aad5d7ccb7e2449ad7c6ee3ebaaa0ac5fd792620ad717469"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 103662,
+      "sha256": "41c1ff19808a72ea077c3505f0641ead427716e964216bac444682c2598ea525"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 484021,
+      "sha256": "89ab94663241a9a9a3582ec34e8b56ece497b5a907c624723bfd356713b15a4d"
+    }
+  ],
+  "initial": {
+    "url": "https://www.apple.com/",
+    "title": "Apple",
+    "documentHeight": 5955,
+    "contentHeight": 5955,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "js no-touch progressive-image enhanced no-reduced-motion desktop no-retina no-tablet no-windows no-android no-safari chrome no-firefox no-edge no-iphone no-ipad ac-ls-visible ac-ls-fixed",
+    "bodyStyle": {
+      "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "17px",
+      "lineHeight": "25px",
+      "fontWeight": "400",
+      "color": "rgb(29, 29, 31)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "50px",
+          "fontWeight": "600",
+          "color": "rgb(29, 29, 31)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "c64e0a00",
+        "characters": 4,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 176,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "94ae8959",
+        "characters": 11,
+        "rect": {
+          "x": 494,
+          "y": 150,
+          "width": 87,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "68805228",
+        "characters": 19,
+        "rect": {
+          "x": 626,
+          "y": 150,
+          "width": 124,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "3ded287d",
+        "characters": 11,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "92e74133",
+        "characters": 8,
+        "rect": {
+          "x": 483,
+          "y": 150,
+          "width": 97,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "130086e6",
+        "characters": 13,
+        "rect": {
+          "x": 624,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "3aedc891",
+        "characters": 12,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "c9c888a8",
+        "characters": 9,
+        "rect": {
+          "x": 483,
+          "y": 150,
+          "width": 98,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "e6b8ded1",
+        "characters": 14,
+        "rect": {
+          "x": 625,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "d836f05a",
+        "characters": 14,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 193,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "24447cd5",
+        "characters": 11,
+        "rect": {
+          "x": 511,
+          "y": 150,
+          "width": 127,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "7c222964",
+        "characters": 16,
+        "rect": {
+          "x": 682,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "666abc94",
+        "characters": 13,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 256,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "748fc8f7",
+        "characters": 10,
+        "rect": {
+          "x": 574,
+          "y": 150,
+          "width": 146,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "6009256e",
+        "characters": 15,
+        "rect": {
+          "x": 764,
+          "y": 150,
+          "width": 153,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "43b5f4f2",
+        "characters": 14,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 262,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "059fecc4",
+        "characters": 11,
+        "rect": {
+          "x": 580,
+          "y": 150,
+          "width": 168,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "33a79017",
+        "characters": 16,
+        "rect": {
+          "x": 792,
+          "y": 150,
+          "width": 177,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "9f37924e",
+        "characters": 15,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 203,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "7f421884",
+        "characters": 12,
+        "rect": {
+          "x": 521,
+          "y": 150,
+          "width": 118,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "e8053cac",
+        "characters": 17,
+        "rect": {
+          "x": 684,
+          "y": 150,
+          "width": 104,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "71353253",
+        "characters": 12,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 185,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "1f727bb0",
+        "characters": 9,
+        "rect": {
+          "x": 503,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.apple.com/in/",
+      "https://www.apple.com/",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/buy_mac",
+      "https://www.apple.com/us/shop/goto/buy_ipad",
+      "https://www.apple.com/us/shop/goto/buy_iphone",
+      "https://www.apple.com/us/shop/goto/buy_watch",
+      "https://www.apple.com/us/shop/goto/buy_vision",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://www.apple.com/us/shop/goto/buy_home",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/us/shop/goto/order/list",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://www.apple.com/us/shop/goto/special_deals",
+      "https://www.apple.com/us/shop/goto/educationrouting",
+      "https://www.apple.com/retail/business/",
+      "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "https://www.apple.com/r/store/government/",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/macbook-neo/",
+      "https://www.apple.com/macbook-air/",
+      "https://www.apple.com/macbook-pro/",
+      "https://www.apple.com/imac/",
+      "https://www.apple.com/mac-mini/",
+      "https://www.apple.com/mac-studio/",
+      "https://www.apple.com/displays/",
+      "https://www.apple.com/mac/compare/",
+      "https://www.apple.com/mac/mac-does-that/",
+      "https://www.apple.com/us/shop/goto/buy_mac",
+      "https://www.apple.com/mac/best-mac/",
+      "https://www.apple.com/us/shop/goto/mac/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#mac",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=mac",
+      "https://www.apple.com/os/macos/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-creator-studio/",
+      "https://www.apple.com/macos/continuity/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/business/mac/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/ipad-pro/",
+      "https://www.apple.com/ipad-air/",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/ipad-mini/",
+      "https://www.apple.com/apple-pencil/",
+      "https://www.apple.com/ipad-keyboards/",
+      "https://www.apple.com/ipad/compare/",
+      "https://www.apple.com/us/shop/goto/buy_ipad",
+      "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#ipad",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=ipad",
+      "https://www.apple.com/os/ipados/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-creator-studio/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/iphone-air/",
+      "https://www.apple.com/iphone-17/",
+      "https://www.apple.com/iphone-17e/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_16",
+      "https://www.apple.com/iphone/compare/",
+      "https://www.apple.com/iphone/switch/",
+      "https://www.apple.com/us/shop/goto/buy_iphone",
+      "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#iphone",
+      "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=iphone",
+      "https://www.apple.com/os/ios/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/privacy/",
+      "https://www.apple.com/macos/continuity/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/wallet/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/apple-watch-ultra-4/",
+      "https://www.apple.com/apple-watch-se-3/",
+      "https://www.apple.com/apple-watch-nike/",
+      "https://www.apple.com/apple-watch-hermes/",
+      "https://www.apple.com/watch/compare/",
+      "https://www.apple.com/watch/why-apple-watch/",
+      "https://www.apple.com/us/shop/goto/buy_watch",
+      "https://www.apple.com/us/shop/goto/watch/bands",
+      "https://www.apple.com/us/shop/goto/watch/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#watch",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=watch",
+      "https://www.apple.com/os/watchos/",
+      "https://www.apple.com/apple-watch-for-your-kids/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/apple-vision-pro/specs/",
+      "https://www.apple.com/us/shop/goto/buy_vision",
+      "https://www.apple.com/us/shop/goto/vision/accessories",
+      "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=apple-vision-pro",
+      "https://www.apple.com/os/visionos/",
+      "https://www.apple.com/business/enterprise/apple-vision-pro/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/airpods-5/",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/airpods-max/",
+      "https://www.apple.com/airpods/compare/",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_5",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_pro_3",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_max_2",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=headphones",
+      "https://www.apple.com/airpods-pro/hearing-health/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/apple-homeview/",
+      "https://www.apple.com/apple-tv-4k/",
+      "https://www.apple.com/homepod-2nd-generation/",
+      "https://www.apple.com/homepod-mini/",
+      "https://www.apple.com/us/shop/goto/buy_home",
+      "https://www.apple.com/us/shop/goto/home_accessories/home_collection",
+      "https://www.apple.com/us/shop/goto/home_accessories",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly",
+      "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=tv",
+      "https://www.apple.com/applecare/?filter=homepod",
+      "https://www.apple.com/apple-tv-app/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/home-app/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/airplay/",
+      "https://www.apple.com/entertainment/",
+      "https://www.apple.com/services/",
+      "https://www.apple.com/apple-one/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-arcade/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/apple-news/",
+      "https://www.apple.com/apple-podcasts/",
+      "https://www.apple.com/apple-books/",
+      "https://www.apple.com/app-store/",
+      "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly",
+      "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/us/shop/goto/accessories/all",
+      "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "https://www.apple.com/us/shop/goto/mac/accessories",
+      "https://www.apple.com/us/shop/goto/watch/accessories",
+      "https://www.apple.com/us/shop/goto/vision/accessories",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://www.apple.com/us/shop/goto/home_accessories",
+      "https://www.apple.com/us/shop/goto/airtag/accessories",
+      "https://www.apple.com/us/shop/goto/beats/accessories",
+      "https://www.apple.com/us/shop/goto/accessories/all/headphones_speakers",
+      "https://www.apple.com/us/shop/goto/accessories/all/chargers_adapters",
+      "https://www.apple.com/us/shop/goto/accessories/all/homekit",
+      "https://www.apple.com/us/shop/goto/accessories/all/cases_protection",
+      "https://www.apple.com/us/shop/goto/accessories/all/content_creation",
+      "https://www.apple.com/us/shop/goto/accessories/all/gaming",
+      "https://www.apple.com/us/shop/goto/accessories/all/drives_storage",
+      "https://www.apple.com/us/shop/goto/accessories/all/mice_keyboards",
+      "https://www.apple.com/us/shop/goto/accessories/all/health_fitness",
+      "https://www.apple.com/us/shop/goto/accessories/all/office",
+      "https://www.apple.com/us/shop/goto/accessories/all/software",
+      "https://www.apple.com/us/shop/goto/accessories/all/new_arrivals",
+      "https://www.apple.com/us/shop/goto/accessories/all/made_by_apple",
+      "https://www.apple.com/us/shop/goto/accessories/all/accessibility",
+      "https://www.apple.com/accessibility/assistive-technologies/",
+      "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+      "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore",
+      "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore",
+      "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore",
+      "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore",
+      "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore",
+      "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore",
+      "https://support.apple.com/music?cid=gn-ols-music-psp-explore",
+      "https://support.apple.com/tv?cid=gn-ols-tv-psp-explore",
+      "https://support.apple.com/?cid=gn-ols-home-hp-explore",
+      "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help",
+      "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help",
+      "https://www.apple.com/retail/geniusbar/",
+      "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help",
+      "https://www.apple.com/applecare/",
+      "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics",
+      "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics",
+      "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics",
+      "https://www.apple.com/us/search",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/us/shop/goto/giftcards",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/bag",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_duo",
+      "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_proled_xdr",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_18_pro",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_12",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/us/shop/goto/buy_ipad/ipad",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_pro_3",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/apple-card/",
+      "https://www.apple.com/apple-card/",
+      "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
+      "https://www.apple.com/#endless-entertainment-gallery-item-1",
+      "https://www.apple.com/#endless-entertainment-gallery-item-2",
+      "https://www.apple.com/#endless-entertainment-gallery-item-3",
+      "https://www.apple.com/#endless-entertainment-gallery-item-4",
+      "https://www.apple.com/#endless-entertainment-gallery-item-5",
+      "https://www.apple.com/#endless-entertainment-gallery-item-6",
+      "https://www.apple.com/#endless-entertainment-gallery-item-7",
+      "https://www.apple.com/#endless-entertainment-gallery-item-8",
+      "https://www.apple.com/#endless-entertainment-gallery-item-9",
+      "https://tv.apple.com/us/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/nocturne/umc.cmc.4cfsq1juke72zutv5xp0pw3rj?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/room/formula-1/uts.room.formula-1?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/awkwafina-the-unlikely-cook/umc.cmc.1fhnal2vix2077ouh1hjy2eoc?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/channel/mls/tvs.sbd.7000?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/movie/tenzing/umc.cmc.6lic0hhuxkrbem0n29vzjopii?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/widows-bay/umc.cmc.1zzly0vah46bnvnwf0qkrjhh2?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://apps.apple.com/us/app/hello-kitty-island-adventure/id1553505132?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/station/miley-the-zane-lowe-interview/ra.6810826773?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/studio-collection/join-the-team-with-ted-lasso/1673607671?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://apps.apple.com/us/app/powerwash-simulator/id6477445344?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/playlist/new-music-daily/pl.2b0e6e332fdf4b7a91164da3162127b5?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/workout/meditation-with-christian/6808747339?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://apps.apple.com/us/app/madden-nfl-27-arcade-edition/id6755553408?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/playlist/todays-hits/pl.f4d106fed2bd41149aaacabb233eb5eb?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/studio-collection/programs/1896349052?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://www.apple.com/HRAccuracy/",
+      "https://support.apple.com/kb/HT209218",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/airtag/",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/us/shop/goto/giftcards",
+      "https://www.apple.com/wallet/",
+      "https://www.apple.com/apple-card/",
+      "https://www.apple.com/apple-pay/",
+      "https://www.apple.com/apple-cash/",
+      "https://account.apple.com/",
+      "https://www.apple.com/us/shop/goto/account",
+      "https://www.icloud.com/",
+      "https://www.apple.com/apple-one/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-arcade/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/apple-news/",
+      "https://www.apple.com/apple-podcasts/",
+      "https://www.apple.com/apple-books/",
+      "https://www.apple.com/app-store/",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/retail/geniusbar/",
+      "https://www.apple.com/today/",
+      "https://www.apple.com/today/groups/",
+      "https://www.apple.com/today/camp/",
+      "https://apps.apple.com/us/app/apple-store/id375380948",
+      "https://www.apple.com/us/shop/goto/special_deals",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+      "https://www.apple.com/us/shop/goto/order/list",
+      "https://www.apple.com/us/shop/goto/help",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/retail/business/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/education/k12/how-to-buy/",
+      "https://www.apple.com/us/shop/goto/educationrouting",
+      "https://www.apple.com/healthcare/",
+      "https://www.apple.com/government/",
+      "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "https://www.apple.com/us_epp_67909/store",
+      "https://www.apple.com/us_epp_55499/store",
+      "https://www.apple.com/accessibility/",
+      "https://www.apple.com/education-initiative/",
+      "https://www.apple.com/environment/",
+      "https://www.apple.com/diversity/",
+      "https://www.apple.com/privacy/",
+      "https://www.apple.com/racial-equity-justice-initiative/",
+      "https://www.apple.com/supply-chain/",
+      "https://www.apple.com/newsroom/",
+      "https://www.apple.com/leadership/",
+      "https://www.apple.com/careers/us/",
+      "https://investor.apple.com/",
+      "https://www.apple.com/compliance/",
+      "https://www.apple.com/apple-events/",
+      "https://www.apple.com/contact/",
+      "https://www.apple.com/retail/",
+      "https://locate.apple.com/",
+      "https://www.apple.com/choose-country-region/",
+      "https://www.apple.com/legal/privacy/",
+      "https://www.apple.com/legal/internet-services/terms/site.html",
+      "https://www.apple.com/us/shop/goto/help/sales_refunds",
+      "https://www.apple.com/legal/",
+      "https://www.apple.com/sitemap/",
+      "https://www.apple.com/choose-country-region/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green_startframe__b8v6z8n8eouu_largetall.jpg",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/5c860636-9312-49bb-9597-d145f535822c/anim/hero-green/largetall.mp4",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green__cxyzwl8xlggi_largetall.jpg",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated_startframe__blm9gj3ulmc2_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/dfe63e15-1d50-4ed5-bffc-c121fa0b8626/anim/hero/largetall.mp4",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated__ggqp9olf1ii6_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/macbook-pro-proled-xdr/a/hero_macbook_pro_proled_xdr__dqehhz1bv7ue_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/abb2ec52-6e62-4771-84e4-d1e689324d6d/anim/promo/large.mp4",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "data:image/gif;base64,R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 3000,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 4895,
+    "actualTravel": 5027,
+    "coverage": 1
+  },
+  "final": {
+    "url": "https://www.apple.com/",
+    "title": "Apple",
+    "documentHeight": 5955,
+    "contentHeight": 5955,
+    "contentTop": -5027,
+    "scrollY": 5027,
+    "ready": "js no-touch progressive-image enhanced no-reduced-motion desktop no-retina no-tablet no-windows no-android no-safari chrome no-firefox no-edge no-iphone no-ipad ac-ls-visible ac-ls-fixed",
+    "bodyStyle": {
+      "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "fontSize": "17px",
+      "lineHeight": "25px",
+      "fontWeight": "400",
+      "color": "rgb(29, 29, 31)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": -5027,
+          "width": 1,
+          "height": 1
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "34px",
+          "lineHeight": "50px",
+          "fontWeight": "600",
+          "color": "rgb(29, 29, 31)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "c64e0a00",
+        "characters": 4,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 176,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "94ae8959",
+        "characters": 11,
+        "rect": {
+          "x": 494,
+          "y": 150,
+          "width": 87,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "68805228",
+        "characters": 19,
+        "rect": {
+          "x": 626,
+          "y": 150,
+          "width": 124,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "3ded287d",
+        "characters": 11,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "92e74133",
+        "characters": 8,
+        "rect": {
+          "x": 483,
+          "y": 150,
+          "width": 97,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "130086e6",
+        "characters": 13,
+        "rect": {
+          "x": 624,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "3aedc891",
+        "characters": 12,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "c9c888a8",
+        "characters": 9,
+        "rect": {
+          "x": 483,
+          "y": 150,
+          "width": 98,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "e6b8ded1",
+        "characters": 14,
+        "rect": {
+          "x": 625,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "d836f05a",
+        "characters": 14,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 193,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "24447cd5",
+        "characters": 11,
+        "rect": {
+          "x": 511,
+          "y": 150,
+          "width": 127,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "7c222964",
+        "characters": 16,
+        "rect": {
+          "x": 682,
+          "y": 150,
+          "width": 151,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "666abc94",
+        "characters": 13,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 256,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "748fc8f7",
+        "characters": 10,
+        "rect": {
+          "x": 574,
+          "y": 150,
+          "width": 146,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "6009256e",
+        "characters": 15,
+        "rect": {
+          "x": 764,
+          "y": 150,
+          "width": 153,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "43b5f4f2",
+        "characters": 14,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 262,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "059fecc4",
+        "characters": 11,
+        "rect": {
+          "x": 580,
+          "y": 150,
+          "width": 168,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "33a79017",
+        "characters": 16,
+        "rect": {
+          "x": 792,
+          "y": 150,
+          "width": 177,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "9f37924e",
+        "characters": 15,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 203,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "7f421884",
+        "characters": 12,
+        "rect": {
+          "x": 521,
+          "y": 150,
+          "width": 118,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "e8053cac",
+        "characters": 17,
+        "rect": {
+          "x": 684,
+          "y": 150,
+          "width": 104,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "71353253",
+        "characters": 12,
+        "rect": {
+          "x": 230,
+          "y": 150,
+          "width": 185,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "1f727bb0",
+        "characters": 9,
+        "rect": {
+          "x": 503,
+          "y": 150,
+          "width": 165,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "\"SF Pro Text\", \"SF Pro Icons\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+          "fontSize": "12px",
+          "lineHeight": "16.0005px",
+          "fontWeight": "400",
+          "color": "rgb(134, 134, 139)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -4)",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [],
+    "links": [
+      "https://www.apple.com/in/",
+      "https://www.apple.com/",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/buy_mac",
+      "https://www.apple.com/us/shop/goto/buy_ipad",
+      "https://www.apple.com/us/shop/goto/buy_iphone",
+      "https://www.apple.com/us/shop/goto/buy_watch",
+      "https://www.apple.com/us/shop/goto/buy_vision",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://www.apple.com/us/shop/goto/buy_home",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/us/shop/goto/order/list",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://www.apple.com/us/shop/goto/special_deals",
+      "https://www.apple.com/us/shop/goto/educationrouting",
+      "https://www.apple.com/retail/business/",
+      "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "https://www.apple.com/r/store/government/",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/macbook-neo/",
+      "https://www.apple.com/macbook-air/",
+      "https://www.apple.com/macbook-pro/",
+      "https://www.apple.com/imac/",
+      "https://www.apple.com/mac-mini/",
+      "https://www.apple.com/mac-studio/",
+      "https://www.apple.com/displays/",
+      "https://www.apple.com/mac/compare/",
+      "https://www.apple.com/mac/mac-does-that/",
+      "https://www.apple.com/us/shop/goto/buy_mac",
+      "https://www.apple.com/mac/best-mac/",
+      "https://www.apple.com/us/shop/goto/mac/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#mac",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=mac",
+      "https://www.apple.com/os/macos/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-creator-studio/",
+      "https://www.apple.com/macos/continuity/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/business/mac/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/ipad-pro/",
+      "https://www.apple.com/ipad-air/",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/ipad-mini/",
+      "https://www.apple.com/apple-pencil/",
+      "https://www.apple.com/ipad-keyboards/",
+      "https://www.apple.com/ipad/compare/",
+      "https://www.apple.com/us/shop/goto/buy_ipad",
+      "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#ipad",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=ipad",
+      "https://www.apple.com/os/ipados/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-creator-studio/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/iphone-air/",
+      "https://www.apple.com/iphone-17/",
+      "https://www.apple.com/iphone-17e/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_16",
+      "https://www.apple.com/iphone/compare/",
+      "https://www.apple.com/iphone/switch/",
+      "https://www.apple.com/us/shop/goto/buy_iphone",
+      "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#iphone",
+      "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=iphone",
+      "https://www.apple.com/os/ios/",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/privacy/",
+      "https://www.apple.com/macos/continuity/",
+      "https://www.apple.com/icloud/",
+      "https://www.apple.com/wallet/",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/apple-watch-ultra-4/",
+      "https://www.apple.com/apple-watch-se-3/",
+      "https://www.apple.com/apple-watch-nike/",
+      "https://www.apple.com/apple-watch-hermes/",
+      "https://www.apple.com/watch/compare/",
+      "https://www.apple.com/watch/why-apple-watch/",
+      "https://www.apple.com/us/shop/goto/buy_watch",
+      "https://www.apple.com/us/shop/goto/watch/bands",
+      "https://www.apple.com/us/shop/goto/watch/accessories",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in#watch",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=watch",
+      "https://www.apple.com/os/watchos/",
+      "https://www.apple.com/apple-watch-for-your-kids/",
+      "https://www.apple.com/apps/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/apple-vision-pro/specs/",
+      "https://www.apple.com/us/shop/goto/buy_vision",
+      "https://www.apple.com/us/shop/goto/vision/accessories",
+      "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=apple-vision-pro",
+      "https://www.apple.com/os/visionos/",
+      "https://www.apple.com/business/enterprise/apple-vision-pro/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/airpods-5/",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/airpods-max/",
+      "https://www.apple.com/airpods/compare/",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_5",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_pro_3",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_max_2",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=headphones",
+      "https://www.apple.com/airpods-pro/hearing-health/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/apple-homeview/",
+      "https://www.apple.com/apple-tv-4k/",
+      "https://www.apple.com/homepod-2nd-generation/",
+      "https://www.apple.com/homepod-mini/",
+      "https://www.apple.com/us/shop/goto/buy_home",
+      "https://www.apple.com/us/shop/goto/home_accessories/home_collection",
+      "https://www.apple.com/us/shop/goto/home_accessories",
+      "https://www.apple.com/us/shop/goto/personal_setup",
+      "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly",
+      "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly",
+      "https://www.apple.com/applecare/?filter=tv",
+      "https://www.apple.com/applecare/?filter=homepod",
+      "https://www.apple.com/apple-tv-app/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/home-app/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/airplay/",
+      "https://www.apple.com/entertainment/",
+      "https://www.apple.com/services/",
+      "https://www.apple.com/apple-one/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-arcade/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/apple-news/",
+      "https://www.apple.com/apple-podcasts/",
+      "https://www.apple.com/apple-books/",
+      "https://www.apple.com/app-store/",
+      "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly",
+      "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/us/shop/goto/accessories/all",
+      "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "https://www.apple.com/us/shop/goto/mac/accessories",
+      "https://www.apple.com/us/shop/goto/watch/accessories",
+      "https://www.apple.com/us/shop/goto/vision/accessories",
+      "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "https://www.apple.com/us/shop/goto/home_accessories",
+      "https://www.apple.com/us/shop/goto/airtag/accessories",
+      "https://www.apple.com/us/shop/goto/beats/accessories",
+      "https://www.apple.com/us/shop/goto/accessories/all/headphones_speakers",
+      "https://www.apple.com/us/shop/goto/accessories/all/chargers_adapters",
+      "https://www.apple.com/us/shop/goto/accessories/all/homekit",
+      "https://www.apple.com/us/shop/goto/accessories/all/cases_protection",
+      "https://www.apple.com/us/shop/goto/accessories/all/content_creation",
+      "https://www.apple.com/us/shop/goto/accessories/all/gaming",
+      "https://www.apple.com/us/shop/goto/accessories/all/drives_storage",
+      "https://www.apple.com/us/shop/goto/accessories/all/mice_keyboards",
+      "https://www.apple.com/us/shop/goto/accessories/all/health_fitness",
+      "https://www.apple.com/us/shop/goto/accessories/all/office",
+      "https://www.apple.com/us/shop/goto/accessories/all/software",
+      "https://www.apple.com/us/shop/goto/accessories/all/new_arrivals",
+      "https://www.apple.com/us/shop/goto/accessories/all/made_by_apple",
+      "https://www.apple.com/us/shop/goto/accessories/all/accessibility",
+      "https://www.apple.com/accessibility/assistive-technologies/",
+      "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+      "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore",
+      "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore",
+      "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore",
+      "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore",
+      "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore",
+      "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore",
+      "https://support.apple.com/music?cid=gn-ols-music-psp-explore",
+      "https://support.apple.com/tv?cid=gn-ols-tv-psp-explore",
+      "https://support.apple.com/?cid=gn-ols-home-hp-explore",
+      "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help",
+      "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help",
+      "https://www.apple.com/retail/geniusbar/",
+      "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help",
+      "https://www.apple.com/applecare/",
+      "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics",
+      "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics",
+      "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics",
+      "https://www.apple.com/us/search",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/us/shop/goto/giftcards",
+      "https://www.apple.com/apple-intelligence/",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/bag",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/iphone-duo/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_duo",
+      "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "https://www.apple.com/us/shop/goto/buy_mac/macbook_pro_proled_xdr",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/iphone-18-pro/",
+      "https://www.apple.com/us/shop/goto/buy_iphone/iphone_18_pro",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/apple-watch-series-12/",
+      "https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_12",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/ipad-11/",
+      "https://www.apple.com/us/shop/goto/buy_ipad/ipad",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/airpods-pro/",
+      "https://www.apple.com/us/shop/goto/buy_airpods/airpods_pro_3",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/apple-card/",
+      "https://www.apple.com/apple-card/",
+      "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
+      "https://www.apple.com/#endless-entertainment-gallery-item-1",
+      "https://www.apple.com/#endless-entertainment-gallery-item-2",
+      "https://www.apple.com/#endless-entertainment-gallery-item-3",
+      "https://www.apple.com/#endless-entertainment-gallery-item-4",
+      "https://www.apple.com/#endless-entertainment-gallery-item-5",
+      "https://www.apple.com/#endless-entertainment-gallery-item-6",
+      "https://www.apple.com/#endless-entertainment-gallery-item-7",
+      "https://www.apple.com/#endless-entertainment-gallery-item-8",
+      "https://www.apple.com/#endless-entertainment-gallery-item-9",
+      "https://tv.apple.com/us/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/nocturne/umc.cmc.4cfsq1juke72zutv5xp0pw3rj?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/room/formula-1/uts.room.formula-1?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/awkwafina-the-unlikely-cook/umc.cmc.1fhnal2vix2077ouh1hjy2eoc?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/channel/mls/tvs.sbd.7000?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/movie/tenzing/umc.cmc.6lic0hhuxkrbem0n29vzjopii?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://tv.apple.com/us/show/widows-bay/umc.cmc.1zzly0vah46bnvnwf0qkrjhh2?l=en-US?itscg=10000&itsct=atv-apl_hp-stream_now--220622",
+      "https://apps.apple.com/us/app/hello-kitty-island-adventure/id1553505132?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/station/miley-the-zane-lowe-interview/ra.6810826773?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/studio-collection/join-the-team-with-ted-lasso/1673607671?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://apps.apple.com/us/app/powerwash-simulator/id6477445344?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/playlist/new-music-daily/pl.2b0e6e332fdf4b7a91164da3162127b5?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/workout/meditation-with-christian/6808747339?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://apps.apple.com/us/app/madden-nfl-27-arcade-edition/id6755553408?itscg=10000&itsct=aa-apl_hp-play_now--240326",
+      "https://music.apple.com/us/playlist/todays-hits/pl.f4d106fed2bd41149aaacabb233eb5eb?itscg=10000&itsct=am-apl_hp-listen_now--240326",
+      "https://fitness.apple.com/us/studio-collection/programs/1896349052?itscg=10000&itsct=afp-apl_hp-watch_now--240326",
+      "https://www.apple.com/HRAccuracy/",
+      "https://support.apple.com/kb/HT209218",
+      "https://www.apple.com/us/shop/goto/store",
+      "https://www.apple.com/mac/",
+      "https://www.apple.com/ipad/",
+      "https://www.apple.com/iphone/",
+      "https://www.apple.com/watch/",
+      "https://www.apple.com/apple-vision-pro/",
+      "https://www.apple.com/airpods/",
+      "https://www.apple.com/home/",
+      "https://www.apple.com/airtag/",
+      "https://www.apple.com/us/shop/goto/buy_accessories",
+      "https://www.apple.com/us/shop/goto/giftcards",
+      "https://www.apple.com/wallet/",
+      "https://www.apple.com/apple-card/",
+      "https://www.apple.com/apple-pay/",
+      "https://www.apple.com/apple-cash/",
+      "https://account.apple.com/",
+      "https://www.apple.com/us/shop/goto/account",
+      "https://www.icloud.com/",
+      "https://www.apple.com/apple-one/",
+      "https://www.apple.com/apple-tv/",
+      "https://www.apple.com/apple-music/",
+      "https://www.apple.com/apple-arcade/",
+      "https://www.apple.com/apple-fitness-plus/",
+      "https://www.apple.com/apple-news/",
+      "https://www.apple.com/apple-podcasts/",
+      "https://www.apple.com/apple-books/",
+      "https://www.apple.com/app-store/",
+      "https://www.apple.com/retail/",
+      "https://www.apple.com/retail/geniusbar/",
+      "https://www.apple.com/today/",
+      "https://www.apple.com/today/groups/",
+      "https://www.apple.com/today/camp/",
+      "https://apps.apple.com/us/app/apple-store/id375380948",
+      "https://www.apple.com/us/shop/goto/special_deals",
+      "https://www.apple.com/us/shop/goto/apple_upgrade",
+      "https://www.apple.com/us/shop/goto/trade_in",
+      "https://www.apple.com/us/shop/goto/payment_plan",
+      "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+      "https://www.apple.com/us/shop/goto/order/list",
+      "https://www.apple.com/us/shop/goto/help",
+      "https://www.apple.com/business/",
+      "https://www.apple.com/retail/business/",
+      "https://www.apple.com/education/",
+      "https://www.apple.com/education/k12/how-to-buy/",
+      "https://www.apple.com/us/shop/goto/educationrouting",
+      "https://www.apple.com/healthcare/",
+      "https://www.apple.com/government/",
+      "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "https://www.apple.com/us_epp_67909/store",
+      "https://www.apple.com/us_epp_55499/store",
+      "https://www.apple.com/accessibility/",
+      "https://www.apple.com/education-initiative/",
+      "https://www.apple.com/environment/",
+      "https://www.apple.com/diversity/",
+      "https://www.apple.com/privacy/",
+      "https://www.apple.com/racial-equity-justice-initiative/",
+      "https://www.apple.com/supply-chain/",
+      "https://www.apple.com/newsroom/",
+      "https://www.apple.com/leadership/",
+      "https://www.apple.com/careers/us/",
+      "https://investor.apple.com/",
+      "https://www.apple.com/compliance/",
+      "https://www.apple.com/apple-events/",
+      "https://www.apple.com/contact/",
+      "https://www.apple.com/retail/",
+      "https://locate.apple.com/",
+      "https://www.apple.com/choose-country-region/",
+      "https://www.apple.com/legal/privacy/",
+      "https://www.apple.com/legal/internet-services/terms/site.html",
+      "https://www.apple.com/us/shop/goto/help/sales_refunds",
+      "https://www.apple.com/legal/",
+      "https://www.apple.com/sitemap/",
+      "https://www.apple.com/choose-country-region/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green_startframe__b8v6z8n8eouu_largetall.jpg",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/5c860636-9312-49bb-9597-d145f535822c/anim/hero-green/largetall.mp4",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/holiday-2026/a/hero_holiday_2026_green__cxyzwl8xlggi_largetall.jpg",
+        "poster": "",
+        "width": 2560,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated_startframe__blm9gj3ulmc2_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/dfe63e15-1d50-4ed5-bffc-c121fa0b8626/anim/hero/largetall.mp4",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/iphone-duo/a/hero_iphone_duo_animated__ggqp9olf1ii6_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/macbook-pro-proled-xdr/a/hero_macbook_pro_proled_xdr__dqehhz1bv7ue_largetall.jpg",
+        "poster": "",
+        "width": 3008,
+        "height": 692
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/promo_iphone_18_pro__9nn5m4mt2bmy_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/logos/apple-watch-series-12/a/promo_logo_apple_watch_series_12__eck6698frlqq_large.png",
+        "poster": "",
+        "width": 304,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/apple-watch-series-12/a/promo_apple_watch_series_12__gnlprtt8526a_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/ipad/a/promo_ipad__d9p5bux2okuq_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/airpods-pro-3/a/promo_airpods_pro_3__e4755qofhnyq_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/logos/apple-upgrade/a/promo_logo_apple_upgrade__lwuohffdzjem_large.png",
+        "poster": "",
+        "width": 183,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade_startframe__e9bf3nb054ae_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://www.apple.com/105/media/us/homepage/2026/abb2ec52-6e62-4771-84e4-d1e689324d6d/anim/promo/large.mp4",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/apple-upgrade/a/promo_apple_upgrade__jvn6udm4tx2e_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/logos/apple-card/a/promo_logo_apple_card__28vxrcexz0ia_large.png",
+        "poster": "",
+        "width": 110,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg",
+        "poster": "",
+        "width": 1262,
+        "height": 580
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/_dBwNwM2I9UkkEgq5BmfWQ/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/fX9Bus3bPSqNIvzq-d8fSg/220x54.png",
+        "poster": "",
+        "width": 141,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/U9-SYh_2jKtYnfk0-zciDA/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/0dVGA0_Ytah4r661ZkCESA/220x54.png",
+        "poster": "",
+        "width": 220,
+        "height": 31
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f2/63/a7/f263a72a-6efb-66af-cc28-ac5b036acd62/2fa2d9f2-4bcc-4ca5-a248-ae8ed8e5cdd5.png/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f0/ac/1e/f0ac1e58-0027-49d0-378e-68470edfb0ec/3b7d6fac-0061-401c-9716-742245053fd0.png/220x54.png",
+        "poster": "",
+        "width": 214,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/TZVATMR_weMtIFMuuAhREw/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/zaOkNyh8q-2JfhdWEjyWbw/220x54.png",
+        "poster": "",
+        "width": 218,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/69/92/07/69920774-cdc9-8bf1-c03d-24dda7780d2e/4143c92f-c854-46c0-9a0e-da9d632b0654.png/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Kc1Xx3Z1QBOuXe1EHDu4TA/220x54.png",
+        "poster": "",
+        "width": 51,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/CO4lIyj7dXy2D79e7FjgDA/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/C0fOxZGfTfntifSO9gPZ7w/220x54.png",
+        "poster": "",
+        "width": 220,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/x5JjmiSD75wN12-HmmZRcg/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/EJSCPD6sWV9Ib13RNrmy2g/220x54.png",
+        "poster": "",
+        "width": 220,
+        "height": 43
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/eD8DZGJ170t3MyFhlWOkdw/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Cc6MMzxFzD1gVqnd6IslKA/220x54.png",
+        "poster": "",
+        "width": 220,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/L6BJs1M_LHbp_DDigxy-eQ/980x522sr.jpg",
+        "poster": "",
+        "width": 980,
+        "height": 522
+      },
+      {
+        "tag": "IMG",
+        "url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+        "poster": "",
+        "width": 50,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/vXNv4MQ8aLXIkWQTZxw-BQ/220x54.png",
+        "poster": "",
+        "width": 114,
+        "height": 54
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/5b/b3/4a/5bb34a60-695c-a96f-75ec-8a957fc2a20b/45899847-e52c-44a1-9ce5-09aedebb7a78.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/e9/7b/bd/e97bbd89-c9ae-c79f-b533-bb9a806e5bf0/f81d102b-27cf-4041-814e-89a13fa320e3.png/196x196sr.jpg",
+        "poster": "",
+        "width": 196,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/79/8e/f0/798ef0c7-5cdb-4eb0-6e23-4b68d5525832/3036bfa7-3cc0-419b-9c57-47e7101906ad.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/53/55/d7/5355d758-e5b7-b406-f004-bb98d03ecb38/9388d284-2a0b-43e8-86e0-5852e8559d18.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/ff/1f/6a/ff1f6a26-4ad9-e922-cd91-c6c7d6ee8504/455170ad-ea7a-43fd-8f3a-0d8846798712.png/196x196SC.DN01.jpg?l=en-US",
+        "poster": "",
+        "width": 196,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ea/5a/58/ea5a58f1-1eec-f488-ba04-eab9f25ed2e3/ME_CH_0345_artwork_en_ID360705_0.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/b1/bd/81/b1bd81c6-f678-a6d1-25d2-9d3bd20e1299/f1d34c41-e9e3-428d-80b7-fff65822f3f6.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/38/8c/80/388c802c-6280-aeae-a416-dfdbb52c35b8/ccb00e27-00ee-4027-9dc9-1fe208a94ac2.png/196x196SC.DN01.jpg?l=en-US",
+        "poster": "",
+        "width": 196,
+        "height": 196
+      },
+      {
+        "tag": "IMG",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2a/75/df/2a75df27-703b-4712-6d95-9c9e29ca1dc6/fa77ffdb-61aa-47e7-920a-7da1876f3929.png/417x234.jpg",
+        "poster": "",
+        "width": 416,
+        "height": 234
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 320,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "paused",
+        "duration": 4160,
+        "iterations": "1"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 8153,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

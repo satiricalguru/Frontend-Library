@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "group": "refero",
+  "id": "refero-webflow",
+  "name": "Webflow — homepage",
+  "url": "https://webflow.com/",
+  "source": "https://styles.refero.design/style/31471407-598a-45fd-a505-d921980d8855",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:56:30.808Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "status": "failed",
+  "error": "fetch failed",
+  "rights": "All source work retains its original rights.",
+  "limitations": [
+    "No page capture: source access or robots check failed."
+  ],
+  "checkpoints": [],
+  "resources": [],
+  "files": []
+}

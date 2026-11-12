@@ -1,0 +1,4652 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "refero-retool",
+  "name": "Retool — homepage",
+  "url": "https://retool.com/",
+  "source": "https://styles.refero.design/style/c45b115b-dcb5-446d-8952-85aef740f8e4",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T10:51:51.841Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://retool.com/robots.txt",
+    "checkedAt": "2026-11-12T10:51:51.840Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      },
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "group": "refero",
+  "rights": "Reference screenshots and recordings of a public brand homepage discovered through the Refero Styles index; the site owner retains all rights. No reusable asset licence granted.",
+  "status": "needs-review",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Cookie/consent banners were left untouched (nothing accepted), so they may cover part of a checkpoint.",
+    "Traversal did not reach 90% of measured content travel; deeper sections need a follow-up capture."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 0,
+        "contentTop": 40,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1172,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 0,
+        "contentTop": 40,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3074,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 2886,
+        "contentTop": -2846,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "main-content",
+          "story-media-item-2",
+          "story-media-item-3"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 6429,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 6434,
+        "contentTop": -6394,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "main-content"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 8209,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 8787,
+        "contentTop": -8747,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "global-footer",
+          "retool-logo"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10474,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://retool.com/",
+        "scrollY": 8787,
+        "contentTop": -8747,
+        "pageTransform": "none",
+        "visibleIds": [
+          "viewport",
+          "global-nav-menu-desktop-7dce14f92e3c",
+          "global-nav-menu-desktop-faaab62ecd3f",
+          "global-nav-menu-desktop-a61efda0b862c09dd492ea6cd41520a7",
+          "global-footer",
+          "retool-logo"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://p.retool.com/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Script"
+    },
+    {
+      "url": "https://p.retool.com/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Script"
+    },
+    {
+      "url": "https://p.retool.com/analytics.js/v1/uTqZjk9nuBRPz3zsAwaa5BvzzN76naLF/analytics.min.js",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Script"
+    },
+    {
+      "url": "https://p.retool.com/api-v1/p",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://p.retool.com/api-v1/t",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://p.retool.com/v1/projects/uTqZjk9nuBRPz3zsAwaa5BvzzN76naLF/settings",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://retool.com/_next/image",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/02ew7bl70zvj1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/03xt8--oklwfb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0aahn31ub__ox.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0fkalp1zfw8sq.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0gjt-wgbf7tsb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0h6m42dufa6hc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0h8atrhi_03dd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0jtz2i6alyslc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0ra3qc5a7w268.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0rfcshtw4o6af.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0texue_4stq_g.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0u4_s409cmfto.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0ws7bs8s2o32s.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/0zibsh415-xfx.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1-dhjcvehtwg7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/12_n5-8nnyfi1.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/121tg53ave02-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/14pc6fz6-99zb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/155tlt_oj8gt8.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/183x-dj1ip2b3.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/19j-u_toza-fa.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1oqjw0pj44prh.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1qftwods90n_v.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1rixrgu57j4cz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1vhrktk7ywcz9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1vq1hcrzs-6xa.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1w62z06luabzj.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1xxte66g7af-l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/1zrvlhou69ny-.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2_4oawz-7_pb_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2_qxi7x7nr2uc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/228g10lh0x929.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/23kmfcmy2agto.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/23uoaviwiz1hc.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/23zqh1ptwetqt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/24yz9mmr1py2l.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2ajd1o5ah538e.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2axury3jridk6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2bue9zb9xy7_4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2ci4zs0apbtqt.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2ex_hgtu9wq2v.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2f94nxjx_eok7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2j8j0j2jucnoz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2jj-ay3c963mm.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2kw30nxzrsdub.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2l3deobgg-49t.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2m459qthbbfem.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2n84_rzil50bd.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2p91cfke4u4it.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2puh9b2t7774m.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2qrxd-vrz9tfl.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2uthcvxxtdhtz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2vmic1w8-o3mz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2wc0i4hi0b0p9.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2wldfetk8smh2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/2ybh7pvzacds7.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3685odzvsaue5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/372fqtleeixf4.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/37lj_kw53y1om.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/39s24tv1n6j5y.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3cesk94-yj5z2.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3cnsud6dumdl5.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3ertwae009ozo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3exlcthymv0al.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3hyxsyshjr_ev.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3ku4whewz92bo.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3lt0g-z819_nz.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3mjthesi25t7j.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3mkwvknb4kuha.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3qb94-651dktf.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3ry24msn86pl6.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3wzr72qlweav_.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/3xn5y5khwl3sv.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/4092bfn_4dbgn.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/42zyfmv3uqv20.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/chunks/turbopack-2_04ewhudzrza.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/media/Px_Grotesk_Regular-s.p.0vjy8mcu727ep.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/media/PxGrotesk_Bold-s.p.32eb_e-r0kvks.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://retool.com/_next/static/immutable/media/SaansVF-s.p.06vk1x1a619i8.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://retool.com/app-gallery",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/demand-forecasting-app",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/deployment-monitoring-app",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/employee-directory-app",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/expense-management-dashboard",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/finops-customer-operations-app",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/github-development-analytics",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/logistics-dispatch-monitor",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/product-analytics-dashboard",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/real-time-earthquake-monitor",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/sales-pipeline-board",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/security-operations-console",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/app-gallery/shopify-inventory-alerts",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/blog/ai-agent-governance-agent-org-chart",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/blog/ai-roi-wsj-technology-summit",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/blog/mcp-gateway-production-data",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/build-enterprise-apps/apps",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/contact-sales",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/demo",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/enterprise-ai-agents-report",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/govern-enterprise-apps",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/integrations",
+      "status": 200,
+      "mimeType": "text/x-component",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://retool.com/manifest.webmanifest",
+      "status": 200,
+      "mimeType": "application/manifest+json",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://retool.com/scripts/rcid.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 74461,
+      "sha256": "60dbbbfddb30f27706cb11b58cba10c226fef1131baa719df3a279956ae28038"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 61238,
+      "sha256": "863874e570fbbc1bb8d6848692eee205dba6eb90d9fcad3db9988ccc9e318d1f"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 55237,
+      "sha256": "059c79c00c6b70f19836dd1a1b1594c9c0aafe30eac2f51d68c708d44c8e8a11"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 76405,
+      "sha256": "ad64df1a76c8e41b75acbc973ca2e9a1397eebc0e63423db1449b4b6c15e1724"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 64266,
+      "sha256": "f0dd2c9c58e42ea956ed0ca638b8f9d0f610b13b918135d3638965f2cb2905a2"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 60425,
+      "sha256": "3eb92cfe6657e2d566edcebb593355da1cf701d9ac04b5d6bed82978a8f7dd0d"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 368170,
+      "sha256": "1ff1b3206e4bd629366a185e12863ac65318e70214c5095c049f21e63e7b1efc"
+    }
+  ],
+  "initial": {
+    "url": "https://retool.com/",
+    "title": "Build internal software better, with AI. | Retool",
+    "documentHeight": 11891,
+    "contentHeight": 11891,
+    "contentTop": 40,
+    "scrollY": 0,
+    "ready": "scroll-pt-nav-offset dark",
+    "bodyStyle": {
+      "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(233, 235, 223)",
+      "backgroundColor": "rgb(21, 21, 21)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 237,
+          "y": 240,
+          "width": 967,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "75.6px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 40,
+          "y": 1136,
+          "width": 1360,
+          "height": 50
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 40,
+          "y": 1994,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 62,
+          "y": 2119,
+          "width": 191,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 40,
+          "y": 2300,
+          "width": 203,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 40,
+          "y": 2345,
+          "width": 194,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 40,
+          "y": 2298,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 40,
+          "y": 2310,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 40,
+          "y": 5780,
+          "width": 920,
+          "height": 50
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 40,
+          "y": 5934,
+          "width": 427,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 507,
+          "y": 5934,
+          "width": 427,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 973,
+          "y": 5934,
+          "width": 427,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 69,
+        "rect": {
+          "x": 80,
+          "y": 8046,
+          "width": 572,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "300",
+          "color": "rgb(203, 204, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 80,
+          "y": 7236,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 45,
+        "rect": {
+          "x": 533,
+          "y": 7236,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 533,
+          "y": 7508,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 533,
+          "y": 7780,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 987,
+          "y": 7780,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 582,
+          "y": 9020,
+          "width": 276,
+          "height": 63
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "63px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 40,
+          "y": 9827,
+          "width": 720,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "33.6px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 64,
+          "y": 10315,
+          "width": 632,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 78,
+        "rect": {
+          "x": 744,
+          "y": 9925,
+          "width": 292,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 45,
+        "rect": {
+          "x": 744,
+          "y": 10194,
+          "width": 292,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": -420,
+          "y": 8530,
+          "width": 840,
+          "height": 1036
+        }
+      },
+      {
+        "id": "",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 1020,
+          "y": 9418,
+          "width": 840,
+          "height": 1036
+        }
+      }
+    ],
+    "links": [
+      "https://retool.com/#main-content",
+      "https://retool.com/enterprise-ai-agents-report",
+      "https://retool.com/",
+      "https://retool.com/use-cases",
+      "https://retool.com/pricing",
+      "https://login.retool.com/auth/login?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://login.retool.com/auth/signup?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://retool.com/secure-vibe-coding",
+      "https://retool.com/build-enterprise-apps",
+      "https://retool.com/launch-enterprise-apps",
+      "https://retool.com/scale-enterprise-apps",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/build-enterprise-apps/agents",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://retool.com/ai",
+      "https://retool.com/build-enterprise-apps/workflows",
+      "https://retool.com/build-enterprise-apps/database",
+      "https://retool.com/launch-enterprise-apps/external",
+      "https://retool.com/launch-enterprise-apps/mobile",
+      "https://retool.com/govern-enterprise-apps/self-hosted",
+      "https://retool.com/for/data-teams",
+      "https://retool.com/for/engineering-teams",
+      "https://retool.com/for/operations-teams",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/enterprise",
+      "https://retool.com/startups",
+      "https://retool.com/app-gallery",
+      "https://retool.com/integrations",
+      "https://retool.com/templates",
+      "https://retool.com/utilities",
+      "https://retool.com/blog",
+      "https://retool.com/blog",
+      "https://retool.com/customers",
+      "https://retool.com/resources/videos",
+      "https://retool.com/resources",
+      "https://docs.retool.com/",
+      "https://community.retool.com/",
+      "https://university.retool.com/",
+      "https://docs.retool.com/reference/api/v2",
+      "https://docs.retool.com/build/apps/reference/cli",
+      "https://docs.retool.com/org-users/guides/mcp",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://docs.retool.com/support",
+      "https://retool.com/newsroom",
+      "https://retool.com/use-cases",
+      "https://retool.com/pricing",
+      "https://login.retool.com/auth/login?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://login.retool.com/auth/signup?source=navbarcta",
+      "https://retool.com/app-gallery/github-development-analytics",
+      "https://retool.com/app-gallery/seo-performance-dashboard",
+      "https://retool.com/app-gallery/social-media-analytics",
+      "https://retool.com/app-gallery/corporate-treasury-dashboard",
+      "https://retool.com/app-gallery/finops-customer-operations-app",
+      "https://retool.com/app-gallery/security-operations-console",
+      "https://retool.com/app-gallery/demand-forecasting-app",
+      "https://retool.com/app-gallery/real-time-earthquake-monitor",
+      "https://retool.com/app-gallery/sales-pipeline-board",
+      "https://retool.com/app-gallery/github-development-analytics",
+      "https://retool.com/app-gallery/seo-performance-dashboard",
+      "https://retool.com/app-gallery/social-media-analytics",
+      "https://retool.com/app-gallery/corporate-treasury-dashboard",
+      "https://retool.com/app-gallery/finops-customer-operations-app",
+      "https://retool.com/app-gallery/security-operations-console",
+      "https://retool.com/app-gallery/demand-forecasting-app",
+      "https://retool.com/app-gallery/real-time-earthquake-monitor",
+      "https://retool.com/app-gallery/sales-pipeline-board",
+      "https://retool.com/app-gallery/deployment-monitoring-app",
+      "https://retool.com/app-gallery/employee-benefits-app",
+      "https://retool.com/app-gallery/revenue-forecasting-dashboard",
+      "https://retool.com/app-gallery/expense-management-dashboard",
+      "https://retool.com/app-gallery/employee-directory-app",
+      "https://retool.com/app-gallery/logistics-dispatch-monitor",
+      "https://retool.com/app-gallery/product-analytics-dashboard",
+      "https://retool.com/app-gallery/shopify-inventory-alerts",
+      "https://retool.com/app-gallery/deployment-monitoring-app",
+      "https://retool.com/app-gallery/employee-benefits-app",
+      "https://retool.com/app-gallery/revenue-forecasting-dashboard",
+      "https://retool.com/app-gallery/expense-management-dashboard",
+      "https://retool.com/app-gallery/employee-directory-app",
+      "https://retool.com/app-gallery/logistics-dispatch-monitor",
+      "https://retool.com/app-gallery/product-analytics-dashboard",
+      "https://retool.com/app-gallery/shopify-inventory-alerts",
+      "https://retool.com/app-gallery",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://docs.retool.com/org-users/guides/mcp",
+      "https://docs.retool.com/build/apps/guides/create/cli",
+      "https://docs.retool.com/build/apps/guides/import",
+      "https://retool.com/integrations",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/customers/ramp",
+      "https://retool.com/customers/orangetheory",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/customers/utmb",
+      "https://retool.com/customers/doordash",
+      "https://retool.com/customers/zeus",
+      "https://retool.com/blog/ai-agent-governance-agent-org-chart",
+      "https://retool.com/blog/mcp-gateway-production-data",
+      "https://retool.com/blog/ai-roi-wsj-technology-summit",
+      "https://retool.com/build-enterprise-apps",
+      "https://retool.com/launch-enterprise-apps",
+      "https://retool.com/scale-enterprise-apps",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/secure-vibe-coding",
+      "https://retool.com/ai-app-generation",
+      "https://retool.com/build-enterprise-apps/agents",
+      "https://retool.com/ai",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://retool.com/launch-enterprise-apps/mobile",
+      "https://retool.com/build-enterprise-apps/workflows",
+      "https://retool.com/build-enterprise-apps/database",
+      "https://retool.com/launch-enterprise-apps/external",
+      "https://retool.com/govern-enterprise-apps/self-hosted",
+      "https://retool.com/for/data-teams",
+      "https://retool.com/for/engineering-teams",
+      "https://retool.com/for/operations-teams",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/enterprise",
+      "https://retool.com/startups",
+      "https://retool.com/use-cases",
+      "https://retool.com/app-gallery",
+      "https://retool.com/integrations",
+      "https://retool.com/templates",
+      "https://retool.com/utilities",
+      "https://retool.com/blog",
+      "https://retool.com/customers",
+      "https://retool.com/resources/videos",
+      "https://retool.com/resources",
+      "https://docs.retool.com/",
+      "https://university.retool.com/",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://retool.com/newsroom",
+      "https://login.retool.com/auth/signup?source=footercta",
+      "https://retool.com/demo?meeting_page_source=footercta",
+      "https://www.linkedin.com/company/tryretool/",
+      "https://x.com/retool",
+      "https://www.reddit.com/r/Retool/",
+      "https://docs.retool.com/legal",
+      "https://docs.retool.com/legal/privacy-policy",
+      "https://docs.retool.com/legal/security",
+      "https://trust.retool.com/",
+      "https://docs.retool.com/changelog",
+      "https://retool.statuspage.io/",
+      "https://retool.com/sitemap-page",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://retool.com/newsroom",
+      "https://login.retool.com/auth/signup?source=footercta",
+      "https://retool.com/demo?meeting_page_source=footercta",
+      "https://www.linkedin.com/company/tryretool/",
+      "https://x.com/retool",
+      "https://www.reddit.com/r/Retool/",
+      "https://docs.retool.com/legal",
+      "https://docs.retool.com/legal/privacy-policy",
+      "https://docs.retool.com/legal/security",
+      "https://trust.retool.com/",
+      "https://docs.retool.com/changelog",
+      "https://retool.statuspage.io/",
+      "https://retool.com/sitemap-page",
+      "https://retool.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/bombora/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/equativ/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/experian/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/eyeota/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/g/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/index/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/l/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/n/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/o/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/pubmatic/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/triplelift/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/x/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipv4.d.adroll.com/seg4/TAYHWOLAKFD6LOW6X7DQWB/24EUDWAB5FBHFN74YHFFD2?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&cookie=&adroll_s_ref=&keyw=&p0=1850&adroll_external_data=&adroll_version=2.0",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/video/M4+Teaser+Sample+Loop.mp4",
+        "poster": "https://dqpcjghenxt8u.cloudfront.net/page-assets/homepage-m4/m4-teaser-video-background-poster.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/api-integration-logos/retool-database.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/amazon-white.svg",
+        "poster": "",
+        "width": 93,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/taco-bell-white.svg",
+        "poster": "",
+        "width": 69,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/conagra-white.svg",
+        "poster": "",
+        "width": 134,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/electronic-arts-white.svg",
+        "poster": "",
+        "width": 145,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/lyft-white.svg",
+        "poster": "",
+        "width": 46,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/quest-diagnostics-white.svg",
+        "poster": "",
+        "width": 102,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/boeing-white.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/adobe-white.svg",
+        "poster": "",
+        "width": 109,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff6b48048434861d9ed11f6e0ba8274970d863ef5-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fbe017d722ef170de6d2848ee9a985e53dcbb7ac2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F996f9e62fd64181f1c955b5986efc4a667a216e2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F3f21ccab10695e1693af480e7464b408f0696b88-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa7ccd5589a63803c9a84b582f15ea7f6439be3dd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd6581ebbb3504b026e8b70196b121d919d4e99d1-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fec46148ea5aaf82ccdad3dda6616baa7e74fe27e-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fcbbba1a8140e1d42827c86259487f1eae2850dcd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff0d1b98e44d64593b61adbfc1893fdacd641cce2-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff6b48048434861d9ed11f6e0ba8274970d863ef5-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fbe017d722ef170de6d2848ee9a985e53dcbb7ac2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F996f9e62fd64181f1c955b5986efc4a667a216e2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F3f21ccab10695e1693af480e7464b408f0696b88-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa7ccd5589a63803c9a84b582f15ea7f6439be3dd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd6581ebbb3504b026e8b70196b121d919d4e99d1-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fec46148ea5aaf82ccdad3dda6616baa7e74fe27e-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fcbbba1a8140e1d42827c86259487f1eae2850dcd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff0d1b98e44d64593b61adbfc1893fdacd641cce2-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F4373a1f05865499dea5f9756d93cae7e5e1df0cc-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fdf0aa9757c295585bdab40396c591542748d312d-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F69eb66c3c154723749c1548f984bfaa76f605d00-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F0aa64712c0132477c0dd02f4784d0bda58750570-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F80467615d77886b1edde5668db46839432954684-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd2ac14c1aae0e2d5b486e609af9998eb690b967b-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fce1540452b1db64ba493ffccd20813c6b77e2b6f-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa47d10b61fe3c1baf7f9430eacf2fd88aa5ffdef-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F4373a1f05865499dea5f9756d93cae7e5e1df0cc-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fdf0aa9757c295585bdab40396c591542748d312d-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F69eb66c3c154723749c1548f984bfaa76f605d00-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F0aa64712c0132477c0dd02f4784d0bda58750570-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F80467615d77886b1edde5668db46839432954684-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd2ac14c1aae0e2d5b486e609af9998eb690b967b-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fce1540452b1db64ba493ffccd20813c6b77e2b6f-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa47d10b61fe3c1baf7f9430eacf2fd88aa5ffdef-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-1.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-2.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-3.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-4.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-5.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-1.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-2.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-3.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-4.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-5.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/certification-badges/iso-sm-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/certification-badges/aicpa-sm-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/amazon-white.svg",
+        "poster": "",
+        "width": 93,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/taco-bell-white.svg",
+        "poster": "",
+        "width": 69,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/conagra-white.svg",
+        "poster": "",
+        "width": 134,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/electronic-arts-white.svg",
+        "poster": "",
+        "width": 145,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/lyft-white.svg",
+        "poster": "",
+        "width": 46,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/quest-diagnostics-white.svg",
+        "poster": "",
+        "width": 102,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/boeing-white.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/adobe-white.svg",
+        "poster": "",
+        "width": 109,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/openai-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pernod%20ricard-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/stripe-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/philips-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pinterest-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/brex-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/databricks-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/reckitt-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/gong-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/burgerking-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/amazon-white.svg",
+        "poster": "",
+        "width": 93,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/taco-bell-white.svg",
+        "poster": "",
+        "width": 69,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/conagra-white.svg",
+        "poster": "",
+        "width": 134,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/electronic-arts-white.svg",
+        "poster": "",
+        "width": 145,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/lyft-white.svg",
+        "poster": "",
+        "width": 46,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/quest-diagnostics-white.svg",
+        "poster": "",
+        "width": 102,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/boeing-white.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/adobe-white.svg",
+        "poster": "",
+        "width": 109,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/openai-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pernod%20ricard-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/stripe-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/philips-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pinterest-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/brex-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/databricks-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/reckitt-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/gong-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/burgerking-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-assist%2Fcustomer-grid-1.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-assist%2Fcustomer-grid-2.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/utmb-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/zeus-white.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-1.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-2.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-3.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-4.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-5.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-6.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-7.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-ball.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-hand.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/api-integration-logos/stripe.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F2eaa29988aa2007ee45b2618a29db683fbc6fee5-1920x1080.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F206c4c42684564ab60eabdcdb95b8eab4e282fd7-1920x1027.png&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F6ab27ddbf106e829eadd44a434b4f1e0ad861778-1920x1080.jpg&w=3840&q=85",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://px.ads.linkedin.com/collect/?pid=7054132&fmt=gif",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 18000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 18000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 10831,
+    "actualTravel": 8787,
+    "coverage": 0.811
+  },
+  "final": {
+    "url": "https://retool.com/",
+    "title": "Build internal software better, with AI. | Retool",
+    "documentHeight": 9687,
+    "contentHeight": 9687,
+    "contentTop": -8747,
+    "scrollY": 8787,
+    "ready": "scroll-pt-nav-offset dark",
+    "bodyStyle": {
+      "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "lineHeight": "24px",
+      "fontWeight": "400",
+      "color": "rgb(233, 235, 223)",
+      "backgroundColor": "rgb(21, 21, 21)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 237,
+          "y": -8547,
+          "width": 967,
+          "height": 76
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "72px",
+          "lineHeight": "75.6px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 40,
+          "y": -7651,
+          "width": 1360,
+          "height": 50
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 40,
+          "y": -3678,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 40,
+          "y": -3554,
+          "width": 191,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 40,
+          "y": -3509,
+          "width": 203,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 17,
+        "rect": {
+          "x": 40,
+          "y": -3464,
+          "width": 194,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 40,
+          "y": -3683,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 37,
+        "rect": {
+          "x": 40,
+          "y": -3431,
+          "width": 440,
+          "height": 101
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 40,
+          "y": -3007,
+          "width": 920,
+          "height": 50
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "48px",
+          "lineHeight": "50.4px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 40,
+          "y": -2853,
+          "width": 427,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 44,
+        "rect": {
+          "x": 507,
+          "y": -2853,
+          "width": 427,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 973,
+          "y": -2853,
+          "width": 427,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 69,
+        "rect": {
+          "x": 80,
+          "y": -1645,
+          "width": 572,
+          "height": 27
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "18px",
+          "lineHeight": "27px",
+          "fontWeight": "300",
+          "color": "rgb(203, 204, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 80,
+          "y": -2455,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 45,
+        "rect": {
+          "x": 533,
+          "y": -2455,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 32,
+        "rect": {
+          "x": 533,
+          "y": -2183,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 533,
+          "y": -1911,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 48,
+        "rect": {
+          "x": 987,
+          "y": -1911,
+          "width": 312,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 582,
+          "y": -1463,
+          "width": 276,
+          "height": 63
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "63px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 26,
+        "rect": {
+          "x": 40,
+          "y": -656,
+          "width": 720,
+          "height": 34
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "32px",
+          "lineHeight": "33.6px",
+          "fontWeight": "300",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 36,
+        "rect": {
+          "x": 64,
+          "y": -168,
+          "width": 632,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 78,
+        "rect": {
+          "x": 744,
+          "y": -558,
+          "width": 292,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 45,
+        "rect": {
+          "x": 744,
+          "y": -289,
+          "width": 292,
+          "height": 58
+        },
+        "style": {
+          "fontFamily": "saansFont, \"saansFont Fallback\", sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "28.8px",
+          "fontWeight": "380",
+          "color": "rgb(233, 235, 223)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1080,
+        "height": 1080,
+        "rect": {
+          "x": -420,
+          "y": -1953,
+          "width": 840,
+          "height": 1036
+        }
+      },
+      {
+        "id": "",
+        "width": 1080,
+        "height": 1080,
+        "rect": {
+          "x": 1020,
+          "y": -1065,
+          "width": 840,
+          "height": 1036
+        }
+      }
+    ],
+    "links": [
+      "https://retool.com/#main-content",
+      "https://retool.com/enterprise-ai-agents-report",
+      "https://retool.com/",
+      "https://retool.com/use-cases",
+      "https://retool.com/pricing",
+      "https://login.retool.com/auth/login?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://login.retool.com/auth/signup?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://retool.com/secure-vibe-coding",
+      "https://retool.com/build-enterprise-apps",
+      "https://retool.com/launch-enterprise-apps",
+      "https://retool.com/scale-enterprise-apps",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/build-enterprise-apps/agents",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://retool.com/ai",
+      "https://retool.com/build-enterprise-apps/workflows",
+      "https://retool.com/build-enterprise-apps/database",
+      "https://retool.com/launch-enterprise-apps/external",
+      "https://retool.com/launch-enterprise-apps/mobile",
+      "https://retool.com/govern-enterprise-apps/self-hosted",
+      "https://retool.com/for/data-teams",
+      "https://retool.com/for/engineering-teams",
+      "https://retool.com/for/operations-teams",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/enterprise",
+      "https://retool.com/startups",
+      "https://retool.com/app-gallery",
+      "https://retool.com/integrations",
+      "https://retool.com/templates",
+      "https://retool.com/utilities",
+      "https://retool.com/blog",
+      "https://retool.com/blog",
+      "https://retool.com/customers",
+      "https://retool.com/resources/videos",
+      "https://retool.com/resources",
+      "https://docs.retool.com/",
+      "https://community.retool.com/",
+      "https://university.retool.com/",
+      "https://docs.retool.com/reference/api/v2",
+      "https://docs.retool.com/build/apps/reference/cli",
+      "https://docs.retool.com/org-users/guides/mcp",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://docs.retool.com/support",
+      "https://retool.com/newsroom",
+      "https://retool.com/use-cases",
+      "https://retool.com/pricing",
+      "https://login.retool.com/auth/login?source=navbarcta",
+      "https://retool.com/contact-sales?meeting_page_source=navbarcta",
+      "https://login.retool.com/auth/signup?source=navbarcta",
+      "https://retool.com/app-gallery/github-development-analytics",
+      "https://retool.com/app-gallery/seo-performance-dashboard",
+      "https://retool.com/app-gallery/social-media-analytics",
+      "https://retool.com/app-gallery/corporate-treasury-dashboard",
+      "https://retool.com/app-gallery/finops-customer-operations-app",
+      "https://retool.com/app-gallery/security-operations-console",
+      "https://retool.com/app-gallery/demand-forecasting-app",
+      "https://retool.com/app-gallery/real-time-earthquake-monitor",
+      "https://retool.com/app-gallery/sales-pipeline-board",
+      "https://retool.com/app-gallery/github-development-analytics",
+      "https://retool.com/app-gallery/seo-performance-dashboard",
+      "https://retool.com/app-gallery/social-media-analytics",
+      "https://retool.com/app-gallery/corporate-treasury-dashboard",
+      "https://retool.com/app-gallery/finops-customer-operations-app",
+      "https://retool.com/app-gallery/security-operations-console",
+      "https://retool.com/app-gallery/demand-forecasting-app",
+      "https://retool.com/app-gallery/real-time-earthquake-monitor",
+      "https://retool.com/app-gallery/sales-pipeline-board",
+      "https://retool.com/app-gallery/deployment-monitoring-app",
+      "https://retool.com/app-gallery/employee-benefits-app",
+      "https://retool.com/app-gallery/revenue-forecasting-dashboard",
+      "https://retool.com/app-gallery/expense-management-dashboard",
+      "https://retool.com/app-gallery/employee-directory-app",
+      "https://retool.com/app-gallery/logistics-dispatch-monitor",
+      "https://retool.com/app-gallery/product-analytics-dashboard",
+      "https://retool.com/app-gallery/shopify-inventory-alerts",
+      "https://retool.com/app-gallery/deployment-monitoring-app",
+      "https://retool.com/app-gallery/employee-benefits-app",
+      "https://retool.com/app-gallery/revenue-forecasting-dashboard",
+      "https://retool.com/app-gallery/expense-management-dashboard",
+      "https://retool.com/app-gallery/employee-directory-app",
+      "https://retool.com/app-gallery/logistics-dispatch-monitor",
+      "https://retool.com/app-gallery/product-analytics-dashboard",
+      "https://retool.com/app-gallery/shopify-inventory-alerts",
+      "https://retool.com/app-gallery",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://docs.retool.com/org-users/guides/mcp",
+      "https://docs.retool.com/build/apps/guides/create/cli",
+      "https://docs.retool.com/build/apps/guides/import",
+      "https://retool.com/integrations",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/customers/ramp",
+      "https://retool.com/customers/orangetheory",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/customers/utmb",
+      "https://retool.com/customers/doordash",
+      "https://retool.com/customers/zeus",
+      "https://retool.com/blog/ai-agent-governance-agent-org-chart",
+      "https://retool.com/blog/mcp-gateway-production-data",
+      "https://retool.com/blog/ai-roi-wsj-technology-summit",
+      "https://retool.com/build-enterprise-apps",
+      "https://retool.com/launch-enterprise-apps",
+      "https://retool.com/scale-enterprise-apps",
+      "https://retool.com/govern-enterprise-apps",
+      "https://retool.com/secure-vibe-coding",
+      "https://retool.com/ai-app-generation",
+      "https://retool.com/build-enterprise-apps/agents",
+      "https://retool.com/ai",
+      "https://retool.com/build-enterprise-apps/apps",
+      "https://retool.com/launch-enterprise-apps/mobile",
+      "https://retool.com/build-enterprise-apps/workflows",
+      "https://retool.com/build-enterprise-apps/database",
+      "https://retool.com/launch-enterprise-apps/external",
+      "https://retool.com/govern-enterprise-apps/self-hosted",
+      "https://retool.com/for/data-teams",
+      "https://retool.com/for/engineering-teams",
+      "https://retool.com/for/operations-teams",
+      "https://retool.com/for/financial-services",
+      "https://retool.com/for/manufacturing",
+      "https://retool.com/enterprise",
+      "https://retool.com/startups",
+      "https://retool.com/use-cases",
+      "https://retool.com/app-gallery",
+      "https://retool.com/integrations",
+      "https://retool.com/templates",
+      "https://retool.com/utilities",
+      "https://retool.com/blog",
+      "https://retool.com/customers",
+      "https://retool.com/resources/videos",
+      "https://retool.com/resources",
+      "https://docs.retool.com/",
+      "https://university.retool.com/",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://retool.com/newsroom",
+      "https://login.retool.com/auth/signup?source=footercta",
+      "https://retool.com/demo?meeting_page_source=footercta",
+      "https://www.linkedin.com/company/tryretool/",
+      "https://x.com/retool",
+      "https://www.reddit.com/r/Retool/",
+      "https://docs.retool.com/legal",
+      "https://docs.retool.com/legal/privacy-policy",
+      "https://docs.retool.com/legal/security",
+      "https://trust.retool.com/",
+      "https://docs.retool.com/changelog",
+      "https://retool.statuspage.io/",
+      "https://retool.com/sitemap-page",
+      "https://retool.com/about",
+      "https://retool.com/careers",
+      "https://retool.com/partners",
+      "https://retool.com/newsroom",
+      "https://login.retool.com/auth/signup?source=footercta",
+      "https://retool.com/demo?meeting_page_source=footercta",
+      "https://www.linkedin.com/company/tryretool/",
+      "https://x.com/retool",
+      "https://www.reddit.com/r/Retool/",
+      "https://docs.retool.com/legal",
+      "https://docs.retool.com/legal/privacy-policy",
+      "https://docs.retool.com/legal/security",
+      "https://trust.retool.com/",
+      "https://docs.retool.com/changelog",
+      "https://retool.statuspage.io/",
+      "https://retool.com/sitemap-page",
+      "https://retool.com/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/bombora/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/equativ/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/experian/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/eyeota/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/g/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/index/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/l/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/n/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/o/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/pubmatic/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/triplelift/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://d.adroll.com/cm/x/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "IMG",
+        "url": "https://ipv4.d.adroll.com/seg4/TAYHWOLAKFD6LOW6X7DQWB/24EUDWAB5FBHFN74YHFFD2?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&cookie=&adroll_s_ref=&keyw=&p0=1850&adroll_external_data=&adroll_version=2.0",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      },
+      {
+        "tag": "VIDEO",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/video/M4+Teaser+Sample+Loop.mp4",
+        "poster": "https://dqpcjghenxt8u.cloudfront.net/page-assets/homepage-m4/m4-teaser-video-background-poster.webp",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/api-integration-logos/retool-database.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/philips-white.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pinterest-white.svg",
+        "poster": "",
+        "width": 116,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 99,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/brex-white.svg",
+        "poster": "",
+        "width": 90,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/databricks-white.svg",
+        "poster": "",
+        "width": 126,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/reckitt-white.svg",
+        "poster": "",
+        "width": 62,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/gong-white.svg",
+        "poster": "",
+        "width": 82,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/burgerking-white.svg",
+        "poster": "",
+        "width": 44,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff6b48048434861d9ed11f6e0ba8274970d863ef5-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fbe017d722ef170de6d2848ee9a985e53dcbb7ac2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F996f9e62fd64181f1c955b5986efc4a667a216e2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F3f21ccab10695e1693af480e7464b408f0696b88-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa7ccd5589a63803c9a84b582f15ea7f6439be3dd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd6581ebbb3504b026e8b70196b121d919d4e99d1-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fec46148ea5aaf82ccdad3dda6616baa7e74fe27e-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fcbbba1a8140e1d42827c86259487f1eae2850dcd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff0d1b98e44d64593b61adbfc1893fdacd641cce2-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff6b48048434861d9ed11f6e0ba8274970d863ef5-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fbe017d722ef170de6d2848ee9a985e53dcbb7ac2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F996f9e62fd64181f1c955b5986efc4a667a216e2-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F3f21ccab10695e1693af480e7464b408f0696b88-1280x800.png&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa7ccd5589a63803c9a84b582f15ea7f6439be3dd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd6581ebbb3504b026e8b70196b121d919d4e99d1-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fec46148ea5aaf82ccdad3dda6616baa7e74fe27e-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fcbbba1a8140e1d42827c86259487f1eae2850dcd-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Ff0d1b98e44d64593b61adbfc1893fdacd641cce2-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F4373a1f05865499dea5f9756d93cae7e5e1df0cc-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fdf0aa9757c295585bdab40396c591542748d312d-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F69eb66c3c154723749c1548f984bfaa76f605d00-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F0aa64712c0132477c0dd02f4784d0bda58750570-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F80467615d77886b1edde5668db46839432954684-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd2ac14c1aae0e2d5b486e609af9998eb690b967b-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fce1540452b1db64ba493ffccd20813c6b77e2b6f-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa47d10b61fe3c1baf7f9430eacf2fd88aa5ffdef-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F4373a1f05865499dea5f9756d93cae7e5e1df0cc-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fdf0aa9757c295585bdab40396c591542748d312d-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F69eb66c3c154723749c1548f984bfaa76f605d00-1280x800.png&w=640&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F0aa64712c0132477c0dd02f4784d0bda58750570-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F80467615d77886b1edde5668db46839432954684-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fd2ac14c1aae0e2d5b486e609af9998eb690b967b-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fce1540452b1db64ba493ffccd20813c6b77e2b6f-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2Fa47d10b61fe3c1baf7f9430eacf2fd88aa5ffdef-1280x800.png&w=320&q=75",
+        "poster": "",
+        "width": 286,
+        "height": 178
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-1.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-2.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-3.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-4.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-5.jpg&w=3840&q=75",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-1.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-2.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-3.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-4.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-m4%2Fhomepage-scroll-5.jpg&w=828&q=75",
+        "poster": "",
+        "width": 759,
+        "height": 759
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/certification-badges/iso-sm-white.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/certification-badges/aicpa-sm-white.svg",
+        "poster": "",
+        "width": 150,
+        "height": 150
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/amazon-white.svg",
+        "poster": "",
+        "width": 93,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/taco-bell-white.svg",
+        "poster": "",
+        "width": 69,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/conagra-white.svg",
+        "poster": "",
+        "width": 134,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/electronic-arts-white.svg",
+        "poster": "",
+        "width": 145,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/lyft-white.svg",
+        "poster": "",
+        "width": 46,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/quest-diagnostics-white.svg",
+        "poster": "",
+        "width": 102,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/boeing-white.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/adobe-white.svg",
+        "poster": "",
+        "width": 109,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 138,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/openai-white.svg",
+        "poster": "",
+        "width": 89,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pernod%20ricard-white.svg",
+        "poster": "",
+        "width": 101,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 135,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/stripe-white.svg",
+        "poster": "",
+        "width": 60,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/philips-white.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pinterest-white.svg",
+        "poster": "",
+        "width": 116,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 99,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/brex-white.svg",
+        "poster": "",
+        "width": 90,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/databricks-white.svg",
+        "poster": "",
+        "width": 126,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/reckitt-white.svg",
+        "poster": "",
+        "width": 62,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/gong-white.svg",
+        "poster": "",
+        "width": 82,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/burgerking-white.svg",
+        "poster": "",
+        "width": 44,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/amazon-white.svg",
+        "poster": "",
+        "width": 93,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/taco-bell-white.svg",
+        "poster": "",
+        "width": 69,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/conagra-white.svg",
+        "poster": "",
+        "width": 134,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/electronic-arts-white.svg",
+        "poster": "",
+        "width": 145,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/lyft-white.svg",
+        "poster": "",
+        "width": 46,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/quest-diagnostics-white.svg",
+        "poster": "",
+        "width": 102,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/boeing-white.svg",
+        "poster": "",
+        "width": 120,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/adobe-white.svg",
+        "poster": "",
+        "width": 109,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 138,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/openai-white.svg",
+        "poster": "",
+        "width": 89,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pernod%20ricard-white.svg",
+        "poster": "",
+        "width": 101,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 135,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/stripe-white.svg",
+        "poster": "",
+        "width": 60,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/philips-white.svg",
+        "poster": "",
+        "width": 88,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/pinterest-white.svg",
+        "poster": "",
+        "width": 116,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 99,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/brex-white.svg",
+        "poster": "",
+        "width": 90,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/databricks-white.svg",
+        "poster": "",
+        "width": 126,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/reckitt-white.svg",
+        "poster": "",
+        "width": 62,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/gong-white.svg",
+        "poster": "",
+        "width": 82,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/burgerking-white.svg",
+        "poster": "",
+        "width": 44,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/ramp-white.svg",
+        "poster": "",
+        "width": 99,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/orange-theory-white.svg",
+        "poster": "",
+        "width": 135,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-assist%2Fcustomer-grid-1.jpg&w=640&q=75",
+        "poster": "",
+        "width": 453,
+        "height": 559
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-assist%2Fcustomer-grid-2.jpg&w=640&q=75",
+        "poster": "",
+        "width": 453,
+        "height": 559
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/utmb-white.svg",
+        "poster": "",
+        "width": 129,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/doordash-white.svg",
+        "poster": "",
+        "width": 138,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/customer-logos/zeus-white.svg",
+        "poster": "",
+        "width": 110,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-1.png&w=256&q=85",
+        "poster": "",
+        "width": 239,
+        "height": 352
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-2.png&w=640&q=85",
+        "poster": "",
+        "width": 311,
+        "height": 253
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-3.png&w=256&q=85",
+        "poster": "",
+        "width": 123,
+        "height": 297
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-4.png&w=320&q=85",
+        "poster": "",
+        "width": 229,
+        "height": 274
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-5.png&w=640&q=85",
+        "poster": "",
+        "width": 343,
+        "height": 230
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-6.png&w=256&q=85",
+        "poster": "",
+        "width": 132,
+        "height": 148
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-7.png&w=256&q=85",
+        "poster": "",
+        "width": 98,
+        "height": 250
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-glass-ball.png&w=320&q=85",
+        "poster": "",
+        "width": 222,
+        "height": 218
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fdqpcjghenxt8u.cloudfront.net%2Fpage-assets%2Fhomepage-r2%2Fm3-hero-hand.png&w=640&q=85",
+        "poster": "",
+        "width": 311,
+        "height": 404
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/api-integration-logos/stripe.svg",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-react.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-lovable.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/external-imports/import-replit.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-claudecode.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-cursor.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-codex.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-chatgpt.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://dqpcjghenxt8u.cloudfront.net/icons/mcp-connections/mcp-kiro.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F2eaa29988aa2007ee45b2618a29db683fbc6fee5-1920x1080.png&w=750&q=85",
+        "poster": "",
+        "width": 662,
+        "height": 372
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F206c4c42684564ab60eabdcdb95b8eab4e282fd7-1920x1027.png&w=384&q=85",
+        "poster": "",
+        "width": 322,
+        "height": 171
+      },
+      {
+        "tag": "IMG",
+        "url": "https://retool.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbclf52sw%2Fproduction%2F6ab27ddbf106e829eadd44a434b4f1e0ad861778-1920x1080.jpg&w=384&q=85",
+        "poster": "",
+        "width": 322,
+        "height": 181
+      },
+      {
+        "tag": "IMG",
+        "url": "https://px.ads.linkedin.com/collect/?pid=7054132&fmt=gif",
+        "poster": "",
+        "width": 1,
+        "height": 1
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 18000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 18000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 6000,
+        "iterations": "Infinity"
+      }
+    ],
+    "loadingOverlays": [],
+    "brokenImages": [
+      {
+        "url": "https://d.adroll.com/cm/b_s/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/outbrain/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "url": "https://d.adroll.com/cm/taboola/out?af0=703252eb&adroll_fpc=d89532e51fa8077ca7ff7f422ef99736-1794480714392&pv=34404249627.76217&arrfrr=https%3A%2F%2Fretool.com%2F&advertisable=TAYHWOLAKFD6LOW6X7DQWB",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10474,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}
