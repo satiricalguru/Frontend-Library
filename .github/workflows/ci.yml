@@ -1,0 +1,42 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build catalogs and visuals
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild catalogs
+        run: python3 scripts/build-catalog.py
+      - name: Rebuild visuals
+        run: python3 scripts/build-visuals.py
+      - name: Fail if generated files are out of date
+        run: |
+          if ! git diff --exit-code; then
+            echo "::error::Generated files are out of date. Run 'python3 scripts/build-catalog.py && python3 scripts/build-visuals.py' and commit the result."
+            git --no-pager diff
+            exit 1
+          fi
+
+  validate:
+    name: Validate catalog data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check every entry has a url and a source
+        run: python3 scripts/validate-data.py
