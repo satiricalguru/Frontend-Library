@@ -19,6 +19,8 @@ const ALIASES = [
   [/copilot/i, 'Copilot'],
   [/codex|openai/i, 'codex'],
   [/cursor/i, 'cursoragent'],
+  [/devin/i, 'devin-ai-integration[bot]'],
+  [/opencode/i, 'opencode-agent[bot]'],
 ];
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' }[c]));
