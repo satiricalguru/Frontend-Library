@@ -1,0 +1,532 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-small-world",
+  "name": "Exp Small World — live experience",
+  "url": "https://exp-small-world.lusion.co/",
+  "source": "https://labs.lusion.co/exp/ion-speaker",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:20:16.010Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-small-world.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:20:16.009Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 961,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1910,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3165,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4203,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5498,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-small-world.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-small-world.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/audios/Gentle-Winds_AdobeStock_357346877.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/audios/hover_0.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/images/favicon/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/images/favicon/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/models/OUT_SIDES.glb",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/models/OUT_TERRAIN.glb",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/baked_baseColor.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/caustic.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/cloud0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/flow2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/ramp.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/terrain_ao.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/terrain_curvature.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/terrain_height.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/terrain_water.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/terrain_worldnormal.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/Water_1.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/assets/textures/Water_2.jpeg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/css/main.63eadd79.chunk.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/js/2.739831e7.chunk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/js/main.8e3dd689.chunk.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/media/background-preloader-dithered.3901caed.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/media/niramit-regular-webfont.89c8cb5a.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/media/roboto-regular-webfont.00260197.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-small-world.lusion.co/static/media/rochester-regular-webfont.bdb64d7b.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 32193,
+      "sha256": "61c62a8d761bf3f32c6147e7824292171d0f34ee17456d99629f687c3dec10fc"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 35006,
+      "sha256": "89ddf517869d3b3b05e6ac27d2f42e17157045b788b0bf0bb1e4f81d56fa7716"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 54030,
+      "sha256": "d0e344c33bbb2a0b8496c61fe150af2ca27414c3e74d166ac4a434d171651459"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 84838,
+      "sha256": "dcd4d5a306030255d82d67a47c310ffdd4f8724ae0f17d34704f44cf01b90790"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 75965,
+      "sha256": "060be8d968aa1838a9072eb5f1c8ebc7467db48019d446df10a4b98c5889d1cd"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 53561,
+      "sha256": "168bda44f3da7d2abf908d0e5c20a55446bd48be0ac557e75ca2aac97e12b00d"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 184278,
+      "sha256": "c2a5e578ed2f1183ab7968d2ffb71b0bae0a9315583ca4cb12b702199f0c53d1"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-small-world.lusion.co/",
+    "title": "Small world",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Cutive Mono\", monospace",
+      "fontSize": "16.5271px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(43, 45, 46)",
+      "transform": "none",
+      "position": "absolute"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "16.5271px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\", serif",
+          "fontSize": "35.8803px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 2880,
+        "height": 1800,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/u29dc",
+      "https://twitter.com/PaulineStich",
+      "https://twitter.com/lusionltd",
+      "https://www.facebook.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://medium.com/lusion-ltd",
+      "https://www.linkedin.com/company/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-small-world.lusion.co/",
+    "title": "Small world",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "",
+    "bodyStyle": {
+      "fontFamily": "\"Cutive Mono\", monospace",
+      "fontSize": "16.5271px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(43, 45, 46)",
+      "transform": "none",
+      "position": "absolute"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "16.5271px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 10,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\", serif",
+          "fontSize": "35.8803px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "",
+        "width": 2880,
+        "height": 1800,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/u29dc",
+      "https://twitter.com/PaulineStich",
+      "https://twitter.com/lusionltd",
+      "https://www.facebook.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://medium.com/lusion-ltd",
+      "https://www.linkedin.com/company/lusionltd",
+      "https://lusion.co/"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5498,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

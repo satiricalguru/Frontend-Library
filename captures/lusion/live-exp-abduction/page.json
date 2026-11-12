@@ -1,0 +1,868 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-abduction",
+  "name": "Exp Abduction — live experience",
+  "url": "https://exp-abduction.lusion.co/",
+  "source": "https://labs.lusion.co/exp/my-little-story-book",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:20:49.346Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-abduction.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:20:49.345Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader",
+          "onboarding"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1557,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader",
+          "onboarding"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 3067,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "onboarding"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 5253,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "onboarding"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 7640,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "onboarding"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 10679,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-abduction.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "onboarding"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-abduction.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/audios//crowd.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/audios//hover_0.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/audios//hover_1.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/audios//scream.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/audios//Sun-Drenched-Branches_AdobeStock_357353399.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/css/index.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/fonts/Aeonik-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/fonts/roboto-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/fonts/rochester-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/images/background-preloader-dithered.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/images/favicon/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/js/dat.gui.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/js/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/dies.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/falling.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/idle.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/map_bottom.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/map.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/person.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/running.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/ufo.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/models/walking.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/LDR_RGB1_6.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/map_info.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/map.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/person_colors.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/ufo_matcap.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-abduction.lusion.co/assets/textures/ufo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 18948,
+      "sha256": "0ad01c60db99a5e87ae6cbcd23de772177206bbca5c7163c7c664f03460d4012"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 18443,
+      "sha256": "367f7781a3e5f16a73ff8bc44ab2ffd8ec6f854120e2664d4d3c55d6a6e12e1d"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 19156,
+      "sha256": "46749a1222898992973ee962ae98856b5a97c4846a453128a8b9b38bc89e8484"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 15106,
+      "sha256": "fc94b0a3b77b781f0e869f70c667db0c5e96443844a88d91b0457e44cae6d0f4"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 13201,
+      "sha256": "5f33dacb96816c09681b1acea3ea922a3e43d1bb3d3610bb9c81b7005895aae5"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 95039,
+      "sha256": "ad14153c08b7d880d540e2469db591cc66f6edbedad4e5879069b13e3ba9dc76"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 265506,
+      "sha256": "ae5b95d8e08dec5f16ced71cb73d68a86fc6fd9de8355c329dfb3379dee7993b"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-abduction.lusion.co/",
+    "title": "Abduction",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "\"Cutive Mono\", monospace",
+      "fontSize": "14px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(43, 45, 46)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "preloader",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(43, 45, 46)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "onboarding",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "explore",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "39.6652px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://thefwa.com/cases/abduction",
+      "https://lusion.co/",
+      "https://exp-abduction.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://www.destroyallhumansgame.com/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/brandonXYZW",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-abduction.lusion.co/",
+    "title": "Abduction",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready has-started",
+    "bodyStyle": {
+      "fontFamily": "\"Cutive Mono\", monospace",
+      "fontSize": "14px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(43, 45, 46)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "onboarding",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "explore",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 56,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Aeonik Regular\", sans-serif",
+          "fontSize": "39.6652px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Cutive Mono\", monospace",
+          "fontSize": "11px",
+          "lineHeight": "normal",
+          "fontWeight": "100",
+          "color": "rgb(196, 196, 196)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://thefwa.com/cases/abduction",
+      "https://lusion.co/",
+      "https://exp-abduction.lusion.co/#",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://www.destroyallhumansgame.com/",
+      "https://twitter.com/edankwan",
+      "https://twitter.com/brandonXYZW",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 10679,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

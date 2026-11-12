@@ -1,0 +1,4077 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-client-zero-tech",
+  "name": "Client Zero Tech — live experience",
+  "url": "https://client-zero-tech.lusion.co/",
+  "source": "https://lusion.co/projects/zero_tech",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:25:11.977Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://client-zero-tech.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:25:11.969Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "sections",
+          "intro",
+          "intro-hero",
+          "layout"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 8518,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "sections",
+          "intro",
+          "intro-hero",
+          "layout"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 18095,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "sections",
+          "intro",
+          "intro-intro",
+          "introProblem",
+          "introSolution",
+          "layout"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 36900,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "sections",
+          "intro",
+          "intro-intro",
+          "introProblem",
+          "introSolution",
+          "layout"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 48867,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "sections",
+          "intro",
+          "intro-intro",
+          "intro-time",
+          "layout"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 62825,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://client-zero-tech.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "download",
+          "navbar",
+          "menu",
+          "menu-closeContainer",
+          "zeroOsNavbar",
+          "quoteAppAnimation",
+          "quoteAppCircles",
+          "quoteAppDots",
+          "sections",
+          "zeroOs",
+          "zeroOs-hero",
+          "zeroOs-hero-os",
+          "zeroOs-hero-apps",
+          "layout"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://client-zero-tech.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/android.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/ios.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/linux.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/mac.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/windows.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/chat-120.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/share-120.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/stake-120.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/trade-120.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/vote-120.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord_light.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ethereum.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/gnosis.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ipfs.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/opensea.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/polygon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/sendbird.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/snapshot.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/starkware.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram_light.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/the-graph.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/twitter.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/unreal-engine.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-dotted.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-mask-black.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-moon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-stroke.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/black-arrow.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/discover-now.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/close-menu.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-circle.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-rectangle.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/citizenship.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/header-rectangle.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/identity.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/wallet.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/chat.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/share.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/stake.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/trade.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/vote.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/zeroId.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/intro/intro-year.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/logo/zer-letters.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/images/logo/zero-logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/js/dat.gui.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/meta/dark/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/bevel_box.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/cubeAssemble/in.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/cubeAssemble/out.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/network/network_0.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/network/network_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/network/network_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/models/orbit/orbit_ring_items.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/bloom_overlay/bloom_overlay_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/bloom_overlay/bloom_overlay_3.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/chat/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/chat/3.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/diffuse.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/distortionPattern.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/eclipse/eclipse_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/eclipse/eclipse_clip_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/eclipse/eclipse_clip_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/ending/moon_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/ending/moon_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/ending/sun_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/ending/sun_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/glass_screen.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/lut.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/orbit/moon_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/share/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/specular.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/stake/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/trade/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/assets/textures/vote/1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://client-zero-tech.lusion.co/style.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 98436,
+      "sha256": "4cd55f368fc39317fe870f3eedee3b57f3dce9a8ae4c8a710d006dcb47327723"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 96145,
+      "sha256": "0c058a0e04326917092eef0ecff6444be7b8f2243c9ea49f69bcb8ea33b6314c"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 68906,
+      "sha256": "c5b7a6cf4fa9d2c2488dd5624f4c554c6a179dc71a9449ee48b0480ffce702a6"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 62421,
+      "sha256": "bccfacb9208f4a89ddba1a0fa7b7c51efaa0830acad49ff80802fe56957f8172"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 88420,
+      "sha256": "26b9127a689a63d308d4b67921f5b5482c4ffa50cff11e6b9a62ed819a3f9d6c"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 52306,
+      "sha256": "da4d1f3a1cd43bbaf80dc7faddeb1f6ccc247c03097529af0f834c7bd42d4654"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 795118,
+      "sha256": "9fd4587a291b7a29a34b02b41e81b43c931bd505c2880e26b507a6c5990c9840"
+    }
+  ],
+  "initial": {
+    "url": "https://client-zero-tech.lusion.co/",
+    "title": "ZERO - Distribute the Future",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Inter, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "normal",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 603,
+          "y": 212,
+          "width": 234,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "36px",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 510,
+          "y": 66,
+          "width": 293,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 510,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 725,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 940,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 1155,
+          "y": 401,
+          "width": 215,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 510,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 725,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 940,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1155,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 50,
+          "y": 295,
+          "width": 900,
+          "height": 220
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "100px",
+          "lineHeight": "100px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 373,
+          "y": 1615,
+          "width": 177,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "76px",
+          "lineHeight": "76px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 117,
+          "y": 2130,
+          "width": 560,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 763,
+          "y": 2130,
+          "width": 560,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 406,
+          "y": 3062,
+          "width": 628,
+          "height": 100
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "100px",
+          "lineHeight": "100px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 390,
+          "y": 4863,
+          "width": 660,
+          "height": 154
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "76.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 58,
+        "rect": {
+          "x": 390,
+          "y": 5061,
+          "width": 660,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "21px",
+          "lineHeight": "29.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 170,
+          "y": 5620,
+          "width": 430,
+          "height": 106
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "52.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "52.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "introMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "zeroOsMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "integrationsMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "zeroIdMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://www.zero.tech/",
+      "https://twitter.com/zero__tech",
+      "https://t.me/wilder_world",
+      "https://github.com/zer0-os",
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://zero.live/",
+      "https://zero.live/",
+      "https://zero.tech/",
+      "https://zero.tech/",
+      "https://zero.space/",
+      "https://zero.space/",
+      "https://www.wilderworld.com/",
+      "https://www.wilderworld.com/",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://github.com/zer0-os/zNS",
+      "https://github.com/zer0-os/zNS",
+      "https://github.com/zer0-os/zToken",
+      "https://github.com/zer0-os/zToken",
+      "https://github.com/zer0-os/zDAO",
+      "https://github.com/zer0-os/zDAO",
+      "https://github.com/zer0-os/zAuction",
+      "https://github.com/zer0-os/zAuction",
+      "https://github.com/zer0-os/zXP",
+      "https://github.com/zer0-os/zXP",
+      "https://github.com/zer0-os/zFI",
+      "https://github.com/zer0-os/zFI",
+      "https://github.com/zer0-os/zChain",
+      "https://github.com/zer0-os/zChain",
+      "https://coinmarketcap.com/currencies/zero-tech/",
+      "https://coinmarketcap.com/currencies/zero-tech/",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2",
+      "https://etherscan.io/token/0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
+      "https://etherscan.io/token/0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
+      "https://res.cloudinary.com/fact0ry/image/upload/v1602993979/ZER0_WHITEPAPER_-_v0.8_-_Official_wkjgwe.pdf",
+      "https://res.cloudinary.com/fact0ry/image/upload/v1602993979/ZER0_WHITEPAPER_-_v0.8_-_Official_wkjgwe.pdf",
+      "https://www.dropbox.com/sh/blf8nmnz0g2rjaj/AABNrXeCwI4CdmgzMgwswxfma?dl=0",
+      "https://www.dropbox.com/sh/blf8nmnz0g2rjaj/AABNrXeCwI4CdmgzMgwswxfma?dl=0",
+      "https://www.dropbox.com/s/5v0fute7s3t44hy/Zero%20Deck.pdf?dl=0",
+      "https://www.dropbox.com/s/5v0fute7s3t44hy/Zero%20Deck.pdf?dl=0",
+      "https://careers.zero.tech/",
+      "https://careers.zero.tech/",
+      "https://zine.live/",
+      "https://zine.live/",
+      "https://zero.study/",
+      "https://zero.study/",
+      "https://www.zine.live/subscribe/",
+      "https://www.zine.live/subscribe/",
+      "https://www.zero.tech/privacy-policy/",
+      "https://www.zero.tech/privacy-policy/",
+      "https://www.zero.tech/terms/",
+      "https://www.zero.tech/terms/",
+      "https://www.zero.tech/innersource/",
+      "https://www.zero.tech/innersource/",
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://www.zero.tech/",
+      "https://twitter.com/zero__tech",
+      "https://t.me/wilder_world",
+      "https://github.com/zer0-os",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/close-menu.png",
+        "poster": "",
+        "width": 48,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/android.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/android.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/ios.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/ios.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/mac.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/mac.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/windows.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/windows.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/linux.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/linux.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/logo/zer-letters.png",
+        "poster": "",
+        "width": 126,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/logo/zero-logo.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/close-menu.png",
+        "poster": "",
+        "width": 48,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-moon.png",
+        "poster": "",
+        "width": 44,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-dotted.png",
+        "poster": "",
+        "width": 112,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-stroke.png",
+        "poster": "",
+        "width": 112,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/intro/intro-year.png",
+        "poster": "",
+        "width": 172,
+        "height": 172
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-circle.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/chat.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/trade.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/share.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/vote.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/stake.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/zeroId.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/chat-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord_light.png",
+        "poster": "",
+        "width": 34,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram_light.png",
+        "poster": "",
+        "width": 34,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/trade-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/share-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/vote-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/stake-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-rectangle.png",
+        "poster": "",
+        "width": 44,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ethereum.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ethereum.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ipfs.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ipfs.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/the-graph.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/the-graph.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/snapshot.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/snapshot.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/opensea.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/opensea.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/gnosis.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/gnosis.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/polygon.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/polygon.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/starkware.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/starkware.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/unreal-engine.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/unreal-engine.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/twitter.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/twitter.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/sendbird.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/sendbird.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/header-rectangle.png",
+        "poster": "",
+        "width": 44,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/citizenship.png",
+        "poster": "",
+        "width": 148,
+        "height": 130
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/identity.png",
+        "poster": "",
+        "width": 124,
+        "height": 136
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/wallet.png",
+        "poster": "",
+        "width": 133,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/black-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/black-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/discover-now.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 500,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 600,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 700,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://client-zero-tech.lusion.co/",
+    "title": "ZERO - Distribute the Future",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Inter, sans-serif",
+      "fontSize": "10px",
+      "lineHeight": "normal",
+      "fontWeight": "500",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "10px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 603,
+          "y": 212,
+          "width": 234,
+          "height": 36
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "36px",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 510,
+          "y": 66,
+          "width": 293,
+          "height": 64
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "64px",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 510,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 725,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 940,
+          "y": 423,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 0,
+        "rect": {
+          "x": 1155,
+          "y": 401,
+          "width": 215,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 510,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 725,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 7,
+        "rect": {
+          "x": 940,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 1155,
+          "y": 610,
+          "width": 215,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "normal",
+          "fontWeight": "500",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 22)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 20,
+        "rect": {
+          "x": 50,
+          "y": -2405,
+          "width": 900,
+          "height": 220
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "100px",
+          "lineHeight": "100px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 4,
+        "rect": {
+          "x": 373,
+          "y": -1085,
+          "width": 177,
+          "height": 86
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "76px",
+          "lineHeight": "76px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "relative"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 33,
+        "rect": {
+          "x": 117,
+          "y": -570,
+          "width": 560,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 34,
+        "rect": {
+          "x": 763,
+          "y": -570,
+          "width": 560,
+          "height": 240
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 29,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 40,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "60px",
+          "lineHeight": "60px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 12,
+        "rect": {
+          "x": 406,
+          "y": 362,
+          "width": 628,
+          "height": 100
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "100px",
+          "lineHeight": "100px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 11,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"IBM Plex Mono\", monospace",
+          "fontSize": "12px",
+          "lineHeight": "14.4px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 38,
+        "rect": {
+          "x": 390,
+          "y": 2163,
+          "width": 660,
+          "height": 154
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "64px",
+          "lineHeight": "76.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H5",
+        "id": "",
+        "characters": 58,
+        "rect": {
+          "x": 390,
+          "y": 2361,
+          "width": 660,
+          "height": 29
+        },
+        "style": {
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "21px",
+          "lineHeight": "29.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 19,
+        "rect": {
+          "x": 170,
+          "y": 2920,
+          "width": 430,
+          "height": 106
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "52.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 25,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "neue-haas-unica, sans-serif",
+          "fontSize": "44px",
+          "lineHeight": "52.8px",
+          "fontWeight": "500",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "introMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "zeroOsMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "integrationsMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      },
+      {
+        "id": "zeroIdMobileCanvas",
+        "width": 72,
+        "height": 72,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://www.zero.tech/",
+      "https://twitter.com/zero__tech",
+      "https://t.me/wilder_world",
+      "https://github.com/zer0-os",
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://zero.live/",
+      "https://zero.live/",
+      "https://zero.tech/",
+      "https://zero.tech/",
+      "https://zero.space/",
+      "https://zero.space/",
+      "https://www.wilderworld.com/",
+      "https://www.wilderworld.com/",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://client-zero-tech.lusion.co/url",
+      "https://github.com/zer0-os/zNS",
+      "https://github.com/zer0-os/zNS",
+      "https://github.com/zer0-os/zToken",
+      "https://github.com/zer0-os/zToken",
+      "https://github.com/zer0-os/zDAO",
+      "https://github.com/zer0-os/zDAO",
+      "https://github.com/zer0-os/zAuction",
+      "https://github.com/zer0-os/zAuction",
+      "https://github.com/zer0-os/zXP",
+      "https://github.com/zer0-os/zXP",
+      "https://github.com/zer0-os/zFI",
+      "https://github.com/zer0-os/zFI",
+      "https://github.com/zer0-os/zChain",
+      "https://github.com/zer0-os/zChain",
+      "https://coinmarketcap.com/currencies/zero-tech/",
+      "https://coinmarketcap.com/currencies/zero-tech/",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2",
+      "https://etherscan.io/token/0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
+      "https://etherscan.io/token/0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
+      "https://res.cloudinary.com/fact0ry/image/upload/v1602993979/ZER0_WHITEPAPER_-_v0.8_-_Official_wkjgwe.pdf",
+      "https://res.cloudinary.com/fact0ry/image/upload/v1602993979/ZER0_WHITEPAPER_-_v0.8_-_Official_wkjgwe.pdf",
+      "https://www.dropbox.com/sh/blf8nmnz0g2rjaj/AABNrXeCwI4CdmgzMgwswxfma?dl=0",
+      "https://www.dropbox.com/sh/blf8nmnz0g2rjaj/AABNrXeCwI4CdmgzMgwswxfma?dl=0",
+      "https://www.dropbox.com/s/5v0fute7s3t44hy/Zero%20Deck.pdf?dl=0",
+      "https://www.dropbox.com/s/5v0fute7s3t44hy/Zero%20Deck.pdf?dl=0",
+      "https://careers.zero.tech/",
+      "https://careers.zero.tech/",
+      "https://zine.live/",
+      "https://zine.live/",
+      "https://zero.study/",
+      "https://zero.study/",
+      "https://www.zine.live/subscribe/",
+      "https://www.zine.live/subscribe/",
+      "https://www.zero.tech/privacy-policy/",
+      "https://www.zero.tech/privacy-policy/",
+      "https://www.zero.tech/terms/",
+      "https://www.zero.tech/terms/",
+      "https://www.zero.tech/innersource/",
+      "https://www.zero.tech/innersource/",
+      "https://zer0.io/a/invite/PDYdvRffXaLn",
+      "https://www.zero.tech/",
+      "https://twitter.com/zero__tech",
+      "https://t.me/wilder_world",
+      "https://github.com/zer0-os",
+      "https://app.uniswap.org/#/swap?outputCurrency=0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8&inputCurrency=ETH&use=V2"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/close-menu.png",
+        "poster": "",
+        "width": 48,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/android.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/android.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/ios.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/ios.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/mac.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/mac.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/windows.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/windows.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/linux.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/download/linux.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/logo/zer-letters.png",
+        "poster": "",
+        "width": 126,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/logo/zero-logo.png",
+        "poster": "",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow-down.png",
+        "poster": "",
+        "width": 16,
+        "height": 8
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/close-menu.png",
+        "poster": "",
+        "width": 48,
+        "height": 49
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-moon.png",
+        "poster": "",
+        "width": 44,
+        "height": 64
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-dotted.png",
+        "poster": "",
+        "width": 112,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/intro/circle-stroke.png",
+        "poster": "",
+        "width": 112,
+        "height": 112
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/intro/intro-year.png",
+        "poster": "",
+        "width": 172,
+        "height": 172
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-circle.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/chat.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/trade.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/share.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/vote.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/stake.png",
+        "poster": "",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroOs/zeroId.png",
+        "poster": "",
+        "width": 200,
+        "height": 200
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/chat-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord_light.png",
+        "poster": "",
+        "width": 34,
+        "height": 26
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram_light.png",
+        "poster": "",
+        "width": 34,
+        "height": 29
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/trade-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/share-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/vote-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/hero/stake-120.png",
+        "poster": "",
+        "width": 2880,
+        "height": 2880
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/decoration/triangle.png",
+        "poster": "",
+        "width": 10,
+        "height": 10
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/ui/double-rectangle.png",
+        "poster": "",
+        "width": 44,
+        "height": 33
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ethereum.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ethereum.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ipfs.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/ipfs.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/the-graph.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/the-graph.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/snapshot.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/snapshot.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/opensea.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/opensea.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/gnosis.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/gnosis.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/polygon.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/polygon.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/starkware.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/starkware.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/unreal-engine.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/unreal-engine.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/twitter.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/twitter.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/discord.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/telegram.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/sendbird.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/integrations/sendbird.png",
+        "poster": "",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/header-rectangle.png",
+        "poster": "",
+        "width": 44,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/citizenship.png",
+        "poster": "",
+        "width": 148,
+        "height": 130
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/identity.png",
+        "poster": "",
+        "width": 124,
+        "height": 136
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/zeroId/wallet.png",
+        "poster": "",
+        "width": 133,
+        "height": 128
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/white-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/black-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/black-arrow.png",
+        "poster": "",
+        "width": 32,
+        "height": 32
+      },
+      {
+        "tag": "IMG",
+        "url": "https://client-zero-tech.lusion.co/assets/images/icons/layout/discover-now.png",
+        "poster": "",
+        "width": 48,
+        "height": 48
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 800,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 800,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 100,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 15000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 15000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 15000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 15000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 25000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 20000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "finished",
+        "duration": 900,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      },
+      {
+        "type": "CSSAnimation",
+        "playState": "running",
+        "duration": 10000,
+        "iterations": "Infinity"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [
+    "Uncaught (in promise)"
+  ],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 62825,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

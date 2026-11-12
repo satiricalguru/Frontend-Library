@@ -1,0 +1,2 @@
+# Python's csv writer uses standard CSV CRLF line endings.
+data/sources.csv whitespace=cr-at-eol

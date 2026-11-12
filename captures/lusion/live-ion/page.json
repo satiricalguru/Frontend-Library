@@ -1,0 +1,682 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-ion",
+  "name": "Ion \u2014 live WebGL speaker landing page",
+  "url": "https://exp-ion.lusion.co/",
+  "source": "https://labs.lusion.co/exp/ion-speaker",
+  "kind": "landing-page",
+  "capturedAt": "2026-11-12T08:09:21.029Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-ion.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:09:21.016Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry.",
+    "Initial checkpoint includes loading/entrance. Preview uses the later intro viewport. All six named scene states were observed, but geometry does not measure complete interaction coverage."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--intro",
+          "header",
+          "footer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 3556,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--intro",
+          "header",
+          "footer"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 6862,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--design1",
+          "header",
+          "footer",
+          "scroll",
+          "scroll-markers"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 12088,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--design2",
+          "header",
+          "footer",
+          "scroll",
+          "scroll-markers"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 21662,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--audio1",
+          "header",
+          "footer",
+          "scroll",
+          "scroll-progress",
+          "scroll-markers"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 39985,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-ion.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--material2",
+          "header",
+          "footer",
+          "scroll",
+          "scroll-progress",
+          "scroll-markers"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-ion.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/click.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/genres/calm.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/genres/elegance.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/genres/rave.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/hurl.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/rollout.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/audios/rollover.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/fonts/PPNeueMontreal-Book.otf",
+      "status": 200,
+      "mimeType": "application/vnd.oasis.opendocument.formula-template",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/fonts/PPNeueMontreal-Medium.otf",
+      "status": 200,
+      "mimeType": "application/vnd.oasis.opendocument.formula-template",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/fonts/PPNeueMontreal-Thin.otf",
+      "status": 200,
+      "mimeType": "application/vnd.oasis.opendocument.formula-template",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/meta/favicon-32x32.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_audio1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_design1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_design2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_intro.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_material1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/cam_material2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/models/product.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/nx.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/ny.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/nz.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/px.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/py.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/env1/pz.hdr",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Fetch"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/floor.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/gradients/gradient_1.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/product/info.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/product/normal_test2.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/product/normal_test3.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/assets/textures/product/shadow.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/favicon.ico",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/index.5d0c7deb.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-ion.lusion.co/style.505cb7ab.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 49628,
+      "sha256": "3d644e4e49d0293acbc02a91afe2f70386f3162e596a8f5e081b64c791c5009e"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 62162,
+      "sha256": "019b36090cb45954d939c588fb499cbaec25db735e0d332f9ae3bc2c9036a65a"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 93612,
+      "sha256": "457b36bd46bd5b41bd83533ee18937df0ed4f4f3ea0a345da12f8f159fbb99ff"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 121727,
+      "sha256": "1300cade94418ab49c20510eda77d9571afff093a4a520533c670fcdae221bdc"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 149496,
+      "sha256": "5d239d657077b30b6be044792176da5811ecd02b730eb2ecf3fec372b6d84670"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 86630,
+      "sha256": "3610c5ada8d3abc8023ab44401500da8d5220ffc037cfb537f4776dd3f0cdcf2"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 1225944,
+      "sha256": "1a365a606714bde61cf52cf2644b1afbcd1b2c848bad43e6ab3d1e1ead5711d0"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-ion.lusion.co/",
+    "title": "Ion X1 | Overview",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 46,
+        "height": 46,
+        "rect": {
+          "x": 51,
+          "y": 844,
+          "width": 23,
+          "height": 23
+        }
+      }
+    ],
+    "links": [
+      "https://www.awwwards.com/sites/ion-x1",
+      "https://thefwa.com/cases/ion-x1",
+      "https://lusion.co/",
+      "https://thefwa.com/cases/ion-x1",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/ajayns_",
+      "https://twitter.com/thenerodesign",
+      "https://twitter.com/u29dc",
+      "https://lusion.co/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-ion.lusion.co/",
+    "title": "Ion X1 | Customization",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "canvas",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "not-supported-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "PPNeueMontreal, -apple-system, \"system-ui\", \"Inter var\", Inter, \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, Roboto, Ubuntu, sans-serif",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 46,
+        "height": 46,
+        "rect": {
+          "x": 51,
+          "y": 823,
+          "width": 23,
+          "height": 23
+        }
+      }
+    ],
+    "links": [
+      "https://www.awwwards.com/sites/ion-x1",
+      "https://thefwa.com/cases/ion-x1",
+      "https://lusion.co/",
+      "https://thefwa.com/cases/ion-x1",
+      "https://www.instagram.com/lusionltd/?hl=en",
+      "https://www.facebook.com/lusionltd/",
+      "https://twitter.com/lusionltd/",
+      "https://uk.linkedin.com/company/lusionltd",
+      "https://twitter.com/PatHeintzmann",
+      "https://twitter.com/mlperego",
+      "https://twitter.com/ajayns_",
+      "https://twitter.com/thenerodesign",
+      "https://twitter.com/u29dc",
+      "https://lusion.co/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 39985,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-01.jpg"
+}

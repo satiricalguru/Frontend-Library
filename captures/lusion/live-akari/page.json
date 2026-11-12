@@ -1,0 +1,819 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-akari",
+  "name": "Akari \u2014 live experience",
+  "url": "https://akari.lusion.co/",
+  "source": "https://labs.lusion.co/exp/choochoo",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:18:07.229Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://akari.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:18:07.228Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "needs-review",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Final visual QA found a mostly blank viewport. Interactive scene entry and complete behavior remain unverified.",
+    "Opening fixed-viewport/pointer state only; zero native travel does not establish complete interaction or scroll coverage."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1780,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "home",
+          "menu"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2521,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "home",
+          "menu"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3468,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "home",
+          "menu"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4214,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "home",
+          "menu"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5176,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://akari.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "home",
+          "menu"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://akari.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://akari.lusion.co/_astro/about.3d866bf6.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://akari.lusion.co/_astro/hoisted.0bc2428b.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/audios/bgm.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/audios/hover_0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/audios/hover_1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/data/200.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/fonts/Inter-Regular.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/0.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/4.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/5.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/6.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/7.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/8.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/models/pong/9.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/textures/akari_logo_stroke.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/textures/akari_logo.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/css/1090-gi-2d.webflow.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://akari.lusion.co/css/normalize.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://akari.lusion.co/css/webflow.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://akari.lusion.co/images/arrow_down.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/arrow_up.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/favicon.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-2.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-3.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-4.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-5.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153-6.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-153.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-159_1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-159-1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/Frame-159.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/images/lusionlabs-4.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://akari.lusion.co/js/webflow.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 8452,
+      "sha256": "db423696141afd080e4db5109ada7747e81a7ce332dc31cbd5c9d1f8095afe9a"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 9125,
+      "sha256": "e26f4b27e500200921b0d572a8e5b3390880aed4062801b227b2bebe2003d8f3"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 9153,
+      "sha256": "85d8f990ae4f144ca92614ebaef9bc786de924becd679a4a7aa4a874218b3ab3"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 10659,
+      "sha256": "cc86b314c267a77a0e1d03aa12a4761245d9e140ed7a8ddb7099f4731d6c45fe"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 10610,
+      "sha256": "d3dea38eb542421349582cddd8426170e06f0123658083834986c73bc2ddd151"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 12425,
+      "sha256": "f537d6590642b6057c70588a33f3cc59614c6af7ef176577b583309f185e5ff2"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 4935,
+      "sha256": "24001159e040a737f31a8434bdab99eac0b8f1ed0065a254e1ac9b8cde00968a"
+    }
+  ],
+  "initial": {
+    "url": "https://akari.lusion.co/",
+    "title": "AKARI - A 2D light tracing experiment by Lusion.",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": " w-mod-js",
+    "bodyStyle": {
+      "fontFamily": "Arial, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "16px",
+      "fontWeight": "400",
+      "color": "rgb(51, 51, 51)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "preloader",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 153,
+          "width": 72,
+          "height": 16
+        },
+        "style": {
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "fontWeight": "400",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 153,
+          "width": 1440,
+          "height": 593
+        },
+        "style": {
+          "fontFamily": "Arial, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "fontWeight": "400",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 300,
+        "height": 150,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 300,
+          "height": 150
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.facebook.com/lusionltd",
+      "https://twitter.com/lusionltd",
+      "https://www.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/lusionlabs-4.svg",
+        "poster": "",
+        "width": 138,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-2.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-3.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-4.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-5.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-6.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159.svg",
+        "poster": "",
+        "width": 252,
+        "height": 147
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/arrow_up.svg",
+        "poster": "",
+        "width": 10,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/arrow_down.svg",
+        "poster": "",
+        "width": 10,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159-1.svg",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159_1.svg",
+        "poster": "",
+        "width": 252,
+        "height": 136
+      }
+    ],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "native",
+    "requestedTravel": 0,
+    "actualTravel": 0,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://akari.lusion.co/",
+    "title": "AKARI - A 2D light tracing experiment by Lusion.",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "w-mod-js is-ready is-desktop",
+    "bodyStyle": {
+      "fontFamily": "Inter-Regular",
+      "fontSize": "16px",
+      "lineHeight": "16px",
+      "fontWeight": "400",
+      "color": "rgb(51, 51, 51)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "preloader",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 402,
+          "width": 1440,
+          "height": 97
+        },
+        "style": {
+          "fontFamily": "Inter-Regular",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -48.5)",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "ui",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Inter-Regular",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "fontWeight": "400",
+          "color": "rgb(51, 51, 51)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://akari.lusion.co/#",
+      "https://lusion.co/",
+      "https://labs.lusion.co/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.facebook.com/lusionltd",
+      "https://twitter.com/lusionltd",
+      "https://www.linkedin.com/company/lusionltd",
+      "https://lusion.co/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/lusionlabs-4.svg",
+        "poster": "",
+        "width": 138,
+        "height": 30
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-1.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-2.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-3.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-4.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-5.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-153-6.svg",
+        "poster": "",
+        "width": 16,
+        "height": 16
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159.svg",
+        "poster": "",
+        "width": 252,
+        "height": 147
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/arrow_up.svg",
+        "poster": "",
+        "width": 10,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/arrow_down.svg",
+        "poster": "",
+        "width": 10,
+        "height": 11
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159-1.svg",
+        "poster": "",
+        "width": 252,
+        "height": 137
+      },
+      {
+        "tag": "IMG",
+        "url": "https://akari.lusion.co/images/Frame-159_1.svg",
+        "poster": "",
+        "width": 252,
+        "height": 136
+      }
+    ],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5176,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

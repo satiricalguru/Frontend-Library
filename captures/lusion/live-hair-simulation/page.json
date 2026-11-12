@@ -1,0 +1,372 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-hair-simulation",
+  "name": "Hair Simulation — live experience",
+  "url": "https://hair-simulation.lusion.co/",
+  "source": "https://labs.lusion.co/exp/hair-simulation",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:18:55.824Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://hair-simulation.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:18:55.823Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1054,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2127,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3457,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4522,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5892,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://hair-simulation.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": []
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://hair-simulation.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/css/index.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/css/normalize.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/favicon.ico",
+      "status": 404,
+      "mimeType": "text/html",
+      "type": "Other"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/images/stage.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/images/warrok_diffuse.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/images/warrok_diffuse2.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/images/warrok_normal.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/js/dat.gui.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/js/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/js/three.r81.dev.mrt.min.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/models/stage.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/models/trump.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://hair-simulation.lusion.co/models/warrok.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 95206,
+      "sha256": "f802b6a4e76648af1abf9253dc4e68d444ad96d2868611a1188c6ad6fb96fd11"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 138889,
+      "sha256": "fc73fd739e0416f0f262d4d7be8dae6d9681576a4551d86b218e8b5e7481f803"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 123666,
+      "sha256": "f3a46c11fb8009c749fc6983f483cbbb2a95cdc0d01197817b785cda6a35f0cb"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 118551,
+      "sha256": "8097a85771f10027d8802e3b4dd6cdc2f86f4db74ac2abf9ad50fdac0694ce8c"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 124010,
+      "sha256": "35da17735fb00390730122b345f52a7b8ae9764976417cfe348a4f2e5c41597a"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 120720,
+      "sha256": "073e1efef27064fb7e8e376ff7f450b5d4dc6bffb5e8405ff5da4ba255efa06b"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 555778,
+      "sha256": "e480c86ece1b8937ae43eb71f8902bb2e0271193f7fda883f3920d6f8fbb306a"
+    }
+  ],
+  "initial": {
+    "url": "https://hair-simulation.lusion.co/",
+    "title": "Lusion Lab - Hair Simulation",
+    "documentHeight": 904,
+    "contentHeight": 904,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-supported is-ready",
+    "bodyStyle": {
+      "fontFamily": "Roboto, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://lusion.co/",
+      "http://edankwan.com/",
+      "https://lusion.co/",
+      "https://www.mixamo.com/",
+      "https://sketchfab.com/models/f90df23fcc224494890cc063a50d7aa9",
+      "https://sketchfab.com/raphi14",
+      "https://www.youtube.com/watch?v=8h2FgFkcpIw",
+      "https://lusion.co/"
+    ],
+    "media": [],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 200,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 200,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://hair-simulation.lusion.co/",
+    "title": "Lusion Lab - Hair Simulation",
+    "documentHeight": 904,
+    "contentHeight": 904,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-supported is-ready",
+    "bodyStyle": {
+      "fontFamily": "Roboto, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "transform": "none",
+      "position": "relative"
+    },
+    "pageTransform": "none",
+    "sections": [],
+    "typography": [],
+    "canvases": [
+      {
+        "id": "",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://lusion.co/",
+      "http://edankwan.com/",
+      "https://lusion.co/",
+      "https://www.mixamo.com/",
+      "https://sketchfab.com/models/f90df23fcc224494890cc063a50d7aa9",
+      "https://sketchfab.com/raphi14",
+      "https://www.youtube.com/watch?v=8h2FgFkcpIw",
+      "https://lusion.co/"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5892,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

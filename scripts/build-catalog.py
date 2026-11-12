@@ -74,8 +74,9 @@ def build_refero():
             track(fn, s["name"], s["url"], s["source"], col)
         write(fn, out)
     # index
-    out = header("Refero design systems", "🎨", "AI-readable design systems (colors, typography, spacing, DESIGN.md) of real product websites, grouped by industry.", "https://styles.refero.design/", col, len(items))
+    out = header("Refero design systems", "🎨", "Palette/typeface metadata and links to Refero's design-system pages, grouped by industry. DESIGN.md files, spacing systems and animations are not bundled.", "https://styles.refero.design/", col, len(items))
     out += ATTR.format(src="../../SOURCES.md", csv="../../data/sources.csv")
+    out += "**Coverage:** all 1,342 URLs in the inspected public style sitemap are indexed. Refero disallows AI crawlers; no new style detail crawl was performed. See [source policies](../../data/source-policies.json) and the [agent workflow](../../.agents/skills/frontend-library/SKILL.md).\n\n"
     themes = Counter(s["theme"] for s in items)
     out += f"**Themes:** ☀️ {themes['light']} light · 🌙 {themes['dark']} dark · 🌓 {themes['mixed']} mixed\n\n"
     out += "| Category | Styles | Browse |\n|:--|--:|:--|\n"
@@ -153,6 +154,7 @@ def build_lusion():
     fn = "inspiration/lusion/README.md"
     out = header("Lusion projects & labs", "🪐", "Award-winning 3D, WebGL and interactive web work by Lusion, plus their R&D experiments.", "https://lusion.co/projects", col, len(items))
     out += ATTR.format(src="../../SOURCES.md", csv="../../data/sources.csv")
+    out += "**Go beyond links:** [page captures, motion recordings and DOM evidence](../../docs/reference-library/README.md) · [homepage deep dive](../../docs/reference-library/lusion-home.md) · [agent skill](../../.agents/skills/frontend-library/SKILL.md). Case studies and the live client sites they describe are separate references.\n\n"
     out += "## 🏆 Case studies\n\n| # | Project | Disciplines |\n|--:|:--|:--|\n"
     for i, x in enumerate([x for x in items if x["type"] == "project"], 1):
         out += f"| {i} | [{esc(x['name'])}]({x['url']}) | {' · '.join(x['tags']) or '—'} |\n"
@@ -244,12 +246,16 @@ def build_sources(entries):
         u = "<br>".join(f"<code>{x}</code>" if "<" in x or " " in x else f"<{x}>" for x in urls)
         out += f"| [{fn}]({fn}) | {n:,} | {u} |\n"
     out += "\n## 🌍 Source sites\n\n| Site | What we index | Terms to respect |\n|:--|:--|:--|\n"
-    out += "| [lusion.co](https://lusion.co/) | Case studies + Labs experiments | Links only; all work © Lusion |\n"
+    out += "| [lusion.co](https://lusion.co/) | Case studies, Labs, rendered-page screenshots and browser recordings | Reference evidence; all original work © Lusion. No model, shader, font or source-code reuse licence granted |\n"
     out += "| [styles.refero.design](https://styles.refero.design/) | Brand palettes, typefaces, style pages | Links + factual color/font data; DESIGN.md files stay on Refero |\n"
     out += "| [motion.dev](https://motion.dev/) | Examples + UI components | Motion library is MIT; example pages © Motion |\n"
     out += "| [transitions.dev](https://transitions.dev/) | Transition library | Links only (custom license); our own versions live in `animations/snippets/` |\n"
     out += "| [godly.design](https://godly.design/) | Websites, sections, templates, tools, resources | Links only; designs © their owners |\n"
     out += "| [elements.envato.com/fonts/awards](https://elements.envato.com/fonts/awards) | Premium award fonts | Names + links only; fonts need an Envato licence |\n"
+    out += "| [Codrops](https://tympanus.net/codrops/tag/webgl/) / [official demos](https://github.com/codrops) | WebGL article links and creative demo repository metadata | AI crawl restriction respected; licences vary by demo repository |\n"
+    out += "| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Attributed, commit-pinned DESIGN.md analyses | Upstream MIT licence retained; website assets/brands are separate |\n"
+    out += "| [Brad Traversy's design resources](https://github.com/bradtraversy/design-resources-for-developers#stock-videos) | Stock-video, media, motion and design-resource links | List MIT; check each provider and asset licence before reuse |\n"
+    out += "\nCapture packages overlap the Lusion link catalog; tracked rows are not unique websites. [Source crawling policies](data/source-policies.json) distinguish public Lusion captures from Refero's existing metadata index.\n"
     out += "\n## 🔍 Find the source of any entry\n\n```bash\n# which page did \"Linear\" come from?\ngrep -i '\"Linear\"\\|,Linear,' data/sources.csv\n```\n\nColumns: `library_file, name, item_url, taken_from, collected`.\n\n"
     out += "## ♻️ Rebuild\n\n```bash\npython3 scripts/build-catalog.py\n```\n"
     write("SOURCES.md", out)
@@ -261,6 +267,21 @@ def build_sources(entries):
 
 if __name__ == "__main__":
     entries = [build_lusion(), build_refero(), build_motion(), build_transitions(), *build_godly(), build_envato()]
+    for filename, guide in [("codrops-webgl.json", "inspiration/codrops/README.md"),
+                            ("design-md.json", "styles/design-md/README.md"),
+                            ("video-resources.json", "images/video-resources/README.md")]:
+        path = DATA / filename
+        if path.exists():
+            dataset = json.loads(path.read_text())
+            for item in dataset["items"]:
+                track(guide, item["name"], item["url"], item["source"], item.get("collected", dataset["collected"]))
+            entries.append((guide, len(dataset["items"]), sorted({item["source"] for item in dataset["items"]})))
+    captures = DATA / "landing-pages.json"
+    if captures.exists():
+        records = json.loads(captures.read_text())["items"]
+        for item in records:
+            track(item["guide"], item["name"], item["url"], item["source"], item["capturedAt"][:10])
+        entries.append(("docs/reference-library/README.md", len(records), sorted({item["source"] for item in records})))
     snip = ROOT / "animations/snippets/SOURCES.json"
     if snip.exists():
         s = json.loads(snip.read_text())

@@ -1,0 +1,958 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "project-atlas-motion",
+  "name": "Atlas Motion",
+  "url": "https://lusion.co/projects/atlas_motion",
+  "source": "https://lusion.co/projects",
+  "kind": "case-study",
+  "capturedAt": "2026-11-12T08:21:15.154Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:21:01.472Z",
+    "rules": [
+      {
+        "allow": true,
+        "path": "/"
+      }
+    ],
+    "status": 200,
+    "htmlFallback": false
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1149,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2243,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3579,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4578,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5853,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://lusion.co/projects/atlas_motion",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibleIds": [
+          "canvas",
+          "header",
+          "header-background",
+          "header-menu",
+          "header-menu-links",
+          "header-menu-newsletter",
+          "header-menu-newsletter-title",
+          "project-details",
+          "project-details-items-wrapper",
+          "project-details-items-move-container",
+          "project-details-meta",
+          "project-details-left",
+          "project-details-desc",
+          "project-details-right",
+          "project-details-side-list",
+          "project-details-side-list-services",
+          "project-details-preview",
+          "project-details-preview-inner",
+          "scroll-indicator",
+          "scroll-indicator-bar"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://lusion.co/_astro/about.CNa9RfUh.css",
+      "status": 304,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://lusion.co/_astro/hoisted.CUO_IjfL.js",
+      "status": 304,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Medium.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-Regular.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/Aeonik-RegularItalic.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Medium.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/IBMPlexMono-Regular.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/fonts/LusionMono.woff2",
+      "status": 304,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://lusion.co/assets/images/icons/arrow-down.svg",
+      "status": 304,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://lusion.co/projects/atlas_motion/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://lusion.co/projects/devin_ai/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/cinematic_3.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/click_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/focus_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic_end.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/generic.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/glass_broken.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/hover_2.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_0.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/audios/page_1.ogg",
+      "status": 200,
+      "mimeType": "audio/ogg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/models/plant.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/1.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/2.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/3.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/4.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/5.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/6.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/projects/atlas_motion/main.mp4",
+      "status": 206,
+      "mimeType": "video/mp4",
+      "type": "Media"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/flip_texture.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-area.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://lusion.dev/assets/textures/smaa-search.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 73267,
+      "sha256": "772e9ac17d3403a44503d6b8db90695c0ac4f8cb3e7b5b25deb91cb9b712e75a"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 77004,
+      "sha256": "6a1e558fd2a89008fb74d24b266428f00c21d80d9fabe844347c79ec1a7bd4f6"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 52269,
+      "sha256": "76f39e4fc557be1817540f78e1ac3fded351de7b3196c57bfee6658ee3010be2"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 48964,
+      "sha256": "5b35591609150c18addd12a7bc6f0a5e890cc9e93f320ed9963d8e723453760d"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 52275,
+      "sha256": "378ba3920592a4b3067fb7378a8e1f6ff546a2b6c122e5f8c664814eb8da8f23"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 53500,
+      "sha256": "894c3a53c71e7b93d3bd4108b6f6dbccfb087619f108bbaf574916db8e2d3b57"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 177917,
+      "sha256": "1907ad1f1da425f68a8b0d6b19f8b9a4ee79feefb6c31898ba4320135e9b9036"
+    }
+  ],
+  "initial": {
+    "url": "https://lusion.co/projects/atlas_motion",
+    "title": "Lusion - Atlas Motion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "project-details",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 253, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "project-details-title",
+        "characters": 12,
+        "rect": {
+          "x": 72,
+          "y": 260,
+          "width": 544,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "72px",
+          "lineHeight": "68.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 253, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 507,
+          "y": 376,
+          "width": 109,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "12px",
+          "lineHeight": "13.8px",
+          "fontWeight": "400",
+          "color": "rgb(246, 88, 147)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": 507,
+          "y": 551,
+          "width": 109,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "12px",
+          "lineHeight": "13.8px",
+          "fontWeight": "400",
+          "color": "rgb(246, 88, 147)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "project-details-preview-title",
+        "characters": 8,
+        "rect": {
+          "x": 1512,
+          "y": 416,
+          "width": 544,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "72px",
+          "lineHeight": "68.4px",
+          "fontWeight": "400",
+          "color": "rgb(194, 195, 199)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -34.1953)",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 50,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://atlasmotion.com/",
+      "https://atlasmotion.com/",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IFRAME",
+        "url": "https://player.vimeo.com/video/761102167?title=0&byline=0&controls=0&app_id=122963",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://lusion.co/projects/atlas_motion",
+    "title": "Lusion - Atlas Motion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Aeonik",
+      "fontSize": "16px",
+      "lineHeight": "18.4px",
+      "fontWeight": "400",
+      "color": "rgb(240, 241, 250)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "transform": "none",
+      "position": "static"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "project-details",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "16px",
+          "lineHeight": "18.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 253, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H3",
+        "id": "header-menu-newsletter-title",
+        "characters": 27,
+        "rect": {
+          "x": 1082,
+          "y": 528,
+          "width": 255,
+          "height": 102
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "38px",
+          "lineHeight": "43.7px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "project-details-title",
+        "characters": 12,
+        "rect": {
+          "x": -1722,
+          "y": 260,
+          "width": 544,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "72px",
+          "lineHeight": "68.4px",
+          "fontWeight": "400",
+          "color": "rgb(255, 253, 224)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -1793.66, 0)",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": -210,
+          "y": 376,
+          "width": 109,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "12px",
+          "lineHeight": "13.8px",
+          "fontWeight": "400",
+          "color": "rgb(246, 88, 147)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H4",
+        "id": "",
+        "characters": 5,
+        "rect": {
+          "x": -390,
+          "y": 551,
+          "width": 109,
+          "height": 14
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "12px",
+          "lineHeight": "13.8px",
+          "fontWeight": "400",
+          "color": "rgb(246, 88, 147)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "project-details-preview-title",
+        "characters": 8,
+        "rect": {
+          "x": 5097,
+          "y": 416,
+          "width": 544,
+          "height": 68
+        },
+        "style": {
+          "fontFamily": "Aeonik",
+          "fontSize": "72px",
+          "lineHeight": "68.4px",
+          "fontWeight": "400",
+          "color": "rgb(194, 195, 199)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, 0, -34.1953)",
+          "position": "absolute"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 45,
+        "height": 45,
+        "rect": {
+          "x": 1053,
+          "y": 50,
+          "width": 45,
+          "height": 45
+        }
+      },
+      {
+        "id": "transition-overlay",
+        "width": 1442,
+        "height": 902,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://lusion.co/",
+      "https://lusion.co/",
+      "https://lusion.co/about",
+      "https://lusion.co/projects",
+      "https://labs.lusion.co/",
+      "https://atlasmotion.com/",
+      "https://atlasmotion.com/",
+      "https://goo.gl/maps/x9evc1NxZocjrM947",
+      "https://twitter.com/lusionltd/",
+      "https://www.instagram.com/lusionltd/",
+      "https://www.linkedin.com/company/lusionltd/",
+      "https://labs.lusion.co/"
+    ],
+    "media": [
+      {
+        "tag": "IFRAME",
+        "url": "https://player.vimeo.com/video/761102167?title=0&byline=0&controls=0&app_id=122963",
+        "poster": "",
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "animations": [],
+    "loadingOverlays": [],
+    "brokenImages": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5853,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

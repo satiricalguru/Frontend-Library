@@ -1,0 +1,613 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-covid-spike",
+  "name": "Exp Covid Spike — live experience",
+  "url": "https://exp-covid-spike.lusion.co/",
+  "source": "https://labs.lusion.co/exp/covid-spike",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:18:21.789Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-covid-spike.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:18:21.788Z",
+    "rules": [],
+    "status": 404,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "captured",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 991,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--preloader"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 2428,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--home",
+          "overlay-introduction-container",
+          "overlay-controller-container"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3674,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--home",
+          "overlay-introduction-container",
+          "overlay-controller-container"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4611,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--home",
+          "overlay-introduction-container",
+          "overlay-controller-container"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5795,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-covid-spike.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "canvas",
+          "ui",
+          "page--home",
+          "overlay-introduction-container",
+          "overlay-controller-container"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-covid-spike.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/audios//hover_0.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/audios//hover_1.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/audios//Indigo_AdobeStock_357323058.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/audios//tap_0.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/audios//tap_1.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/meta/android-chrome-192x192.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/meta/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_a_info.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_a.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_b_info.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_b.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_c_info.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/models/chain_c.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/textures/dust-texture.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/textures/floor.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/textures/LDR_RGB1_0.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/assets/textures/matcap/Jade.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-covid-spike.lusion.co/style.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 9201,
+      "sha256": "f15021be670f0faabd6ca6053de6204defc7b7c4a0be4947d1a1aa3e9fdeea53"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 9514,
+      "sha256": "30d9fe680a1f9df84b972ef0ce90833a16f9e5ebdfc3076c1e83134abb73627d"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 12088,
+      "sha256": "abb9965be61dfb7c7156e25364b36b1f18371ff8b3bc8ac74e3172b01730d7bc"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 23353,
+      "sha256": "6b4c4cc3f145caed9703b6edc2387348702da7d6757ed5e039e9146e8aa90ec6"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 22810,
+      "sha256": "7540003f36f717325f326801c390afb40c88327ff92e4c8cafa386ccaf98eead"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 24932,
+      "sha256": "ea265c3e38546216de6ee9e6b2e0622db4d11a97ed1f10e7d09567c93a14e2b0"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 45978,
+      "sha256": "f7bc9af5665aae4553f722f08f22ff2b49c47ea66f8ef898a21c65febdbdbb64"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-covid-spike.lusion.co/",
+    "title": "SARS-CoV-2 // Spike Protein - Demo by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop",
+    "bodyStyle": {
+      "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(9, 7, 25)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "overlay-introduction-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "overlay-controller-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "overlay-protein-info",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "13px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgb(9, 7, 25)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "home-overlay-introduction-title",
+        "characters": 30,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "19.5px",
+          "lineHeight": "22.425px",
+          "fontWeight": "700",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 100,
+        "height": 100,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://lusion.co/",
+      "https://entagma.com/guest-tutorial-dr-jeroen-claus-rendering-the-corona-virus-spike-protein/",
+      "https://twitter.com/jeroen_claus",
+      "https://www.rcsb.org/",
+      "https://lusion.co/",
+      "https://twitter.com/lusionltd",
+      "https://facebook.com/lusionltd/",
+      "https://instagram.com/lusionltd/",
+      "https://medium.com/lusion-ltd/",
+      "https://linkedin.com/company/lusionltd"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-covid-spike.lusion.co/",
+    "title": "SARS-CoV-2 // Spike Protein - Demo by Lusion",
+    "documentHeight": 900,
+    "contentHeight": 900,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+      "fontSize": "13px",
+      "lineHeight": "14.95px",
+      "fontWeight": "400",
+      "color": "rgb(239, 239, 239)",
+      "backgroundColor": "rgb(9, 7, 25)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "overlay-introduction-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 470,
+          "y": 394,
+          "width": 500,
+          "height": 113
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -250, -56.2891)",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "overlay-controller-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 599,
+          "y": 688,
+          "width": 243,
+          "height": 162
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "14.95px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "matrix(1, 0, 0, 1, -121.32, 0)",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "overlay-protein-info",
+        "tag": "DIV",
+        "rect": {
+          "x": 447,
+          "y": 369,
+          "width": 8,
+          "height": 6
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "13px",
+          "lineHeight": "13px",
+          "fontWeight": "400",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgb(9, 7, 25)",
+          "transform": "matrix(1, 0, 0, 1, 422, 378)",
+          "position": "fixed"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H2",
+        "id": "home-overlay-introduction-title",
+        "characters": 30,
+        "rect": {
+          "x": 470,
+          "y": 410,
+          "width": 500,
+          "height": 22
+        },
+        "style": {
+          "fontFamily": "SFMono-Regular, \"Jetbrains Mono\", Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", \"Lucida Console\", monospace",
+          "fontSize": "19.5px",
+          "lineHeight": "22.425px",
+          "fontWeight": "700",
+          "color": "rgb(239, 239, 239)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "canvas",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      },
+      {
+        "id": "",
+        "width": 100,
+        "height": 100,
+        "rect": {
+          "x": 650,
+          "y": 730,
+          "width": 139,
+          "height": 139
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://lusion.co/",
+      "https://entagma.com/guest-tutorial-dr-jeroen-claus-rendering-the-corona-virus-spike-protein/",
+      "https://twitter.com/jeroen_claus",
+      "https://www.rcsb.org/",
+      "https://lusion.co/",
+      "https://twitter.com/lusionltd",
+      "https://facebook.com/lusionltd/",
+      "https://instagram.com/lusionltd/",
+      "https://medium.com/lusion-ltd/",
+      "https://linkedin.com/company/lusionltd"
+    ],
+    "media": [],
+    "animations": [],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5795,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-00.jpg"
+}

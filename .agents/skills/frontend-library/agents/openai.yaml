@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Library"
+  short_description: "Find design references and inspect captured motion"
+  default_prompt: "Use $frontend-library to find references and implement a page from the captured layout and motion evidence."

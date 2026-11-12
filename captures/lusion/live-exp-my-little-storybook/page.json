@@ -1,0 +1,1651 @@
+{
+  "version": 1,
+  "captureAlgorithm": 2,
+  "id": "live-exp-my-little-storybook",
+  "name": "Exp My Little Storybook \u2014 live experience",
+  "url": "https://exp-my-little-storybook.lusion.co/",
+  "source": "https://labs.lusion.co/exp/covid-spike",
+  "kind": "interactive-experience",
+  "capturedAt": "2026-11-12T08:18:36.248Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 1,
+    "mobile": false
+  },
+  "robots": {
+    "url": "https://exp-my-little-storybook.lusion.co/robots.txt",
+    "checkedAt": "2026-11-12T08:18:36.248Z",
+    "rules": [],
+    "status": 200,
+    "htmlFallback": true
+  },
+  "rights": "Reference screenshots and recordings of Lusion work; original rights retained. No reusable asset licence granted.",
+  "status": "needs-review",
+  "limitations": [
+    "A recorded browser traversal, not an offline copy of the site.",
+    "Shader source, models, textures and original media are inventoried by URL only.",
+    "Audio is muted. Scroll checkpoints do not enumerate every possible interaction.",
+    "A canvas does not by itself prove Three.js or any particular rendering technique.",
+    "Fixed-canvas scene sequence: wheel input was sampled, but complete scene coverage cannot be measured from document geometry.",
+    "An ENTER onboarding state was visible, followed by a blank final frame; the entered experience remains unverified."
+  ],
+  "checkpoints": [
+    {
+      "file": "checkpoint-00.jpg",
+      "frame": 0,
+      "elapsedMs": 0,
+      "requestedProgress": 0,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader",
+          "preloader-sprite",
+          "preloader-bar",
+          "intro",
+          "story"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "frame": 5,
+      "elapsedMs": 1007,
+      "requestedProgress": 0.22,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader",
+          "preloader-sprite",
+          "preloader-bar",
+          "intro",
+          "story"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "frame": 9,
+      "elapsedMs": 1995,
+      "requestedProgress": 0.39,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "preloader",
+          "preloader-sprite",
+          "preloader-bar",
+          "intro",
+          "story"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "frame": 14,
+      "elapsedMs": 3197,
+      "requestedProgress": 0.61,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "intro",
+          "story"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "frame": 18,
+      "elapsedMs": 4194,
+      "requestedProgress": 0.78,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "intro",
+          "story"
+        ]
+      }
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "frame": 23,
+      "elapsedMs": 5397,
+      "requestedProgress": 1,
+      "state": {
+        "url": "https://exp-my-little-storybook.lusion.co/",
+        "scrollY": 0,
+        "contentTop": 0,
+        "pageTransform": "none",
+        "visibleIds": [
+          "app",
+          "intro",
+          "story"
+        ]
+      }
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/",
+      "status": 200,
+      "mimeType": "text/html",
+      "type": "Document"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/bgm.mp3",
+      "status": 206,
+      "mimeType": "audio/mpeg",
+      "type": "Media"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/bush0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/bush1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/flip0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/flip1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/flip2.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/forest.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/frog.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/hover0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/hover1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/river.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_0_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_0_b.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_1_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_1_b.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_1_c.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_2_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_2_b.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_3_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_4_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_4_b.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_4_c.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/scene_5_a.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/splash0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/splash1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/spring.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/tap0.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/tap1.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/audios/wolf.mp3",
+      "status": 200,
+      "mimeType": "audio/mpeg",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/css/index.css",
+      "status": 200,
+      "mimeType": "text/css",
+      "type": "Stylesheet"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/fonts/gurajada-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/fonts/halant-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/fonts/roboto-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/fonts/rochester-regular-webfont.woff2",
+      "status": 200,
+      "mimeType": "font/woff2",
+      "type": "Font"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/bird.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/dialog_bg.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/dialog_heads.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/favicon/android-chrome-192x192.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/favicon/favicon.ico",
+      "status": 200,
+      "mimeType": "image/vnd.microsoft.icon",
+      "type": "Other"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/favicon/site.webmanifest",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "Manifest"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/particles/snow1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/particles/snow2.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/particles/snow3.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/particles/snow4.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant1.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant2.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant3.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant4.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant5.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/intro/plants/plant6.svg",
+      "status": 200,
+      "mimeType": "image/svg+xml",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/loader.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/images/sound.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/js/index.js",
+      "status": 200,
+      "mimeType": "application/javascript",
+      "type": "Script"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/baby_bird.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/baby_jump.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/baby_no_leg.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/baby_top_rock.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/baby_walk.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/characters/bird.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/fish_spline.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/fish.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/float_plants.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/flower_placement.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/grass_placement.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/grass.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/hero_grass.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/leaf_0.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/leaf_1.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/leaf_2.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/leaf_3.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/leaf_splines.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/rocks.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/splashes.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/terrain.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/models/water_plants.buf",
+      "status": 200,
+      "mimeType": "application/octet-stream",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/afraid.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/afraid.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/baby_bird.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/bee.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/bee.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/bird.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/bush.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/bush.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/dragonfly.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/dragonfly.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/fly.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/fly.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/frog.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/frog.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/rabbit.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/rabbit.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/tail.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/tail.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/talk.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/talk.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/wolf.json",
+      "status": 200,
+      "mimeType": "application/json",
+      "type": "XHR"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/characters/wolf.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/dust-texture.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/fish.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/flowers.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/grass.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/mask.webp",
+      "status": 200,
+      "mimeType": "image/webp",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/noise.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/rocks_ao.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/rocks_ground_01.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/rocks.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/sky.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/terrain_ao.jpg",
+      "status": 200,
+      "mimeType": "image/jpeg",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/terrain_info_1.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/terrain_info_2.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    },
+    {
+      "url": "https://exp-my-little-storybook.lusion.co/assets/textures/voronoi.png",
+      "status": 200,
+      "mimeType": "image/png",
+      "type": "Image"
+    }
+  ],
+  "files": [
+    {
+      "file": "checkpoint-00.jpg",
+      "bytes": 20325,
+      "sha256": "62eea598bfbbb1c451f0068c57080c1cb8886666dc36de0d1f6f82d5e2f5411b"
+    },
+    {
+      "file": "checkpoint-01.jpg",
+      "bytes": 20942,
+      "sha256": "19ba1af395965cf835798a16887ab1f8398fb32b3603cb02b5024e30ce042757"
+    },
+    {
+      "file": "checkpoint-02.jpg",
+      "bytes": 21028,
+      "sha256": "6810cffbb3d2d34e4fcf76a48b10500652f5bdc1634673247e0759829288e202"
+    },
+    {
+      "file": "checkpoint-03.jpg",
+      "bytes": 20837,
+      "sha256": "dceda687ccb85c7169584e9a3359e87eb001676d59cf2423e01bdbcbf139e672"
+    },
+    {
+      "file": "checkpoint-04.jpg",
+      "bytes": 20975,
+      "sha256": "0b271360e51b06d366fffb453d01dcea44312a76eba9fccc5858d9596ebd9450"
+    },
+    {
+      "file": "checkpoint-05.jpg",
+      "bytes": 20920,
+      "sha256": "dce64eb0754a3ff1fa6d54f594d233afc364e68aeef3b0c1405f7f5d7b61537e"
+    },
+    {
+      "file": "traversal.mp4",
+      "bytes": 16817,
+      "sha256": "8ad63923b7f746e6d889f45537933a9a0cfac5b791103f725a7dabaa80c2ea75"
+    }
+  ],
+  "initial": {
+    "url": "https://exp-my-little-storybook.lusion.co/",
+    "title": "My Little Storybook",
+    "documentHeight": 900,
+    "contentHeight": 908,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Gurajada, cursive",
+      "fontSize": "16.5272px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(238, 238, 238)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "preloader",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "intro",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "story",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ending",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "about-exit",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "about-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "about-plants",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 15,
+          "y": 135,
+          "width": 1410,
+          "height": 37
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "19px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 15,
+          "y": 172,
+          "width": 1410,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "19px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "17px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\"",
+          "fontSize": "15px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(151, 151, 151)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\"",
+          "fontSize": "15px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(151, 151, 151)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.youtube.com/watch?v=0g5bROk9Hvc",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://www.linkedin.com/in/ffimorgan/",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://exp-my-little-storybook.lusion.co/assets/images/bird.png",
+        "poster": "",
+        "width": 60,
+        "height": 60
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 1000,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "scroll": {
+    "mode": "scene-sequence",
+    "requestedTravel": 0,
+    "actualTravel": null,
+    "coverage": null
+  },
+  "final": {
+    "url": "https://exp-my-little-storybook.lusion.co/",
+    "title": "My Little Storybook",
+    "documentHeight": 900,
+    "contentHeight": 937,
+    "contentTop": 0,
+    "scrollY": 0,
+    "ready": "is-desktop is-ready",
+    "bodyStyle": {
+      "fontFamily": "Gurajada, cursive",
+      "fontSize": "16.5272px",
+      "lineHeight": "normal",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(238, 238, 238)",
+      "transform": "none",
+      "position": "fixed"
+    },
+    "pageTransform": "none",
+    "sections": [
+      {
+        "id": "app",
+        "tag": "CANVAS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "fixed"
+        }
+      },
+      {
+        "id": "intro",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "story",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "ending",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "about-exit",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      },
+      {
+        "id": "about-container",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "id": "about-plants",
+        "tag": "DIV",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "Gurajada, cursive",
+          "fontSize": "16.5272px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "absolute"
+        }
+      }
+    ],
+    "typography": [
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 27,
+        "rect": {
+          "x": 15,
+          "y": 135,
+          "width": 1410,
+          "height": 37
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "19px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 18,
+        "rect": {
+          "x": 15,
+          "y": 172,
+          "width": 1410,
+          "height": 35
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 8,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "19px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H1",
+        "id": "",
+        "characters": 23,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "17px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H2",
+        "id": "",
+        "characters": 16,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "halantregular, cursive",
+          "fontSize": "14px",
+          "lineHeight": "normal",
+          "fontWeight": "200",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 9,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\"",
+          "fontSize": "15px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(151, 151, 151)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      },
+      {
+        "tag": "H3",
+        "id": "",
+        "characters": 24,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "style": {
+          "fontFamily": "\"Gilda Display\"",
+          "fontSize": "15px",
+          "lineHeight": "normal",
+          "fontWeight": "400",
+          "color": "rgb(151, 151, 151)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "transform": "none",
+          "position": "static"
+        }
+      }
+    ],
+    "canvases": [
+      {
+        "id": "app",
+        "width": 1440,
+        "height": 900,
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 900
+        }
+      }
+    ],
+    "links": [
+      "https://labs.lusion.co/",
+      "https://www.youtube.com/watch?v=0g5bROk9Hvc",
+      "https://lusion.co/",
+      "https://twitter.com/edankwan",
+      "https://www.linkedin.com/in/ffimorgan/",
+      "https://twitter.com/PaulineStich"
+    ],
+    "media": [
+      {
+        "tag": "IMG",
+        "url": "https://exp-my-little-storybook.lusion.co/assets/images/bird.png",
+        "poster": "",
+        "width": 60,
+        "height": 60
+      }
+    ],
+    "animations": [
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      },
+      {
+        "type": "CSSTransition",
+        "playState": "running",
+        "duration": 300,
+        "iterations": "1"
+      }
+    ],
+    "reducedMotion": false
+  },
+  "runtimeErrors": [],
+  "video": {
+    "file": "traversal.mp4",
+    "durationMs": 5397,
+    "frames": 24,
+    "timing": "Variable frame durations from wall-clock capture timestamps; no audio."
+  },
+  "preview": "checkpoint-02.jpg"
+}

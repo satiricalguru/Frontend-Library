@@ -56,6 +56,13 @@ counts = {
     "UI transitions": (load("transitions.json")["count"], "transitions.dev", "#34d399"),
     "3D projects & labs": (load("lusion.json")["count"], "lusion.co", "#fb923c"),
 }
+for filename, label, source, color in [
+    ("design-md.json", "Design analyses", "VoltAgent", "#22d3ee"),
+    ("codrops-webgl.json", "WebGL references", "Codrops", "#c084fc"),
+    ("video-resources.json", "Landing media & tools", "Brad Traversy", "#bef264"),
+]:
+    if (ROOT / "data" / filename).exists():
+        counts[label] = (load(filename)["count"], source, color)
 TOTAL = sum(v[0] for v in counts.values())
 
 
@@ -71,9 +78,11 @@ def hero():
     body = f'<g transform="translate(0,{h - 8})">{stripes}</g>'
     body += f'<text x="64" y="120" fill="{MUTED}" font-family="{MONO}" font-size="16" letter-spacing="3">OPEN-SOURCE · CURATED · SOURCE-TRACKED</text>'
     body += f'<text x="62" y="196" fill="{TEXT}" font-family="{FONT}" font-size="74" font-weight="800" letter-spacing="-2">Frontend Library</text>'
-    body += f'<text x="64" y="246" fill="{MUTED}" font-family="{FONT}" font-size="24">Design systems, motion, fonts &amp; inspiration — <tspan fill="url(#g)" font-weight="700">{TOTAL:,} entries</tspan>, every one linked to its source.</text>'
+    body += f'<text x="64" y="246" fill="{MUTED}" font-family="{FONT}" font-size="23">Landing-page references, design data &amp; motion — <tspan fill="url(#g)" font-weight="700">{TOTAL:,} indexed entries</tspan>, all source-linked.</text>'
     x = 64
-    for label, (n, src, col) in counts.items():
+    featured = ["Design systems", "Design analyses", "WebGL references", "Motion examples", "Landing media & tools", "3D projects & labs"]
+    for label in [name for name in featured if name in counts]:
+        n, src, col = counts[label]
         body += f'<g transform="translate({x},292)"><rect width="182" height="86" rx="14" fill="{PANEL}" stroke="{LINE}"/>'
         body += f'<circle cx="20" cy="24" r="5" fill="{col}"/><text x="32" y="29" fill="{MUTED}" font-family="{FONT}" font-size="13">{escape(src)}</text>'
         body += f'<text x="16" y="62" fill="{TEXT}" font-family="{FONT}" font-size="28" font-weight="800">{n:,}</text>'

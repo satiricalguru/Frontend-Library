@@ -9,6 +9,8 @@ node_modules/
 .cache/
 .npm/
 .pnpm-store/
+__pycache__/
+*.py[cod]
 
 # Build outputs
 dist/
