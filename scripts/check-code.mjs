@@ -72,6 +72,54 @@ function checkSnippetDirs(baseRel) {
   }
 }
 
+function scanHtmlSections(html) {
+  const lower = html.toLowerCase();
+  const markupParts = [];
+  const styles = [];
+  const scripts = [];
+  let cursor = 0;
+
+  while (cursor < html.length) {
+    const nextScript = lower.indexOf("<script", cursor);
+    const nextStyle = lower.indexOf("<style", cursor);
+    let next = -1;
+    let tag = "";
+    if (nextScript !== -1 && (nextStyle === -1 || nextScript < nextStyle)) {
+      next = nextScript;
+      tag = "script";
+    } else if (nextStyle !== -1) {
+      next = nextStyle;
+      tag = "style";
+    }
+    if (next === -1) {
+      markupParts.push(html.slice(cursor));
+      break;
+    }
+    const afterTag = lower[next + 1 + tag.length];
+    if (afterTag && !/[\s>/]/.test(afterTag)) {
+      markupParts.push(html.slice(cursor, next + 1 + tag.length));
+      cursor = next + 1 + tag.length;
+      continue;
+    }
+    markupParts.push(html.slice(cursor, next));
+    const openEnd = html.indexOf(">", next);
+    if (openEnd === -1) break;
+    const attrs = html.slice(next + 1 + tag.length, openEnd);
+    const closeStart = lower.indexOf(`</${tag}`, openEnd + 1);
+    if (closeStart === -1) {
+      cursor = openEnd + 1;
+      break;
+    }
+    const closeEnd = html.indexOf(">", closeStart);
+    const content = html.slice(openEnd + 1, closeStart);
+    if (tag === "script") scripts.push({ attrs, content });
+    else styles.push(content);
+    cursor = closeEnd === -1 ? closeStart + tag.length + 3 : closeEnd + 1;
+  }
+
+  return { markupOnly: markupParts.join(""), styles, scripts };
+}
+
 function checkHtml(full, rel, text) {
   const lower = text.toLowerCase();
   if (!lower.includes("<!doctype html>")) fail(`${rel}: missing <!doctype html>`);
@@ -80,9 +128,7 @@ function checkHtml(full, rel, text) {
   if (!/<meta\b[^>]*\bname\s*=\s*["']viewport["']/i.test(text)) fail(`${rel}: missing viewport meta tag`);
   if (!/<title>[^<]+<\/title>/i.test(text)) fail(`${rel}: missing non-empty <title>`);
 
-  const markupOnly = text
-    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "")
-    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "");
+  const { markupOnly, styles, scripts } = scanHtmlSections(text);
 
   const imgTags = markupOnly.match(/<img\b[^>]*>/gi) || [];
   for (const img of imgTags) {
@@ -106,24 +152,21 @@ function checkHtml(full, rel, text) {
   }
 
   // Enforce reduced-motion media query when styles animate or transition elements.
-  const styleBlocks = [...text.matchAll(/<style\b[^>]*>([\s\S]*?)<\/style>/gi)].map((m) => m[1]).join("\n");
+  const styleBlocks = styles.join("\n");
   if (/(?:@keyframes|animation\s*:|transition\s*:)/i.test(styleBlocks) && !/prefers-reduced-motion/i.test(text)) {
     fail(`${rel}: uses CSS animation/transition without @media (prefers-reduced-motion: reduce)`);
   }
 
   // Validate syntax & safety of inline scripts.
-  const scriptRe = /<script\b([^>]*)>([\s\S]*?)<\/script>/gi;
-  let scriptMatch;
   let idx = 0;
-  while ((scriptMatch = scriptRe.exec(text)) !== null) {
+  for (const { attrs, content } of scripts) {
     idx += 1;
-    const attrs = scriptMatch[1];
     if (/\bsrc\s*=/i.test(attrs)) continue;
     const typeMatch = attrs.match(/\btype\s*=\s*["']([^"']+)["']/i);
     if (typeMatch && !/^(?:text\/javascript|application\/javascript|module)$/i.test(typeMatch[1].trim())) {
       continue;
     }
-    const code = scriptMatch[2].trim();
+    const code = content.trim();
     if (!code) continue;
     if (!typeMatch || typeMatch[1].trim().toLowerCase() !== "module") {
       try {
