@@ -18,6 +18,7 @@ const COLLECTIONS = {
   'google-fonts':    { file: 'google-fonts.json',        label: 'Google Fonts',     short: 'Google Font', dot: '#60a5fa' },
   threejs:           { file: 'threejs-examples.json',    label: 'Three.js',         short: 'Three.js',   dot: '#22d3ee' },
   icons:             { file: 'open-icons.json',          label: 'Icons',            short: 'Icon',       dot: '#c084fc' },
+  showcases:         { file: 'showcases.json',           label: 'Showcases',        short: 'Showcase',   dot: '#f43f5e' },
 };
 const loadedFonts = new Set();
 function loadGoogleFont(family) {
@@ -112,6 +113,13 @@ function visual(item, { large = false } = {}) {
     v.classList.add('v-brand'); v.style.background = bg; v.style.color = fg; v.style.borderColor = 'transparent';
     const bar = node('div', 'bar'); cs.slice(0, 6).forEach((h) => { const i = node('i'); i.style.background = h; bar.append(i); });
     v.append(node('small', '', [item.theme, item.category].filter(Boolean).join(' · ')), node('b', '', item.name), bar);
+    return v;
+  }
+  if (c === 'showcases' && safeUrl(item.preview)) {
+    const img = node('img'); img.src = safeUrl(item.preview); img.alt = `Still from ${item.name}`;
+    img.loading = 'lazy'; img.decoding = 'async'; img.referrerPolicy = 'no-referrer';
+    img.addEventListener('error', () => imageFailed(img, v, item), { once: true });
+    v.append(img, node('span', 'badge live', item.category || 'showcase'));
     return v;
   }
   if (c === 'transitions' && safeUrl(item.preview)) {
@@ -254,6 +262,19 @@ function openDrawer(item) {
     });
     row(dl, 'Colors', wrap);
   }
+  if (Array.isArray(item.gallery) && item.gallery.length) {
+    const strip = node('div', 'gallery');
+    item.gallery.forEach((g) => {
+      const u = safeUrl(g.file); if (!u) return;
+      const a = link('', u, 'gallery-item');
+      const im = node('img'); im.src = u; im.alt = g.label || item.name; im.loading = 'lazy'; im.referrerPolicy = 'no-referrer';
+      a.append(im); a.title = g.label || '';
+      strip.append(a);
+    });
+    row(dl, 'Stills', strip);
+  }
+  row(dl, 'Author', item.author);
+  row(dl, 'Stack', item.stack);
   row(dl, 'Typefaces', item.fonts);
   row(dl, 'Designers', item.designers);
   row(dl, 'Styles', item.styles);
@@ -274,11 +295,13 @@ function openDrawer(item) {
   const links = $('#drawer-links'); links.replaceChildren();
   const open = link('Open original ↗', item.url, 'pill pill--solid'); links.append(open);
   if (item.remix) links.append(link('Remix ↗', item.remix));
-  if (item.demo) links.append(link('Live demo ↗', item.demo));
+  if (item.demo && item.demo !== item.url) links.append(link('Live demo ↗', item.demo));
   if (item.code) links.append(link('Source code ↗', item.code));
+  if (item.buildPrompt) links.append(link('Build prompt for agents', item.buildPrompt, 'pill pill--accent'));
+  if (item.guide && item.collection === 'showcases') links.append(link('Breakdown', item.guide));
   if (item.svg) links.append(link('SVG ↗', item.svg));
   if (item.cssUrl) { const b = node('button', 'pill', 'Copy CSS link'); b.type = 'button'; b.addEventListener('click', () => copy(item.cssUrl)); links.append(b); }
-  if (item.guide || item.captureGuide) links.append(link('Capture notes', item.guide || item.captureGuide));
+  if ((item.guide && item.collection !== 'showcases') || item.captureGuide) links.append(link('Capture notes', item.captureGuide || item.guide));
   if (item.record) links.append(link('Evidence JSON', item.record));
   if (item.localDesignPath) links.append(link('Read DESIGN.md', item.localDesignPath));
   const share = node('button', 'pill', 'Copy link'); share.type = 'button';
@@ -363,7 +386,7 @@ function buildChips() {
     b.addEventListener('click', () => { state.type = key; if (key !== 'styles' && key !== 'all') state.theme = ''; sync(); ensure(key); });
     return b;
   };
-  const order = Object.keys(COLLECTIONS).sort((a, b) => (counts[b] || 0) - (counts[a] || 0));
+  const order = Object.keys(COLLECTIONS).sort((a, b) => (a === 'showcases' ? -1 : b === 'showcases' ? 1 : (counts[b] || 0) - (counts[a] || 0)));
   chipsEl.replaceChildren(mk('all', 'Everything', total || null), ...order.map((k) => mk(k, COLLECTIONS[k].label, counts[k], COLLECTIONS[k].dot)));
   $('#total-count').textContent = total.toLocaleString();
 }

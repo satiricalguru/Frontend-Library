@@ -21,6 +21,7 @@ COLLECTIONS = {
     "google-fonts": "google-fonts.json",
     "threejs": "threejs-examples.json",
     "icons": "open-icons.json",
+    "showcases": "showcases.json",
 }
 
 

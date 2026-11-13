@@ -32,6 +32,7 @@ FILES = [
     "google-fonts.json",
     "threejs-examples.json",
     "open-icons.json",
+    "showcases.json",
 ]
 
 REQUIRED_FIELDS = ("name", "url", "source")

@@ -17,6 +17,7 @@
 <p>
   <a href="#-the-website">Website</a> ·
   <a href="#-whats-inside">What's inside</a> ·
+  <a href="#-showcases">Showcases</a> ·
   <a href="#landing-page-references-for-people-and-ai-agents">Captures &amp; agents</a> ·
   <a href="#-animation-snippets">Snippets</a> ·
   <a href="#-design-systems">Design systems</a> ·
@@ -42,6 +43,16 @@
     <td width="50%"><a href="https://frontendlibrary.vercel.app/library/?type=threejs"><img src=".github/assets/readme/library-threejs.jpg" width="100%" alt="Library viewer showing official three.js example screenshots"></a><br><sub><b>Three.js examples</b> · live demo and pinned source for each one</sub></td>
   </tr>
 </table>
+
+## ✦ Showcases
+
+Complete WebGL pieces studied in depth, each with a breakdown and a **full build prompt for AI agents**.
+
+<a href="inspiration/showcases/crimson-loong/"><img src="https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-sheet.jpg" width="100%" alt="Eight stills from Crimson Loong: a red and a white Chinese dragon fighting over a valley of red maples, temple halls, a lake and storm clouds"></a>
+
+**[赤龍 · Crimson Loong](https://chetaslua.github.io/crimson-loong/)** by [ChetasLua](https://github.com/ChetasLua/crimson-loong): a 90-second dragon film rendered live from one HTML file. Pure three.js, and every mesh, texture, shader and note is generated in code, with zero assets. [Breakdown](inspiration/showcases/crimson-loong/README.md) · [Build prompt](inspiration/showcases/crimson-loong/BUILD-PROMPT.md) · [Watch live](https://chetaslua.github.io/crimson-loong/)
+
+<sub>Stills © ChetasLua, linked from the author's repository at commit <code>264b9d1</code>, not copied. The repository declares no licence; the build prompt is for an original reimplementation.</sub>
 
 ## Landing-page references for people and AI agents
 
@@ -127,6 +138,7 @@ The [viewer](library/LICENSE) and [agent skill](.agents/skills/frontend-library/
 
 | Collection | Entries | Folder | Collected from |
 |:--|--:|:--|:--|
+| ✦ Showcases with build prompts | 1 | [inspiration/showcases](inspiration/showcases/) | [ChetasLua/crimson-loong](https://github.com/ChetasLua/crimson-loong) |
 | 🔤 Open-source font families | 1,961 | [fonts/google-fonts](fonts/google-fonts/) | [fonts.google.com](https://fonts.google.com/) |
 | ✳️ Open icons (Lucide + Tabler) | 7,285 | [icons/open-icons](icons/open-icons/) | [lucide.dev](https://lucide.dev/) · [tabler.io/icons](https://tabler.io/icons) |
 | 🧊 Three.js examples | 623 | [animations/threejs-examples](animations/threejs-examples/) | [threejs.org/examples](https://threejs.org/examples/) |
