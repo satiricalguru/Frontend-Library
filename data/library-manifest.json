@@ -78,6 +78,12 @@
       "path": "data/open-icons.json",
       "count": 7285,
       "evidence": "linked-metadata"
+    },
+    {
+      "name": "showcases",
+      "path": "data/showcases.json",
+      "count": 1,
+      "evidence": "linked-metadata"
     }
   ],
   "skill": ".agents/skills/frontend-library/SKILL.md",

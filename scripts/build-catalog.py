@@ -275,7 +275,8 @@ if __name__ == "__main__":
                             ("video-resources.json", "images/video-resources/README.md"),
                             ("google-fonts.json", "fonts/google-fonts/README.md"),
                             ("threejs-examples.json", "animations/threejs-examples/README.md"),
-                            ("open-icons.json", "icons/open-icons/README.md")]:
+                            ("open-icons.json", "icons/open-icons/README.md"),
+                            ("showcases.json", "inspiration/showcases/README.md")]:
         path = DATA / filename
         if path.exists():
             dataset = json.loads(path.read_text())

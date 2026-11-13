@@ -1,0 +1,42 @@
+{
+  "source": "Hand-picked standout WebGL / creative-coding pieces, each linked to its own repository and live page",
+  "collected": "2026-11-13",
+  "count": 1,
+  "items": [
+    {
+      "id": "crimson-loong",
+      "name": "Crimson Loong (赤龍)",
+      "url": "https://chetaslua.github.io/crimson-loong/",
+      "source": "https://github.com/ChetasLua/crimson-loong",
+      "collected": "2026-11-13",
+      "kind": "realtime-webgl-film",
+      "author": "ChetasLua",
+      "attribution": "Crimson Loong by ChetasLua (github.com/ChetasLua/crimson-loong)",
+      "description": "A 90-second dragon film that plays live in the browser from one HTML file: a red loong on a karst spire, a white loong from a storm cloud, a sky duel, a lake plunge and a pearl chase. Pure three.js r180, every mesh, texture, shader and note generated in code, zero assets, zero network.",
+      "tags": ["three.js", "webgl2", "procedural", "zero-assets", "single-file", "film", "shaders", "sdf", "ray-marched-clouds", "planar-reflection", "web-audio", "procedural-audio", "dragon"],
+      "category": "Real-time film",
+      "theme": "dark",
+      "stack": ["three.js r180 (inlined, no add-ons)", "WebGL 2", "GLSL", "Web Audio API + Web Worker synthesis", "Python build script"],
+      "repository": "https://github.com/ChetasLua/crimson-loong",
+      "commit": "264b9d1c63f298a206f53d18ddc1e49d0b10c334",
+      "license": "No licence declared in the repository (all rights reserved by default). three.js is MIT (vendor/LICENSE). Study and link only; do not copy its source.",
+      "demo": "https://chetaslua.github.io/crimson-loong/",
+      "code": "https://github.com/ChetasLua/crimson-loong/tree/264b9d1c63f298a206f53d18ddc1e49d0b10c334/src",
+      "preview": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-01-valley.jpg",
+      "previewSource": "repository-file",
+      "gallery": [
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-01-valley.jpg", "label": "Valley — red loong coiled on the spire" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-02-lake-dive.jpg", "label": "Lake dive" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-03-face.jpg", "label": "Face" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-04-fire.jpg", "label": "Fire roar" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-05-storm-duel.jpg", "label": "Storm duel" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-06-splash.jpg", "label": "Splash" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-07-beam.jpg", "label": "Beam clash" },
+        { "file": "https://raw.githubusercontent.com/ChetasLua/crimson-loong/264b9d1c63f298a206f53d18ddc1e49d0b10c334/stills/v2-08-dusk.jpg", "label": "Dusk" }
+      ],
+      "guide": "inspiration/showcases/crimson-loong/README.md",
+      "buildPrompt": "inspiration/showcases/crimson-loong/BUILD-PROMPT.md",
+      "notes": "Stills are linked from the author's repository at the pinned commit, not copied. The live page was not captured or recorded."
+    }
+  ]
+}
