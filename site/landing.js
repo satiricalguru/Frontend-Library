@@ -29,6 +29,7 @@ const META = {
   'google-fonts': ['Open-source font families', 'Google Fonts', 'type'],
   threejs: ['Three.js examples', 'threejs.org', 'text'],
   icons: ['Open icon sets', 'Lucide · Tabler', 'text'],
+  showcases: ['Showcases & build prompts', 'Crimson Loong', 'text'],
 };
 
 /* ── 0. nav backdrop once the page scrolls ──────────────────── */

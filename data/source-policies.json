@@ -115,6 +115,12 @@
       "result": "ai-crawlers-disallowed (ClaudeBot, anthropic-ai, GPTBot)",
       "checkedOn": "2026-11-12",
       "capture": "Site not crawled or captured. Previews are the author's own thumbnails (assets/community/thumbs/<slug>.jpg and -dark.jpg) from github.com/Jakubantalik/transitions.dev, linked at a pinned commit, not copied: the repository licence forbids redistributing the library. 39 of 44 transitions have a thumbnail."
+    },
+    {
+      "url": "https://github.com/ChetasLua/crimson-loong",
+      "result": "public-git-repository (no licence declared: all rights reserved)",
+      "checkedOn": "2026-11-13",
+      "capture": "Facts from the README and source-file comments at commit 264b9d1c63f298a206f53d18ddc1e49d0b10c334 (read through the GitHub API, nothing executed). Stills linked from the repository, not copied. The live page (chetaslua.github.io, no robots.txt) was not captured. The build prompt is an original specification for a reimplementation, not a copy of the code."
     }
   ]
 }

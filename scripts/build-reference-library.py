@@ -129,7 +129,7 @@ def build():
                            ("transitions", "transitions.json"), ("godly", "godly.json"), ("fonts", "envato-award-fonts.json"),
                            ("captures", "landing-pages.json"), ("codrops", "codrops-webgl.json"),
                            ("design-md", "design-md.json"), ("media-resources", "video-resources.json"),
-                           ("google-fonts", "google-fonts.json"), ("threejs", "threejs-examples.json"), ("icons", "open-icons.json")]:
+                           ("google-fonts", "google-fonts.json"), ("threejs", "threejs-examples.json"), ("icons", "open-icons.json"), ("showcases", "showcases.json")]:
         if not (ROOT / "data" / filename).exists():
             continue
         data = json.loads((ROOT / "data" / filename).read_text())
